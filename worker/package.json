@@ -1,0 +1,14 @@
+{
+  "name": "anidb-worker",
+  "version": "1.0.0",
+  "description": "Cloudflare worker for ANIDUMP API",
+  "main": "src/index.js",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}

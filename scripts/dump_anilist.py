@@ -244,6 +244,18 @@ def generate_indexes(base_dir):
     season_anime = [a for a in anime_list if a.get('season') == season and a.get('seasonYear') == year]
     with open(lists_dir / 'season_now.json', 'w', encoding='utf-8') as f:
         json.dump(season_anime, f, ensure_ascii=False, indent=2)
+        
+    # 6. Upcoming Anime
+    logging.info("Generating upcoming_anime.json...")
+    upcoming = [a for a in anime_list if a.get('status') == 'NOT_YET_RELEASED']
+    with open(lists_dir / 'upcoming_anime.json', 'w', encoding='utf-8') as f:
+        json.dump(upcoming, f, ensure_ascii=False, indent=2)
+        
+    # 7. Top Movies
+    logging.info("Generating top_movies.json...")
+    movies = sorted([a for a in anime_list if a.get('format') == 'MOVIE' and a.get('averageScore')], key=lambda x: x['averageScore'], reverse=True)[:500]
+    with open(lists_dir / 'top_movies.json', 'w', encoding='utf-8') as f:
+        json.dump(movies, f, ensure_ascii=False, indent=2)
 
     logging.info("Indexes successfully generated!")
 
