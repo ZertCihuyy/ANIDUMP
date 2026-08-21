@@ -404,7 +404,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787392800,
-      "timeUntilAiring": 41048,
+      "timeUntilAiring": 39331,
       "episode": 10
     },
     "relations": {
@@ -1472,7 +1472,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787662500,
-      "timeUntilAiring": 310726,
+      "timeUntilAiring": 309257,
       "episode": 8
     },
     "relations": {
@@ -1755,7 +1755,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787749200,
-      "timeUntilAiring": 397420,
+      "timeUntilAiring": 395970,
       "episode": 8
     },
     "relations": {
@@ -4288,7 +4288,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787935320,
-      "timeUntilAiring": 583468,
+      "timeUntilAiring": 581785,
       "episode": 9
     },
     "relations": {
@@ -6140,5 +6140,430 @@
       ]
     },
     "updatedAt": 1787345738
+  },
+  "213628": {
+    "id": 213628,
+    "idMal": 64495,
+    "title": {
+      "romaji": "Kill Ao 2nd Season",
+      "english": null,
+      "native": "キルアオ 第2期"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "The second season of <i>Kill Ao</i>.",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213628-YNzTvF1yEvoi.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213628-YNzTvF1yEvoi.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213628-YNzTvF1yEvoi.jpg",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "synonyms": [
+      "KILL BLUE Season 2"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 5117,
+    "trending": 0,
+    "favourites": 52,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://kill-blue.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://x.com/KILLBLUE_PR",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.tiktok.com/@killblue_official",
+        "site": "TikTok",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 198113,
+            "title": {
+              "romaji": "Kill Ao",
+              "english": "KILL BLUE"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 163495,
+            "title": {
+              "romaji": "Kill Ao",
+              "english": "Kill Blue"
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 322,
+        "name": "Assassins",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 488,
+        "name": "Age Regression",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 311,
+        "name": "Rehabilitation",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 138,
+        "name": "Age Gap",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 308634,
+            "name": {
+              "full": "Juuzou Ougami",
+              "native": "大狼十三"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "213796": {
+    "id": 213796,
+    "idMal": 64528,
+    "title": {
+      "romaji": "Majo to Ryouken",
+      "english": null,
+      "native": "魔女と猟犬"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "Amelia, the kingdom of dragons with a monopoly on magical power, is once again invading other lands with the ferocious Queen Amelia at its head. Her eyes are set on Campusfellow, the small land of fire and iron, which at this rate will inevitably fall… For the sake of the country’s survival, Lord Bud Grace comes up with a last-resort plan—ally with the one known only as the Witch, the subject of countless terrifying tales. With the assassin Rollo, known as “Black Dog” and versed in every method of killing, at their disposal, they set out to enter an alliance with the first witch, also known as the Mirror Witch…\n<br><br>\n(Source: Yen Press)",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213796-gNn3J5akXWwx.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213796-gNn3J5akXWwx.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213796-gNn3J5akXWwx.jpg",
+      "color": "#e44350"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Witch and Hound"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 5040,
+    "trending": 0,
+    "favourites": 53,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "LIGHT_NOVEL",
+    "trailer": {
+      "id": "Lzi5zhjLIlU",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/Lzi5zhjLIlU/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://x.com/wah_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://witch-and-hound-anime.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 126502,
+            "title": {
+              "romaji": "Majo to Ryouken",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 161638,
+            "title": {
+              "romaji": "Majo to Ryouken",
+              "english": "Witch and Hound"
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 179,
+        "name": "Witch",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6225,
+            "name": "TriF studio"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 144,
+            "name": "Pony Canyon"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 253283,
+            "name": {
+              "full": "Rollo Duvel",
+              "native": "ロロ・デュベル"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 253284,
+            "name": {
+              "full": "Tresalisa Maiden",
+              "native": "テレサリサ・メイデン"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "213703": {
+    "id": 213703,
+    "idMal": 62948,
+    "title": {
+      "romaji": "Jiaonang Jihua: Qiji",
+      "english": null,
+      "native": "胶囊计划 奇迹"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "RELEASING",
+    "description": "\"Capsules Project\" is a collection of domestically produced animated short films created by a professional team with mature animation production experience. With the creative theme of \"extreme emotion + independent theme,\" it does not restrict the creative form, exploring the possibilities of animation together with the team. The aim is to collaboratively create original short films with diverse styles and characteristics, and to help Chinese animators reach the world stage. \"Miracle\" represents transcending conventions and breaking through limitations to achieve extraordinary success, often accompanied by a sense of mystery that inspires awe and curiosity. What miracles will occur in these 10 stories?\n<br><br>\n(Source: Bilibili, translated)",
+    "episodes": 8,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 8
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213703-ghO1AqW0bdaN.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213703-ghO1AqW0bdaN.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213703-ghO1AqW0bdaN.jpg",
+      "color": "#f1bb0d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "CAPSULES: Miracle"
+    ],
+    "averageScore": null,
+    "meanScore": 44,
+    "popularity": 70,
+    "trending": 0,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "XvuUOmNUtxc",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/XvuUOmNUtxc/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.bilibili.com/bangumi/media/md281753563",
+        "site": "Bilibili",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": {
+      "airingAt": 1787713200,
+      "timeUntilAiring": 359722,
+      "episode": 8
+    },
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 187833,
+            "title": {
+              "romaji": "Jiaonang Jihua Yingxiong",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787349759
   }
 }

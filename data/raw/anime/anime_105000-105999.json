@@ -50,7 +50,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 102493,
-    "trending": 0,
+    "trending": 3,
     "favourites": 2466,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -359,7 +359,7 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787353213
   },
   "105081": {
     "id": 105081,
@@ -8564,5 +8564,1260 @@
       ]
     },
     "updatedAt": 1787345786
+  },
+  "105807": {
+    "id": 105807,
+    "idMal": 38735,
+    "title": {
+      "romaji": "7SEEDS",
+      "english": "7SEEDS",
+      "native": "7SEEDS"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Scientists had predicted this disaster, and in response, the leaders of every country met to develop a plan for human survival before the meteor hit. The Seven Seeds project was developed out of this meeting. Each country froze a number of young healthy people, which allowed them to survive the meteor. After the computer determined that Earth was once again safe for human life, it released them into the world.\n<br><br>\nThe Japanese government created five groups of survivors: Winter group, Spring group, Summer group A, Summer group B, and Fall group. Each group consisted of seven members and one guide. The guide carried small tubes of poison on their necks to allow them to end their lives if their situation became unbearable. The Japanese government prepared seven \"Fuji\" as refuges for the groups. In each Fuji, the group would find seeds and numerous books instructing them on survival in the wilderness.\n<br><br>\n<i>It premiered on TV on January 14th, 2020.</i>",
+    "episodes": 12,
+    "duration": 25,
+    "season": "SPRING",
+    "seasonYear": 2019,
+    "startDate": {
+      "year": 2019,
+      "month": 6,
+      "day": 28
+    },
+    "endDate": {
+      "year": 2019,
+      "month": 6,
+      "day": 28
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105807-Ivd7xc40XdGF.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105807-Ivd7xc40XdGF.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx105807-Ivd7xc40XdGF.jpg",
+      "color": "#5078c9"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "Seven Seeds",
+      "7 SEEDS",
+      "سبع بذور"
+    ],
+    "averageScore": 63,
+    "meanScore": 63,
+    "popularity": 44168,
+    "trending": 0,
+    "favourites": 529,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "uGPF79Xl6XQ",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/uGPF79Xl6XQ/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://7seeds.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/7SEEDS_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.netflix.com/in/title/80183051",
+        "site": "Netflix",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 31075,
+            "title": {
+              "romaji": "7SEEDS",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 112686,
+            "title": {
+              "romaji": "7SEEDS 2",
+              "english": "7SEEDS Part 2"
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 98,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 143,
+        "name": "Survival",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 93,
+        "name": "Post-Apocalyptic",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 342,
+        "name": "Environmental",
+        "rank": 88,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 262,
+        "name": "Outdoor Activities",
+        "rank": 74,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 27,
+        "name": "Josei",
+        "rank": 67,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 153,
+        "name": "Time Skip",
+        "rank": 55,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 3,
+            "name": "GONZO"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6787,
+            "name": "Netflix"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 376,
+            "name": "Sentai Filmworks"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 843,
+            "name": "BS Fuji"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 139,
+            "name": "NAS"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7156,
+            "name": "Universal Music"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6259,
+            "name": "TOKYO MX"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 13627,
+            "name": {
+              "full": "Hana Suguruno",
+              "native": "末黒野花"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102263,
+              "name": {
+                "full": "Youko Hikasa",
+                "native": "日笠陽子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 14601,
+            "name": {
+              "full": "Natsu Iwashimizu",
+              "native": "岩清水ナツ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106184,
+              "name": {
+                "full": "Nao Touyama",
+                "native": "東山奈央"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 14602,
+            "name": {
+              "full": "Arashi Aota",
+              "native": "青田嵐"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95086,
+              "name": {
+                "full": "Jun Fukuyama",
+                "native": "福山潤"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 19123,
+            "name": {
+              "full": "Ango",
+              "native": "安吾"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95819,
+              "name": {
+                "full": "Kenshou Ono",
+                "native": "小野賢章"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 19130,
+            "name": {
+              "full": "Takahiro Aramaki",
+              "native": "新巻鷹弘"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95286,
+              "name": {
+                "full": "Nozomu Sasaki",
+                "native": "佐々木望"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 14603,
+            "name": {
+              "full": "Semimaru Asai",
+              "native": "麻井蝉丸"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95020,
+              "name": {
+                "full": "Katsuyuki Konishi",
+                "native": "小西克幸"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 19122,
+            "name": {
+              "full": "Ayu",
+              "native": "あゆ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100295,
+              "name": {
+                "full": "Yuu Shimamura",
+                "native": "嶋村侑"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 19124,
+            "name": {
+              "full": "Koruri",
+              "native": "小瑠璃"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 115795,
+              "name": {
+                "full": "Haruka Chisuga",
+                "native": "千菅春香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 19125,
+            "name": {
+              "full": "Ryou",
+              "native": "涼"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95079,
+              "name": {
+                "full": "Takahiro Sakurai",
+                "native": "櫻井孝宏"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 19126,
+            "name": {
+              "full": "Gengoro",
+              "native": "源五郎"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 104580,
+              "name": {
+                "full": "Takuya Satou",
+                "native": "佐藤拓也"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "105857": {
+    "id": 105857,
+    "idMal": 38578,
+    "title": {
+      "romaji": "Star☆Twinkle Precure",
+      "english": null,
+      "native": "スター☆トゥインクルプリキュア"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "The story begins when the protagonist Hikaru meets aliens Lala, Prunce, and Fuwa while watching the night sky. She learns of the \"Star Palace,\" where the 12 Star Princesses of the constellations kept the balance of the universe until they were attacked. Lala is searching for the legendary Precure warriors to help find the 12 scattered \"Princess Star Color Pens\" and revive the princesses. When Fuwa is captured by an enemy, Hikaru wishes to save Fuwa, and a Star Color Pendent and a Star Color Pen appear to allow her to transform into Cure Star. From then on she works to collect the pens and raise Fuwa, who is the key to reviving the princesses.",
+    "episodes": 49,
+    "duration": 25,
+    "season": "WINTER",
+    "seasonYear": 2019,
+    "startDate": {
+      "year": 2019,
+      "month": 2,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2020,
+      "month": 1,
+      "day": 26
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105857-02ruhcNiPGga.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx105857-02ruhcNiPGga.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx105857-02ruhcNiPGga.jpg",
+      "color": "#ae50e4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/105857-D1S4lCsrKFMT.jpg",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Mahou Shoujo",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "Star☆Twinkle Pretty Cure"
+    ],
+    "averageScore": 75,
+    "meanScore": 76,
+    "popularity": 7338,
+    "trending": 0,
+    "favourites": 281,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "VRHMhMU1S6Q",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/VRHMhMU1S6Q/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://www.toei-anim.co.jp/tv/startwinkle_precure/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.iq.com/album/twylt20uwd",
+        "site": "iQ",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 603,
+            "title": {
+              "romaji": "Futari wa Precure",
+              "english": "Precure"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 100661,
+            "title": {
+              "romaji": "HUGtto! Precure",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 21506,
+            "title": {
+              "romaji": "Mahoutsukai Precure!",
+              "english": "Witchy Precure!"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 1932,
+            "title": {
+              "romaji": "Yes! Precure 5",
+              "english": "Yes! Precure 5"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 98059,
+            "title": {
+              "romaji": "Kirakira☆Precure a la Mode",
+              "english": "KIRA KIRA☆PRECURE A LA MODE"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 1534,
+            "title": {
+              "romaji": "Futari wa Precure: Splash☆Star",
+              "english": "PreCure Splash Star"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 21001,
+            "title": {
+              "romaji": "Go! Princess Precure",
+              "english": "Go! Princess Precure"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 5684,
+            "title": {
+              "romaji": "Fresh Precure!",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 7645,
+            "title": {
+              "romaji": "Heartcatch Precure!",
+              "english": "Heartcatch Precure!"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 20577,
+            "title": {
+              "romaji": "HappinessCharge Precure!",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 9893,
+            "title": {
+              "romaji": "Suite Precure♪",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 106858,
+            "title": {
+              "romaji": "Precure Miracle Universe",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 106897,
+            "title": {
+              "romaji": "Star ☆ Twinkle Precure",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 112748,
+            "title": {
+              "romaji": "Healin' Good♥Precure",
+              "english": "Healin' Good Precure"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 126905,
+            "title": {
+              "romaji": "Tropical-Rouge! Precure",
+              "english": "Tropical-Rouge! Precure"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 12191,
+            "title": {
+              "romaji": "Smile Precure!",
+              "english": "Glitter Force"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 16419,
+            "title": {
+              "romaji": "Dokidoki! Precure",
+              "english": "Glitter Force Doki Doki"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 142080,
+            "title": {
+              "romaji": "Delicious Party♡Precure",
+              "english": "Delicious Party Precure"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 154678,
+            "title": {
+              "romaji": "Watashi dake no Okosama Lunch",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 157883,
+            "title": {
+              "romaji": "Hirogaru Sky! Precure",
+              "english": "Soaring Sky! Precure"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 159429,
+            "title": {
+              "romaji": "Precure All Stars F",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 171030,
+            "title": {
+              "romaji": "Wonderful Precure!",
+              "english": "Wonderful Precure!"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 109737,
+            "title": {
+              "romaji": "Star☆Twinkle Precure: Hoshi no Uta ni Omoi wo Komete",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 112612,
+            "title": {
+              "romaji": "Precure Miracle Leap: Minna to no Fushigi na Ichinichi",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 185073,
+            "title": {
+              "romaji": "Kimi to Idol Precure♪",
+              "english": "You and Idol Precure ♪"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 188394,
+            "title": {
+              "romaji": "PetitCure: Precure Fairies",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 202957,
+            "title": {
+              "romaji": "Meitantei Precure!",
+              "english": "Star Detective Precure!"
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 99,
+        "name": "Henshin",
+        "rank": 95,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 63,
+        "name": "Space",
+        "rank": 94,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 191,
+        "name": "Aliens",
+        "rank": 92,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 89,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 87,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 85,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 623,
+        "name": "Astronomy",
+        "rank": 85,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 92,
+        "name": "Cute Girls Doing Cute Things",
+        "rank": 85,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 772,
+        "name": "Shapeshifting",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1310,
+        "name": "Travel",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 43,
+        "name": "Swordplay",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 780,
+        "name": "Ojou-sama",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 251,
+        "name": "Archery",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 224,
+        "name": "Dragons",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 113,
+        "name": "Nekomimi",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1304,
+        "name": "Anthropomorphism",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1292,
+        "name": "Spearplay",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 159,
+        "name": "Super Robot",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 252,
+        "name": "Revenge",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 28,
+        "name": "Kids",
+        "rank": 78,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 172,
+        "name": "Superhero",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 513,
+        "name": "Tokusatsu",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 40,
+        "name": "Police",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 175,
+        "name": "Robots",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1422,
+        "name": "Filmmaking",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 516,
+        "name": "Language Barrier",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 107,
+        "name": "Mafia",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 193,
+        "name": "Episodic",
+        "rank": 62,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 446,
+        "name": "Primarily Child Cast",
+        "rank": 61,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1219,
+        "name": "Disability",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 517,
+        "name": "Artificial Intelligence",
+        "rank": 57,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 254,
+        "name": "Kemonomimi",
+        "rank": 55,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 118,
+        "name": "Drawing",
+        "rank": 52,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 558,
+        "name": "Mermaid",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 115,
+        "name": "Idol",
+        "rank": 41,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 18,
+            "name": "Toei Animation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 55,
+            "name": "TV Asahi"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 132293,
+            "name": {
+              "full": "Hikaru Hoshina",
+              "native": "ほしなひかる"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 132479,
+              "name": {
+                "full": "Eimi Naruse",
+                "native": "成瀬瑛美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 132294,
+            "name": {
+              "full": "Lala Hagoromo",
+              "native": "はがろもララ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 121961,
+              "name": {
+                "full": "Konomi Kohara",
+                "native": "小原好美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 132295,
+            "name": {
+              "full": "Madoka Kaguya",
+              "native": "かぐやまどか"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105071,
+              "name": {
+                "full": "Mikako Komatsu",
+                "native": "小松未可子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 132296,
+            "name": {
+              "full": "Elena Amamiya",
+              "native": "あまみやえれな"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107711,
+              "name": {
+                "full": "Kiyono Yasuno",
+                "native": "安野希世乃"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 132480,
+            "name": {
+              "full": "Fuwa",
+              "native": "フワ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119822,
+              "name": {
+                "full": "Hina Kino",
+                "native": "木野日菜"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 132481,
+            "name": {
+              "full": "Prunce",
+              "native": "プルンス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95283,
+              "name": {
+                "full": "Hiroyuki Yoshino",
+                "native": "吉野裕行"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 140972,
+            "name": {
+              "full": "Yuni",
+              "native": "ユニ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 109441,
+              "name": {
+                "full": "Sumire Uesaka",
+                "native": "上坂すみれ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 135234,
+            "name": {
+              "full": "Kapperd",
+              "native": "カッパード"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100626,
+              "name": {
+                "full": "Yoshimasa Hosoya",
+                "native": "細谷佳正"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 135235,
+            "name": {
+              "full": "AI",
+              "native": "AI"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95121,
+              "name": {
+                "full": "Miki Itou",
+                "native": "伊藤美紀 "
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 135236,
+            "name": {
+              "full": "Youko Hoshina",
+              "native": "星奈陽子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96119,
+              "name": {
+                "full": "Harumi Ichiryuusai",
+                "native": "一龍斎春水"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
   }
 }

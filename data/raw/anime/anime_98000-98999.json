@@ -12613,15 +12613,15 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 1045,
-        "name": "Heterosexual",
-        "rank": 90,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 46,
         "name": "School",
         "rank": 87,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 85,
         "isMediaSpoiler": false
       },
       {
@@ -12667,12 +12667,6 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 153,
-        "name": "Time Skip",
-        "rank": 40,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 209,
         "name": "Dancing",
         "rank": 40,
@@ -12682,6 +12676,12 @@
         "id": 90,
         "name": "CGI",
         "rank": 38,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 153,
+        "name": "Time Skip",
+        "rank": 36,
         "isMediaSpoiler": false
       },
       {
@@ -22270,7 +22270,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 89741,
-    "trending": 6,
+    "trending": 10,
     "favourites": 1992,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -22905,7 +22905,7 @@
         }
       ]
     },
-    "updatedAt": 1787346036
+    "updatedAt": 1787353215
   },
   "98856": {
     "id": 98856,
@@ -26139,7 +26139,7 @@
     "averageScore": 83,
     "meanScore": 83,
     "popularity": 159366,
-    "trending": 2,
+    "trending": 4,
     "favourites": 9974,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -26623,6 +26623,4443 @@
         }
       ]
     },
-    "updatedAt": 1787345771
+    "updatedAt": 1787353216
+  },
+  "98635": {
+    "id": 98635,
+    "idMal": 35466,
+    "title": {
+      "romaji": "ReLIFE: Kanketsu-hen",
+      "english": "ReLIFE: Final Arc",
+      "native": "ReLIFE 完結編"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "After reliving the life of a high school student through the ReLIFE experiment, 27-year-old Arata Kaizaki cannot believe how quickly it has changed him. He has begun to see the world through a different perspective that he had completely forgotten as an adult. He has made friends and formed deep relationships with each one of them. However his support, Ryou Yoake, reminds him that the experiment is all an illusion; after his experiment ends, he will be forgotten by all of them.<br>\n<br>\nThe experiment of another ReLIFE subject is also coming to an end. After spending two years with ReLIFE, Chizuru Hishiro has developed into a more open, more thoughtful person than she could have ever imagined. She has met people who have changed her life, her perspective, and ultimately her. However, now that their ReLIFE is coming to an end, will they be able to let go of the memories they have made?<br>\n<br>\n(Source: MAL Rewrite)",
+    "episodes": 4,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2018,
+    "startDate": {
+      "year": 2018,
+      "month": 3,
+      "day": 21
+    },
+    "endDate": {
+      "year": 2018,
+      "month": 3,
+      "day": 21
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98635-U7XClVuynqfY.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98635-U7XClVuynqfY.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98635-U7XClVuynqfY.png",
+      "color": "#93d6ff"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98635-NoUpOE940WyV.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "ReLIFE OVA",
+      "Повторная жизнь ОВА"
+    ],
+    "averageScore": 81,
+    "meanScore": 81,
+    "popularity": 109301,
+    "trending": 0,
+    "favourites": 2277,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "fM3xoYACtGE",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/fM3xoYACtGE/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://relife-anime.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/ReLIFE_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "http://www.crunchyroll.com/relife",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 1 - Kaizaki Arata (27), Unemployed",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/a3b6b1d99a0f528ac78feab63e7722d91467311690_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G8WUNMMKK/kaizaki-arata-27-unemployed",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - Communication Skills: Zero",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/f4733dce1deedf5d927d9e35e450afc61467311788_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GD9UVXX1N/communication-skills-zero",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - You're Old Now",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/8260bb1022269b4d49edc570b48179c81467311799_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G8WUNM05X/youre-old-now",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - Fall",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/6778ee4b95dbf9c25bfd44803a79d1b61467311823_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G4VUQ21P2/fall",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - Overlap",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/3ea2d1258b74a24b9d209a8a3d97389b1467311811_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G4VUQ2VXN/overlap",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - This Isn't the First Time",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/dfe86375f533d79901d707263cd71eec1467311871_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G8WUN03P1/this-isnt-the-first-time",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 7 - Test Subject 001 -> 002",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/23a4a26e17c67de376e4ba2cf39fdf791467311885_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GZ7UV13PX/test-subject-001-002",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 8 - Rift",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/f847fa6460f8cdea1359a0ed6758ce8a1467091469_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GWDU8Q8V9/rift",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 9 - Revenge",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/389fa3c76238605a411611d82d157b321467161098_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GX9UQZ3V2/revenge",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 10 - Everyone's Selfish Desires",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/599b0189f46a6646f91e3ad6d2f7b8581467160159_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G0DUNJZX3/everyones-selfish-desires",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 11 - A Trip to the Past",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/c63291fcfd207a628efbd0ed82d5f4e41467311907_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G9DUEGKZ5/a-trip-to-the-past",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 12 - Double Panic",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/51f11e1d68d6f14b4b7e40ec917a8dc21467311949_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GEVUZN5V1/double-panic",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 13 - Confession",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/7844792436df0ee8b4209de354d3838d1467311923_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GG1U2ZMPX/confession",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 85849,
+            "title": {
+              "romaji": "ReLife",
+              "english": "ReLIFE"
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 21049,
+            "title": {
+              "romaji": "ReLIFE",
+              "english": "ReLIFE"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 108939,
+            "title": {
+              "romaji": "Shagahai ReLIFE Kenkyuujo Support-ka",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 311,
+        "name": "Rehabilitation",
+        "rank": 94,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 488,
+        "name": "Age Regression",
+        "rank": 94,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 365,
+        "name": "Memory Manipulation",
+        "rank": 88,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 84,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 76,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 67,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 56,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 324,
+        "name": "Chibi",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 249,
+        "name": "Maids",
+        "rank": 37,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 73,
+            "name": "TMS Entertainment"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 89425,
+            "name": {
+              "full": "Arata Kaizaki",
+              "native": "海崎新太"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95819,
+              "name": {
+                "full": "Kenshou Ono",
+                "native": "小野賢章"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 89426,
+            "name": {
+              "full": "Chizuru Hishiro",
+              "native": "日代千鶴"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105765,
+              "name": {
+                "full": "Ai Kayano",
+                "native": "茅野愛衣"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 89427,
+            "name": {
+              "full": "Ryou Yoake",
+              "native": "夜明了"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96762,
+              "name": {
+                "full": "Ryouhei Kimura",
+                "native": "木村良平"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 89428,
+            "name": {
+              "full": "An Onoya",
+              "native": "小野屋杏"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118602,
+              "name": {
+                "full": "Reina Ueda",
+                "native": "上田麗奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 89632,
+            "name": {
+              "full": "Rena Kariu",
+              "native": "狩生玲奈"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95890,
+              "name": {
+                "full": "Haruka Tomatsu",
+                "native": "戸松遥"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 89633,
+            "name": {
+              "full": "Kazuomi Ooga",
+              "native": "大神和臣"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119617,
+              "name": {
+                "full": "Yuuma Uchida",
+                "native": "内田雄馬"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 89838,
+            "name": {
+              "full": "Honoka Tamarai",
+              "native": "玉来ほのか"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119203,
+              "name": {
+                "full": "Himika Akaneya",
+                "native": "茜屋日海夏"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 89839,
+            "name": {
+              "full": "Akira Inukai",
+              "native": "犬飼暁"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95016,
+              "name": {
+                "full": "Noriaki Sugiyama",
+                "native": "杉山紀彰"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 89840,
+            "name": {
+              "full": "Nobunaga Asaji",
+              "native": "朝地信長"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95087,
+              "name": {
+                "full": "Daisuke Namikawa",
+                "native": "浪川大輔"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 143179,
+            "name": {
+              "full": "Kokoro Amatsu",
+              "native": "天津心"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95099,
+              "name": {
+                "full": "Miyuki Sawashiro",
+                "native": "沢城みゆき"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "98385": {
+    "id": 98385,
+    "idMal": 34984,
+    "title": {
+      "romaji": "Koi wa Ameagari no You ni",
+      "english": "After the Rain",
+      "native": "恋は雨上がりのように"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "Akira Tachibana was once the ace of a track club, but an injury forced her to quell her passion for sports. Masami Kondou, a divorced father, had ambitions of being a writer and now manages a restaurant, where Akira works. It is the intersection of Akira and Masami’s seemingly disconnected lives that makes each of them reconsider and redefine everything about themselves.<br>\n<br>\n(Source: Sentai Filmworks)",
+    "episodes": 12,
+    "duration": 23,
+    "season": "WINTER",
+    "seasonYear": 2018,
+    "startDate": {
+      "year": 2018,
+      "month": 1,
+      "day": 12
+    },
+    "endDate": {
+      "year": 2018,
+      "month": 3,
+      "day": 30
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98385-GYmOoxtwWVhz.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98385-GYmOoxtwWVhz.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98385-GYmOoxtwWVhz.jpg",
+      "color": "#35e46b"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n98385-fyGWkx3FbZSh.jpg",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "KoiAme",
+      "Love is Like after the Rain",
+      "Depois da Chuva",
+      "Dopo la pioggia",
+      "Après la pluie",
+      "เส้นทางชีวิต ลิขิตหัวใจ",
+      "Después de la lluvia"
+    ],
+    "averageScore": 73,
+    "meanScore": 73,
+    "popularity": 96532,
+    "trending": 0,
+    "favourites": 1654,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "3FvIUcLGOsI",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/3FvIUcLGOsI/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://www.koiame-anime.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/koiame_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.amazon.com/gp/video/detail/B078X1RBH5",
+        "site": "Amazon Prime Video",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.hidive.com/tv/after-the-rain",
+        "site": "HIDIVE",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.netflix.com/es/title/81149645",
+        "site": "Netflix",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 86639,
+            "title": {
+              "romaji": "Koi wa Ameagari no You ni",
+              "english": "After the Rain"
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 138,
+        "name": "Age Gap",
+        "rank": 86,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 85,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 85,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 102,
+        "name": "Coming of Age",
+        "rank": 84,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 311,
+        "name": "Rehabilitation",
+        "rank": 81,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1647,
+        "name": "Restaurant",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 145,
+        "name": "Work",
+        "rank": 77,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 76,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 67,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 264,
+        "name": "Athletics",
+        "rank": 63,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 394,
+        "name": "Writing",
+        "rank": 58,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 30,
+        "name": "Martial Arts",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 227,
+        "name": "Classic Literature",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 41,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 494,
+        "name": "Twins",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 139,
+        "name": "Love Triangle",
+        "rank": 30,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 335,
+        "name": "Tanned Skin",
+        "rank": 28,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 858,
+            "name": "WIT STUDIO"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 53,
+            "name": "Dentsu"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 17,
+            "name": "Aniplex"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 169,
+            "name": "Fuji TV"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 376,
+            "name": "Sentai Filmworks"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 122212,
+            "name": {
+              "full": "Akira Tachibana",
+              "native": "橘あきら"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 121023,
+              "name": {
+                "full": "Sayumi Watabe",
+                "native": "渡部紗弓"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 122213,
+            "name": {
+              "full": "Masami Kondou",
+              "native": "近藤正己"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95125,
+              "name": {
+                "full": "Hiroaki Hirata",
+                "native": "平田広明"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 130556,
+            "name": {
+              "full": "Ryousuke Kase",
+              "native": "加瀬亮介"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96489,
+              "name": {
+                "full": "Tomoaki Maeno",
+                "native": "前野智昭"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 130557,
+            "name": {
+              "full": "Takashi Yoshizawa",
+              "native": "吉澤タカシ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 116019,
+              "name": {
+                "full": "Junya Ikeda",
+                "native": "池田純矢"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 130558,
+            "name": {
+              "full": "Haruka Kyan",
+              "native": "喜屋武はるか"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119864,
+              "name": {
+                "full": "Emi Miyajima",
+                "native": "宮島えみ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 130559,
+            "name": {
+              "full": "Kayoko Kubo",
+              "native": "久保佳代子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95029,
+              "name": {
+                "full": "Mika Kanai",
+                "native": "かないみか"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 130560,
+            "name": {
+              "full": "Ootsuka",
+              "native": "大塚"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95884,
+              "name": {
+                "full": "Masahito Yabe",
+                "native": "矢部雅史"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 130561,
+            "name": {
+              "full": "Yui Nishida",
+              "native": "西田ユイ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102322,
+              "name": {
+                "full": "Haruka Fukuhara",
+                "native": "福原遥"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 130562,
+            "name": {
+              "full": "Yuuto Okajima",
+              "native": "丘嶋勇斗"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95015,
+              "name": {
+                "full": "Junko Takeuchi",
+                "native": "竹内順子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 130563,
+            "name": {
+              "full": "Chihiro Kujou",
+              "native": "九条ちひろ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96469,
+              "name": {
+                "full": "Mitsuru Miyamoto",
+                "native": "宮本充"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "98657": {
+    "id": 98657,
+    "idMal": 35484,
+    "title": {
+      "romaji": "Osake wa Fuufu ni Natte kara",
+      "english": "Love is Like a Cocktail",
+      "native": "お酒は夫婦になってから"
+    },
+    "type": "ANIME",
+    "format": "TV_SHORT",
+    "status": "FINISHED",
+    "description": "The \"slightly sweet tipsy couple comedy\" manga centers on the 28-year-old senior public relations company staff member Chisato Mizusawa. The story follows Chisato's daily life as she enjoys her husband Sora's cocktails. Chisato has secrets that only her husband knows.\n<br><br>\n(Source: Anime News Network)",
+    "episodes": 13,
+    "duration": 3,
+    "season": "FALL",
+    "seasonYear": 2017,
+    "startDate": {
+      "year": 2017,
+      "month": 10,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2017,
+      "month": 12,
+      "day": 27
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98657-P9OayeslJ79r.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98657-P9OayeslJ79r.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx98657-P9OayeslJ79r.jpg",
+      "color": "#e4c950"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98657-mBo2dpPSlcEe.jpg",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "Osake wa Fuufu ni Nattekara",
+      "Alcohol is for married couples",
+      "Osakefufu"
+    ],
+    "averageScore": 67,
+    "meanScore": 67,
+    "popularity": 62113,
+    "trending": 0,
+    "favourites": 746,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "iJV0dZ56uLs",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/iJV0dZ56uLs/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://www.osakefufu-anime.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/osakefufu",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "http://www.crunchyroll.com/love-is-like-a-cocktail",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCazjJ6udlwl6cP_om1zqTQQ",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 1 - First Glass: Plum Splet",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/a563e114842e9062a446d0aaa9717a4c1507029622_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GY8V7XV1Y/first-glass-plum-splet",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - Second Glass: Orange Breeze",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/9e790ddc83f9b7beaacd4b3038848edc1507328682_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR8V7GJ9R/second-glass-orange-breeze",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - Third Glass: Cinderella",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/f3ced3de22f071fa75d8af051968faeb1508198519_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRNQK3D3R/third-glass-cinderella",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - Fourth Glass: Spritzer",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/48bcfde0fb4ce2a79bcd0c67cc8e491d1508804775_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G68V77X06/fourth-glass-spritzer",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - Fourth Glass: Special Banana Cocktail",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/6e507c0e38de5490c0406a0074330ec11509405099_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYNQK9MQY/fourth-glass-special-banana-cocktail",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - Sixth Glass: Bellini",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/e1238bb0b3270448928f93d509ce71771510030095_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GY8VNWE7Y/sixth-glass-bellini",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 7 - Seventh Glass: Irish Coffee",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/ab9cbe5e74395429a78e0754725f5ace1510641952_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GY5V4G0KY/seventh-glass-irish-coffee",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 8 - 8th Glass: Egg Sake",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/64541c15efb44ff60e4bd1a2e0b948fd1511225302_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G675JE73R/8th-glass-egg-sake",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 9 - Ninth Glass: Zoom",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/48c4a846648d61633a6234cd291eb86d1511851660_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G69PEGV8Y/ninth-glass-zoom",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 10 - Tenth Glass: Shandygaff",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/3d93c56f54c784f3a69f46dbb33cca271512472814_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRNQDPZ0R/tenth-glass-shandygaff",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 11 - Eleventh Glass: Rainy Night",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/8269846e50141d84edabc8609ef46f791513055506_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6P8E8WJ6/eleventh-glass-rainy-night",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 12 - Twelfth Glass: First Time",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/aca1eeeb88f0bc71db8fe5bfbe4705ef1513626385_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6X0KZG2Y/twelfth-glass-first-time",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 13 - Thirteenth Glass: Frozen Mango Cocktail",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/ddb0e57926f2af95729ad0570e0af9e81514270145_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6MGWW886/thirteenth-glass-frozen-mango-cocktail",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 98831,
+            "title": {
+              "romaji": "Osake wa Fuufu ni Natte kara",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 104530,
+            "title": {
+              "romaji": "Osake wa Fuufu ni Natte kara Episode 14",
+              "english": "Love is Like a Cocktail Episode 14"
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 193,
+        "name": "Episodic",
+        "rank": 95,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 142,
+        "name": "Food",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 87,
+        "name": "Family Life",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1433,
+        "name": "Marriage",
+        "rank": 85,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 72,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 653,
+        "name": "Office Lady",
+        "rank": 68,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 161,
+        "name": "Bar",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 145,
+        "name": "Work",
+        "rank": 48,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 324,
+        "name": "Chibi",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6072,
+            "name": "Creators in Pack"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6187,
+            "name": "xenron"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 123926,
+            "name": {
+              "full": "Chisato Mizusawa",
+              "native": "水沢千里"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95413,
+              "name": {
+                "full": "Eri Kitamura",
+                "native": "喜多村英梨"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 123927,
+            "name": {
+              "full": "Sora Mizusawa",
+              "native": "水沢壮良"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96527,
+              "name": {
+                "full": "Mitsuhiro Ichiki",
+                "native": "市来光弘"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 123928,
+            "name": {
+              "full": "Koharu Sakurai",
+              "native": "桜井小春"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 123929,
+              "name": {
+                "full": "Arisa Nakada",
+                "native": "仲田ありさ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 123930,
+            "name": {
+              "full": "Yui Shiraishi",
+              "native": "白石結"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118939,
+              "name": {
+                "full": "Ayaka Asai",
+                "native": "朝井彩加"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "98630": {
+    "id": 98630,
+    "idMal": 31456,
+    "title": {
+      "romaji": "Code:Realize: Sousei no Himegimi",
+      "english": "Code: Realize ~Guardian of Rebirth~",
+      "native": "Code:Realize～創世の姫君～"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "Restricted to an abandoned mansion on the outskirts of London in fulfillment of a promise to her father, lonely Cardia lives day to day isolated from the world. Her body carries a deadly poison that rots or melts anything her skin touches, prompting the locals to call her a “monster.”<br><br>\n\nOne day, her quiet solitude is interrupted as the Royal Guards break in to capture her. It is then that Cardia meets Arsène Lupin, a chivalrous thief, who helps her escape the soldiers' clutches. She soon finds herself on a journey with Lupin to locate her father, who holds the answers to her mysterious condition.<br><br>\n\n(Source: Aksys Games, edited)",
+    "episodes": 12,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2017,
+    "startDate": {
+      "year": 2017,
+      "month": 10,
+      "day": 7
+    },
+    "endDate": {
+      "year": 2017,
+      "month": 12,
+      "day": 23
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98630-Wtb6TdfrayC5.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98630-Wtb6TdfrayC5.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx98630-Wtb6TdfrayC5.jpg",
+      "color": "#e46b50"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98630-qD4zGhK7PBoT.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "synonyms": [],
+    "averageScore": 62,
+    "meanScore": 62,
+    "popularity": 20091,
+    "trending": 0,
+    "favourites": 249,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VISUAL_NOVEL",
+    "trailer": {
+      "id": "QMBnt-RShko",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/QMBnt-RShko/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://coderealize-anime.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/cr_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "http://www.crunchyroll.com/code-realize-guardian-of-rebirth",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 1 - London Steam",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/d6408b3af146f16058aa6e5412aef0f41507357586_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GJWU237M4/london-steam",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - The Strongest Stalker",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/22e97ffef47fe08ad5c3d21f1322b2d41507942999_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GN7UDEKZZ/the-strongest-stalker",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - Vampire Requiem",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/5f84513991f17040b6f5f1f2bf30d6721508557411_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GK9U3J2Z8/vampire-requiem",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - Train Snatch",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/3658d97ef28859e21710857e936d85de1509173694_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GMKUX2MZ4/train-snatch",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - Negotiated Solution",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/17f93cd77cbf1e8ef1159c06204ce71e1509655748_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GVWU0EXVJ/negotiated-solution",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - Illegal Race",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/eaadc132e1492b13ed037e163f25aa971510366538_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G31UX1EP0/illegal-race",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 7 - Forgiveness for the Past",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/2755a3643f3cb2057bdb50b31fcd24b91510987883_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GPWUK7JQ4/forgiveness-for-the-past",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 8 - The Flames of War",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/7e48899c75127f361ef019111f3b35521511591254_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G8WUNXVDZ/the-flames-of-war",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 9 - Prayer",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/64df8a569a2196466446bb3b841e940f1512212859_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GWDU8XM92/prayer",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 10 - Promise",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/2713a42af57fb5c980208860bee50dc71512798156_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G0DUNPW9W/promise",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 11 - Code: Realize",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/69c786e006ad4bdb671c8016dd8c45bb1513408673_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G9DUEJND9/code-realize",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 12 - Warmth",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/d737cb1d18c1f4c9edf61ebfcb1ead911514006239_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G4VUQ90M4/warmth",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 13 - Set a thief to catch a thief",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/05d8fa3a24e3732ec335b3a2d9b1ca781527619888_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GJWU237J4/set-a-thief-to-catch-a-thief",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 101875,
+            "title": {
+              "romaji": "Code:Realize: Sousei no Himegimi - Set a thief to catch a thief",
+              "english": "Code: Realize ~Guardian of Rebirth~ Set a thief to catch a thief"
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 259,
+        "name": "Monster Girl",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 25,
+        "name": "Historical",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 27,
+        "name": "Josei",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 95,
+        "name": "Steampunk",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 198,
+        "name": "Foreign",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 123,
+        "name": "Male Harem",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 111,
+        "name": "War",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 104,
+        "name": "Anti-Hero",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 74,
+        "name": "Vampire",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 463,
+            "name": "M.S.C"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 104,
+            "name": "Lantis"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 315,
+            "name": "DAX Production"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 123637,
+            "name": {
+              "full": "Cardia Beckford",
+              "native": "カルディア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95869,
+              "name": {
+                "full": "Saori Hayami",
+                "native": "早見沙織"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 123639,
+            "name": {
+              "full": "Arsène Lupin",
+              "native": "アルセーヌ・ルパン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96489,
+              "name": {
+                "full": "Tomoaki Maeno",
+                "native": "前野智昭"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 123641,
+            "name": {
+              "full": "Abraham Van Helsing",
+              "native": "エイブラハム・ヴァン・ヘルシング"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95095,
+              "name": {
+                "full": "Junichi Suwabe",
+                "native": "諏訪部順一"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 123638,
+            "name": {
+              "full": "Victor Frankenstein",
+              "native": "ヴィクター・フランケンシュタイン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95167,
+              "name": {
+                "full": "Tetsuya Kakihara",
+                "native": "柿原徹也"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 123636,
+            "name": {
+              "full": "Impey Barbicane",
+              "native": "インピー・バービケーン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95178,
+              "name": {
+                "full": "Shoutarou Morikubo",
+                "native": "森久保祥太郎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 123640,
+            "name": {
+              "full": "Saint Germain",
+              "native": "サン・ジェルマン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95183,
+              "name": {
+                "full": "Daisuke Hirakawa",
+                "native": "平川大輔"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 123645,
+            "name": {
+              "full": "Finis",
+              "native": "フィニス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95672,
+              "name": {
+                "full": "Yuuki Kaji",
+                "native": "梶裕貴"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 123649,
+            "name": {
+              "full": "Herlock Sholmès",
+              "native": "エルロック・ショルメ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 123647,
+              "name": {
+                "full": "Kazuya Murakami",
+                "native": "村上和也"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 123646,
+            "name": {
+              "full": "Delacroix II",
+              "native": "ドラクロワ二世"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 120131,
+              "name": {
+                "full": "Miho Ishigami",
+                "native": "石上美帆"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 123644,
+            "name": {
+              "full": "Alexandrina Victoria",
+              "native": "アレクサンドリナ・ヴィクトリア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 123648,
+              "name": {
+                "full": "Naomi Iida",
+                "native": "飯田奈保美"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "98977": {
+    "id": 98977,
+    "idMal": 36220,
+    "title": {
+      "romaji": "Itsudatte Bokura no Koi wa 10 cm Datta.",
+      "english": "Our love has always been 10 centimeters apart.",
+      "native": "いつだって僕らの恋は10センチだった。"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "The moment Miou Aida first met Haruki Serizawa at the Sakuragaoka High School Entrance Ceremony they both felt an unexplainable connection. Despite their completely different personalities, they found themselves walking home together after school every day. As they spend more time together, their feelings for each other grow stronger. Just 10 centimeters apart, but the distance remains...\n<br><br>\n(Source: Funimation)",
+    "episodes": 6,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2017,
+    "startDate": {
+      "year": 2017,
+      "month": 11,
+      "day": 25
+    },
+    "endDate": {
+      "year": 2017,
+      "month": 12,
+      "day": 30
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98977-CpZkd98fWj32.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98977-CpZkd98fWj32.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98977-CpZkd98fWj32.jpg",
+      "color": "#93d6e4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n98977-5qvKUog5OfWu.jpg",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "synonyms": [],
+    "averageScore": 72,
+    "meanScore": 72,
+    "popularity": 67218,
+    "trending": 0,
+    "favourites": 829,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "9y9JtkUiuz4",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/9y9JtkUiuz4/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://www.honeyworks-movie.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/HoneyWorksMovie",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.crunchyroll.com/our-love-has-always-been-10-centimeters-apart",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 1 - Spring, First Love, Color of Cherry Blossoms",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/c3070ada188a0b6537baef68bee6aea81511500847_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GY5V454KY/spring-first-love-color-of-cherry-blossoms",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - Summer, Fireworks, Color of Love",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/92b8a8669061b169d0d18f8b7012a9da1512085152_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRGGW187R/summer-fireworks-color-of-love",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - Secret, Solitude, Color of Twilight",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/11d6601d8dc2ebdc6836a6755101b2521512727850_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYJQEZQ26/secret-solitude-color-of-twilight",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - Study Abroad, Map of the Future, Color of the Heart",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/8d7b6c98c6ee7d1c6a365d4e2c80568b1513336702_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GY0947DEY/study-abroad-map-of-the-future-color-of-the-heart",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - First Snow, Dreams, Color of Tears",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/4bcad2977080a69e0a2d31d2524f66811513937090_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRJQPEN3Y/first-snow-dreams-color-of-tears",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - Graduation, Adventures, Color of the Future",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/6644038fc8ff4f014fae37e3530c63111514526515_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRWEW0NKR/graduation-adventures-color-of-the-future",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 21296,
+            "title": {
+              "romaji": "Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai",
+              "english": "I've Always Liked You"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 117913,
+            "title": {
+              "romaji": "Tokyo Autumn Session",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 87036,
+            "title": {
+              "romaji": "Kokuhaku Yokou Renshuu Series",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 97,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 96,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 118,
+        "name": "Drawing",
+        "rank": 84,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 153,
+        "name": "Time Skip",
+        "rank": 77,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 102,
+        "name": "Coming of Age",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 84,
+        "name": "School Club",
+        "rank": 64,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 64,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1422,
+        "name": "Filmmaking",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 40,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 195,
+        "name": "Photography",
+        "rank": 36,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6075,
+            "name": "Lay-duce"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7076,
+            "name": "Lawson"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6698,
+            "name": "KADOKAWA"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 17,
+            "name": "Aniplex"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6890,
+            "name": "INCS toenter"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 166,
+            "name": "Movic"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 133667,
+            "name": {
+              "full": "Haruki Serizawa",
+              "native": "芹沢春輝"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95005,
+              "name": {
+                "full": "Kenichi Suzumura",
+                "native": "鈴村健一"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 133668,
+            "name": {
+              "full": "Miou Aida",
+              "native": "合田美桜"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95599,
+              "name": {
+                "full": "Aki Toyosaki",
+                "native": "豊崎愛生"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 133669,
+            "name": {
+              "full": "Akari Hayasaka",
+              "native": "早坂あかり"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95817,
+              "name": {
+                "full": "Kana Asumi",
+                "native": "阿澄佳奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 133670,
+            "name": {
+              "full": "Saku Akechi",
+              "native": "明智咲"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95112,
+              "name": {
+                "full": "Hikaru Midorikawa",
+                "native": "緑川光"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 133671,
+            "name": {
+              "full": "Yuu Setoguchi",
+              "native": "瀬戸口優"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95118,
+              "name": {
+                "full": "Hiroshi Kamiya",
+                "native": "神谷浩史"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 133672,
+            "name": {
+              "full": "Souta Mochizuki",
+              "native": "望月蒼太"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95672,
+              "name": {
+                "full": "Yuuki Kaji",
+                "native": "梶裕貴"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 133673,
+            "name": {
+              "full": "Natsuki Enomoto",
+              "native": "榎本夏樹"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95890,
+              "name": {
+                "full": "Haruka Tomatsu",
+                "native": "戸松遥"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 283100,
+            "name": {
+              "full": "Chiaki Serizawa",
+              "native": "芹沢千秋"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96762,
+              "name": {
+                "full": "Ryouhei Kimura",
+                "native": "木村良平"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "98779": {
+    "id": 98779,
+    "idMal": 36990,
+    "title": {
+      "romaji": "Non Non Biyori: Vacation",
+      "english": "Non Non Biyori Vacation",
+      "native": "劇場版 のんのんびより ばけーしょん"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "Even when you're fortunate enough to live in a place as beautiful as the country village of Asahigaoka, you should never turn down the chance to explore someplace else. So, when Suguru wins a free trip to Okinawa just as the summer vacation is coming to an end, the town's entire school… all 5 students and 1 teacher, plus the local candy shop owner… can hardly wait for their 3-day trip to begin! Between kayaking, swimming and meeting new people, there's always something fun happening, but the best part of all is that big city girl Hotaru and her new small-town friends all get to explore the wonders of Japan's famous vacation destination together.<br><br>(Source: Sentai Filmworks)",
+    "episodes": 1,
+    "duration": 71,
+    "season": "SUMMER",
+    "seasonYear": 2018,
+    "startDate": {
+      "year": 2018,
+      "month": 8,
+      "day": 25
+    },
+    "endDate": {
+      "year": 2018,
+      "month": 8,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98779-83geTNam3rVE.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98779-83geTNam3rVE.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98779-83geTNam3rVE.jpg",
+      "color": "#0d78e4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98779-utaB4uQfpyXv.png",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "สาวใสหัวใจบ้านทุ่ง เดอะมูฟวี่"
+    ],
+    "averageScore": 81,
+    "meanScore": 81,
+    "popularity": 27533,
+    "trending": 0,
+    "favourites": 407,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "4UmZzIX028c",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/4UmZzIX028c/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://nonnontv.com/movie/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/nonnontv",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.hidive.com/movies/non-non-biyori-vacation",
+        "site": "HIDIVE",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 17549,
+            "title": {
+              "romaji": "Non Non Biyori",
+              "english": "Non Non Biyori"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 47552,
+            "title": {
+              "romaji": "Non Non Biyori",
+              "english": "Non Non Biyori"
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 20497,
+            "title": {
+              "romaji": "Non Non Biyori: Okinawa e Ikukoto ni Natta",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 81,
+        "name": "Iyashikei",
+        "rank": 96,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 250,
+        "name": "Rural",
+        "rank": 87,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 85,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 92,
+        "name": "Cute Girls Doing Cute Things",
+        "rank": 83,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 262,
+        "name": "Outdoor Activities",
+        "rank": 83,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 446,
+        "name": "Primarily Child Cast",
+        "rank": 77,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 72,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 118,
+        "name": "Drawing",
+        "rank": 57,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 235,
+        "name": "Badminton",
+        "rank": 55,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 811,
+        "name": "Scuba Diving",
+        "rank": 52,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 25,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 300,
+            "name": "SILVER LINK."
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 376,
+            "name": "Sentai Filmworks"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 54145,
+            "name": {
+              "full": "Hotaru Ichijou",
+              "native": "一条蛍"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107212,
+              "name": {
+                "full": "Rie Murakawa",
+                "native": "村川梨衣"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 54147,
+            "name": {
+              "full": "Natsumi Koshigaya",
+              "native": "越谷夏海"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106622,
+              "name": {
+                "full": "Ayane Sakura",
+                "native": "佐倉綾音"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 54149,
+            "name": {
+              "full": "Komari Koshigaya",
+              "native": "越谷小鞠"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95817,
+              "name": {
+                "full": "Kana Asumi",
+                "native": "阿澄佳奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 54151,
+            "name": {
+              "full": "Renge Miyauchi",
+              "native": "宮内れんげ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 109131,
+              "name": {
+                "full": "Kotori Koiwai",
+                "native": "小岩井ことり"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 139448,
+            "name": {
+              "full": "Aoi  Nizato",
+              "native": "新里あおい"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118841,
+              "name": {
+                "full": "Shino Shimoji",
+                "native": "下地紫野"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 87830,
+            "name": {
+              "full": "Suguru Koshigaya",
+              "native": "越谷卓"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 87829,
+            "name": {
+              "full": "Kaede Kagayama",
+              "native": "加賀山楓"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95241,
+              "name": {
+                "full": "Rina Satou",
+                "native": "佐藤利奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 87825,
+            "name": {
+              "full": "Konomi Fujimiya",
+              "native": "富士宮このみ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95315,
+              "name": {
+                "full": "Ryouko Shintani",
+                "native": "新谷良子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 87833,
+            "name": {
+              "full": "Hikage Miyauchi",
+              "native": "宮内ひかげ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95207,
+              "name": {
+                "full": "Misato Fukuen",
+                "native": "福圓美里"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 87831,
+            "name": {
+              "full": "Yukiko Koshigaya",
+              "native": "越谷雪子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95066,
+              "name": {
+                "full": "Akiko Hiramatsu",
+                "native": "平松晶子"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "98469": {
+    "id": 98469,
+    "idMal": 35134,
+    "title": {
+      "romaji": "Koukyoushihen Eureka Seven Hi-Evolution 1",
+      "english": "Eureka Seven Hi-Evolution 1",
+      "native": "交響詩篇エウレカセブン ハイエボリューション 1"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "It all begins with the story that was left untold – the earth-shattering incident where Renton’s father disappeared. With the mysterious Eureka by his side, only Adroc Thurston could undo his own mistake, sparking the event that changed everything and earned him the title of a hero. Now, ten years later, Eureka lies in critical condition as Renton leaves the crew of the Gekko. But when he finds himself in the care of his father’s old friends, he has a choice to make. Either stay with the loving family he’s always wanted, or earn the love he seeks.",
+    "episodes": 1,
+    "duration": 93,
+    "season": "SUMMER",
+    "seasonYear": 2017,
+    "startDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 16
+    },
+    "endDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 16
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98469-yAUcfoLGLHTk.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98469-yAUcfoLGLHTk.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98469-yAUcfoLGLHTk.jpg",
+      "color": "#6b1a1a"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98469-ftOsOxHK1ceN.jpg",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "E7 Hi-Evolution"
+    ],
+    "averageScore": 57,
+    "meanScore": 58,
+    "popularity": 5780,
+    "trending": 0,
+    "favourites": 51,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "DWV3kFQyTZ8",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/DWV3kFQyTZ8/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://eurekaseven.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/EUREKA_HI_EVO",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.crunchyroll.com/eureka-seven-hi-evolution",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 1 - EUREKA SEVEN HI-EVOLUTION 1",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/65f7c6f6bf201c4a7ac1a2f33c0d62361675367535_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G9DUE3733/eureka-seven-hi-evolution-1",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - ANEMONE: EUREKA SEVEN HI-EVOLUTION",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/39f45a612b474f96ff4a2321499ac50e1675367524_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GX9UQ090Z/anemone-eureka-seven-hi-evolution",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - EUREKA: EUREKA SEVEN HI-EVOLUTION",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/198c81b5f5bb2e94b32fcb2efb6aa7b21675368496_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GK9U3XQD2/eureka-eureka-seven-hi-evolution",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 98470,
+            "title": {
+              "romaji": "ANEMONE: Koukyoushihen Eureka Seven Hi-Evolution",
+              "english": "ANEMONE: Eureka Seven Hi-Evolution"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 237,
+            "title": {
+              "romaji": "Koukyoushihen Eureka Seven",
+              "english": "Eureka Seven"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 118077,
+            "title": {
+              "romaji": "Pachislot Eureka Seven 3",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 156,
+        "name": "Achronological Order",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 159,
+        "name": "Super Robot",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 111,
+        "name": "War",
+        "rank": 46,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 46,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 46,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 244,
+        "name": "Isekai",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 4,
+            "name": "bones"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 477,
+            "name": {
+              "full": "Renton Thurston",
+              "native": "レントン・サーストン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95407,
+              "name": {
+                "full": "Yuuko Sanpei",
+                "native": "三瓶由布子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 1709,
+            "name": {
+              "full": "Eureka",
+              "native": "エウレカ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95078,
+              "name": {
+                "full": "Kaori Nazuka",
+                "native": "名塚佳織"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1512,
+            "name": {
+              "full": "Holland Novak",
+              "native": "ホランド・ノヴァク"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95006,
+              "name": {
+                "full": "Toshiyuki Morikawa",
+                "native": "森川智之"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1530,
+            "name": {
+              "full": "Talho Yuuki",
+              "native": "タルホ・ユーキ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95176,
+              "name": {
+                "full": "Michiko Neya",
+                "native": "根谷美智子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 5552,
+            "name": {
+              "full": "Charles Beams",
+              "native": "チャールズ・ビームス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95237,
+              "name": {
+                "full": "Juurouta Kosugi",
+                "native": "小杉十郎太"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 6718,
+            "name": {
+              "full": "Ray Beams",
+              "native": "レイ・ビームス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95080,
+              "name": {
+                "full": "Aya Hisakawa",
+                "native": "久川綾"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 2920,
+            "name": {
+              "full": "Matthieu",
+              "native": "マシュー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100404,
+              "name": {
+                "full": "Akio Nakamura",
+                "native": "彰男中村"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 4005,
+            "name": {
+              "full": "Dewey Novak",
+              "native": "デューイ・ノヴァク"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95427,
+              "name": {
+                "full": "Kouji Tsujitani",
+                "native": "辻谷耕史"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 30855,
+            "name": {
+              "full": "Adroc Thurston",
+              "native": "アドロック"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95326,
+              "name": {
+                "full": "Tooru Furuya",
+                "native": "古谷徹"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 48763,
+            "name": {
+              "full": "Uno",
+              "native": "ウーノ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100148,
+              "name": {
+                "full": "Masanori Takeda",
+                "native": "竹田雅則"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "98005": {
+    "id": 98005,
+    "idMal": 34636,
+    "title": {
+      "romaji": "Ballroom e Youkoso",
+      "english": "Welcome to the Ballroom",
+      "native": "ボールルームへようこそ"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "Fujita has drifted through middle school aimlessly, unable to find friends or anything that can hold his attention. Then, one day, he's attacked by a gang and saved by a mysterious man. But this isn't a karate master; it's a ballroom dance instructor! Reluctantly, Fujita takes a few beginner's classes, only to find his inspiration... an entrancing, teenage dance prodigy named Shizuku.\n<br>\nIt's Fujita's first step into the high-octane world of competitive dance!\n<br><br>\n(Source: Kodansha USA)",
+    "episodes": 24,
+    "duration": 25,
+    "season": "SUMMER",
+    "seasonYear": 2017,
+    "startDate": {
+      "year": 2017,
+      "month": 7,
+      "day": 9
+    },
+    "endDate": {
+      "year": 2017,
+      "month": 12,
+      "day": 17
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98005-kwoBQIEeXa8J.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98005-kwoBQIEeXa8J.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98005-kwoBQIEeXa8J.png",
+      "color": null
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98005-LYk3El5uGnnx.jpg",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sports"
+    ],
+    "synonyms": [],
+    "averageScore": 79,
+    "meanScore": 79,
+    "popularity": 86514,
+    "trending": 0,
+    "favourites": 2544,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "PGGwyb0d0Y8",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/PGGwyb0d0Y8/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://ballroom-official.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/ballroom_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.amazon.com/gp/video/detail/B073R61J5N",
+        "site": "Amazon Prime Video",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.crunchyroll.com/series/GMEHMEZ7J/welcome-to-the-ballroom",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 78347,
+            "title": {
+              "romaji": "Ballroom e Youkoso",
+              "english": "Welcome to the Ballroom"
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 209,
+        "name": "Dancing",
+        "rank": 97,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 102,
+        "name": "Coming of Age",
+        "rank": 71,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 64,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 40,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 931,
+        "name": "Tomboy",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 90,
+        "name": "CGI",
+        "rank": 26,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 171,
+        "name": "Bullying",
+        "rank": 23,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 311,
+        "name": "Rehabilitation",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 10,
+            "name": "Production I.G"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 121253,
+            "name": {
+              "full": "Tatara Fujita",
+              "native": "富士田多々良"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 121823,
+              "name": {
+                "full": "Shinba Tsuchiya",
+                "native": "土屋神葉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 121254,
+            "name": {
+              "full": "Chinatsu Hiyama",
+              "native": "緋山千夏"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107652,
+              "name": {
+                "full": "Chinatsu Akasaki",
+                "native": "赤﨑千夏"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 121431,
+            "name": {
+              "full": "Shizuku Hanaoka",
+              "native": "花岡雫"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106622,
+              "name": {
+                "full": "Ayane Sakura",
+                "native": "佐倉綾音"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 121432,
+            "name": {
+              "full": "Kiyoharu Hyoudou",
+              "native": "兵藤清春"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95270,
+              "name": {
+                "full": "Nobuhiko Okamoto",
+                "native": "岡本信彦"
+              }
+            },
+            {
+              "id": 142982,
+              "name": {
+                "full": "Natsu Yorita",
+                "native": "依田菜津"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 121433,
+            "name": {
+              "full": "Kaname Sengoku",
+              "native": "仙谷要"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95006,
+              "name": {
+                "full": "Toshiyuki Morikawa",
+                "native": "森川智之"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 121434,
+            "name": {
+              "full": "Mako Akagi",
+              "native": "赤城真子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106404,
+              "name": {
+                "full": "Sumire Morohoshi",
+                "native": "諸星すみれ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 121435,
+            "name": {
+              "full": "Marisa Hyoudou",
+              "native": "兵藤マリサ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95428,
+              "name": {
+                "full": "Yuuko Kaida",
+                "native": "甲斐田裕子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 121436,
+            "name": {
+              "full": "Gaju Akagi",
+              "native": "赤城賀寿"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 122972,
+              "name": {
+                "full": "Kentarou Tomita",
+                "native": "富田健太郎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 121437,
+            "name": {
+              "full": "Akira Koumoto",
+              "native": "甲本明"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101686,
+              "name": {
+                "full": "Aoi Yuuki",
+                "native": "悠木碧"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 133327,
+            "name": {
+              "full": "Masami Kugimiya",
+              "native": "釘宮方美"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95079,
+              "name": {
+                "full": "Takahiro Sakurai",
+                "native": "櫻井孝宏"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "98549": {
+    "id": 98549,
+    "idMal": 35330,
+    "title": {
+      "romaji": "Poputepipikku",
+      "english": "Pop Team Epic",
+      "native": "ポプテピピック"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "Poputepipikku turns absurdist comedy up to eleven with its pop culture references and surreal hilarity. With two bonafide high school girl protagonists—the short and exceptionally quick to anger Popuko, and the tall and unshakably calm Pipimi—they throw genres against the wall and don't wait to see what sticks. Parody is interlaced with drama, action, crudeness, and the show's overarching goal—to become a real anime.<br><Br>\n",
+    "episodes": 12,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2018,
+    "startDate": {
+      "year": 2018,
+      "month": 1,
+      "day": 7
+    },
+    "endDate": {
+      "year": 2018,
+      "month": 3,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98549-XfLyPhrP5Ors.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx98549-XfLyPhrP5Ors.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx98549-XfLyPhrP5Ors.jpg",
+      "color": "#e4bb35"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98549-AFXSfj3tDo6y.png",
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [
+      "PPTP",
+      "PTE",
+      "Poptepipic"
+    ],
+    "averageScore": 69,
+    "meanScore": 69,
+    "popularity": 67532,
+    "trending": 0,
+    "favourites": 1201,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "http://hoshiiro.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/hoshiiro_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "http://www.crunchyroll.com/pop-team-epic",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://tubitv.com/series/4542/pop_team_epic",
+        "site": "Tubi TV",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.amazon.com/dp/B07BS2SXXP/",
+        "site": "Amazon Prime Video",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.netflix.com/title/80228291",
+        "site": "Netflix",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 1 - You're the Only One I'm Telling!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/bdc2cfbf3cc29f020908a15c65386dea1515250597_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G31UX1N04/youre-the-only-one-im-telling",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - Vanver - A Game in Another Dimension",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/6366434aa3cc5a8df79ab86841afd50c1515855708_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GPWUK7919/vanver-a-game-in-another-dimension",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - The Documentary",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/5a50d367a59d65ab68b53cdaa3c12a4b1516461257_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G2XU0K7WX/the-documentary",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - SWGP 2018",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/9a375dc91bf5e635c16b80df312efd1f1517063699_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GZ7UVKG8M/swgp-2018",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - Donca * Sis",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/0213d8972107aa34ff303616e33376231517651923_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GD9UVKMJV/donca-sis",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - The 30th Cyber War",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/51002249ed9f7c48ed887431c55895f41518259987_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GWDU8X2WZ/the-30th-cyber-war",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 7 - Hellshake Yano",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/71ff5e5b7b15652efdf092e49751cc9a1518830239_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G0DUNP21Q/hellshake-yano",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 8 - The Dragon of Iidabashi Pipi's Revenge",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/17a1246ac9c32bed8e911d7ff6ba49b91519465674_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GEVUZM72P/the-dragon-of-iidabashi-pipis-revenge",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 9 - Dancing with a Miracle",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/c2f966ca84b072ff6fc6971ce773f9ab1520060400_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GX9UQXEG9/dancing-with-a-miracle",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 10 - Ginza Hostess Detective",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/05f37b24e96b33fd6fb448c43640c2741520672742_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G14U4D700/ginza-hostess-detective",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 11 - Cursed Mansion",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/0f897fba25c658bbc97c570dba4e8d691521266006_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GN7UDEM9Q/cursed-mansion",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 12 - The Age of Pop Team Epic",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/1a5bc1effc23508f4255ae5b87aa271b1521744757_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GMKUX217G/the-age-of-pop-team-epic",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 87005,
+            "title": {
+              "romaji": "Poputepipikku",
+              "english": "Pop Team Epic"
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 104200,
+            "title": {
+              "romaji": "Poputepipikku TV Special",
+              "english": "POP TEAM EPIC TV SPECIAL"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 110693,
+            "title": {
+              "romaji": "Poputepipikku Kinen",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 143086,
+            "title": {
+              "romaji": "Poputepipikku 2",
+              "english": "Pop Team Epic Season 2"
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 96,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 193,
+        "name": "Episodic",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 39,
+        "name": "Parody",
+        "rank": 89,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 144,
+        "name": "Meta",
+        "rank": 89,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 80,
+        "name": "Satire",
+        "rank": 89,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1742,
+        "name": "Mixed Media",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 265,
+        "name": "Musical Theater",
+        "rank": 45,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 437,
+            "name": "Kamikaze Douga"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6202,
+            "name": "King Records"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6158,
+            "name": "Glovision"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 376,
+            "name": "Sentai Filmworks"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 102,
+            "name": "Funimation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 121659,
+            "name": {
+              "full": "Popuko",
+              "native": "ポプ子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95179,
+              "name": {
+                "full": "Masashi Ebara",
+                "native": "江原正士"
+              }
+            },
+            {
+              "id": 95874,
+              "name": {
+                "full": "Yuuji Mitsuya",
+                "native": "三ツ矢雄二"
+              }
+            },
+            {
+              "id": 101686,
+              "name": {
+                "full": "Aoi Yuuki",
+                "native": "悠木碧"
+              }
+            },
+            {
+              "id": 95673,
+              "name": {
+                "full": "Toshio Furukawa",
+                "native": "古川登志夫"
+              }
+            },
+            {
+              "id": 105071,
+              "name": {
+                "full": "Mikako Komatsu",
+                "native": "小松未可子"
+              }
+            },
+            {
+              "id": 95259,
+              "name": {
+                "full": "Ryuusei Nakao",
+                "native": "中尾隆聖"
+              }
+            },
+            {
+              "id": 102263,
+              "name": {
+                "full": "Youko Hikasa",
+                "native": "日笠陽子"
+              }
+            },
+            {
+              "id": 95761,
+              "name": {
+                "full": "Tesshou Genda",
+                "native": "玄田哲章"
+              }
+            },
+            {
+              "id": 95272,
+              "name": {
+                "full": "Tomoko Kaneda",
+                "native": "金田朋子"
+              }
+            },
+            {
+              "id": 95513,
+              "name": {
+                "full": "Yuuichi Nakamura",
+                "native": "中村悠一"
+              }
+            },
+            {
+              "id": 95407,
+              "name": {
+                "full": "Yuuko Sanpei",
+                "native": "三瓶由布子"
+              }
+            },
+            {
+              "id": 95356,
+              "name": {
+                "full": "Hiro Shimono",
+                "native": "下野紘"
+              }
+            },
+            {
+              "id": 95470,
+              "name": {
+                "full": "Satomi Koorogi",
+                "native": "こおろぎさとみ"
+              }
+            },
+            {
+              "id": 95178,
+              "name": {
+                "full": "Shoutarou Morikubo",
+                "native": "森久保祥太郎"
+              }
+            },
+            {
+              "id": 106404,
+              "name": {
+                "full": "Sumire Morohoshi",
+                "native": "諸星すみれ"
+              }
+            },
+            {
+              "id": 95173,
+              "name": {
+                "full": "Masaya Onosaka",
+                "native": "小野坂昌也"
+              }
+            },
+            {
+              "id": 103983,
+              "name": {
+                "full": "Eriko Nakamura",
+                "native": "中村繪里子"
+              }
+            },
+            {
+              "id": 113227,
+              "name": {
+                "full": "Souma Saitou",
+                "native": "斉藤壮馬"
+              }
+            },
+            {
+              "id": 106361,
+              "name": {
+                "full": "Sora Tokui",
+                "native": "徳井青空"
+              }
+            },
+            {
+              "id": 95113,
+              "name": {
+                "full": "Rikiya Koyama",
+                "native": "小山力也"
+              }
+            },
+            {
+              "id": 95081,
+              "name": {
+                "full": "Nana Mizuki",
+                "native": "水樹奈々"
+              }
+            },
+            {
+              "id": 95936,
+              "name": {
+                "full": "Hozumi Gouda",
+                "native": "郷田ほづみ"
+              }
+            },
+            {
+              "id": 95571,
+              "name": {
+                "full": "Mami Koyama",
+                "native": "小山茉美"
+              }
+            },
+            {
+              "id": 95137,
+              "name": {
+                "full": "Shou Hayami",
+                "native": "速水奨"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 126364,
+            "name": {
+              "full": "Pipimi",
+              "native": "ピピ美"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95337,
+              "name": {
+                "full": "Houchuu Ootsuka",
+                "native": "大塚芳忠"
+              }
+            },
+            {
+              "id": 95181,
+              "name": {
+                "full": "Noriko Hidaka",
+                "native": "日高のり子"
+              }
+            },
+            {
+              "id": 101996,
+              "name": {
+                "full": "Ayana Taketatsu",
+                "native": "竹達彩奈"
+              }
+            },
+            {
+              "id": 95255,
+              "name": {
+                "full": "Shigeru Chiba",
+                "native": "千葉繁"
+              }
+            },
+            {
+              "id": 109441,
+              "name": {
+                "full": "Sumire Uesaka",
+                "native": "上坂すみれ"
+              }
+            },
+            {
+              "id": 95084,
+              "name": {
+                "full": "Norio Wakamoto",
+                "native": "若本規夫"
+              }
+            },
+            {
+              "id": 101560,
+              "name": {
+                "full": "Satomi Satou",
+                "native": "佐藤聡美"
+              }
+            },
+            {
+              "id": 95416,
+              "name": {
+                "full": "Akira Kamiya",
+                "native": "神谷明"
+              }
+            },
+            {
+              "id": 95034,
+              "name": {
+                "full": "Yuu Kobayashi",
+                "native": "小林ゆう"
+              }
+            },
+            {
+              "id": 95002,
+              "name": {
+                "full": "Tomokazu Sugita",
+                "native": "杉田智和"
+              }
+            },
+            {
+              "id": 95078,
+              "name": {
+                "full": "Kaori Nazuka",
+                "native": "名塚佳織"
+              }
+            },
+            {
+              "id": 95672,
+              "name": {
+                "full": "Yuuki Kaji",
+                "native": "梶裕貴"
+              }
+            },
+            {
+              "id": 95148,
+              "name": {
+                "full": "Akiko Yajima",
+                "native": "矢島晶子"
+              }
+            },
+            {
+              "id": 95097,
+              "name": {
+                "full": "Kousuke Toriumi",
+                "native": "鳥海浩輔"
+              }
+            },
+            {
+              "id": 112297,
+              "name": {
+                "full": "Azusa Tadokoro",
+                "native": "田所あずさ"
+              }
+            },
+            {
+              "id": 95087,
+              "name": {
+                "full": "Daisuke Namikawa",
+                "native": "浪川大輔"
+              }
+            },
+            {
+              "id": 103662,
+              "name": {
+                "full": "Asami Imai",
+                "native": "今井麻美"
+              }
+            },
+            {
+              "id": 115156,
+              "name": {
+                "full": "Kaito Ishikawa",
+                "native": "石川界人"
+              }
+            },
+            {
+              "id": 106359,
+              "name": {
+                "full": "Suzuko Mimori",
+                "native": "三森すずこ"
+              }
+            },
+            {
+              "id": 95133,
+              "name": {
+                "full": "Wataru Takagi",
+                "native": "高木渉"
+              }
+            },
+            {
+              "id": 95040,
+              "name": {
+                "full": "Mamiko Noto",
+                "native": "能登麻美子"
+              }
+            },
+            {
+              "id": 95330,
+              "name": {
+                "full": "Banjou Ginga",
+                "native": "銀河万丈"
+              }
+            },
+            {
+              "id": 95009,
+              "name": {
+                "full": "Kotono Mitsuishi",
+                "native": "三石琴乃"
+              }
+            },
+            {
+              "id": 95091,
+              "name": {
+                "full": "Jouji Nakata",
+                "native": "中田譲治"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 36309,
+            "name": {
+              "full": "Narrator",
+              "native": "ナレーター"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 142939,
+              "name": {
+                "full": "Joey Bizinger",
+                "native": "Joseph Tetsurou Bizinger VI"
+              }
+            },
+            {
+              "id": 100247,
+              "name": {
+                "full": "Masashi Hironaka",
+                "native": "広中雅志"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 135510,
+            "name": {
+              "full": "Hellshake Yano",
+              "native": "ヘルシェイク矢野"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 128242,
+              "name": {
+                "full": "AC-Bu",
+                "native": "AC部"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 142815,
+            "name": {
+              "full": "Joseph",
+              "native": "ジョセフ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 142939,
+              "name": {
+                "full": "Joey Bizinger",
+                "native": "Joseph Tetsurou Bizinger VI"
+              }
+            },
+            {
+              "id": 118841,
+              "name": {
+                "full": "Shino Shimoji",
+                "native": "下地紫野"
+              }
+            },
+            {
+              "id": 102242,
+              "name": {
+                "full": "Tarusuke Shingaki",
+                "native": "新垣樽助"
+              }
+            },
+            {
+              "id": 110919,
+              "name": {
+                "full": "Ayumu Murase",
+                "native": "村瀬歩"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 156300,
+            "name": {
+              "full": "Shouta Aoi",
+              "native": "蒼井翔太"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 109879,
+              "name": {
+                "full": "Shouta Aoi",
+                "native": "蒼井翔太"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 291304,
+            "name": {
+              "full": "Daichi Taira",
+              "native": "平大地"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118249,
+              "name": {
+                "full": "Seiichirou Yamashita",
+                "native": "山下誠一郎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 291305,
+            "name": {
+              "full": "Haha",
+              "native": "母"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 291306,
+              "name": {
+                "full": "Tomoko Natsukawa",
+                "native": "夏川朋子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 291307,
+            "name": {
+              "full": "Sosogu Hoshifuri",
+              "native": "星降そそぐ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105981,
+              "name": {
+                "full": "Yui Ogura",
+                "native": "小倉唯"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 291312,
+            "name": {
+              "full": "Yuusha",
+              "native": "勇者"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95257,
+              "name": {
+                "full": "Nobuyuki Hiyama",
+                "native": "檜山修之"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "98203": {
+    "id": 98203,
+    "idMal": 34823,
+    "title": {
+      "romaji": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+      "english": "On a Lustful Night Mingling with a Priest",
+      "native": "僧侶と交わる色欲の夜に..."
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "The story begins when a woman reunites with her first love at a class reunion. She discovers that Kujou has taken over his family's temple as a priest. The woman thought that priests did not have romantic relationships, but a passion ignites between the two. She wonders if what she and the priest do is really right.\n<br><br>\n(Source: Anime News Network)",
+    "episodes": 12,
+    "duration": 5,
+    "season": "SPRING",
+    "seasonYear": 2017,
+    "startDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2017,
+      "month": 6,
+      "day": 19
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98203-OilSiRT4uo75.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx98203-OilSiRT4uo75.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98203-OilSiRT4uo75.jpg",
+      "color": "#e4bba1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98203-M2SH2dBb1rMp.jpg",
+    "genres": [
+      "Ecchi",
+      "Hentai",
+      "Romance"
+    ],
+    "synonyms": [
+      "Perdóname que he Pecado",
+      "Uma Noite Pecaminosa"
+    ],
+    "averageScore": 39,
+    "meanScore": 39,
+    "popularity": 8518,
+    "trending": 0,
+    "favourites": 50,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "pASzNTXAu7k",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/pASzNTXAu7k/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/souryo_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "http://soryo.w-anime.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://coolmic.me/anime/video_titles/1",
+        "site": "Coolmic",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://oceanveil.net/anime_titles/23",
+        "site": "OceanVeil",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://oceanveil.net/anime_titles/100",
+        "site": "OceanVeil",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://oceanveil.net/anime_titles/108",
+        "site": "OceanVeil",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 99874,
+            "title": {
+              "romaji": "Souryo to Majiwaru Shikiyoku no Yoru ni",
+              "english": "On a Lustful Night Mingling with a Priest"
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 649,
+        "name": "Teens' Love",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 155,
+        "name": "Rape",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 27,
+        "name": "Josei",
+        "rank": 50,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 541,
+            "name": "Seven"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 134192,
+            "name": {
+              "full": "Mio Fukatani",
+              "native": "深谷美桜"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 122815,
+              "name": {
+                "full": "Yuri Katou",
+                "native": "加藤祐梨"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 134193,
+            "name": {
+              "full": "Takahide Kujou",
+              "native": "九条隆秀"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 134194,
+              "name": {
+                "full": "You Suzuki",
+                "native": "鈴城葉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 134195,
+            "name": {
+              "full": "Shiori Kujou",
+              "native": "九条栞"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 134196,
+              "name": {
+                "full": "Nerine Akiyama",
+                "native": "秋山ねりね"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 134197,
+            "name": {
+              "full": "Kiyotaka Kujou",
+              "native": "九条清隆"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 134198,
+              "name": {
+                "full": "Paama Kurukuru",
+                "native": "狂々パーマ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 134199,
+            "name": {
+              "full": "Yukitaka Kujou",
+              "native": "九条雪隆"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 134200,
+              "name": {
+                "full": "Renya Koitsuda",
+                "native": "恋津田漣也"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787346106
   }
 }

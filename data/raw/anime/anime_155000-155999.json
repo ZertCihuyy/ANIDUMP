@@ -8828,7 +8828,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787450400,
-      "timeUntilAiring": 98509,
+      "timeUntilAiring": 96850,
       "episode": 409
     },
     "relations": {
@@ -10430,5 +10430,234 @@
       ]
     },
     "updatedAt": 1787345778
+  },
+  "155738": {
+    "id": 155738,
+    "idMal": 53499,
+    "title": {
+      "romaji": "Aikatsu! 10th STORY: Mirai e no STARWAY (2023)",
+      "english": null,
+      "native": "アイカツ！ 10th STORY ～未来へのSTARWAY〜 (2023)"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "A new Aikatsu! film set for 2023 following <i>Aikatsu! 10th STORY ~Mirai e no STARWAY~</i>.",
+    "episodes": 1,
+    "duration": 72,
+    "season": "WINTER",
+    "seasonYear": 2023,
+    "startDate": {
+      "year": 2023,
+      "month": 1,
+      "day": 20
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 1,
+      "day": 20
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155738-BqpFDUCCKXXc.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155738-BqpFDUCCKXXc.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx155738-BqpFDUCCKXXc.jpg",
+      "color": "#ffe435"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Music"
+    ],
+    "synonyms": [],
+    "averageScore": 78,
+    "meanScore": 82,
+    "popularity": 1312,
+    "trending": 0,
+    "favourites": 39,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "jGCiLYh99Fo",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/jGCiLYh99Fo/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 148960,
+            "title": {
+              "romaji": "Aikatsu! 10th STORY: Mirai e no STARWAY",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 115,
+        "name": "Idol",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 99,
+        "name": "Henshin",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 153,
+        "name": "Time Skip",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 364,
+        "name": "Augmented Reality",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 410,
+        "name": "Fashion",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 209,
+        "name": "Dancing",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 102,
+        "name": "Coming of Age",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6116,
+            "name": "Bandai Namco Pictures"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 67451,
+            "name": {
+              "full": "Ichigo Hoshimiya",
+              "native": "星宮いちご"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106404,
+              "name": {
+                "full": "Sumire Morohoshi",
+                "native": "諸星すみれ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 67453,
+            "name": {
+              "full": "Aoi Kiriya",
+              "native": "霧矢あおい"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 112297,
+              "name": {
+                "full": "Azusa Tadokoro",
+                "native": "田所あずさ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 67455,
+            "name": {
+              "full": "Ran Shibuki",
+              "native": "紫吹蘭"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 110903,
+              "name": {
+                "full": "Ayaka Oohashi",
+                "native": "大橋彩香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 88523,
+            "name": {
+              "full": "Akari\r\n Oozora",
+              "native": "大空あかり"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118841,
+              "name": {
+                "full": "Shino Shimoji",
+                "native": "下地紫野"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
   }
 }

@@ -6498,7 +6498,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 275627,
-    "trending": 5,
+    "trending": 7,
     "favourites": 9426,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6943,7 +6943,7 @@
         }
       ]
     },
-    "updatedAt": 1787346068
+    "updatedAt": 1787353217
   },
   "13249": {
     "id": 13249,
@@ -7083,5 +7083,1082 @@
       "edges": []
     },
     "updatedAt": 1787345811
+  },
+  "13201": {
+    "id": 13201,
+    "idMal": 13201,
+    "title": {
+      "romaji": "Monster Farm: Legend e no Michi",
+      "english": "Monster Rancher (2000)",
+      "native": "モンスターファーム 〜伝説への道〜"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "Genki is a boy who loves playing video games. One day he's zapped into the world of Monster Rancher and meets the girl Holly and the monsters Mochi, Suezo, Golem, Tiger and Hare.<br><br>\nContinuing from where the original story left off, Genki and friends journey to conquer the legend cup in hopes of freeing Holly's father from the mystery disc.<br><br>\n(Source: AniDB)",
+    "episodes": 25,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2000,
+    "startDate": {
+      "year": 2000,
+      "month": 4,
+      "day": 1
+    },
+    "endDate": {
+      "year": 2000,
+      "month": 9,
+      "day": 30
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13201.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13201.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/13201.jpg",
+      "color": "#f1d61a"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "synonyms": [],
+    "averageScore": 64,
+    "meanScore": 64,
+    "popularity": 4407,
+    "trending": 0,
+    "favourites": 45,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.amazon.com/gp/video/detail/B07YQCFBG3/",
+        "site": "Amazon Prime Video",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.crackle.com/details/bd7a7777-2fe8-424a-8b5a-5a8d0dcf2963/monster-rancher-(english-dub)",
+        "site": "Crackle",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://tubitv.com/series/2099/monster-rancher",
+        "site": "Tubi TV",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 1469,
+            "title": {
+              "romaji": "Monster Farm: Enbanseki no Himitsu",
+              "english": "Monster Rancher"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 15937,
+            "title": {
+              "romaji": "Monster Farm 5: Circus Caravan OVA - Kessei!! Orcoro Circus",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 28,
+        "name": "Kids",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 244,
+        "name": "Isekai",
+        "rank": 73,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 73,
+            "name": "TMS Entertainment"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 467,
+            "name": "Discotek"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 7177,
+            "name": {
+              "full": "Genki Sakura",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95904,
+              "name": {
+                "full": "Chisa Yokoyama",
+                "native": "横山智佐"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "13261": {
+    "id": 13261,
+    "idMal": 13261,
+    "title": {
+      "romaji": "Inazuma Eleven GO: Chrono Stone",
+      "english": null,
+      "native": "イナズマイレブンGO クロノ・ストーン"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "The story is set after the end of Holy Road tournament finals of the first Inazuma Eleven GO anime, and Tenma returns to Raimon Junior High School. However, this is not the Raimon that Tenma remembers, and the members of the Raimon team no longer play soccer. <br><br>\nTenma realizes that this is a parallel world when Alpha, the captain and forward of the Protocol Omega team, appears before him. Alpha is part of a secret project in the future to wipe out soccer. <br><br>\nTo aid Tenma in his adventures, the Inazuma Caravan van seen in previous Inazuma Eleven anime has been modified into a flying time machine.\n<br><br>\n(Source: Anime News Network)",
+    "episodes": 51,
+    "duration": 23,
+    "season": "SPRING",
+    "seasonYear": 2012,
+    "startDate": {
+      "year": 2012,
+      "month": 4,
+      "day": 18
+    },
+    "endDate": {
+      "year": 2013,
+      "month": 5,
+      "day": 1
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13261-ONMwQFlAEKqO.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13261-ONMwQFlAEKqO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx13261-ONMwQFlAEKqO.jpg",
+      "color": "#f19328"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13261-VBvWLxkmQZqy.jpg",
+    "genres": [
+      "Adventure",
+      "Sci-Fi",
+      "Sports",
+      "Supernatural"
+    ],
+    "synonyms": [],
+    "averageScore": 72,
+    "meanScore": 72,
+    "popularity": 17583,
+    "trending": 0,
+    "favourites": 493,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 10507,
+            "title": {
+              "romaji": "Inazuma Eleven GO",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 18097,
+            "title": {
+              "romaji": "Inazuma Eleven Go: Galaxy",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 15785,
+            "title": {
+              "romaji": "Inazuma Eleven GO vs Danball Senki W",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 148,
+        "name": "Football",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 92,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 96,
+        "name": "Time Manipulation",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 25,
+        "name": "Historical",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 28,
+        "name": "Kids",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 99,
+        "name": "Henshin",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 175,
+        "name": "Robots",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 146,
+        "name": "Alternate Universe",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 92,
+        "name": "Cute Girls Doing Cute Things",
+        "rank": 36,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1063,
+        "name": "Cute Boys Doing Cute Things",
+        "rank": 30,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 704,
+        "name": "Dinosaurs",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 517,
+        "name": "Artificial Intelligence",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 28,
+            "name": "OLM"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 41766,
+            "name": {
+              "full": "Tenma Matsukaze",
+              "native": "松風天馬"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95671,
+              "name": {
+                "full": "Yuka Terasaki",
+                "native": "寺崎裕香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 41960,
+            "name": {
+              "full": "Kyousuke Tsurugi",
+              "native": "剣城京介"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95034,
+              "name": {
+                "full": "Yuu Kobayashi",
+                "native": "小林ゆう"
+              }
+            },
+            {
+              "id": 96636,
+              "name": {
+                "full": "Takashi Oohara",
+                "native": "大原崇"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 41961,
+            "name": {
+              "full": "Takuto Shindou",
+              "native": "神童拓人"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95197,
+              "name": {
+                "full": "Mitsuki Saiga",
+                "native": "斎賀みつき"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 61553,
+            "name": {
+              "full": "Fei Rune",
+              "native": "フェイ・ルーン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95467,
+              "name": {
+                "full": "Akiko Kimura",
+                "native": "木村亜希子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 16412,
+            "name": {
+              "full": "Mamoru Endou",
+              "native": "円堂守"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95015,
+              "name": {
+                "full": "Junko Takeuchi",
+                "native": "竹内順子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 16413,
+            "name": {
+              "full": "Shuuya Gouenji",
+              "native": "豪炎寺修也"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95341,
+              "name": {
+                "full": "Hirofumi Nojima",
+                "native": "野島裕史"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 22737,
+            "name": {
+              "full": "Yuuto Kidou",
+              "native": "鬼道有人"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95283,
+              "name": {
+                "full": "Hiroyuki Yoshino",
+                "native": "吉野裕行"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 31778,
+            "name": {
+              "full": "Daisuke Endou",
+              "native": "円堂大介"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101455,
+              "name": {
+                "full": "Yuzuru Fujimoto",
+                "native": "藤本譲"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 31779,
+            "name": {
+              "full": "Haruna Otonashi",
+              "native": "音無春奈"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101542,
+              "name": {
+                "full": "Hinako Sasaki",
+                "native": "日菜子佐々木"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 31784,
+            "name": {
+              "full": "Aki Kino",
+              "native": "木野秋"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95152,
+              "name": {
+                "full": "Fumiko Orikasa",
+                "native": "折笠富美子"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "13391": {
+    "id": 13391,
+    "idMal": 13391,
+    "title": {
+      "romaji": "Rakuen Tsuihou: Expelled From Paradise",
+      "english": "Expelled From Paradise",
+      "native": "楽園追放 -Expelled From Paradise-"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "Angela Balzac is an agent at the space station DEVA, whose inhabitants have no physical bodies, their minds digitized and processed into a virtual reality environment. After failing to track down the hacker known as \"Frontier Setter\", she is tasked to look for him down on Earth, now a barren planet where the rest of the humans live.<br>\n<br>\n(Source: Wikipedia)",
+    "episodes": 1,
+    "duration": 103,
+    "season": "FALL",
+    "seasonYear": 2014,
+    "startDate": {
+      "year": 2014,
+      "month": 11,
+      "day": 15
+    },
+    "endDate": {
+      "year": 2014,
+      "month": 11,
+      "day": 15
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13391-uj1wsF4E8mXO.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13391-uj1wsF4E8mXO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx13391-uj1wsF4E8mXO.jpg",
+      "color": "#43d6f1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13391-I4GeJZD2X1HS.jpg",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "synonyms": [],
+    "averageScore": 70,
+    "meanScore": 70,
+    "popularity": 27631,
+    "trending": 0,
+    "favourites": 244,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "D2YmhH50ybw",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/D2YmhH50ybw/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://rakuen-tsuiho.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "http://www.netflix.com/title/80038207",
+        "site": "Netflix",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 106585,
+            "title": {
+              "romaji": "Rakuen Tsuihou: Mission.0",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 157330,
+            "title": {
+              "romaji": "Rakuen Tsuihou: Kokoro no Resonance",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 175,
+        "name": "Robots",
+        "rank": 96,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 95,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 517,
+        "name": "Artificial Intelligence",
+        "rank": 93,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 160,
+        "name": "Real Robot",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 226,
+        "name": "Fugitive",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 217,
+        "name": "Dystopian",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 93,
+        "name": "Post-Apocalyptic",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 391,
+        "name": "Philosophy",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 63,
+        "name": "Space",
+        "rank": 72,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 112,
+        "name": "Virtual World",
+        "rank": 72,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 694,
+        "name": "Detective",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 43,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 364,
+        "name": "Augmented Reality",
+        "rank": 30,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 108,
+        "name": "Cyberpunk",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 18,
+            "name": "Toei Animation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 459,
+            "name": "Nitroplus"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 894,
+            "name": "Graphinica"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 493,
+            "name": "Aniplex of America"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 86857,
+            "name": {
+              "full": "Angela Balzac",
+              "native": "アンジェラ・バルザック"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95008,
+              "name": {
+                "full": "Rie Kugimiya",
+                "native": "釘宮理恵"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 142926,
+            "name": {
+              "full": "Frontier Setter",
+              "native": "フロンティアセッター"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95118,
+              "name": {
+                "full": "Hiroshi Kamiya",
+                "native": "神谷浩史"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 142928,
+            "name": {
+              "full": "Zarik Kajiwara",
+              "native": "ザリク・カジワラ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95022,
+              "name": {
+                "full": "Shinichirou Miki",
+                "native": "三木眞一郎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 142924,
+            "name": {
+              "full": "Hilde Thorwald",
+              "native": "ヒルデ・トルヴァルト"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95009,
+              "name": {
+                "full": "Kotono Mitsuishi",
+                "native": "三石琴乃"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 142925,
+            "name": {
+              "full": "Christine Gillum",
+              "native": "クリスティン・ギラム"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95014,
+              "name": {
+                "full": "Megumi Hayashibara",
+                "native": "林原めぐみ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 142927,
+            "name": {
+              "full": "Alonzo Percy",
+              "native": "アロンゾ・パーシー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95326,
+              "name": {
+                "full": "Tooru Furuya",
+                "native": "古谷徹"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 142929,
+            "name": {
+              "full": "Veronica Kulikova",
+              "native": "ヴェロニカ・クリコワ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95024,
+              "name": {
+                "full": "Minami Takayama",
+                "native": "高山みなみ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "13429": {
+    "id": 13429,
+    "idMal": 13429,
+    "title": {
+      "romaji": "Sakasama no Patema: Beginning of the Day",
+      "english": "Patema Inverted: Beginning of the Day",
+      "native": "サカサマのパテマ Beginning of the Day"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "This is an online distribution of the prologue of the movie, illustrating the first day of the entire story.<br><br>\nA world, forever beyond your expectations. <br><br>\nIn a dark, cramped, underground world of endless tunnels and shafts, people wear protective suits and live out their modest yet happy lives. The princess of the underground community, Patema, goes out exploring as always, inspired by her curiosity of the unknown depths of the world. <br><br>\nHer favorite spot is the \"danger zone\", an area forbidden by the \"rule\" of the community. Despite being frequently chastised by her caretaker Jii, she cannot hold back her curiosity for the reason behind the rule, because no one would tell her what the \"danger\" was. When she approaches the hidden \"secret\", the story begins. <br><br>\n(Source: translation of a synopsis from the nicovideo news)",
+    "episodes": 4,
+    "duration": 6,
+    "season": "WINTER",
+    "seasonYear": 2012,
+    "startDate": {
+      "year": 2012,
+      "month": 2,
+      "day": 26
+    },
+    "endDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13429-lHJGMc0lvKuQ.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13429-lHJGMc0lvKuQ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx13429-lHJGMc0lvKuQ.jpg",
+      "color": "#f1e4bb"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/13429-0GMIcvFh36i9.jpg",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "synonyms": [],
+    "averageScore": 70,
+    "meanScore": 70,
+    "popularity": 9297,
+    "trending": 0,
+    "favourites": 44,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": null,
+    "trailer": {
+      "id": "Aa7sa-Zd-3E",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/Aa7sa-Zd-3E/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 12477,
+            "title": {
+              "romaji": "Sakasama no Patema",
+              "english": "Patema Inverted"
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 217,
+        "name": "Dystopian",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 95,
+        "name": "Steampunk",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 93,
+        "name": "Post-Apocalyptic",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 517,
+            "name": "Asmik Ace"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 559,
+            "name": "Purple Cow Studio Japan"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 84,
+            "name": "Studio Rikka"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 55155,
+            "name": {
+              "full": "Patema",
+              "native": "パテマ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106162,
+              "name": {
+                "full": "Yukiyo Fujii",
+                "native": "藤井ゆきよ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 64967,
+            "name": {
+              "full": "Porta",
+              "native": "ポルタ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96818,
+              "name": {
+                "full": "Shintarou Oohata",
+                "native": "大畑伸太郎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 68365,
+            "name": {
+              "full": "Age",
+              "native": "エイジ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95270,
+              "name": {
+                "full": "Nobuhiko Okamoto",
+                "native": "岡本信彦"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
   }
 }

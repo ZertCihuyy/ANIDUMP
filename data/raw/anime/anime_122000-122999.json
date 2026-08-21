@@ -3330,5 +3330,310 @@
       ]
     },
     "updatedAt": 1787345790
+  },
+  "122508": {
+    "id": 122508,
+    "idMal": 44388,
+    "title": {
+      "romaji": "Biaoren",
+      "english": null,
+      "native": "镖人"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "‘Escort’, refers to paid warriors, their targets of protection, are also referred to targets that are wanted by the government. On the eve of civil chaos during the last years of Sui dynasty, with the rise of a reign of terror around the country, various peoples’ feelings of grudge and animosity develop…",
+    "episodes": 15,
+    "duration": 20,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2023,
+      "month": 6,
+      "day": 1
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 8,
+      "day": 17
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122508-abXsQzAGwPzN.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122508-abXsQzAGwPzN.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx122508-abXsQzAGwPzN.jpg",
+      "color": "#f15028"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "synonyms": [
+      "Blades of the Guardians",
+      "ヒョウ人-BLADES OF THE GUARDIANS",
+      "鏢人"
+    ],
+    "averageScore": 73,
+    "meanScore": 74,
+    "popularity": 17593,
+    "trending": 0,
+    "favourites": 297,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "MANGA",
+    "trailer": {
+      "id": "XfYK8Uf4ePw",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/XfYK8Uf4ePw/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://v.qq.com/detail/m/mzc00200ab0trmk.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://weibo.com/u/7487416120",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLAV8AqZgfhJvuOUHbBQoCZD7A-zdZozYl",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 102796,
+            "title": {
+              "romaji": "Biaoren",
+              "english": "Blades of the Guardians"
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 168179,
+            "title": {
+              "romaji": "Biaoren 2",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 43,
+        "name": "Swordplay",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 30,
+        "name": "Martial Arts",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 94,
+        "name": "Gore",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 25,
+        "name": "Historical",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 303,
+        "name": "Wuxia",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 40,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 90,
+        "name": "CGI",
+        "rank": 26,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 111,
+        "name": "War",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6321,
+            "name": "Colored Pencil Animation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6382,
+            "name": "Tencent Penguin Pictures"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6867,
+            "name": "Colored Pencil Animation Japan"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7143,
+            "name": "Xin Manhua"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 245844,
+            "name": {
+              "full": "Lang Zhi Shi",
+              "native": "知世郎"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 245845,
+            "name": {
+              "full": "Ma Dao",
+              "native": "刀馬"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 313487,
+            "name": {
+              "full": "Xiao Qi",
+              "native": "小七"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 245843,
+            "name": {
+              "full": "Ayuya",
+              "native": "阿育娅"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 245848,
+            "name": {
+              "full": "Diting",
+              "native": "谛听"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 314389,
+            "name": {
+              "full": "Lao Mo",
+              "native": "老莫"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 314390,
+            "name": {
+              "full": "Niang Yan Zi",
+              "native": "燕子娘"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 314391,
+            "name": {
+              "full": "Pei Xing Yan",
+              "native": "裴行俨"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 314392,
+            "name": {
+              "full": "Xuan He Yi",
+              "native": "和伊玄"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 314394,
+            "name": {
+              "full": "Pei Shi Ju",
+              "native": "裴世炬"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787349759
   }
 }

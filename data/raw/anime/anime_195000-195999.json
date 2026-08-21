@@ -3823,7 +3823,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 129289,
-    "trending": 78,
+    "trending": 71,
     "favourites": 2762,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3873,7 +3873,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787409000,
-      "timeUntilAiring": 57117,
+      "timeUntilAiring": 55637,
       "episode": 20
     },
     "relations": {
@@ -4228,7 +4228,7 @@
         }
       ]
     },
-    "updatedAt": 1787349626
+    "updatedAt": 1787353217
   },
   "195240": {
     "id": 195240,
@@ -4739,7 +4739,7 @@
     "averageScore": 64,
     "meanScore": 64,
     "popularity": 38601,
-    "trending": 1,
+    "trending": 5,
     "favourites": 575,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5203,7 +5203,7 @@
         }
       ]
     },
-    "updatedAt": 1787345794
+    "updatedAt": 1787353213
   },
   "195515": {
     "id": 195515,
@@ -6158,5 +6158,144 @@
       ]
     },
     "updatedAt": 1787345729
+  },
+  "195486": {
+    "id": 195486,
+    "idMal": 62194,
+    "title": {
+      "romaji": "Itou Junji: Crimson",
+      "english": null,
+      "native": "伊藤潤二「クリムゾン」"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "Crimson refers to the color crimson or bright red, and the concept of this volume is \"monsters.\" This is a collection of horror stories that carefully selects masterpieces filled with unique madness, allowing you to immerse yourself in the eerie, bizarre, and yet original world of Junji Ito.<br><br>\n(Source: Official Website, translated)",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b195486-1jIQcKcsxT7R.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b195486-1jIQcKcsxT7R.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b195486-1jIQcKcsxT7R.png",
+      "color": "#e4506b"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 1680,
+    "trending": 0,
+    "favourites": 12,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "o49G2mf_NSI",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/o49G2mf_NSI/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://itojunji.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://x.com/itojunji_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://crunchyroll.com",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 150653,
+            "title": {
+              "romaji": "Itou Junji: Maniac",
+              "english": "Junji Ito Maniac: Japanese Tales of the Macabre"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 99940,
+            "title": {
+              "romaji": "Itou Junji: Collection",
+              "english": "Junji Ito Collection"
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 471,
+        "name": "Anthology",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 193,
+        "name": "Episodic",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 636,
+        "name": "Cosmic Horror",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787349759
   }
 }

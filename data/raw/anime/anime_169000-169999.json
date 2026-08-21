@@ -3065,7 +3065,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 69315,
-    "trending": 3,
+    "trending": 5,
     "favourites": 1425,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3591,7 +3591,7 @@
         }
       ]
     },
-    "updatedAt": 1787349714
+    "updatedAt": 1787353218
   },
   "169927": {
     "id": 169927,
@@ -7692,7 +7692,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787581800,
-      "timeUntilAiring": 229913,
+      "timeUntilAiring": 228257,
       "episode": 8
     },
     "relations": {
@@ -9173,5 +9173,844 @@
       ]
     },
     "updatedAt": 1787345774
+  },
+  "169559": {
+    "id": 169559,
+    "idMal": 56731,
+    "title": {
+      "romaji": "SYNDUALITY Noir Part 2",
+      "english": "Synduality Noir Part 2",
+      "native": "SYNDUALITY Noir 第2クール"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "The second cour of <i>SYNDUALITY Noir</i>.\n<br><br>\nDespite returning victorious from a dangerous struggle, Kanata and his friends have, in a sense, lost a key ally, the amnesiac magus Noir. Having partially recovered her memory, Noir reverted back to her former personality: that of Mystere, who acts in a patronizing manner toward her master Kanata. However, Mystere remembers detecting a signal from Histoire, a mystical city, during her former life as an artificially intelligent magus.\n<br><br>\nMeanwhile, Tokio disappears from Rock Town while hunting down the ghosts of his past; however, shocking revelations await the deeper his search goes. As Kanata, his childhood friend Ellie, and the magus diva Ciel set out for Histoire, a hostile organization named Ideal sends assassins after them. If Kanata wants to stand a chance at accomplishing his dream, he must uncover the unpleasant truth about Ideal—and some of his closest allies.\n<br><br>\n(Source: MAL Rewrite)",
+    "episodes": 12,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2024,
+    "startDate": {
+      "year": 2024,
+      "month": 1,
+      "day": 9
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 3,
+      "day": 26
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169559-iuwDKwgkksKu.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169559-iuwDKwgkksKu.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169559-iuwDKwgkksKu.jpg",
+      "color": "#f135d6"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169559-womJXJBP4AnG.jpg",
+    "genres": [
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "synonyms": [],
+    "averageScore": 70,
+    "meanScore": 71,
+    "popularity": 8253,
+    "trending": 0,
+    "favourites": 170,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "exI1FS75bRc",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/exI1FS75bRc/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://synduality-noir.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/SYN_noir/",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.hulu.com/series/10f2d56d-87f3-469f-8004-a0d2bab3d57d",
+        "site": "Hulu",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.starplus.com/series/synduality-noir/6Wyhb8bQ9XDr",
+        "site": "Star+",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 154643,
+            "title": {
+              "romaji": "SYNDUALITY Noir",
+              "english": "Synduality Noir"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "SPIN_OFF",
+          "node": {
+            "id": 204506,
+            "title": {
+              "romaji": "Kaette Kita! SYNDUALITY: Kagaku Kouza",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 517,
+        "name": "Artificial Intelligence",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 93,
+        "name": "Post-Apocalyptic",
+        "rank": 95,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 175,
+        "name": "Robots",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 466,
+        "name": "Lost Civilization",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 536,
+        "name": "Dissociative Identities",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 335,
+        "name": "Tanned Skin",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 160,
+        "name": "Real Robot",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 159,
+        "name": "Super Robot",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 90,
+        "name": "CGI",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 310,
+        "name": "Espionage",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 115,
+        "name": "Idol",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 365,
+        "name": "Memory Manipulation",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 812,
+        "name": "Butler",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 60,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 4418,
+            "name": "8-bit"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7137,
+            "name": "Bandai Namco Filmworks"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6402,
+            "name": "Bandai Namco Entertainment"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6604,
+            "name": "BANDAI SPIRITS"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7138,
+            "name": "Bandai Namco Music Live"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 297711,
+            "name": {
+              "full": "Kanata",
+              "native": "カナタ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 128426,
+              "name": {
+                "full": "Takeo Ootsuka",
+                "native": "大塚剛央"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 287493,
+            "name": {
+              "full": "Noir",
+              "native": "ノワール"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 123268,
+              "name": {
+                "full": "Aoi Koga",
+                "native": "古賀葵"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 287492,
+            "name": {
+              "full": "Ciel",
+              "native": "シエル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 199742,
+              "name": {
+                "full": "Nagisa Aoyama",
+                "native": "青山なぎさ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 332723,
+            "name": {
+              "full": "Mystere",
+              "native": "ミステル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 123268,
+              "name": {
+                "full": "Aoi Koga",
+                "native": "古賀葵"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 297712,
+            "name": {
+              "full": "Tokio",
+              "native": "トキオ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118407,
+              "name": {
+                "full": "Yuusuke Kobayashi",
+                "native": "小林裕介"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 297713,
+            "name": {
+              "full": "Mouton",
+              "native": "ムートン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107524,
+              "name": {
+                "full": "Fuminori Komatsu",
+                "native": "小松史法"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 297714,
+            "name": {
+              "full": "Ellie",
+              "native": "エリー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 271036,
+              "name": {
+                "full": "Konomi Inagaki",
+                "native": "稲垣好"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 326873,
+            "name": {
+              "full": "Maria",
+              "native": "マリア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118581,
+              "name": {
+                "full": "Miku Itou",
+                "native": "伊藤美来"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 297717,
+            "name": {
+              "full": "Ange",
+              "native": "アンジェ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 110903,
+              "name": {
+                "full": "Ayaka Oohashi",
+                "native": "大橋彩香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 314987,
+            "name": {
+              "full": "Claudia",
+              "native": "クラウディア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95141,
+              "name": {
+                "full": "Ryouka Yuzuki",
+                "native": "柚木涼香"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "169935": {
+    "id": 169935,
+    "idMal": 56845,
+    "title": {
+      "romaji": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou Sareru",
+      "english": "The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party-",
+      "native": "最強タンクの迷宮攻略　～体力9999のレアスキル持ちタンク、勇者パーティーを追放される～"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "\nRud, a shielder with a defense stat of 9999, the highest ever known, serves as a tank for the Hero's Party as they carry out raids in labyrinths. His goal is to find a treasure hidden in one of the labyrinths that can grant any wish, and use it to cure his beloved younger sister's illness... but the tyrannical hero suddenly kicks him out of the party, saying his skill is \"useless.\" So Rud makes his way back to his hometown. Along the way, he saves a young girl, and she reveals the true nature of his skill... which turns out to be incredibly powerful! This is the story of the adventures of Rud, a tank with both the highest defense stat in history and an unparalleled skill!<br>\n<br>\n(Source: Crunchyroll)",
+    "episodes": 12,
+    "duration": 23,
+    "season": "WINTER",
+    "seasonYear": 2024,
+    "startDate": {
+      "year": 2024,
+      "month": 1,
+      "day": 7
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 3,
+      "day": 24
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169935-w808lLrdFXcl.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169935-w808lLrdFXcl.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169935-w808lLrdFXcl.jpg",
+      "color": "#f1c90d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169935-lbNLkp8Ou8OG.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "The Strongest Tank's Labyrinth Raids",
+      "最強肉盾的迷宮攻略～擁有稀少技能體力9999的肉盾，被勇者隊伍辭退了～",
+      "Сильнейший танк покоряет подземелья"
+    ],
+    "averageScore": 59,
+    "meanScore": 59,
+    "popularity": 36540,
+    "trending": 0,
+    "favourites": 463,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "LIGHT_NOVEL",
+    "trailer": {
+      "id": "XPLVbhfZAg4",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/XPLVbhfZAg4/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://saikyo-tank.com/index.php",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://x.com/saikyo_tank",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.bilibili.tv/en/media/2098275",
+        "site": "Bilibili TV",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.crunchyroll.com/series/G9VHN9QKN/the-strongest-tanks-labyrinth-raids--a-tank-with-a-rare-9999-resistance-skill-got-kicked-from-the-heros-party-",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Ji3tb_Lb6OxaEz_cskN0WeZ",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 128797,
+            "title": {
+              "romaji": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou Sareru",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 109497,
+            "title": {
+              "romaji": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou Sareru",
+              "english": "The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party-"
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 87,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1382,
+        "name": "Orphan",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 604,
+        "name": "Dungeon",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 43,
+        "name": "Swordplay",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 128,
+        "name": "Incest",
+        "rank": 46,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 704,
+        "name": "Dinosaurs",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7463,
+            "name": "STUDIO POLON"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6377,
+            "name": "ABC Animation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7183,
+            "name": "ABC Frontier"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7486,
+            "name": "AbemaTV"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 123,
+            "name": "Victor Entertainment"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 58,
+            "name": "Square Enix"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6596,
+            "name": "Procen Studio"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6667,
+            "name": "Medicos Entertainment"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 316331,
+            "name": {
+              "full": "Rud",
+              "native": "ルード"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 135537,
+              "name": {
+                "full": "Jun  Kasama",
+                "native": "笠間淳"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 316332,
+            "name": {
+              "full": "Nin",
+              "native": "ニン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119416,
+              "name": {
+                "full": "Kaede Hondo",
+                "native": "本渡楓"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 316333,
+            "name": {
+              "full": "Luna",
+              "native": "ルナ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 124390,
+              "name": {
+                "full": "Kana Ichinose",
+                "native": "市ノ瀬加那"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 320018,
+            "name": {
+              "full": "Lily",
+              "native": "リリィ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118739,
+              "name": {
+                "full": "Kana Yuuki",
+                "native": "優木かな"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 320019,
+            "name": {
+              "full": "Amon",
+              "native": "アモン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106641,
+              "name": {
+                "full": "Misaki Kuno",
+                "native": "久野美咲"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 320020,
+            "name": {
+              "full": "Lilia",
+              "native": "リリア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 110903,
+              "name": {
+                "full": "Ayaka Oohashi",
+                "native": "大橋彩香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 320021,
+            "name": {
+              "full": "Manicia",
+              "native": "マニシア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105981,
+              "name": {
+                "full": "Yui Ogura",
+                "native": "小倉唯"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 320022,
+            "name": {
+              "full": "Marius",
+              "native": "マリウス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95270,
+              "name": {
+                "full": "Nobuhiko Okamoto",
+                "native": "岡本信彦"
+              }
+            }
+          ]
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 342083,
+            "name": {
+              "full": "Kodomo A",
+              "native": "子供A"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 303156,
+              "name": {
+                "full": "Miyuu Ogura",
+                "native": "小倉弥優"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
   }
 }

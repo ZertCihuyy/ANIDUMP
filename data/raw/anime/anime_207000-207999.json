@@ -1226,7 +1226,7 @@
     "averageScore": 57,
     "meanScore": 58,
     "popularity": 17554,
-    "trending": 61,
+    "trending": 56,
     "favourites": 248,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1261,7 +1261,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787934600,
-      "timeUntilAiring": 582732,
+      "timeUntilAiring": 581241,
       "episode": 9
     },
     "relations": {
@@ -1519,7 +1519,7 @@
         }
       ]
     },
-    "updatedAt": 1787349645
+    "updatedAt": 1787353220
   },
   "207141": {
     "id": 207141,
@@ -1566,7 +1566,7 @@
     "averageScore": 67,
     "meanScore": 68,
     "popularity": 66410,
-    "trending": 149,
+    "trending": 155,
     "favourites": 1132,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1616,7 +1616,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788449400,
-      "timeUntilAiring": 1097513,
+      "timeUntilAiring": 1096041,
       "episode": 9
     },
     "relations": {
@@ -2012,7 +2012,7 @@
         }
       ]
     },
-    "updatedAt": 1787349611
+    "updatedAt": 1787353222
   },
   "207809": {
     "id": 207809,
@@ -2469,5 +2469,794 @@
       ]
     },
     "updatedAt": 1787346067
+  },
+  "207254": {
+    "id": 207254,
+    "idMal": 63418,
+    "title": {
+      "romaji": "Thunder 3",
+      "english": "Thunder 3",
+      "native": "サンダー３"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "RELEASING",
+    "description": "Three ordinary schoolboys come into possession of a DVD that supposedly opens a gateway to a parallel universe, but when their backs are turned Pyontaro's little sister Futaba passes through and gets kidnapped by the aliens that have overrun that version of Earth! Discovering that their cartoonish bodies make them supermen in the hyper-realistic parallel universe, the boys set out to rescue Futaba.\n<br><br>\n(Source: Kodansha USA)",
+    "episodes": null,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 9
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207254-StcuNpmZTDCL.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207254-StcuNpmZTDCL.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207254-StcuNpmZTDCL.jpg",
+      "color": "#1a93e4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "synonyms": [],
+    "averageScore": 52,
+    "meanScore": 56,
+    "popularity": 1918,
+    "trending": 0,
+    "favourites": 17,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "wsb07srXk_M",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/wsb07srXk_M/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://x.com/thunder3_pyon",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://thunder3-anime.com",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.tiktok.com/@thunder3_pyon",
+        "site": "TikTok",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.netflix.com/title/82736186",
+        "site": "Netflix",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": {
+      "airingAt": 1787759040,
+      "timeUntilAiring": 405889,
+      "episode": 8
+    },
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 148439,
+            "title": {
+              "romaji": "Thunder 3",
+              "english": "Thunder 3"
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 446,
+        "name": "Primarily Child Cast",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 90,
+        "name": "CGI",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 146,
+        "name": "Alternate Universe",
+        "rank": 50,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 46,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 191,
+        "name": "Aliens",
+        "rank": 40,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 244,
+        "name": "Isekai",
+        "rank": 33,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 33,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 63,
+        "name": "Space",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 324,
+        "name": "Chibi",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7382,
+            "name": "UNEND"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 169,
+            "name": "Fuji TV"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 159,
+            "name": "Kodansha"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7141,
+            "name": "Hakuhodo"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7309,
+            "name": "newgin"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7246,
+            "name": "Animax Broadcast Japan"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7161,
+            "name": "arma bianca"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 735,
+            "name": "Slow Curve"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 460,
+            "name": "KLOCKWORX"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6868,
+            "name": "Kansai TV"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 843,
+            "name": "BS Fuji"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 389440,
+            "name": {
+              "full": "Pyontarou",
+              "native": "ぴょんたろう"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 126963,
+              "name": {
+                "full": "Sayumi Suzushiro",
+                "native": "鈴代紗弓"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 389441,
+            "name": {
+              "full": "Tsubame",
+              "native": "つばめ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 151445,
+              "name": {
+                "full": "Natsumi Kawaida",
+                "native": "川井田夏海"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 389443,
+            "name": {
+              "full": "Hiroshi",
+              "native": "ひろし"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 168196,
+              "name": {
+                "full": "Eri Akiyama",
+                "native": "秋山絵理"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 389442,
+            "name": {
+              "full": "Futaba",
+              "native": "ふたば"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 342871,
+              "name": {
+                "full": "Honoka Mitsubachi",
+                "native": "蜜蜂ほのか"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 403951,
+            "name": {
+              "full": "Doku",
+              "native": "ドク"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 158510,
+              "name": {
+                "full": "Shougo Sakata",
+                "native": "坂田将吾"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 403952,
+            "name": {
+              "full": "Shizuka Tashiro",
+              "native": "田代涼花"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 121025,
+              "name": {
+                "full": "Yuuki Hirose",
+                "native": "広瀬ゆうき"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 403953,
+            "name": {
+              "full": "Mio Kisaragi",
+              "native": "如月澪"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 120430,
+              "name": {
+                "full": "Ryouko Maekawa",
+                "native": "前川涼子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 403954,
+            "name": {
+              "full": "Sydney",
+              "native": "シドニー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 161150,
+              "name": {
+                "full": "Miho Wataya",
+                "native": "渡谷美帆"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 403955,
+            "name": {
+              "full": "Teiichi Segami",
+              "native": "瀬上貞一"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 151336,
+              "name": {
+                "full": "Taito Ban",
+                "native": "坂泰斗"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 403956,
+            "name": {
+              "full": "Kyouji Sumeragi",
+              "native": "皇恭治"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119200,
+              "name": {
+                "full": "Haruki Ishiya",
+                "native": "石谷春貴"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "207327": {
+    "id": 207327,
+    "idMal": 63423,
+    "title": {
+      "romaji": "Doko yori mo Tooi Basho ni Iru Kimi e",
+      "english": "To You in the Beyond",
+      "native": "どこよりも遠い場所にいる君へ"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "NOT_YET_RELEASED",
+    "description": "The  story centers on a boy named Kazuki Tsukigase, who transfers to a high school on a remote island to get away from anyone who knows him. Kazuki finds out that there is an inlet on the island where people are rumored to disappear. Exploring the inlet, he encounters an unconscious girl. When she comes to after Kazuki takes her to the clinic, she is unable to give out anything about her identity except that she is named Nao, is 16 years old, and whispers the year \"1974.\"<br><br>\n(Source: Anime News Network, edited)",
+    "episodes": 1,
+    "duration": null,
+    "season": "FALL",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 10,
+      "day": 9
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 10,
+      "day": 9
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207327-OSrMbh8DrGE4.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207327-OSrMbh8DrGE4.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207327-OSrMbh8DrGE4.jpg",
+      "color": "#f1d6ae"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Mystery",
+      "Romance"
+    ],
+    "synonyms": [
+      "どこきみ",
+      "DokoKimi"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 7994,
+    "trending": 3,
+    "favourites": 67,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "LIGHT_NOVEL",
+    "trailer": {
+      "id": "J2tjySs8UbA",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/J2tjySs8UbA/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://x.com/dokokimi_movie",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://sh-anime.shochiku.co.jp/dokokimi-movie/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.tiktok.com/@dokokimi_movie",
+        "site": "TikTok",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": {
+      "airingAt": 1791471600,
+      "timeUntilAiring": 4118339,
+      "episode": 1
+    },
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 114869,
+            "title": {
+              "romaji": "Doko yori mo Tooi Basho ni Iru Kimi e",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 207426,
+            "title": {
+              "romaji": "Doko yori mo Tooi Basho ni Iru Kimi e",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1537,
+        "name": "Coastal",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 250,
+        "name": "Rural",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 96,
+        "name": "Time Manipulation",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 109,
+            "name": "Shouchiku"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 73,
+            "name": "TMS Entertainment"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 144,
+            "name": "Pony Canyon"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 395729,
+            "name": {
+              "full": "Kazuki Tsukigase",
+              "native": "月ヶ瀬和希"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 136188,
+              "name": {
+                "full": "Hiiro Ishibashi",
+                "native": "石橋陽彩"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 395730,
+            "name": {
+              "full": "Nao Akishika",
+              "native": "秋鹿七緒"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 182100,
+              "name": {
+                "full": "Anna Nagase",
+                "native": "永瀬アンナ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 395731,
+            "name": {
+              "full": "Mikiya Ozaki",
+              "native": "尾崎幹也"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 121823,
+              "name": {
+                "full": "Shinba Tsuchiya",
+                "native": "土屋神葉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 395732,
+            "name": {
+              "full": "Takatsu",
+              "native": "高津"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 365458,
+              "name": {
+                "full": "Hiroshi Tamaki",
+                "native": "玉木宏"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 403163,
+            "name": {
+              "full": "Nishina",
+              "native": "仁科"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 114832,
+              "name": {
+                "full": "Naohito Fujiki",
+                "native": "直人藤木"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 404674,
+            "name": {
+              "full": "Shuuji Aiba",
+              "native": "相葉修治"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95098,
+              "name": {
+                "full": "Wataru Hatano",
+                "native": "羽多野渉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 404675,
+            "name": {
+              "full": "Yoshiki Suga",
+              "native": "須加ヨシキ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106817,
+              "name": {
+                "full": "Yoshitsugu Matsuoka",
+                "native": "松岡禎丞"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 404676,
+            "name": {
+              "full": "Tamaki Mishima",
+              "native": "三島たまき"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 109441,
+              "name": {
+                "full": "Sumire Uesaka",
+                "native": "上坂すみれ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 404677,
+            "name": {
+              "full": "Akimitsu Yano",
+              "native": "矢野顕光"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95270,
+              "name": {
+                "full": "Nobuhiko Okamoto",
+                "native": "岡本信彦"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349736
   }
 }

@@ -1845,5 +1845,252 @@
       ]
     },
     "updatedAt": 1787345796
+  },
+  "211778": {
+    "id": 211778,
+    "idMal": 64084,
+    "title": {
+      "romaji": "Sekai Saikyou no Majo, Hajimemashita",
+      "english": null,
+      "native": "世界最強の魔女、始めました"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "When Rona manifests what seems to be a terribly useless skill, she’s considered an embarrassment to her family and gets kicked out of the house. With no money or food, she nears her darkest hour… when she suddenly figures out how to use her skill called “Internet.” It allows her to produce unlimited valuable items and even acquire rare equipment without participating in any events. With this skill of godlike knowledge, she can do anything she wants!\n<br><br>\n(Source: Yen Press)",
+    "episodes": null,
+    "duration": null,
+    "season": "FALL",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 10,
+      "day": 7
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211778-5WtVC7WXFduS.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211778-5WtVC7WXFduS.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx211778-5WtVC7WXFduS.png",
+      "color": "#4378e4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/211778-ZbXEhqfFkj62.jpg",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "The World’s Strongest Witch",
+      "Sekai Saikyou no Majo, Hajimemashita: Watashi dake \"Kouryaku Site\" wo Mireru Sekai de Jiyuu ni Ikimasu",
+      "世界最強の魔女、始めました　～私だけ『攻略サイト』を見れる世界で自由に生きます～"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 2710,
+    "trending": 1,
+    "favourites": 23,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "LIGHT_NOVEL",
+    "trailer": {
+      "id": "nOPj0I5M_Gg",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/nOPj0I5M_Gg/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://sekamajo-anime.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://x.com/sekamajo_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 187703,
+            "title": {
+              "romaji": "Sekai Saikyou no Majo, Hajimemashita: Watashi dake \"Kouryaku Site\" wo Mireru Sekai de Jiyuu ni Ikimasu",
+              "english": "The World’s Strongest Witch"
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 176270,
+            "title": {
+              "romaji": "Sekai Saikyou no Majo, Hajimemashita: Watashi dake \"Kouryaku Site\" wo Mireru Sekai de Jiyuu ni Ikimasu",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 144,
+        "name": "Meta",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 39,
+        "name": "Parody",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 397,
+            "name": "Bridge"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 7810,
+            "name": "Aisle"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 330951,
+            "name": {
+              "full": "Rona Hermit",
+              "native": "ローナ・ハーミット"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 337852,
+              "name": {
+                "full": "Azusa Tachibana",
+                "native": "橘杏咲"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 330950,
+            "name": {
+              "full": "Elmina Manafire",
+              "native": "エリミナ・マナフレイム"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 133625,
+              "name": {
+                "full": "Fairouz Ai",
+                "native": "ファイルーズあい"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 402527,
+            "name": {
+              "full": "Elna",
+              "native": "エルナ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 129363,
+              "name": {
+                "full": "Honoka Inoue",
+                "native": "井上ほの花"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 404757,
+            "name": {
+              "full": "Ruru Rie",
+              "native": "ルル・ル・リエー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118923,
+              "name": {
+                "full": "Maria Naganawa",
+                "native": "長縄まりあ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 404758,
+            "name": {
+              "full": "Aries Bluemoon",
+              "native": "アリエス・ティア・ブルームーン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95185,
+              "name": {
+                "full": "Kana Hanazawa",
+                "native": "花澤香菜"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353218
   }
 }

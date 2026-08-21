@@ -1608,7 +1608,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 32504,
-    "trending": 1,
+    "trending": 2,
     "favourites": 430,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2125,7 +2125,7 @@
         }
       ]
     },
-    "updatedAt": 1787349715
+    "updatedAt": 1787353214
   },
   "163076": {
     "id": 163076,
@@ -3311,7 +3311,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 93371,
-    "trending": 6,
+    "trending": 4,
     "favourites": 2717,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3776,7 +3776,7 @@
         }
       ]
     },
-    "updatedAt": 1787349688
+    "updatedAt": 1787353223
   },
   "163327": {
     "id": 163327,
@@ -9969,5 +9969,668 @@
       ]
     },
     "updatedAt": 1787345764
+  },
+  "163793": {
+    "id": 163793,
+    "idMal": 63964,
+    "title": {
+      "romaji": "Cheongchun Blossom: Uriui Bom",
+      "english": null,
+      "native": "청춘블라썸 : 우리의 봄"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "Oh, to be young and in love. Oh, to be wild and carefree. The springtime of life is intense, tumultuous, and at times, oh so confusing. Spring, summer, fall and winter -- love blossoms in all seasons.\n<br><br>\n(Source: WEBTOON)",
+    "episodes": 12,
+    "duration": 15,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2026,
+      "month": 4,
+      "day": 15
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 29
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163793-dOI9QEcIrgBS.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163793-dOI9QEcIrgBS.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163793-dOI9QEcIrgBS.jpg",
+      "color": "#e45d93"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Romance"
+    ],
+    "synonyms": [
+      "Seasons of Blossom"
+    ],
+    "averageScore": null,
+    "meanScore": 69,
+    "popularity": 4077,
+    "trending": 0,
+    "favourites": 32,
+    "isAdult": false,
+    "countryOfOrigin": "KR",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://program.kbs.co.kr/2tv/culture/seasonsofblossom/pc/index.html",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 121565,
+            "title": {
+              "romaji": "Cheongchun Blossom",
+              "english": "Seasons of Blossom"
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 102,
+        "name": "Coming of Age",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 139,
+        "name": "Love Triangle",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7399,
+            "name": "Xtorm"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 210937,
+            "name": {
+              "full": "Bo-Mi Yun",
+              "native": "윤보미"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 210935,
+            "name": {
+              "full": "Jin-Yeong Choi",
+              "native": "최진영"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 210936,
+            "name": {
+              "full": "Seon-Hui Kang",
+              "native": "강선희"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 210938,
+            "name": {
+              "full": "Jae-Min Lee",
+              "native": "이재민"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 210941,
+            "name": {
+              "full": "Gyu-Ri Jo",
+              "native": "조규리"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 210942,
+            "name": {
+              "full": "Jin-Tae Kim",
+              "native": "김진태"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 210945,
+            "name": {
+              "full": "Ui-Jun Park",
+              "native": "박의준"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "163205": {
+    "id": 163205,
+    "idMal": 54883,
+    "title": {
+      "romaji": "Mononogatari 2nd Season",
+      "english": "Malevolent Spirits: Mononogatari Cour 2",
+      "native": "もののがたり 第二章"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "The second season of <i>Mononogatari</i>.<br><br>\nThe tsukumogami encounter mysterious new enemies who threaten life in Kyoto! <br><br>\n\n(Source: Crunchyroll)",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2023,
+    "startDate": {
+      "year": 2023,
+      "month": 7,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 9,
+      "day": 19
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163205-s9TZY5bb99oB.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx163205-s9TZY5bb99oB.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163205-s9TZY5bb99oB.png",
+      "color": "#e46b5d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163205-TApFSSDPUBGz.jpg",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "Mono no Gatari 2"
+    ],
+    "averageScore": 72,
+    "meanScore": 72,
+    "popularity": 12694,
+    "trending": 0,
+    "favourites": 224,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "F2nXX6k_wR8",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/F2nXX6k_wR8/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://mononogatari-pr.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/mononogatari_pr",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.crunchyroll.com/series/GDKHZEPW1/malevolent-spirits-mononogatari",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.bilibili.tv/en/media/2086476",
+        "site": "Bilibili TV",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 1 - Hyoma",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/b28b60148a135fb5bf24e29cefd7a9b71673275728_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GX9UQ08Z8/hyoma",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - Shoreline",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/59bdafa9c144d8c74d5930f7762e19a51673875214_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G4VUQ248G/shoreline",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - Overflow",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/22102e28fabd2e08a3acee33496a87001674462313_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G14U4MZG8/overflow",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - Arrangement",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/0331ecd469c7b3101318c3ab098316f01675036594_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GJWU2VDEM/arrangement",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - Suspicions",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/70aea16a63303c6747f96b2e7b2b2d5e1675706134_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GN7UD43VW/suspicions",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - Botan",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/cae40abf285203a5fe12ab07202d5c9b1676310223_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GK9U3XPD4/botan",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 7 - Quickening",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/5f8059b5c5adafa7281684600e895b961676907606_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GMKUXVDGW/quickening",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 8 - Circumstances",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/eb51325f52a8b7a1fc1b60070cead8aa1677516634_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GVWU09G4Q/circumstances",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 9 - Fire",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/0b3c339cd579399b493e50d269bf6aca1678122625_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G31UX9JZD/fire",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 10 - Radiance",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/f9246cb349ddb7bd7e1b16d6a6d76f9e1678716803_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GPWUKG2D7/radiance",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 11 - Ambush",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/161220c7802109fb1cced8c853cbb1b31679330628_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G2XU0QPDE/ambush",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 12 - Efflorescence",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/f70d679fe07446b25a9e1c5236ab649e1679930964_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G8WUNMQ0M/efflorescence",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 13 - Entrance",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/a5bf0ca63a48e38fc11b1bf01f6d39891688402191_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GZ7UV4511/entrance",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 14 - Duet",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/70de3d8ab8fdb25b22abfac7149e09ef1688994485_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GK9U3DEN1/duet",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 15 - Specter",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/8b6991cf83564edaf3e2f67fa4b3a6e21689610356_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G50UZ10D5/specter",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 16 - Draconic",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/973fad25cd46e735c56ce8836fd6984d1690200528_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GWDU8Q23Q/draconic",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 17 - Moonset",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/2caeb678010c082403d158d9122beae91690822094_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GG1U2ZJV4/moonset",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 18 - Vow",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/8d5a15a237587015212b5d05d59ce97d1691425582_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G0DUNJ2XK/vow",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 19 - Turbulence",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/3592740e99f45ec83f761ad2895696911692027732_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GEVUZN7Q7/turbulence",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 20 - Unseasonal",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/14866f81348eeeff4aa71ca2292f8df51692634369_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G7PU4J74P/unseasonal",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 21 - Advent",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/0f132010c216c651eccf3aa659fe68c61693238676_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G9DUEG0EN/advent",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 22 - Dance",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/55b7fa35c467dbcbf7b4e4e7ce3cb5f91693845300_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GX9UQZEQ4/dance",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 23 - Sparks",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/794c35f8972949c2d746cdcd59e1f63b1694438457_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G4VUQ85QQ/sparks",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 24 - Fluttering",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/9967dcb7e61be2fc0c673fe5261f7aa91695053061_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G14U4G74V/fluttering",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 91222,
+            "title": {
+              "romaji": "Mononogatari",
+              "english": "Malevolent Spirits: Mononogatari"
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 141785,
+            "title": {
+              "romaji": "Mononogatari",
+              "english": "Malevolent Spirits: Mononogatari"
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 30,
+        "name": "Martial Arts",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 87,
+        "name": "Family Life",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 182,
+        "name": "Karuta",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1719,
+        "name": "Exorcism",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 62,
+            "name": "Shogakukan-Shueisha Productions"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6116,
+            "name": "Bandai Namco Pictures"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7237,
+            "name": "GREE Entertainment"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 474,
+            "name": "Shogakukan Music & Digital Entertainment"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7138,
+            "name": "Bandai Namco Music Live"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6616,
+            "name": "BS11"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7014,
+            "name": "Quaras"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7160,
+            "name": "Happinet Phantom Studios"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 275788,
+            "name": {
+              "full": "Hyouma Kunato",
+              "native": "岐兵馬"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 128426,
+              "name": {
+                "full": "Takeo Ootsuka",
+                "native": "大塚剛央"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 275789,
+            "name": {
+              "full": "Botan Nagatsuki",
+              "native": "長月ぼたん"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119154,
+              "name": {
+                "full": "Yuuki Takada",
+                "native": "高田憂希"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 287011,
+            "name": {
+              "full": "Haori",
+              "native": "羽織"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95099,
+              "name": {
+                "full": "Miyuki Sawashiro",
+                "native": "沢城みゆき"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 293542,
+            "name": {
+              "full": "Taiju Kadomori",
+              "native": "門守大樹"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 104816,
+              "name": {
+                "full": "Nobuaki Kanemitsu",
+                "native": "金光宣明"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 294636,
+            "name": {
+              "full": "Itsuki",
+              "native": "斎"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 112297,
+              "name": {
+                "full": "Azusa Tadokoro",
+                "native": "田所あずさ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
   }
 }

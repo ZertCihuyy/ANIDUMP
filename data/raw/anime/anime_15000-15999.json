@@ -4405,7 +4405,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 149889,
-    "trending": 4,
+    "trending": 7,
     "favourites": 1871,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4747,7 +4747,7 @@
         }
       ]
     },
-    "updatedAt": 1787349725
+    "updatedAt": 1787353219
   },
   "15335": {
     "id": 15335,
@@ -9961,5 +9961,791 @@
       ]
     },
     "updatedAt": 1787345735
+  },
+  "15729": {
+    "id": 15729,
+    "idMal": 15729,
+    "title": {
+      "romaji": "Hagure Yuusha no Estetica: Hajirai Ippai",
+      "english": "Aesthetica of a Rogue Hero Specials",
+      "native": "はぐれ勇者の鬼畜美学 恥じらいいっぱい"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "DVD/BD Specials",
+    "episodes": 6,
+    "duration": 4,
+    "season": "FALL",
+    "seasonYear": 2012,
+    "startDate": {
+      "year": 2012,
+      "month": 9,
+      "day": 26
+    },
+    "endDate": {
+      "year": 2013,
+      "month": 2,
+      "day": 27
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15729.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15729.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/15729.jpg",
+      "color": "#e486ae"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Ecchi"
+    ],
+    "synonyms": [
+      "Hagure Yuusha no Estetica Specials",
+      "Hagure Yuusha no Aesthetica"
+    ],
+    "averageScore": 60,
+    "meanScore": 60,
+    "popularity": 12004,
+    "trending": 0,
+    "favourites": 99,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": null,
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 13161,
+            "title": {
+              "romaji": "Hagure Yuusha no Estetica",
+              "english": "Aesthetica of a Rogue Hero"
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 244,
+        "name": "Isekai",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 38,
+            "name": "ARMS"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 64051,
+            "name": {
+              "full": "Akatsuki Ousawa",
+              "native": "鳳沢 暁月"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95270,
+              "name": {
+                "full": "Nobuhiko Okamoto",
+                "native": "岡本信彦"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 64053,
+            "name": {
+              "full": "Miu Ousawa",
+              "native": "鳳沢 美兎"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102263,
+              "name": {
+                "full": "Youko Hikasa",
+                "native": "日笠陽子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 64055,
+            "name": {
+              "full": "Chikage Izumi",
+              "native": "五泉 千影"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95116,
+              "name": {
+                "full": "Kana Ueda",
+                "native": "植田佳奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 64057,
+            "name": {
+              "full": "Kuzuha Doumoto",
+              "native": "桐元 葛葉"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95185,
+              "name": {
+                "full": "Kana Hanazawa",
+                "native": "花澤香菜"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 64059,
+            "name": {
+              "full": "Haruka Nanase",
+              "native": "七瀬 遥"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95158,
+              "name": {
+                "full": "Marina Inoue",
+                "native": "井上麻里奈"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "15775": {
+    "id": 15775,
+    "idMal": 15775,
+    "title": {
+      "romaji": "Saint☆Onii-san",
+      "english": null,
+      "native": "聖☆おにいさん"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "Jesus Christ and Gautama Buddha, the founders of Christianity and Buddhism, are living together as roommates in a Tokyo apartment while taking a vacation on Earth. The comedy often involves jokes about Christianity, Buddhism, and all things related, as well as the main characters' attempts to hide their identities and understand modern society in Japan.",
+    "episodes": 2,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2012,
+    "startDate": {
+      "year": 2012,
+      "month": 12,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 16
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15775.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15775.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/15775.jpg",
+      "color": "#e48628"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/15775-NaOdXtyVhrcU.jpg",
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "Saint☆Oniisan"
+    ],
+    "averageScore": 72,
+    "meanScore": 72,
+    "popularity": 20769,
+    "trending": 0,
+    "favourites": 187,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 38947,
+            "title": {
+              "romaji": "Saint☆Onii-san",
+              "english": "Saint Young Men"
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 15771,
+            "title": {
+              "romaji": "Saint☆Onii-san",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 253,
+        "name": "Gods",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 39,
+        "name": "Parody",
+        "rank": 97,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 85,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1091,
+        "name": "Religion",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1068,
+        "name": "Angels",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 46,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 561,
+            "name": "A-1 Pictures"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 15560,
+            "name": {
+              "full": "Jesus",
+              "native": "イエス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 115204,
+              "name": {
+                "full": "Mirai Moriyama",
+                "native": "森山未來"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 15562,
+            "name": {
+              "full": "Buddha",
+              "native": "ブッダ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 115206,
+              "name": {
+                "full": "Gen Hoshino",
+                "native": "星野源"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "15227": {
+    "id": 15227,
+    "idMal": 15227,
+    "title": {
+      "romaji": "Kono Sekai no Katasumi ni",
+      "english": "In This Corner of the World",
+      "native": "この世界の片隅に"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "The story follows a young lady named Suzu Urano, who in 1944 moves to the small town of Kure in Hiroshima to live with her husband's family. Suzu's life is thrown into chaos when her town is bombed during World War II. Her perseverance and courage underpin this heart-warming and inspirational tale of the everyday challenges faced by the Japanese in the midst of a violent, war-torn country. This beautiful yet poignant tale shows that even in the face of adversity and loss, people can come together and rebuild their lives.<br>\n<br>\n(Source: Shout! Factory)",
+    "episodes": 1,
+    "duration": 130,
+    "season": "FALL",
+    "seasonYear": 2016,
+    "startDate": {
+      "year": 2016,
+      "month": 11,
+      "day": 12
+    },
+    "endDate": {
+      "year": 2016,
+      "month": 11,
+      "day": 12
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15227-1tG3lhprG0A9.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx15227-1tG3lhprG0A9.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx15227-1tG3lhprG0A9.jpg",
+      "color": "#e4e428"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/15227-yQXL90tfOpRO.jpg",
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "To All the Corners of the World",
+      "En Este Rincón del Mundo",
+      "Dans un recoin de ce monde",
+      "Ở một góc nhân gian",
+      "W tym zakątku świata",
+      "In questo angolo di mondo"
+    ],
+    "averageScore": 81,
+    "meanScore": 81,
+    "popularity": 63585,
+    "trending": 2,
+    "favourites": 1528,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "mcHEWjEz2k8",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/mcHEWjEz2k8/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://konosekai.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/konosekai_movie",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.inthiscornermovie.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://tubitv.com/movies/517736/in-this-corner-of-the-world-english-dubbed",
+        "site": "Tubi TV",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 41243,
+            "title": {
+              "romaji": "Kono Sekai no Katasumi ni",
+              "english": "In This Corner of the World"
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 112135,
+            "title": {
+              "romaji": "Kono Sekai no (Sara ni Ikutsumono) Katasumi ni",
+              "english": "In This Corner (and Other Corners) of the World"
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 25,
+        "name": "Historical",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 111,
+        "name": "War",
+        "rank": 97,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 87,
+        "name": "Family Life",
+        "rank": 92,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 92,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 89,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 34,
+        "name": "Military",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 71,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 311,
+        "name": "Rehabilitation",
+        "rank": 67,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 118,
+        "name": "Drawing",
+        "rank": 62,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1219,
+        "name": "Disability",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1578,
+        "name": "Arranged Marriage",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 58,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 81,
+        "name": "Iyashikei",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 569,
+            "name": "MAPPA"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 79,
+            "name": "Genco"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6557,
+            "name": "Animatsu Entertainment"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 74601,
+            "name": {
+              "full": "Suzu Houjou",
+              "native": "北條すず"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 127826,
+              "name": {
+                "full": "Rena Nounen",
+                "native": "能年玲奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 126913,
+            "name": {
+              "full": "San Houjou",
+              "native": "北條サン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95617,
+              "name": {
+                "full": "Mayumi Shintani",
+                "native": "新谷真弓"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 127264,
+            "name": {
+              "full": "Harumi Kuromura",
+              "native": "黒村晴美"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 127265,
+              "name": {
+                "full": "Natsuki Inaba",
+                "native": "稲葉菜月"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 127827,
+            "name": {
+              "full": "Shuusaku Houjou",
+              "native": "北條周作"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100626,
+              "name": {
+                "full": "Yoshimasa Hosoya",
+                "native": "細谷佳正"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 127829,
+            "name": {
+              "full": "Keiko Kuromura",
+              "native": "黒村徑子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 127830,
+              "name": {
+                "full": "Minori Omi",
+                "native": "尾身美詞"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 127836,
+            "name": {
+              "full": "Tetsu Mizuhara",
+              "native": "水原哲"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95212,
+              "name": {
+                "full": "Daisuke Ono",
+                "native": "小野大輔"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 146457,
+            "name": {
+              "full": "Entarou Houjou",
+              "native": "北條円太郎"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102555,
+              "name": {
+                "full": "Shigeru Ushiyama",
+                "native": "牛山茂"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 146458,
+            "name": {
+              "full": "Rin Shiraki",
+              "native": "白木リン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 146459,
+              "name": {
+                "full": "Nanase Iwai",
+                "native": "岩井七世"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 146460,
+            "name": {
+              "full": "Sumi Urano",
+              "native": "浦野すみ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107961,
+              "name": {
+                "full": "Megumi Han",
+                "native": "潘めぐみ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353220
   }
 }

@@ -7437,7 +7437,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 258909,
-    "trending": 25,
+    "trending": 15,
     "favourites": 7916,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8227,7 +8227,7 @@
         }
       ]
     },
-    "updatedAt": 1787346035
+    "updatedAt": 1787353222
   },
   "146472": {
     "id": 146472,
@@ -11400,5 +11400,797 @@
       ]
     },
     "updatedAt": 1787345753
+  },
+  "146475": {
+    "id": 146475,
+    "idMal": 51306,
+    "title": {
+      "romaji": "C Danchi",
+      "english": "Housing Complex C",
+      "native": "C団地"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "<i>Housing Complex C</i> centers around Kimi, who lives in a small, low-cost housing complex located in the seaside town of Kurosaki where trouble seems to follow her wherever she goes, and horrific incidents begin to occur. Is an ancient evil stalking the residents of Housing Complex C? <br><br>\n\n(Source: Adult Swim)",
+    "episodes": 4,
+    "duration": 25,
+    "season": "FALL",
+    "seasonYear": 2022,
+    "startDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 2
+    },
+    "endDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 23
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146475-eyjcHtYccmDC.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146475-eyjcHtYccmDC.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx146475-eyjcHtYccmDC.jpg",
+      "color": "#5da1e4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146475-KD8dtGs096JA.jpg",
+    "genres": [
+      "Horror",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "Osiedle C"
+    ],
+    "averageScore": 50,
+    "meanScore": 50,
+    "popularity": 12316,
+    "trending": 0,
+    "favourites": 106,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "zhyGKfW8Sv4",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/zhyGKfW8Sv4/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.adultswim.com/videos/housing-complex-c",
+        "site": "Adult Swim",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.max.com/shows/e8e802f2-acee-434b-816f-4b2132de3465",
+        "site": "Max",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 250,
+        "name": "Rural",
+        "rank": 95,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 94,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 94,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 253,
+        "name": "Gods",
+        "rank": 82,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 636,
+        "name": "Cosmic Horror",
+        "rank": 82,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 391,
+        "name": "Philosophy",
+        "rank": 76,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 208,
+        "name": "Mythology",
+        "rank": 76,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 639,
+        "name": "Body Horror",
+        "rank": 72,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 94,
+        "name": "Gore",
+        "rank": 66,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 654,
+        "name": "Denpa",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 586,
+        "name": "Cult",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 96,
+        "name": "Time Manipulation",
+        "rank": 53,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 490,
+        "name": "Anachronism",
+        "rank": 53,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 282,
+        "name": "Hikikomori",
+        "rank": 33,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1046,
+        "name": "Suicide",
+        "rank": 28,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6601,
+            "name": "Akatsuki"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6497,
+            "name": "Adult Swim"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 10,
+            "name": "Production I.G"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 288616,
+            "name": {
+              "full": "Kimi Shirokado",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95823,
+              "name": {
+                "full": "Ayahi Takagaki",
+                "native": "高垣彩陽"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 288617,
+            "name": {
+              "full": "Yuri Koshide",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95890,
+              "name": {
+                "full": "Haruka Tomatsu",
+                "native": "戸松遥"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 288618,
+            "name": {
+              "full": "Seiichi Koshide",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95098,
+              "name": {
+                "full": "Wataru Hatano",
+                "native": "羽多野渉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 288619,
+            "name": {
+              "full": "Keko Koshide",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95092,
+              "name": {
+                "full": "Sayaka Oohara",
+                "native": "大原さやか"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 288620,
+            "name": {
+              "full": "Takashi Takamura",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101755,
+              "name": {
+                "full": "Kazuhiro Yamaji",
+                "native": "山路和弘"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 288621,
+            "name": {
+              "full": "Kisou Kobayashi",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100770,
+              "name": {
+                "full": "Yuusaku Yara",
+                "native": "屋良有作"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 288622,
+            "name": {
+              "full": "Kentaro Yoshii",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95157,
+              "name": {
+                "full": "Nobuo Tobita",
+                "native": "飛田展男"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 288623,
+            "name": {
+              "full": "Mitsuko Momochi",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95208,
+              "name": {
+                "full": "Ai Orikasa",
+                "native": "折笠愛"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 288624,
+            "name": {
+              "full": "Toshi Wada",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95103,
+              "name": {
+                "full": "Kujira",
+                "native": "くじら"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 288625,
+            "name": {
+              "full": "Kan-chan Mia",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96122,
+              "name": {
+                "full": "Takaya Kuroda",
+                "native": "黒田崇矢"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "146922": {
+    "id": 146922,
+    "idMal": 52168,
+    "title": {
+      "romaji": "Kidou Senshi Gundam: Suisei no Majo - PROLOGUE",
+      "english": "Mobile Suit Gundam: The Witch from Mercury - PROLOGUE",
+      "native": "機動戦士ガンダム 水星の魔女 PROLOGUE"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "The prologue of <i>Mobile Suit Gundam: the Witch from Mercury</i>. \n<br><br>\nAt Fólkvangr, a front constructed inside an asteroid, the Gundam Lfrith is undergoing operating tests in the Vanadis Institute's laboratory. The Lfrith has not yet managed to meet the conditions imposed by the council, and test pilot Elnora Samaya is growing impatient.\nThat same day, her daughter is celebrating her fourth birthday...\n<br><br>\n(Source: GUNDAM.INFO)\n<br><br>\n<i>Note: Premiered at the \"GUNDAM NEXT FUTURE -LINK THE UNIVERSE-\" event in July, before the TV anime broadcast in October.",
+    "episodes": 1,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2022,
+    "startDate": {
+      "year": 2022,
+      "month": 7,
+      "day": 14
+    },
+    "endDate": {
+      "year": 2022,
+      "month": 7,
+      "day": 14
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146922-kcxcovDGRHGd.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx146922-kcxcovDGRHGd.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx146922-kcxcovDGRHGd.png",
+      "color": null
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/146922-enQtFRiaLC1C.jpg",
+    "genres": [
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "Mobile Suit Gundam: The Witch from Mercury Episode 0",
+      "G-Witch Prologue",
+      "Мобильный воин Гандам: Ведьма с Меркурия"
+    ],
+    "averageScore": 78,
+    "meanScore": 78,
+    "popularity": 33686,
+    "trending": 0,
+    "favourites": 412,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "5YGW2JRxWUU",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/5YGW2JRxWUU/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://g-witch.net/prologue/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/g_witch_m",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=5YGW2JRxWUU",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.crunchyroll.com/series/G79H2307W/mobile-suit-gundam-the-witch-from-mercury",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.bilibili.tv/en/media/2069069",
+        "site": "Bilibili TV",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=qZneMzKO11U",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 139274,
+            "title": {
+              "romaji": "Kidou Senshi Gundam: Suisei no Majo",
+              "english": "Mobile Suit Gundam: The Witch from Mercury"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 163179,
+            "title": {
+              "romaji": "Kidou Senshi Gundam: Suisei no Majo - Vanadis Heart",
+              "english": "Mobile Suit Gundam: The Witch from Mercury—Vanadis Heart"
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 160,
+        "name": "Real Robot",
+        "rank": 98,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 97,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 63,
+        "name": "Space",
+        "rank": 95,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 456,
+        "name": "Conspiracy",
+        "rank": 93,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 103,
+        "name": "Politics",
+        "rank": 91,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 89,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 88,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 87,
+        "name": "Family Life",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 111,
+        "name": "War",
+        "rank": 80,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 108,
+        "name": "Cyberpunk",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 159,
+        "name": "Super Robot",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 801,
+        "name": "Cyborg",
+        "rank": 73,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 34,
+        "name": "Military",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 66,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 179,
+        "name": "Witch",
+        "rank": 60,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 14,
+            "name": "Sunrise"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7137,
+            "name": "Bandai Namco Filmworks"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 64,
+            "name": "Sotsu"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 143,
+            "name": "Mainichi Broadcasting System"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 304462,
+            "name": {
+              "full": "Ericht Samaya",
+              "native": "エリクト・サマヤ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 124390,
+              "name": {
+                "full": "Kana Ichinose",
+                "native": "市ノ瀬加那"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 282618,
+            "name": {
+              "full": "Cardo Nabo",
+              "native": "カルド・ナボ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 103016,
+              "name": {
+                "full": "Miyuki Ichijou",
+                "native": "一城みゆ希"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 289107,
+            "name": {
+              "full": "Prospera Mercury",
+              "native": "プロスペラ・マーキュリー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95040,
+              "name": {
+                "full": "Mamiko Noto",
+                "native": "能登麻美子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 282619,
+            "name": {
+              "full": "Wendy Olent",
+              "native": "ウェンディ・オレント"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 109251,
+              "name": {
+                "full": "You Taichi",
+                "native": "大地葉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 282620,
+            "name": {
+              "full": "Nyla Bertran",
+              "native": "ナイラ・バートラン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95276,
+              "name": {
+                "full": "Sachiko Kojima",
+                "native": "小島幸子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 282621,
+            "name": {
+              "full": "Nadim Samaya",
+              "native": "ナディム・サマヤ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101214,
+              "name": {
+                "full": "Hiroshi Tsuchida",
+                "native": "土田大"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 288842,
+            "name": {
+              "full": "Delling Rembran",
+              "native": "デリング・レンブラン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95338,
+              "name": {
+                "full": "Naoya Uchida",
+                "native": "内田直哉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 307151,
+            "name": {
+              "full": "Kenanji Avery",
+              "native": "ケナンジ・アベリー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95926,
+              "name": {
+                "full": "Youji Ueda",
+                "native": "上田燿司"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
   }
 }

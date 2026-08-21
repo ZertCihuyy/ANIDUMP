@@ -6253,7 +6253,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 339974,
-    "trending": 10,
+    "trending": 11,
     "favourites": 18950,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6907,7 +6907,7 @@
         }
       ]
     },
-    "updatedAt": 1787349689
+    "updatedAt": 1787353221
   },
   "5307": {
     "id": 5307,
@@ -16798,5 +16798,2556 @@
       ]
     },
     "updatedAt": 1787345745
+  },
+  "5702": {
+    "id": 5702,
+    "idMal": 5702,
+    "title": {
+      "romaji": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
+      "english": null,
+      "native": "空を見上げる少女の瞳に映る世界"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "To save both the Magical Kingdom and the Heavens and restore the flow of akuto, the flow of energy of everything, the Magical King Munto must follow a vision and find the girl Yumemi in the normal world. Yumemi herself is just a normal girl except that she is the only one who can see the islands of the Heavens floating above. When Munto appears before her she starts thinking about hers and others responsibility to the world.\n<br><br>\n(Source: Anime News Network)",
+    "episodes": 9,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2009,
+    "startDate": {
+      "year": 2009,
+      "month": 1,
+      "day": 14
+    },
+    "endDate": {
+      "year": 2009,
+      "month": 3,
+      "day": 11
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5702-449RdrqsHnK4.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5702-449RdrqsHnK4.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b5702-449RdrqsHnK4.jpg",
+      "color": "#d6ae78"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Munto TV",
+      "The World Reflected in the Eyes of a Girl Looking Up at the Heavens"
+    ],
+    "averageScore": 64,
+    "meanScore": 65,
+    "popularity": 8499,
+    "trending": 0,
+    "favourites": 65,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "E4PyH_gYgMs",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/E4PyH_gYgMs/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SUMMARY",
+          "node": {
+            "id": 6169,
+            "title": {
+              "romaji": "Tenjou-bito to Akuto-bito Saigo no Tatakai",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 1135,
+            "title": {
+              "romaji": "MUNTO: Toki no Kabe wo Koete",
+              "english": "Munto 2: Beyond the Walls of Time"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 1174,
+            "title": {
+              "romaji": "MUNTO",
+              "english": "Munto"
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 146,
+        "name": "Alternate Universe",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 111,
+        "name": "War",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 244,
+        "name": "Isekai",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 2,
+            "name": "Kyoto Animation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6698,
+            "name": "KADOKAWA"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 6337,
+            "name": {
+              "full": "Yumemi Hidaka",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95581,
+              "name": {
+                "full": "Mai Aizawa",
+                "native": "相沢舞"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 9467,
+            "name": {
+              "full": "Munto",
+              "native": "ムント"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95212,
+              "name": {
+                "full": "Daisuke Ono",
+                "native": "小野大輔"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 18927,
+            "name": {
+              "full": "Suzume Imamura",
+              "native": "今村涼芽"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95056,
+              "name": {
+                "full": "Hiromi Konno",
+                "native": "今野宏美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 18928,
+            "name": {
+              "full": "Ichiko Ono",
+              "native": "小野以知子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 104149,
+              "name": {
+                "full": "Chika Horikawa",
+                "native": "堀川千華"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 17148,
+            "name": {
+              "full": "Leica",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 104862,
+              "name": {
+                "full": "Fuuko Saitou",
+                "native": "斎藤楓子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 18929,
+            "name": {
+              "full": "Gass",
+              "native": "ガス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95395,
+              "name": {
+                "full": "Tetsu Inada",
+                "native": "稲田徹"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 18931,
+            "name": {
+              "full": "Gntaru",
+              "native": "ガンタール"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95084,
+              "name": {
+                "full": "Norio Wakamoto",
+                "native": "若本規夫"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 24188,
+            "name": {
+              "full": "Kazuya Takamori",
+              "native": "高森和也"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105148,
+              "name": {
+                "full": "Shinya Takahashi",
+                "native": "高橋伸也"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787352436
+  },
+  "5941": {
+    "id": 5941,
+    "idMal": 5941,
+    "title": {
+      "romaji": "Cross Game",
+      "english": "Cross Game",
+      "native": "クロスゲーム"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "The main character is Kou Kitamura, son of the owner of Kitamura Sports. In the same neighborhood is a batting center run by the Tsukishima family. Due to their proximity and the relationship between their businesses, the Kitamura and Tsukishima familes have been close for many years, with their children going back and forth between the two homes like extended family. Because Kou and Wakaba were the same age and always together, Aoba was jealous of all the time Kou spent with her older sister. Aoba is a natural pitcher with excellent form, and Kou secretly trains to become as good as she was, even while publicly showing little interest in baseball.",
+    "episodes": 50,
+    "duration": 23,
+    "season": "SPRING",
+    "seasonYear": 2009,
+    "startDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2010,
+      "month": 3,
+      "day": 28
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5941-Rl3qnxfiRCy1.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5941-Rl3qnxfiRCy1.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5941-Rl3qnxfiRCy1.jpg",
+      "color": "#e4bb50"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5941-1VflQ6JuIkUA.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sports"
+    ],
+    "synonyms": [],
+    "averageScore": 81,
+    "meanScore": 82,
+    "popularity": 29068,
+    "trending": 0,
+    "favourites": 981,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 31183,
+            "title": {
+              "romaji": "Cross Game",
+              "english": "Cross Game"
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 149,
+        "name": "Baseball",
+        "rank": 97,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 84,
+        "name": "School Club",
+        "rank": 97,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 102,
+        "name": "Coming of Age",
+        "rank": 83,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 83,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 80,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 931,
+        "name": "Tomboy",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 164,
+        "name": "Tsundere",
+        "rank": 74,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 71,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 139,
+        "name": "Love Triangle",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 153,
+        "name": "Time Skip",
+        "rank": 55,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 49,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 118,
+            "name": "SynergySP"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 13230,
+            "name": {
+              "full": "Kou Kitamura",
+              "native": "樹多村光"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95088,
+              "name": {
+                "full": "Miyu Irino",
+                "native": "入野自由"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 13286,
+            "name": {
+              "full": "Aoba Tsukishima",
+              "native": "月島青葉"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95890,
+              "name": {
+                "full": "Haruka Tomatsu",
+                "native": "戸松遥"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 13285,
+            "name": {
+              "full": "Wakaba Tsukishima",
+              "native": "月島若葉"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95239,
+              "name": {
+                "full": "Akemi Kanda",
+                "native": "神田朱未"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 13287,
+            "name": {
+              "full": "Momiji Tsukishima",
+              "native": "月島紅葉"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95120,
+              "name": {
+                "full": "Noriko Shitaya",
+                "native": "下屋則子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 13289,
+            "name": {
+              "full": "Ichiyou Tsukishima",
+              "native": "月島一葉"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95144,
+              "name": {
+                "full": "Megumi Toyoguchi",
+                "native": "豊口めぐみ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 13290,
+            "name": {
+              "full": "Seiji Tsukishima",
+              "native": "月島清次"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102713,
+              "name": {
+                "full": "Yasuhiko Kawazu",
+                "native": "川津泰彦"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 21103,
+            "name": {
+              "full": "Kensaku Kitamura",
+              "native": "樹多村 健作"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101981,
+              "name": {
+                "full": "Takuma Suzuki",
+                "native": "鈴木琢磨"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 21104,
+            "name": {
+              "full": "Kimie Kitamura",
+              "native": "樹多村 君江"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95995,
+              "name": {
+                "full": "Kyouko Hikami",
+                "native": "氷上恭子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 21680,
+            "name": {
+              "full": "Daiki Nakanishi",
+              "native": "中西 大気"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102712,
+              "name": {
+                "full": "Yoshinori Sonobe",
+                "native": "園部好德"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 21681,
+            "name": {
+              "full": "Osamu Akaishi",
+              "native": "赤石 修"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95299,
+              "name": {
+                "full": "Kenji Nomura",
+                "native": "乃村健次"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "5958": {
+    "id": 5958,
+    "idMal": 5958,
+    "title": {
+      "romaji": "Sora no Otoshimono",
+      "english": "Heaven's Lost Property",
+      "native": "そらのおとしもの"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "Sakurai Tomoki has been having the same strange dream since he was a child and would wake up in tears. Sugata, an upperclassman at his school, believes the dream to be of the new continent. Later that night, while waiting under the cherry trees for Sugata and his childhood friend, an angel called Ikaros comes flying down and his peaceful life changes from then on.",
+    "episodes": 13,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2009,
+    "startDate": {
+      "year": 2009,
+      "month": 10,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2009,
+      "month": 12,
+      "day": 28
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5958-qaAKEr4Q0JWn.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5958-qaAKEr4Q0JWn.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5958-qaAKEr4Q0JWn.jpg",
+      "color": "#43bbe4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5958-aqz8d4m8nORb.jpg",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Sci-Fi",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "synonyms": [],
+    "averageScore": 67,
+    "meanScore": 67,
+    "popularity": 93774,
+    "trending": 0,
+    "favourites": 1395,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "_8FQsHCvYLA",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/_8FQsHCvYLA/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://movies.netflix.com/WiMovie/Heaven_s_Lost_Property/70266999",
+        "site": "Netflix",
+        "type": "STREAMING"
+      },
+      {
+        "url": "http://www.hulu.com/heavens-lost-property",
+        "site": "Hulu",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.crunchyroll.com/heavens-lost-property",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 1 - A Full-frontal Hero Arises in the World!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/ff8cd741d24b36c0f80c2e73ecc0c7fa1519606126_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G31UX0347/a-full-frontal-hero-arises-in-the-world",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - An Airborne Prismatic Panty Adventure",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/0ae58477e27e152cc6f04557db4ee0251519606593_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G2XU083GJ/an-airborne-prismatic-panty-adventure",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - Angeloid Directive Zero",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/19c8827bd85bba74d9cf347d0c96af0b1519607783_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G8WUN4W14/angeloid-directive-zero",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - Love and Triangles, Revisited",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/640069d3267a7b38849c2d5b2aa9f31a1519608687_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GQJUGP93K/love-and-triangles-revisited",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - Hot Night With the Big Fish",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/27f6b9467747df0be81f225f9f9b28e31519609125_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GWDU85KJQ/hot-night-with-the-big-fish",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - Swimsuit Surf Brigade, Go! Go! Go!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/199d3c9402bccf88a2e6f52eb6c56e0d1519614588_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G0DUN50KK/swimsuit-surf-brigade-go-go-go",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 7 - The Brainy, Heart-pounding Transfer Students",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/bfef406c7d87b50c4909c4b9cf4042d91519610326_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G7PU4XV7P/the-brainy-heart-pounding-transfer-students",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 8 - For Whom the Shooting Festival is Held",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/374d0bdbb1435fbb6f8b3e0223593c3e1519611207_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G9DUE1P0N/for-whom-the-shooting-festival-is-held",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 9 - The Delusional Story That Began With a Lie",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/03231507c248a0bfba5d55ddef077bb61519614012_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G4VUQEX5Q/the-delusional-story-that-began-with-a-lie",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 10 - Where the Melodious Words Of an Angel Go",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/b5b7b9855eef756ea2309d837fa8c2821519613711_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GN7UDP7M3/where-the-melodious-words-of-an-angel-go",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 11 - Off We Go to My Bathhouse Paradise",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/bfe25fe741828c3da42fb25d9ac531af1519614334_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GK9U354E9/off-we-go-to-my-bathhouse-paradise",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 12 - Chains of No Escape",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/69e29b33ee903e93d680c8efb5bd39801519614607_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GWDU85K29/chains-of-no-escape",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 13 - Queen of the Sky",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/00f2015d2b33938122d49bcabe8ce4ad1519616656_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GG1U23EJD/queen-of-the-sky",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 38144,
+            "title": {
+              "romaji": "Sora no Otoshimono",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 8407,
+            "title": {
+              "romaji": "Sora no Otoshimono: Forte",
+              "english": "Heaven's Lost Property: Forte"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 7858,
+            "title": {
+              "romaji": "Sora no Otoshimono OVA",
+              "english": "Heaven's Lost Property OVA"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 95876,
+            "title": {
+              "romaji": "Sora no Otoshimono",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1068,
+        "name": "Angels",
+        "rank": 85,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 84,
+        "name": "School Club",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 247,
+        "name": "Slavery",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 77,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 191,
+        "name": "Aliens",
+        "rank": 76,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 250,
+        "name": "Rural",
+        "rank": 76,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 76,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 72,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 72,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 68,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 64,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 164,
+        "name": "Tsundere",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 83,
+        "name": "Slapstick",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 193,
+        "name": "Episodic",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 517,
+        "name": "Artificial Intelligence",
+        "rank": 56,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 175,
+        "name": "Robots",
+        "rank": 56,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 324,
+        "name": "Chibi",
+        "rank": 56,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 365,
+        "name": "Memory Manipulation",
+        "rank": 55,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 107,
+        "name": "Mafia",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 262,
+        "name": "Outdoor Activities",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 77,
+        "name": "Gender Bending",
+        "rank": 44,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 199,
+        "name": "Yakuza",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1121,
+        "name": "Torture",
+        "rank": 40,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 40,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 468,
+        "name": "Shrine Maiden",
+        "rank": 10,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 631,
+        "name": "Feet",
+        "rank": 10,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 88,
+            "name": "AIC A.S.T.A."
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 102,
+            "name": "Funimation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 21150,
+            "name": {
+              "full": "Ikaros",
+              "native": "イカロス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95869,
+              "name": {
+                "full": "Saori Hayami",
+                "native": "早見沙織"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 23490,
+            "name": {
+              "full": "Tomoki Sakurai",
+              "native": "桜井智樹"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95030,
+              "name": {
+                "full": "Souichirou Hoshi",
+                "native": "保志総一朗"
+              }
+            },
+            {
+              "id": 95504,
+              "name": {
+                "full": "Saki Fujita",
+                "native": "藤田咲"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 23491,
+            "name": {
+              "full": "Sohara Mitsuki",
+              "native": "見月そはら"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 103930,
+              "name": {
+                "full": "Mina  Kasai",
+                "native": "葛西美名"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 23494,
+            "name": {
+              "full": "Eishirou Sugata",
+              "native": "守形 英四郎"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95735,
+              "name": {
+                "full": "Tatsuhisa Suzuki",
+                "native": "鈴木達央"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 23495,
+            "name": {
+              "full": "Mikako Satsukitane",
+              "native": "五月田根 美香子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95823,
+              "name": {
+                "full": "Ayahi Takagaki",
+                "native": "高垣彩陽"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 23496,
+            "name": {
+              "full": "Nymph",
+              "native": "ニンフ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 103956,
+              "name": {
+                "full": "Iori Nomizu",
+                "native": "野水伊織"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 28758,
+            "name": {
+              "full": "Minos",
+              "native": "シナプスの男"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95022,
+              "name": {
+                "full": "Shinichirou Miki",
+                "native": "三木眞一郎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 37553,
+            "name": {
+              "full": "Daedalus",
+              "native": "ダイダロス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102489,
+              "name": {
+                "full": "Asuka Oogame",
+                "native": "大亀あすか"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 37694,
+            "name": {
+              "full": "Harpy 1",
+              "native": "ハーピー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95176,
+              "name": {
+                "full": "Michiko Neya",
+                "native": "根谷美智子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 37695,
+            "name": {
+              "full": "Harpy 2",
+              "native": "ハーピー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95867,
+              "name": {
+                "full": "Maya Okamoto",
+                "native": "岡本麻弥"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "5455": {
+    "id": 5455,
+    "idMal": 5455,
+    "title": {
+      "romaji": "Saimin Jutsu THE ANIMATION 2nd",
+      "english": null,
+      "native": "催眠術 THE ANIMATION 2nd"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "Susumu is negative and introverted. He is just living a vacant life, always been reprimanded by his mother and never resisting it. All that changed the day he met a certain person that just moved to the Condo he and his mother live in, that would bring a dramatic change in his life...he is been taught hypnotism!!<br>\nSusumu will use his new godly technique on his mother but first he will use it on his next door neighbors: that hot big busted Mother and her cute daughter...<br><br>\n(Source: AniDB)",
+    "episodes": 2,
+    "duration": 30,
+    "season": "FALL",
+    "seasonYear": 2008,
+    "startDate": {
+      "year": 2008,
+      "month": 10,
+      "day": 25
+    },
+    "endDate": {
+      "year": 2009,
+      "month": 2,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5455.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5455.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5455.jpg",
+      "color": "#ae5d28"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [
+      "Saiminjutsu 2"
+    ],
+    "averageScore": 57,
+    "meanScore": 59,
+    "popularity": 1314,
+    "trending": 0,
+    "favourites": 25,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "VISUAL_NOVEL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 18151,
+            "title": {
+              "romaji": "Saimin Jutsu ZERO",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 282,
+        "name": "Hikikomori",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 137,
+        "name": "Large Breasts",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 187,
+        "name": "MILF",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 128,
+        "name": "Incest",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 129,
+        "name": "Defloration",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 132,
+        "name": "Threesome",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 127,
+        "name": "Public Sex",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 165,
+        "name": "Teacher",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 189,
+        "name": "Tentacles",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 125,
+        "name": "Nakadashi",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 134,
+        "name": "Fellatio",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 133,
+        "name": "Sex Toys",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1235,
+        "name": "Squirting",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 131,
+        "name": "Masturbation",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 188,
+        "name": "Futanari",
+        "rank": 33,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 185,
+        "name": "Anal Sex",
+        "rank": 30,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 317,
+        "name": "Handjob",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1511,
+        "name": "Double Penetration",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 180,
+        "name": "Watersports",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 830,
+        "name": "Group Sex",
+        "rank": 10,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 25,
+            "name": "Milky Animation Label"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 36600,
+            "name": {
+              "full": "Shino Takase",
+              "native": "高瀬志乃"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96273,
+              "name": {
+                "full": "Yuu Amamiya",
+                "native": "雨宮侑布"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 36601,
+            "name": {
+              "full": "Sawa Sakurai",
+              "native": "桜井佐和"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95971,
+              "name": {
+                "full": "Kumiko Yokote",
+                "native": "横手久美子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 36602,
+            "name": {
+              "full": "Noriko Takase",
+              "native": "高瀬則子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100149,
+              "name": {
+                "full": "Junko Nakata",
+                "native": "中田順子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 36607,
+            "name": {
+              "full": "Susumu Sakurai",
+              "native": "桜井進"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 36604,
+            "name": {
+              "full": "Rie Yuiko",
+              "native": "笠谷理枝"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 103922,
+              "name": {
+                "full": "Shizuka Arai",
+                "native": "荒井 静香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 36605,
+            "name": {
+              "full": "Yoko Kasaya",
+              "native": "笠谷葉子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 103916,
+              "name": {
+                "full": "Kei Mizusawa",
+                "native": "瑞沢渓"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 36606,
+            "name": {
+              "full": "Shinta Murakoshi",
+              "native": "村越進太"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "5177": {
+    "id": 5177,
+    "idMal": 5177,
+    "title": {
+      "romaji": "Denpa Teki na Kanojo",
+      "english": "Electromagnetic Girlfriend",
+      "native": "電波的な彼女"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "Juuzawa Juu is a delinquent high school boy who just wants to be left alone. One day, he is approached by Ochibana Ame, who claims that she knew him in a previous life, and now wants to serve him as his \"knight\". At first Juu wants nothing to do with Ame, but after a classmate is murdered, he accepts her help as he looks for the killer. <br><br>\n\n(Source: Anime News Network)",
+    "episodes": 2,
+    "duration": 42,
+    "season": "WINTER",
+    "seasonYear": 2009,
+    "startDate": {
+      "year": 2009,
+      "month": 2,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2009,
+      "month": 12,
+      "day": 4
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5177-DXekOx3p9a6p.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5177-DXekOx3p9a6p.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5177-DXekOx3p9a6p.png",
+      "color": "#284378"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5177-bTghn3MhZKT2.jpg",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "synonyms": [
+      "Denpateki na Kanojo",
+      "The Radio Wave-Like Girlfriend"
+    ],
+    "averageScore": 70,
+    "meanScore": 70,
+    "popularity": 36895,
+    "trending": 0,
+    "favourites": 342,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "LIGHT_NOVEL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 47992,
+            "title": {
+              "romaji": "Denpa Teki na Kanojo",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 118818,
+            "title": {
+              "romaji": "Denpa Teki na Kanojo",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 654,
+        "name": "Denpa",
+        "rank": 99,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 267,
+        "name": "Chuunibyou",
+        "rank": 93,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 88,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 648,
+        "name": "Crime",
+        "rank": 84,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 83,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 163,
+        "name": "Yandere",
+        "rank": 82,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 252,
+        "name": "Revenge",
+        "rank": 77,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 72,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 694,
+        "name": "Detective",
+        "rank": 72,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 171,
+        "name": "Bullying",
+        "rank": 70,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 94,
+        "name": "Gore",
+        "rank": 67,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1046,
+        "name": "Suicide",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1219,
+        "name": "Disability",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 391,
+        "name": "Philosophy",
+        "rank": 58,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 164,
+        "name": "Tsundere",
+        "rank": 48,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 155,
+        "name": "Rape",
+        "rank": 48,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 46,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1121,
+        "name": "Torture",
+        "rank": 40,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1539,
+        "name": "Unrequited Love",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 112,
+            "name": "Brain's Base"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6563,
+            "name": "Zack Promotion"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 19986,
+            "name": {
+              "full": "Ame Ochibana",
+              "native": "堕花雨"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95111,
+              "name": {
+                "full": "Ryou Hirohashi",
+                "native": "広橋涼"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 20011,
+            "name": {
+              "full": "Juu Juuzawa",
+              "native": "柔沢ジュウ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100626,
+              "name": {
+                "full": "Yoshimasa Hosoya",
+                "native": "細谷佳正"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 20841,
+            "name": {
+              "full": "Miya Satsuki",
+              "native": "紗月美夜"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95034,
+              "name": {
+                "full": "Yuu Kobayashi",
+                "native": "小林ゆう"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 28676,
+            "name": {
+              "full": "Yukihime Kirishima",
+              "native": "斬島雪姫"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95031,
+              "name": {
+                "full": "Mai Nakahara",
+                "native": "中原麻衣"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 28701,
+            "name": {
+              "full": "Madoka Endo",
+              "native": "円堂円"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95197,
+              "name": {
+                "full": "Mitsuki Saiga",
+                "native": "斎賀みつき"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 28702,
+            "name": {
+              "full": "Hikaru Ochibana",
+              "native": "堕花光"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95499,
+              "name": {
+                "full": "Kozue Yoshizumi",
+                "native": "吉住梢"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 28743,
+            "name": {
+              "full": "Kanako Fujishima",
+              "native": "藤嶋香奈子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95274,
+              "name": {
+                "full": "Akemi Satou",
+                "native": "佐藤朱"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 28744,
+            "name": {
+              "full": "Kaori Shiraishi",
+              "native": "白石里香"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95116,
+              "name": {
+                "full": "Kana Ueda",
+                "native": "植田佳奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 28745,
+            "name": {
+              "full": "Ichiko Ayase",
+              "native": "綾瀬一子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95070,
+              "name": {
+                "full": "Ami Koshimizu",
+                "native": "小清水亜美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 28746,
+            "name": {
+              "full": "Nao Hirose",
+              "native": "広瀬奈緒"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95413,
+              "name": {
+                "full": "Eri Kitamura",
+                "native": "喜多村英梨"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "5034": {
+    "id": 5034,
+    "idMal": 5034,
+    "title": {
+      "romaji": "Shikabane Hime: Kuro",
+      "english": "Corpse Princess: Kuro",
+      "native": "屍姫 玄"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "A direct continuation of Shikabane Hime Aka, taking place six months after Tagami Keisei's death at the hands of the Shichisei (Seven Stars), a group of elite Shikabane who act on more than just regrets. As per Keisei's dying wish, Kagami Ouri formed a temporary contract with Makina to save her from degenerating into a Shikabane. Since then, Ouri's been training to become a proper monk so that he can remain contracted to Makina and help her fight against the Shichisei -- the ones who originally killed Makina, the entire Hoshimura family, and now Keisei. However, the traitorous monk Shishidou Akasha has sided with the Shichisei in an attempt to destroy all Shikabane Hime and the entire monk organization that uses them -- Kougon Sect.",
+    "episodes": 12,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2009,
+    "startDate": {
+      "year": 2009,
+      "month": 1,
+      "day": 2
+    },
+    "endDate": {
+      "year": 2009,
+      "month": 3,
+      "day": 26
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5034-UqHnd7efO3uG.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5034-UqHnd7efO3uG.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5034-UqHnd7efO3uG.jpg",
+      "color": "#f18650"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Horror",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "Shikabane Hime Second Season"
+    ],
+    "averageScore": 69,
+    "meanScore": 69,
+    "popularity": 13860,
+    "trending": 0,
+    "favourites": 75,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "Xvr1z07uIYA",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/Xvr1z07uIYA/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://www.hulu.com/corpse-princess",
+        "site": "Hulu",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 4581,
+            "title": {
+              "romaji": "Shikabane Hime: Aka",
+              "english": "Corpse Princess: Aka"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 36228,
+            "title": {
+              "romaji": "Shikabane Hime",
+              "english": "Corpse Princess"
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 6344,
+            "title": {
+              "romaji": "Shikabane Hime: Kuro – Soredemo, Hito to Shite",
+              "english": "Corpse Princess: Kuro - Even So, As a Person"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 7108,
+            "title": {
+              "romaji": "Shikabane Hime: Puchitto",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 15,
+        "name": "Demons",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 147,
+        "name": "Afterlife",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 391,
+        "name": "Philosophy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 772,
+        "name": "Shapeshifting",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 143,
+        "name": "Survival",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 153,
+        "name": "Time Skip",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1589,
+        "name": "Criminal Organization",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 252,
+        "name": "Revenge",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 83,
+        "name": "Slapstick",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 615,
+        "name": "Death Game",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1304,
+        "name": "Anthropomorphism",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 250,
+        "name": "Rural",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 154,
+        "name": "Body Swapping",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1539,
+        "name": "Unrequited Love",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 931,
+        "name": "Tomboy",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 97,
+        "name": "Otaku Culture",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6,
+            "name": "Gainax"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 91,
+            "name": "feel."
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 102,
+            "name": "Funimation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 58,
+            "name": "Square Enix"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 92,
+            "name": "Starchild Records"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 15611,
+            "name": {
+              "full": "Makina Hoshimura",
+              "native": "星村眞姫那"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101290,
+              "name": {
+                "full": "Nana Akiyama",
+                "native": "秋山奈々"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 15613,
+            "name": {
+              "full": "Ouri Kagami",
+              "native": "花神旺里"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101454,
+              "name": {
+                "full": "Tatsuya Hasome",
+                "native": "羽染達也"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 15612,
+            "name": {
+              "full": "Keisei Tagami",
+              "native": "田神景世"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95063,
+              "name": {
+                "full": "Keiji Fujiwara",
+                "native": "藤原啓治"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 15614,
+            "name": {
+              "full": "Takamasa Sougi",
+              "native": "送儀嵩柾"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95911,
+              "name": {
+                "full": "Tokuyoshi Kawashima",
+                "native": "川島得愛"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 15615,
+            "name": {
+              "full": "Itsuki Yamagami",
+              "native": "山神異月"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101291,
+              "name": {
+                "full": "Chise Nakamura",
+                "native": "知世中村"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 17746,
+            "name": {
+              "full": "Shinze Kamiu",
+              "native": "神生真世"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95197,
+              "name": {
+                "full": "Mitsuki Saiga",
+                "native": "斎賀みつき"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 18317,
+            "name": {
+              "full": "Akira Touka",
+              "native": "遠岡アキラ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101686,
+              "name": {
+                "full": "Aoi Yuuki",
+                "native": "悠木碧"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 18318,
+            "name": {
+              "full": "Rika Aragami",
+              "native": "荒神莉花"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95135,
+              "name": {
+                "full": "Saeko Chiba",
+                "native": "千葉紗子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 18319,
+            "name": {
+              "full": "Saki Amase",
+              "native": "天瀬早季"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95375,
+              "name": {
+                "full": "Mika Kikuchi",
+                "native": "菊地美香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 18320,
+            "name": {
+              "full": "Sadahiro Mibu",
+              "native": "壬生貞比呂"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95095,
+              "name": {
+                "full": "Junichi Suwabe",
+                "native": "諏訪部順一"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
   }
 }

@@ -73,7 +73,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787842800,
-      "timeUntilAiring": 491062,
+      "timeUntilAiring": 489331,
       "episode": 1
     },
     "relations": {
@@ -1587,5 +1587,167 @@
       ]
     },
     "updatedAt": 1787345811
+  },
+  "205794": {
+    "id": 205794,
+    "idMal": null,
+    "title": {
+      "romaji": "BREACH",
+      "english": "BREACH",
+      "native": "BREACH"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "Promotional video directed by Joe Yoshizaki for the debut of HololiveEN's group of vtubers known as Advent.",
+    "episodes": 1,
+    "duration": 1,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2023,
+      "month": 7,
+      "day": 31
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 7,
+      "day": 31
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205794-fZQJsRQBYOle.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205794-fZQJsRQBYOle.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205794-fZQJsRQBYOle.png",
+      "color": "#e46b5d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205794-OgM6MQadsgdc.jpg",
+    "genres": [
+      "Fantasy",
+      "Mystery"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 69,
+    "popularity": 124,
+    "trending": 1,
+    "favourites": 3,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "K2ERfnGqWRI",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/K2ERfnGqWRI/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=K2ERfnGqWRI",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 118123,
+            "title": {
+              "romaji": "Holo no Graffiti",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1047,
+        "name": "VTuber",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6443,
+            "name": "Makaria"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6450,
+            "name": "Cover Corp"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 333591,
+            "name": {
+              "full": "Shiori Novella",
+              "native": "シオリ・ノヴェラ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 333592,
+            "name": {
+              "full": "Bijou Koseki",
+              "native": "古石ビジュー"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 333596,
+            "name": {
+              "full": "Mococo Abyssgard",
+              "native": "モココ・アビスガード"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 333597,
+            "name": {
+              "full": "Fuwawa Abyssgard",
+              "native": "フワワ・アビスガード"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 333599,
+            "name": {
+              "full": "Nerissa Ravencroft",
+              "native": "ネリッサ・レイヴンクロフト"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787349739
   }
 }

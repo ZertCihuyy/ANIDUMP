@@ -602,7 +602,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 37660,
-    "trending": 2,
+    "trending": 1,
     "favourites": 451,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -964,7 +964,7 @@
         }
       ]
     },
-    "updatedAt": 1787349758
+    "updatedAt": 1787353220
   },
   "188892": {
     "id": 188892,
@@ -2547,5 +2547,421 @@
       ]
     },
     "updatedAt": 1787349641
+  },
+  "188034": {
+    "id": 188034,
+    "idMal": 61227,
+    "title": {
+      "romaji": "Girls und Panzer: Motto Love Love Sakusen desu!",
+      "english": null,
+      "native": "ガールズ＆パンツァー もっとらぶらぶ作戦です！"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "Four part adaptation of the <i>Girls und Panzer: Motto Love Love Sakusen desu!</i> manga.\n<br><br>\n(Source: Natalie Comics)",
+    "episodes": 4,
+    "duration": 72,
+    "season": "WINTER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 26
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 4,
+      "day": 10
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188034-oRwVKBMezOOk.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188034-oRwVKBMezOOk.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188034-oRwVKBMezOOk.jpg",
+      "color": "#5086e4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [
+      "Girls & Panzer - Motto Love Love Sakusen desu!"
+    ],
+    "averageScore": 72,
+    "meanScore": 77,
+    "popularity": 3641,
+    "trending": 1,
+    "favourites": 62,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "T6C9C9ynlQo",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/T6C9C9ynlQo/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://x.com/garupan_love2",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://gup-mottolovelove.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 85409,
+            "title": {
+              "romaji": "Girls und Panzer: Motto Love Love Sakusen desu!",
+              "english": "Girls & Panzer - Motto Love Love Sakusen desu!"
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 14131,
+            "title": {
+              "romaji": "Girls und Panzer",
+              "english": "Girls und Panzer"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 209312,
+            "title": {
+              "romaji": "Girls und Panzer: Ribbon no Musha Pilot-ban",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 39,
+        "name": "Parody",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 84,
+        "name": "School Club",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 92,
+        "name": "Cute Girls Doing Cute Things",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 55,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 132,
+            "name": "P.A.WORKS"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 60,
+            "name": "Actas"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7137,
+            "name": "Bandai Namco Filmworks"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 777,
+            "name": "Hakuhodo DY Music & Pictures"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7138,
+            "name": "Bandai Namco Music Live"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6698,
+            "name": "KADOKAWA"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 166,
+            "name": "Movic"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 60,
+            "name": "Actas"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7373,
+            "name": "qooop"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 62939,
+            "name": {
+              "full": "Miho Nishizumi",
+              "native": "西住みほ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 104593,
+              "name": {
+                "full": "Mai Fuchigami",
+                "native": "渕上舞"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 62941,
+            "name": {
+              "full": "Saori Takebe",
+              "native": "武部沙織"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105765,
+              "name": {
+                "full": "Ai Kayano",
+                "native": "茅野愛衣"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 62943,
+            "name": {
+              "full": "Hana Isuzu",
+              "native": "五十鈴華"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 112007,
+              "name": {
+                "full": "Mami Ozaki",
+                "native": "尾崎真実"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 62945,
+            "name": {
+              "full": "Yukari Akiyama",
+              "native": "秋山優花里"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 112009,
+              "name": {
+                "full": "Ikumi Nakagami",
+                "native": "中上育実"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 62947,
+            "name": {
+              "full": "Mako Reizei",
+              "native": "冷泉麻子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95885,
+              "name": {
+                "full": "Yuka Iguchi",
+                "native": "井口裕香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 65267,
+            "name": {
+              "full": "Anzu Kadotani",
+              "native": "角谷杏"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95207,
+              "name": {
+                "full": "Misato Fukuen",
+                "native": "福圓美里"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 65269,
+            "name": {
+              "full": "Yuzu Koyama",
+              "native": "小山柚子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95132,
+              "name": {
+                "full": "Mikako Takahashi",
+                "native": "高橋美佳子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 65271,
+            "name": {
+              "full": "Momo Kawashima",
+              "native": "河嶋桃"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95116,
+              "name": {
+                "full": "Kana Ueda",
+                "native": "植田佳奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 67475,
+            "name": {
+              "full": "Noriko Isobe",
+              "native": "磯辺典子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95375,
+              "name": {
+                "full": "Mika Kikuchi",
+                "native": "菊地美香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 67477,
+            "name": {
+              "full": "Taeko Kondou",
+              "native": "近藤妙子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 113445,
+              "name": {
+                "full": "Maya Yoshioka",
+                "native": "吉岡麻耶"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353213
   }
 }

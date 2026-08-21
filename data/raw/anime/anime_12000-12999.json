@@ -5452,7 +5452,7 @@
     "averageScore": 75,
     "meanScore": 75,
     "popularity": 92527,
-    "trending": 4,
+    "trending": 5,
     "favourites": 2004,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5922,7 +5922,7 @@
         }
       ]
     },
-    "updatedAt": 1787349679
+    "updatedAt": 1787353222
   },
   "12281": {
     "id": 12281,
@@ -7526,7 +7526,7 @@
     "averageScore": 79,
     "meanScore": 79,
     "popularity": 349978,
-    "trending": 8,
+    "trending": 2,
     "favourites": 13790,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8113,7 +8113,7 @@
         }
       ]
     },
-    "updatedAt": 1787349658
+    "updatedAt": 1787353218
   },
   "12437": {
     "id": 12437,
@@ -11875,5 +11875,831 @@
       ]
     },
     "updatedAt": 1787345736
+  },
+  "12187": {
+    "id": 12187,
+    "idMal": 12187,
+    "title": {
+      "romaji": "Carnival Phantasm EX Season",
+      "english": null,
+      "native": "カーニバル・ファンタズム　EX Season"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "A DVD-only episode bundled with the special edition Take Moon volume. <br><br>\nCaren Ortensia attempts to control the world using money with varying degrees of success, Phantas-Moon receives a movie adaption of her T.V. show, and Shiki is involved in a love plot that spans years.   <br><br>\n(Source: Wikipedia)",
+    "episodes": 1,
+    "duration": 20,
+    "season": "FALL",
+    "seasonYear": 2011,
+    "startDate": {
+      "year": 2011,
+      "month": 11,
+      "day": 26
+    },
+    "endDate": {
+      "year": 2011,
+      "month": 11,
+      "day": 26
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12187-OBPQmrTNC6eY.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12187-OBPQmrTNC6eY.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx12187-OBPQmrTNC6eY.png",
+      "color": "#e4bb35"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "Carnival Phantasm OVA",
+      "Карнавальный фантазм: Прошлый сезон"
+    ],
+    "averageScore": 73,
+    "meanScore": 73,
+    "popularity": 14620,
+    "trending": 0,
+    "favourites": 73,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": null,
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "http://www.typemoon.com/products/cp",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 30780,
+            "title": {
+              "romaji": "TYPE-MOON Sakuhin-shuu: TAKE MOON",
+              "english": "Take Moon"
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 10012,
+            "title": {
+              "romaji": "Carnival Phantasm",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 39,
+        "name": "Parody",
+        "rank": 83,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 158,
+        "name": "Crossover",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 456,
+            "name": "Lerche"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 46957,
+            "name": {
+              "full": "Caren Hortensia",
+              "native": "カレン・オルテンシア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95070,
+              "name": {
+                "full": "Ami Koshimizu",
+                "native": "小清水亜美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 499,
+            "name": {
+              "full": "Cú  Chulainn",
+              "native": "クー・フーリン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95096,
+              "name": {
+                "full": "Nobutoshi Kanna",
+                "native": "神奈延年"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 2212,
+            "name": {
+              "full": "Shiki Tohno",
+              "native": "遠野志貴"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95074,
+              "name": {
+                "full": "Kenji Nojima",
+                "native": "野島健児"
+              }
+            },
+            {
+              "id": 95539,
+              "name": {
+                "full": "Yumiko Kobayashi",
+                "native": "小林由美子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 2213,
+            "name": {
+              "full": "Arcueid Brunestud",
+              "native": "アルクェイド・ブリュンスタッド"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95141,
+              "name": {
+                "full": "Ryouka Yuzuki",
+                "native": "柚木涼香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 496,
+            "name": {
+              "full": "Shirou Emiya",
+              "native": "衛宮士郎"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95016,
+              "name": {
+                "full": "Noriaki Sugiyama",
+                "native": "杉山紀彰"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 497,
+            "name": {
+              "full": "Artoria Pendragon",
+              "native": "アルトリア・ペンドラゴン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95013,
+              "name": {
+                "full": "Ayako Kawasumi",
+                "native": "川澄綾子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 498,
+            "name": {
+              "full": "Rin Tohsaka",
+              "native": "遠坂凛"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95116,
+              "name": {
+                "full": "Kana Ueda",
+                "native": "植田佳奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 503,
+            "name": {
+              "full": "Illyasviel von Einzbern",
+              "native": "イリヤスフィール・フォン・アインツベルン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95117,
+              "name": {
+                "full": "Mai Kadowaki",
+                "native": "門脇舞以"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 505,
+            "name": {
+              "full": "Taiga Fujimura",
+              "native": "藤村大河"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95121,
+              "name": {
+                "full": "Miki Itou",
+                "native": "伊藤美紀 "
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 506,
+            "name": {
+              "full": "Kirei Kotomine",
+              "native": "言峰綺礼"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95091,
+              "name": {
+                "full": "Jouji Nakata",
+                "native": "中田譲治"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
+  },
+  "12403": {
+    "id": 12403,
+    "idMal": 12403,
+    "title": {
+      "romaji": "Yuru Yuri♪♪",
+      "english": "YuruYuri Season 2",
+      "native": "ゆるゆり♪♪"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "The girls of the Amusement Club return in Yuru Yuri♪♪, finding new ways to make passing time even more enjoyable. Their members consist of the always energetic Kyouko Toshinou; calm and sensible Yui Funami; polite but often overlooked Akari Akaza; and Chinatsu Yoshikawa, who stumbled upon the others while looking for the Tea Ceremony Club. Together they are the Amusement Club, which has the deceptively simple task of keeping its members entertained.<br><br>\n\nAlong with the Student Council and the odd family member, they strive to enjoy their youth to the fullest. Whether it's a trip to a hot spring or finishing overdue homework, their lives are never dull, and they will always find an excuse to spend time together.<br><br>\n\n(Source: MAL Rewrite)",
+    "episodes": 12,
+    "duration": 23,
+    "season": "SUMMER",
+    "seasonYear": 2012,
+    "startDate": {
+      "year": 2012,
+      "month": 7,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2012,
+      "month": 9,
+      "day": 18
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12403-sAG2FsLFX8bH.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx12403-sAG2FsLFX8bH.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx12403-sAG2FsLFX8bH.jpg",
+      "color": "#00bbff"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/12403-5u268qIm5jsR.jpg",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "YRYR 2",
+      "ゆるゆり 第２期"
+    ],
+    "averageScore": 77,
+    "meanScore": 77,
+    "popularity": 46822,
+    "trending": 1,
+    "favourites": 623,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "LGSOhBnMEoY",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/LGSOhBnMEoY/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://yuruyuri.com/2nd/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "http://www.crunchyroll.com/yuruyuri",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://twitter.com/anime_yuruyuri",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.primevideo.com/detail/0FR67D331NU34U7CJNTLTSI1F4",
+        "site": "Prime Video",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 1 - Middle School Debut!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/ac9930b3b6d32ca3a2a1614da81742901309847306_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYQ4WNKQ6/middle-school-debut",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - Me and You and the Student Council",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/d593007418f818d06b482ae0cfaf06041310364304_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRWE45Z0R/me-and-you-and-the-student-council",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - You Wanna Come Visit!?...Yeah, Let's Go!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/8e5e85cce8b12dfd53a1a1fb4b98851e1310594795_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G609XK1W6/you-wanna-come-visityeah-lets-go",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - Summer Harvest",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/62eacf64442d635a638a89fa56237f961311193259_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6759G7ZR/summer-harvest",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - When Akari and the Cicadas Cry",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/42d1acbaba407b3d334d8f412fcba3fa1311822206_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYX0JW18R/when-akari-and-the-cicadas-cry",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - Art Arter Artist",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/734fdcc49f99bc1deac2f3901daa60391312481894_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR19XDNE6/art-arter-artist",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 7 - Christmas",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/e478791aa9b200390594332e2d8dc6211313017087_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYNQVDPGY/christmas",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 8 - April Fool's",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/20c4d55f511c59b466e7d04302c41a821313693220_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6MGEXD76/april-fools",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 9 - This Summer Isn't Scary",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/f8ca1b1cce8cefffc9b7bd30fb5bbc7f1314207882_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G63VK3M4Y/this-summer-isnt-scary",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 10 - It's called a school trip, but what are we here to study?",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/174fce6966e0c57014101b81f8af4d561314827515_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR2P4VEPR/its-called-a-school-trip-but-what-are-we-here-to-study",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 11 - Our Amusement Club",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/af87c892a50a2f57b251efef7cd84d2b1315423937_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRZXJ0D4Y/our-amusement-club",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 12 - Everyone's Poka Poka at Training Camp",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/1bcab7dcda36d1a1f16a0f1509e232aa1316029057_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6Q4WNQQR/everyones-poka-poka-at-training-camp",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 10495,
+            "title": {
+              "romaji": "Yuru Yuri",
+              "english": "YuruYuri"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 41593,
+            "title": {
+              "romaji": "Yuru Yuri",
+              "english": "Yuru Yuri"
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 20625,
+            "title": {
+              "romaji": "Yuru Yuri Nachuyachumi!",
+              "english": "YuruYuri Nachuyachumi!"
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 92,
+        "name": "Cute Girls Doing Cute Things",
+        "rank": 96,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 96,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 83,
+        "name": "Slapstick",
+        "rank": 88,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 84,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 446,
+        "name": "Primarily Child Cast",
+        "rank": 77,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 84,
+        "name": "School Club",
+        "rank": 72,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 144,
+        "name": "Meta",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 139,
+        "name": "Love Triangle",
+        "rank": 63,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 39,
+        "name": "Parody",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 55,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 96,
+        "name": "Time Manipulation",
+        "rank": 40,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 95,
+            "name": "Doga Kobo"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 144,
+            "name": "Pony Canyon"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 315,
+            "name": "DAX Production"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 35871,
+            "name": {
+              "full": "Kyouko Toshinou",
+              "native": "歳納京子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107452,
+              "name": {
+                "full": "Yuka Ootsubo",
+                "native": "大坪由佳"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 35872,
+            "name": {
+              "full": "Akari Akaza",
+              "native": "赤座あかり"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106236,
+              "name": {
+                "full": "Shiori Mikami",
+                "native": "三上枝織"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 35874,
+            "name": {
+              "full": "Yui Funami",
+              "native": "船見結衣"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106492,
+              "name": {
+                "full": "Minami Tsuda",
+                "native": "津田美波"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 35875,
+            "name": {
+              "full": "Chinatsu Yoshikawa",
+              "native": "吉川ちなつ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107041,
+              "name": {
+                "full": "Rumi Ookubo",
+                "native": "大久保瑠美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 35876,
+            "name": {
+              "full": "Ayano Sugiura",
+              "native": "杉浦綾乃"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95504,
+              "name": {
+                "full": "Saki Fujita",
+                "native": "藤田咲"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 35877,
+            "name": {
+              "full": "Chitose Ikeda",
+              "native": "池田千歳"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95599,
+              "name": {
+                "full": "Aki Toyosaki",
+                "native": "豊崎愛生"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 35878,
+            "name": {
+              "full": "Sakurako Oomuro",
+              "native": "大室櫻子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95052,
+              "name": {
+                "full": "Emiri Katou",
+                "native": "加藤英美里"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 35879,
+            "name": {
+              "full": "Himawari Furutani",
+              "native": "古谷向日葵"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106359,
+              "name": {
+                "full": "Suzuko Mimori",
+                "native": "三森すずこ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 44122,
+            "name": {
+              "full": "Mirakurun",
+              "native": "ミラクるん"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101996,
+              "name": {
+                "full": "Ayana Taketatsu",
+                "native": "竹達彩奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 45523,
+            "name": {
+              "full": "Rivarun",
+              "native": "ライバるん"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101686,
+              "name": {
+                "full": "Aoi Yuuki",
+                "native": "悠木碧"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353221
   }
 }

@@ -1730,7 +1730,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 121872,
-    "trending": 1,
+    "trending": 3,
     "favourites": 1949,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2305,7 +2305,7 @@
         }
       ]
     },
-    "updatedAt": 1787349698
+    "updatedAt": 1787353222
   },
   "153339": {
     "id": 153339,
@@ -2859,7 +2859,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 158787,
-    "trending": 4,
+    "trending": 7,
     "favourites": 6896,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3317,7 +3317,7 @@
         }
       ]
     },
-    "updatedAt": 1787349686
+    "updatedAt": 1787353215
   },
   "153658": {
     "id": 153658,
@@ -6090,7 +6090,7 @@
     "averageScore": 85,
     "meanScore": 85,
     "popularity": 222768,
-    "trending": 21,
+    "trending": 17,
     "favourites": 14083,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6613,7 +6613,7 @@
         }
       ]
     },
-    "updatedAt": 1787349622
+    "updatedAt": 1787353218
   },
   "153332": {
     "id": 153332,
@@ -8528,5 +8528,173 @@
       ]
     },
     "updatedAt": 1787345766
+  },
+  "153499": {
+    "id": 153499,
+    "idMal": 52684,
+    "title": {
+      "romaji": "Shen Yin Wangzuo 2",
+      "english": "Throne of Seal",
+      "native": "神印王座 第2季"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "The second season of <i>Shen Yin Wangzuo</i>.",
+    "episodes": 130,
+    "duration": 21,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2022,
+      "month": 11,
+      "day": 10
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 4,
+      "day": 23
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153499-AwubyYIflgF3.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx153499-AwubyYIflgF3.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx153499-AwubyYIflgF3.png",
+      "color": "#e4865d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Throne of Seal 2"
+    ],
+    "averageScore": 79,
+    "meanScore": 83,
+    "popularity": 2179,
+    "trending": 0,
+    "favourites": 176,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://v.qq.com/detail/t/mzc002007j7p5hn.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://weibo.com/u/7649794747",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.crunchyroll.com/series/GJ0H7QG9N/throne-of-seal",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 146409,
+            "title": {
+              "romaji": "Shen Yin Wangzuo",
+              "english": "Throne of Seal"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 185729,
+            "title": {
+              "romaji": "Shen Yin Wangzuo 3",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 215523,
+            "title": {
+              "romaji": "Shen Yin Wangzuo: Sheng Babie Zhi Zhan",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 326,
+        "name": "Cultivation",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 43,
+        "name": "Swordplay",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 30,
+        "name": "Martial Arts",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7116,
+            "name": "Shenman Entertainment"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6490,
+            "name": "China South Angel"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6382,
+            "name": "Tencent Penguin Pictures"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787349759
   }
 }

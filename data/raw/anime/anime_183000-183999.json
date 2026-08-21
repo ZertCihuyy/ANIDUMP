@@ -4792,7 +4792,7 @@
     "averageScore": 69,
     "meanScore": 69,
     "popularity": 23997,
-    "trending": 2,
+    "trending": 4,
     "favourites": 578,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5217,7 +5217,7 @@
         }
       ]
     },
-    "updatedAt": 1787346080
+    "updatedAt": 1787353219
   },
   "183127": {
     "id": 183127,
@@ -5984,5 +5984,456 @@
       ]
     },
     "updatedAt": 1787345805
+  },
+  "183965": {
+    "id": 183965,
+    "idMal": 60254,
+    "title": {
+      "romaji": "Yano-kun no Futsuu no Hibi",
+      "english": "Yano-kun's Ordinary Days",
+      "native": "矢野くんの普通の日々"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "Kiyoko Yoshida is an overanxious class representative who can’t help but worry about Tsuyoshi Yano, who sits beside her. Tsuyoshi comes to school covered in bruises, and as Kiyoko tends to him day after day, the two draw closer. Where will Kiyoko’s feelings take her? Will Tsuyoshi’s life ever be normal? A romantic comedy between an anxious girl and a boy who’s always injured is about to begin!\n<br><br>\n(Source: Crunchyroll)",
+    "episodes": 12,
+    "duration": 22,
+    "season": "FALL",
+    "seasonYear": 2025,
+    "startDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 1
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 17
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183965-7oMzkJp4FUyP.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183965-7oMzkJp4FUyP.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183965-7oMzkJp4FUyP.jpg",
+      "color": "#d6ae6b"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183965-gebvisNsiHxO.jpg",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "synonyms": [],
+    "averageScore": 72,
+    "meanScore": 72,
+    "popularity": 29998,
+    "trending": 2,
+    "favourites": 581,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "AVcXFW1fqAk",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/AVcXFW1fqAk/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://yanokun-anime.com",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://x.com/yanokun3",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.crunchyroll.com/series/GT00362335/yano-kuns-ordinary-days",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 136498,
+            "title": {
+              "romaji": "Yano-kun no Futsuu no Hibi",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 97,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 97,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 83,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 81,
+        "name": "Iyashikei",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 139,
+        "name": "Love Triangle",
+        "rank": 54,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 83,
+        "name": "Slapstick",
+        "rank": 48,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1539,
+        "name": "Unrequited Love",
+        "rank": 46,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 118,
+        "name": "Drawing",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 149,
+        "name": "Baseball",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 30,
+            "name": "Ajiado"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7313,
+            "name": "Happinet Media Marketing"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 517,
+            "name": "Asmik Ace"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6620,
+            "name": "Nippon Television Network"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7708,
+            "name": "LDH JAPAN"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6616,
+            "name": "BS11"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 166,
+            "name": "Movic"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 30,
+            "name": "Ajiado"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6720,
+            "name": "NTV Music"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 238,
+            "name": "AT-X"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6621,
+            "name": "Bit grooove promotion"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7161,
+            "name": "arma bianca"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 460,
+            "name": "KLOCKWORX"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 295969,
+            "name": {
+              "full": "Tsuyoshi Yano",
+              "native": "矢野剛"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119871,
+              "name": {
+                "full": "Kouhei Amasaki",
+                "native": "天崎滉平"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 296085,
+            "name": {
+              "full": "Kiyoko Yoshida",
+              "native": "吉田清子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 126865,
+              "name": {
+                "full": "Yuka Nukui",
+                "native": "貫井柚佳"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 371008,
+            "name": {
+              "full": "Tanaka",
+              "native": "田中"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 126856,
+              "name": {
+                "full": "Ryouta Iwasaki",
+                "native": "岩崎諒太"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 371009,
+            "name": {
+              "full": "Mei",
+              "native": "メイ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 112215,
+              "name": {
+                "full": "Atsumi Tanezaki",
+                "native": "種﨑敦美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 371010,
+            "name": {
+              "full": "Hashiba",
+              "native": "羽柴"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 151336,
+              "name": {
+                "full": "Taito Ban",
+                "native": "坂泰斗"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 371011,
+            "name": {
+              "full": "Izumi",
+              "native": "泉"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119331,
+              "name": {
+                "full": "Rie Takahashi",
+                "native": "高橋李依"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 375062,
+            "name": {
+              "full": "Okamoto",
+              "native": "岡本"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 121961,
+              "name": {
+                "full": "Konomi Kohara",
+                "native": "小原好美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 386598,
+            "name": {
+              "full": "Sayaka Yoshida",
+              "native": "吉田サヤカ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 289560,
+              "name": {
+                "full": "Reo Osanai",
+                "native": "小山内怜央"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 386600,
+            "name": {
+              "full": "Souta Yoshida",
+              "native": "吉田そうた"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 174663,
+              "name": {
+                "full": "Yui Tsukada ",
+                "native": "塚田悠衣"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 386599,
+            "name": {
+              "full": "Oomiya-sensei",
+              "native": "大宮先生"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102695,
+              "name": {
+                "full": "Takuya Eguchi",
+                "native": "江口拓也"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353218
   }
 }

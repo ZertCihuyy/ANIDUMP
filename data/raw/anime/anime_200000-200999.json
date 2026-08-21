@@ -678,7 +678,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1796914800,
-      "timeUntilAiring": 9563000,
+      "timeUntilAiring": 9561288,
       "episode": 1
     },
     "relations": {
@@ -894,7 +894,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787470200,
-      "timeUntilAiring": 118347,
+      "timeUntilAiring": 116665,
       "episode": 8
     },
     "relations": {
@@ -2182,5 +2182,263 @@
       ]
     },
     "updatedAt": 1787346030
+  },
+  "200455": {
+    "id": 200455,
+    "idMal": 62753,
+    "title": {
+      "romaji": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+      "english": null,
+      "native": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "I was reborn as a villainous daughter in a reverse harem otome game. \n<br><br>\nAfter being sick with a high fever at the age of 10, Pia Rockwell suddenly remembered her past life as a university student in Japan. But far from going down the villainess route, all this super timid girl wants is to finally use her knowledge from when she was a grad student studying to get her doctorate in paleontology. Her ultimate goal is to become a commoner, excavate fossils, build a museum and then become a curator.\n<br><br>\nSo in order to escape the villainess route and avoid being deported by her fiancé during the graduation ball, Pia decides to avoid the upcoming hurt and heartache and asks to break off her engagement to Rufus, the Prime Minister's son.\n<br><br>\nBut will her cunning fiancé let her go that easily?",
+    "episodes": null,
+    "duration": null,
+    "season": "FALL",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 10,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b200455-gpDWDkMAEuM7.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b200455-gpDWDkMAEuM7.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b200455-gpDWDkMAEuM7.jpg",
+      "color": "#f1865d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "synonyms": [
+      "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 2472,
+    "trending": 2,
+    "favourites": 21,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "LIGHT_NOVEL",
+    "trailer": {
+      "id": "e41RGxVwJRs",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/e41RGxVwJRs/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://yowaki-max-anime.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://x.com/yowaki_max/",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 151603,
+            "title": {
+              "romaji": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 151602,
+            "title": {
+              "romaji": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 857,
+        "name": "Villainess",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 243,
+        "name": "Reincarnation",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 53,
+        "name": "Shoujo",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 244,
+        "name": "Isekai",
+        "rank": 10,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 755,
+            "name": "Jumondou"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6698,
+            "name": "KADOKAWA"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 377367,
+            "name": {
+              "full": "Pia Rockwell",
+              "native": "ピア・ロックウェル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118581,
+              "name": {
+                "full": "Miku Itou",
+                "native": "伊藤美来"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 377368,
+            "name": {
+              "full": "Rufus Stan",
+              "native": "ルーファス・スタン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 110743,
+              "name": {
+                "full": "Ryouta Oosaka",
+                "native": "逢坂良太"
+              }
+            },
+            {
+              "id": 118738,
+              "name": {
+                "full": "Shizuka Ishigami",
+                "native": "石上静香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 399924,
+            "name": {
+              "full": "Caroline Ramsey",
+              "native": "キャロライン・ラムゼー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100250,
+              "name": {
+                "full": "Rina Hidaka",
+                "native": "日高里菜"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 399925,
+            "name": {
+              "full": "Erin White",
+              "native": "エリン・ホワイト"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 116517,
+              "name": {
+                "full": "Sora Amamiya",
+                "native": "雨宮天"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 399926,
+            "name": {
+              "full": "Henry Cox",
+              "native": "ヘンリー・コックス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119200,
+              "name": {
+                "full": "Haruki Ishiya",
+                "native": "石谷春貴"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353221
   }
 }

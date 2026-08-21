@@ -4398,5 +4398,192 @@
       ]
     },
     "updatedAt": 1787345757
+  },
+  "202429": {
+    "id": 202429,
+    "idMal": 62973,
+    "title": {
+      "romaji": "Wareware wa Uchuujin",
+      "english": null,
+      "native": "我々は宇宙人"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "NOT_YET_RELEASED",
+    "description": "One summer in the third grade, a quiet boy named Tsubasa meets Kyotaro, a boy everyone in the class looked up to, and the two become close friends. Within their small world, they share irreplaceable moments—until a small incident suddenly tears them apart. Spanning more than thirty years, this gentle, contemplative story invites the audience to reflect on the meaning of life through the paths their lives take.<br><br>\n\n(Source: NOTHING NEW)",
+    "episodes": 1,
+    "duration": null,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202429-RwSR4o3WmD04.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx202429-RwSR4o3WmD04.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202429-RwSR4o3WmD04.jpg",
+      "color": "#e4ae50"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Drama"
+    ],
+    "synonyms": [
+      "We Are Aliens"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 2733,
+    "trending": 0,
+    "favourites": 13,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "0nk-AWBxZPc",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/0nk-AWBxZPc/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://nothingnew.film/wearealiens/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://x.com/NOTHINGNEW_FILM",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": {
+      "airingAt": 1790262000,
+      "timeUntilAiring": 2908840,
+      "episode": 1
+    },
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 102,
+        "name": "Coming of Age",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 683,
+        "name": "Rotoscoping",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7728,
+            "name": "NOTHING NEW"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 7496,
+            "name": "Miyu Productions"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 396776,
+            "name": {
+              "full": "Tsubasa",
+              "native": "つばさ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 340225,
+              "name": {
+                "full": "Ryouta Bandou",
+                "native": "坂東龍汰"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 396777,
+            "name": {
+              "full": "Kyoutarou",
+              "native": "暁太郎"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 294335,
+              "name": {
+                "full": "Amane Okoyama",
+                "native": "岡山天音"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 406935,
+            "name": {
+              "full": "Batahara",
+              "native": "バタ原"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 406937,
+              "name": {
+                "full": "Kemuri Matsui",
+                "native": "松井ケムリ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 406936,
+            "name": {
+              "full": "Konatsu",
+              "native": "小夏"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 406938,
+              "name": {
+                "full": "Ten Yamasaki",
+                "native": "山﨑天"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
   }
 }

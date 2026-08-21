@@ -5157,7 +5157,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 181718,
-    "trending": 1,
+    "trending": 9,
     "favourites": 3384,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5775,7 +5775,7 @@
         }
       ]
     },
-    "updatedAt": 1787349738
+    "updatedAt": 1787353213
   },
   "16706": {
     "id": 16706,
@@ -13482,7 +13482,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 60193,
-    "trending": 0,
+    "trending": 1,
     "favourites": 549,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13823,7 +13823,7 @@
         }
       ]
     },
-    "updatedAt": 1787345811
+    "updatedAt": 1787353220
   },
   "16201": {
     "id": 16201,
@@ -15913,5 +15913,273 @@
       ]
     },
     "updatedAt": 1787345739
+  },
+  "16528": {
+    "id": 16528,
+    "idMal": 16528,
+    "title": {
+      "romaji": "Hal",
+      "english": "Hal",
+      "native": "ハル"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "Kurumi's heart was broken by the sudden death of her boyfriend in a tragic airplane accident.​ Forced to carry on without her beloved Hal,​ she fell into a reclusive and joyless existence.​ Kurumi had given up on the world,​ but a brilliant scientist devised a plan to win her back.​ By melding futuristic technology with the binary equivalent of human emotion,​ they created an ultra-lifelike robotic surrogate to take Hal's place – and lure Kurumi from her shroud of solitude.​<br>\n<br>\nResistant at first,​ this shattered beauty slowly yielded to her feelings of longing – and took comfort in the company of a robot.​ Though their unique bond grew stronger with each passing day,​ Kurumi and Hal would soon discover that nothing about their artificial love story was quite as it seemed.​<br>\n<br>\n(Source: Funimation)",
+    "episodes": 1,
+    "duration": 60,
+    "season": "SPRING",
+    "seasonYear": 2013,
+    "startDate": {
+      "year": 2013,
+      "month": 6,
+      "day": 8
+    },
+    "endDate": {
+      "year": 2013,
+      "month": 6,
+      "day": 8
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16528-OJw9bSijOh68.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx16528-OJw9bSijOh68.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx16528-OJw9bSijOh68.jpg",
+      "color": null
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n16528-htgsyOO7MuPR.jpg",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "Haru"
+    ],
+    "averageScore": 70,
+    "meanScore": 70,
+    "popularity": 36045,
+    "trending": 0,
+    "favourites": 372,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "OS43cCcWU0A",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/OS43cCcWU0A/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [
+      {
+        "title": "Hal",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/93209f5b5c375f878915073446aa5f4c1501745267_full.jpg",
+        "url": "http://www.crunchyroll.com/hal/hal-hal-744421",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 79611,
+            "title": {
+              "romaji": "Hal",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 311,
+        "name": "Rehabilitation",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 175,
+        "name": "Robots",
+        "rank": 97,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 240,
+        "name": "Amnesia",
+        "rank": 90,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 87,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 517,
+        "name": "Artificial Intelligence",
+        "rank": 83,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 56,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 55,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 45,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 90,
+        "name": "CGI",
+        "rank": 26,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 102,
+            "name": "Funimation"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 858,
+            "name": "WIT STUDIO"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 10,
+            "name": "Production I.G"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 144,
+            "name": "Pony Canyon"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 78677,
+            "name": {
+              "full": "Kurumi",
+              "native": "くるみ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102263,
+              "name": {
+                "full": "Youko Hikasa",
+                "native": "日笠陽子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 78679,
+            "name": {
+              "full": "Hal",
+              "native": "ハル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100626,
+              "name": {
+                "full": "Yoshimasa Hosoya",
+                "native": "細谷佳正"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 131555,
+            "name": {
+              "full": "Aranami",
+              "native": "荒波"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95800,
+              "name": {
+                "full": "Shinpachi Tsuji",
+                "native": "辻親八"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 131556,
+            "name": {
+              "full": "Ryuu",
+              "native": "リュウ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95065,
+              "name": {
+                "full": "Mamoru Miyano",
+                "native": "宮野真守"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 131557,
+            "name": {
+              "full": "Tokio",
+              "native": "時夫"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95892,
+              "name": {
+                "full": "Tamio Ooki",
+                "native": "大木民夫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787349759
   }
 }

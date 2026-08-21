@@ -3532,7 +3532,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 118564,
-    "trending": 8,
+    "trending": 6,
     "favourites": 2305,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4081,7 +4081,7 @@
         }
       ]
     },
-    "updatedAt": 1787349646
+    "updatedAt": 1787353221
   },
   "132456": {
     "id": 132456,
@@ -5134,5 +5134,104 @@
       ]
     },
     "updatedAt": 1787345811
+  },
+  "132816": {
+    "id": 132816,
+    "idMal": 49059,
+    "title": {
+      "romaji": "Unbelievable Space Love",
+      "english": "Unbelievable Space Love",
+      "native": "언빌리버블 스페이스 러브"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "In the dream, a romance starts with a stranger.",
+    "episodes": 10,
+    "duration": 1,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2018,
+      "month": 7,
+      "day": 17
+    },
+    "endDate": {
+      "year": 2018,
+      "month": 8,
+      "day": 7
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132816-ZEqk6c7YaB8v.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132816-ZEqk6c7YaB8v.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx132816-ZEqk6c7YaB8v.jpg",
+      "color": "#bbe4f1"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Romance",
+      "Sci-Fi"
+    ],
+    "synonyms": [],
+    "averageScore": 64,
+    "meanScore": 66,
+    "popularity": 1800,
+    "trending": 0,
+    "favourites": 26,
+    "isAdult": false,
+    "countryOfOrigin": "KR",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://laftel.net/item/38898/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 75,
+        "name": "Boys' Love",
+        "rank": 86,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 517,
+        "name": "Artificial Intelligence",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 63,
+        "name": "Space",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787349759
   }
 }
