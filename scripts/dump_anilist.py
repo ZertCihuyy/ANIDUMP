@@ -179,6 +179,70 @@ def save_anime_data(anime_list, base_dir):
         with open(group_file, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
 
+def generate_indexes(base_dir):
+    logging.info("Generating index and feature files...")
+    all_anime = {}
+    
+    # Read all chunked JSON files
+    for file in base_dir.glob("anime_*.json"):
+        try:
+            with open(file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                all_anime.update(data)
+        except Exception as e:
+            logging.error(f"Failed to read {file}: {e}")
+            
+    if not all_anime:
+        logging.info("No data found to generate indexes.")
+        return
+
+    # Create lists directory at data/raw/lists
+    lists_dir = base_dir.parent / "lists"
+    lists_dir.mkdir(parents=True, exist_ok=True)
+    
+    # 1. Full Raw Data (all_anime.json) - Minified to save space
+    logging.info("Saving all_anime.json (minified)...")
+    with open(lists_dir / 'all_anime.json', 'w', encoding='utf-8') as f:
+        # Using separators=(',', ':') removes whitespace to keep file size minimal (avoiding GitHub 100MB limit)
+        json.dump(all_anime, f, ensure_ascii=False, separators=(',', ':'))
+        
+    anime_list = list(all_anime.values())
+    
+    # 2. Top Anime by Score
+    logging.info("Generating top_anime.json...")
+    top_anime = sorted([a for a in anime_list if a.get('averageScore')], key=lambda x: x['averageScore'], reverse=True)[:500]
+    with open(lists_dir / 'top_anime.json', 'w', encoding='utf-8') as f:
+        json.dump(top_anime, f, ensure_ascii=False, indent=2)
+        
+    # 3. Most Popular Anime
+    logging.info("Generating popular_anime.json...")
+    popular = sorted([a for a in anime_list if a.get('popularity')], key=lambda x: x['popularity'], reverse=True)[:500]
+    with open(lists_dir / 'popular_anime.json', 'w', encoding='utf-8') as f:
+        json.dump(popular, f, ensure_ascii=False, indent=2)
+        
+    # 4. Ongoing / Releasing Anime
+    logging.info("Generating ongoing_anime.json...")
+    ongoing = [a for a in anime_list if a.get('status') == 'RELEASING']
+    with open(lists_dir / 'ongoing_anime.json', 'w', encoding='utf-8') as f:
+        json.dump(ongoing, f, ensure_ascii=False, indent=2)
+        
+    # 5. Current Season (Quick heuristic based on current month)
+    logging.info("Generating season_now.json...")
+    import datetime
+    now = datetime.datetime.now()
+    month = now.month
+    year = now.year
+    if month in (1, 2, 3): season = 'WINTER'
+    elif month in (4, 5, 6): season = 'SPRING'
+    elif month in (7, 8, 9): season = 'SUMMER'
+    else: season = 'FALL'
+    
+    season_anime = [a for a in anime_list if a.get('season') == season and a.get('seasonYear') == year]
+    with open(lists_dir / 'season_now.json', 'w', encoding='utf-8') as f:
+        json.dump(season_anime, f, ensure_ascii=False, indent=2)
+
+    logging.info("Indexes successfully generated!")
+
 def main():
     parser = argparse.ArgumentParser(description='Dump AniList Data')
     parser.add_argument('--mode', choices=['full', 'incremental'], default='incremental', 
@@ -251,6 +315,9 @@ def main():
         time.sleep(1)
         
     logging.info(f"Dump complete! Total anime fetched/updated: {total_fetched}")
+    
+    # Generate the requested index lists
+    generate_indexes(base_dir)
 
 if __name__ == "__main__":
     main()
