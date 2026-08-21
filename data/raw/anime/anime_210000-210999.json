@@ -45,7 +45,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 8157,
-    "trending": 1,
+    "trending": 2,
     "favourites": 82,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -216,7 +216,7 @@
         }
       ]
     },
-    "updatedAt": 1787349750
+    "updatedAt": 1787353295
   },
   "210482": {
     "id": 210482,
@@ -265,7 +265,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 21160,
-    "trending": 4,
+    "trending": 2,
     "favourites": 284,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -300,7 +300,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1790262000,
-      "timeUntilAiring": 2910200,
+      "timeUntilAiring": 2907470,
       "episode": 1
     },
     "relations": {
@@ -516,7 +516,7 @@
         }
       ]
     },
-    "updatedAt": 1787349708
+    "updatedAt": 1787353345
   },
   "210945": {
     "id": 210945,
@@ -751,7 +751,7 @@
     "averageScore": 45,
     "meanScore": 46,
     "popularity": 4384,
-    "trending": 2,
+    "trending": 0,
     "favourites": 68,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -872,7 +872,7 @@
         }
       ]
     },
-    "updatedAt": 1787349702
+    "updatedAt": 1787353355
   },
   "210234": {
     "id": 210234,
@@ -916,7 +916,7 @@
     "averageScore": 49,
     "meanScore": 49,
     "popularity": 8949,
-    "trending": 3,
+    "trending": 0,
     "favourites": 123,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1261,7 +1261,7 @@
         }
       ]
     },
-    "updatedAt": 1787349698
+    "updatedAt": 1787353355
   },
   "210031": {
     "id": 210031,
@@ -1308,7 +1308,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 53478,
-    "trending": 44,
+    "trending": 59,
     "favourites": 993,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1343,7 +1343,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787472000,
-      "timeUntilAiring": 120123,
+      "timeUntilAiring": 117223,
       "episode": 8
     },
     "relations": {
@@ -1662,7 +1662,7 @@
         }
       ]
     },
-    "updatedAt": 1787349636
+    "updatedAt": 1787353230
   },
   "210309": {
     "id": 210309,
@@ -1813,5 +1813,434 @@
       ]
     },
     "updatedAt": 1787349759
+  },
+  "210073": {
+    "id": 210073,
+    "idMal": 63850,
+    "title": {
+      "romaji": "Golden Kamuy: Saishuushou - Bousou Ressha-hen",
+      "english": null,
+      "native": "ゴールデンカムイ 最終章 暴走列車編"
+    },
+    "type": "ANIME",
+    "format": null,
+    "status": "NOT_YET_RELEASED",
+    "description": "Sequel to the fifth and final season of <i>Golden Kamuy</i>.",
+    "episodes": null,
+    "duration": null,
+    "season": "WINTER",
+    "seasonYear": 2027,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210073-ZyVP60Cn7pLJ.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210073-ZyVP60Cn7pLJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210073-ZyVP60Cn7pLJ.jpg",
+      "color": "#e4a11a"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "synonyms": [
+      "Golden Kamuy Final Season - Runaway Train Arc"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 4438,
+    "trending": 1,
+    "favourites": 25,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://kamuy-anime.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://x.com/kamuy_anime/",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 86559,
+            "title": {
+              "romaji": "Golden Kamuy",
+              "english": "Golden Kamuy"
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 166521,
+            "title": {
+              "romaji": "Golden Kamuy: Saishuushou",
+              "english": "Golden Kamuy Final Season"
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 25,
+        "name": "Historical",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 34,
+        "name": "Military",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 122,
+        "name": "Trains",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 124704,
+            "name": {
+              "full": "Saichi Sugimoto",
+              "native": "杉元佐一"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 125440,
+            "name": {
+              "full": "Hyakunosuke Ogata",
+              "native": "尾形百之助"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787353327
+  },
+  "210032": {
+    "id": 210032,
+    "idMal": 63833,
+    "title": {
+      "romaji": "BAKI-DOU Part 2",
+      "english": "BAKI-DOU: The Invincible Samurai Part 2",
+      "native": "刃牙道 第2クール"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "The second cour of <i>BAKI-DOU</i>.\n<br><br>\nBaki and other warriors like Doppo Orochi, Jack Hanma, and Kaoru Hanayama prepare their return to the arena to prove their brawn in a series of battles that transcends time and space. Who will prevail in the clash between today’s strongest martial artists and history’s most powerful samurai?\n<br><br>\n(Source: Netflix)",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 6,
+      "day": 18
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 6,
+      "day": 18
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210032-EOvyzhh2ATNs.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210032-EOvyzhh2ATNs.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210032-EOvyzhh2ATNs.jpg",
+      "color": "#e4ae5d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "synonyms": [
+      "BAKI-DOU: The Invincible Samurai Season 2",
+      "BAKI-DOU: O Samurai Invencível Parte 2"
+    ],
+    "averageScore": 73,
+    "meanScore": 74,
+    "popularity": 7308,
+    "trending": 1,
+    "favourites": 108,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "8esxGouUDpM",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/8esxGouUDpM/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/baki_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://baki-anime.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.netflix.com/title/81922765",
+        "site": "Netflix",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 176509,
+            "title": {
+              "romaji": "BAKI-DOU",
+              "english": "BAKI-DOU: The Invincible Samurai"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 86056,
+            "title": {
+              "romaji": "Baki Dou",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 30,
+        "name": "Martial Arts",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 291,
+        "name": "Samurai",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 43,
+        "name": "Swordplay",
+        "rank": 50,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 73,
+            "name": "TMS Entertainment"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 10498,
+            "name": {
+              "full": "Baki Hanma",
+              "native": "範馬刃牙"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 157297,
+            "name": {
+              "full": "Musashi Miyamoto",
+              "native": "宮本武蔵"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 82289,
+            "name": {
+              "full": "Izo Motobe",
+              "native": "本部以蔵"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 10499,
+            "name": {
+              "full": "Yuujirou Hanma",
+              "native": "範馬勇次郎"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 10501,
+            "name": {
+              "full": "Kaoru Hanayama",
+              "native": "花山薫"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 16261,
+            "name": {
+              "full": "Doppo Orochi",
+              "native": "愚地独歩"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 16290,
+            "name": {
+              "full": "Katsumi Orochi",
+              "native": "愚地克巳"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 16291,
+            "name": {
+              "full": "Kiyosumi Katou",
+              "native": "加藤清澄"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 16875,
+            "name": {
+              "full": "Jack Hammer",
+              "native": "ジャック・ハンマー"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 19674,
+            "name": {
+              "full": "Koushou Shinogi",
+              "native": "鎬昂昇"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787353254
   }
 }

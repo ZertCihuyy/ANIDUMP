@@ -393,7 +393,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 46309,
-    "trending": 3,
+    "trending": 7,
     "favourites": 797,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -879,7 +879,7 @@
         }
       ]
     },
-    "updatedAt": 1787349720
+    "updatedAt": 1787353263
   },
   "190143": {
     "id": 190143,
@@ -1487,7 +1487,7 @@
     "averageScore": 82,
     "meanScore": 83,
     "popularity": 38649,
-    "trending": 36,
+    "trending": 25,
     "favourites": 664,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1527,7 +1527,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787409000,
-      "timeUntilAiring": 57147,
+      "timeUntilAiring": 54230,
       "episode": 9
     },
     "relations": {
@@ -1969,7 +1969,7 @@
         }
       ]
     },
-    "updatedAt": 1787349660
+    "updatedAt": 1787353233
   },
   "190327": {
     "id": 190327,
@@ -2021,7 +2021,7 @@
     "averageScore": 88,
     "meanScore": 88,
     "popularity": 75731,
-    "trending": 8,
+    "trending": 6,
     "favourites": 3428,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2447,6 +2447,532 @@
         }
       ]
     },
-    "updatedAt": 1787349646
+    "updatedAt": 1787353245
+  },
+  "190574": {
+    "id": 190574,
+    "idMal": null,
+    "title": {
+      "romaji": "Hinagiku no Jinsei",
+      "english": null,
+      "native": "ひな菊の人生"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "NOT_YET_RELEASED",
+    "description": "“Daisy's Life” follows the emotional journey of a six-year-old girl named Daisy, who loses her mother in a tragic accident and struggles to adapt to life with her aunt. One sleepless night, she encounters a mysterious girl named Dahlia at her window. Their days together begin to transcend time and space, bringing a cosmic perspective to Daisy's modest life in a downtown yakisoba restaurant.<br><br>\n(Source: Variety)",
+    "episodes": 1,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2026,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": 2026,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/default.jpg",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Daisy's Life"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 683,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 7496,
+            "name": "Miyu Productions"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 517,
+            "name": "Asmik Ace"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 7651,
+            "name": "ame pippin"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 361631,
+            "name": {
+              "full": "Hinagiku",
+              "native": "ひな菊"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 361634,
+            "name": {
+              "full": "Dalia",
+              "native": "ダリア"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787353354
+  },
+  "190840": {
+    "id": 190840,
+    "idMal": 61517,
+    "title": {
+      "romaji": "Kingdom 6th Season",
+      "english": "Kingdom Season 6",
+      "native": "キングダム 第6シリーズ"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "The sixth season of <i>Kingdom</i>.",
+    "episodes": 13,
+    "duration": 25,
+    "season": "FALL",
+    "seasonYear": 2025,
+    "startDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 28
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190840-CvKAz6aWHB21.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190840-CvKAz6aWHB21.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190840-CvKAz6aWHB21.png",
+      "color": "#50aee4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action"
+    ],
+    "synonyms": [
+      "Царство 6"
+    ],
+    "averageScore": 84,
+    "meanScore": 85,
+    "popularity": 10194,
+    "trending": 1,
+    "favourites": 295,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "IT5EyilwgoQ",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/IT5EyilwgoQ/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://kingdom-anime.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://x.com/kingdom_animepr",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://youtube.com/@kingdom-anime",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.crunchyroll.com/series/GRWE89KMR/kingdom",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.tiktok.com/@kingdom_animepr",
+        "site": "TikTok",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 155227,
+            "title": {
+              "romaji": "Kingdom 5th Season",
+              "english": "Kingdom Season 5"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 46765,
+            "title": {
+              "romaji": "Kingdom",
+              "english": "Kingdom"
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 204688,
+            "title": {
+              "romaji": "Kingdom (Zoku-hen)",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 111,
+        "name": "War",
+        "rank": 91,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 34,
+        "name": "Military",
+        "rank": 86,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1598,
+        "name": "Ancient China",
+        "rank": 84,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 25,
+        "name": "Historical",
+        "rank": 83,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 251,
+        "name": "Archery",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 1,
+            "name": "Studio Pierrot"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6109,
+            "name": "Studio Signpost"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 1,
+            "name": "Studio Pierrot"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 317,
+            "name": "NHK Enterprises"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6429,
+            "name": "Avex Pictures"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6570,
+            "name": "Shueisha"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6109,
+            "name": "Studio Signpost"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 64573,
+            "name": {
+              "full": "Xin Li",
+              "native": "李信"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95205,
+              "name": {
+                "full": "Masakazu Morita",
+                "native": "森田成一"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 64109,
+            "name": {
+              "full": "Zheng Ying",
+              "native": "嬴政"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95086,
+              "name": {
+                "full": "Jun Fukuyama",
+                "native": "福山潤"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 65407,
+            "name": {
+              "full": "Liao Diao He",
+              "native": "河了貂"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95008,
+              "name": {
+                "full": "Rie Kugimiya",
+                "native": "釘宮理恵"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 65445,
+            "name": {
+              "full": "Lei Qiang",
+              "native": "羌瘣"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102263,
+              "name": {
+                "full": "Youko Hikasa",
+                "native": "日笠陽子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 87535,
+            "name": {
+              "full": "Ben Wang",
+              "native": "王賁"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100626,
+              "name": {
+                "full": "Yoshimasa Hosoya",
+                "native": "細谷佳正"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 87538,
+            "name": {
+              "full": "Tian Meng",
+              "native": "蒙恬"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95341,
+              "name": {
+                "full": "Hirofumi Nojima",
+                "native": "野島裕史"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 87540,
+            "name": {
+              "full": "Jian Wang",
+              "native": "王翦"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95262,
+              "name": {
+                "full": "Kenyuu Horiuchi",
+                "native": "堀内賢雄"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 66701,
+            "name": {
+              "full": "Duanhe Yang",
+              "native": "楊端和"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95602,
+              "name": {
+                "full": "Mie Sonozaki",
+                "native": "園崎未恵"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 137855,
+            "name": {
+              "full": "Yi Huan",
+              "native": "桓騎"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95221,
+              "name": {
+                "full": "Kentarou Itou",
+                "native": "伊藤健太郎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 76788,
+            "name": {
+              "full": "Mu Li",
+              "native": "李牧"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95006,
+              "name": {
+                "full": "Toshiyuki Morikawa",
+                "native": "森川智之"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353278
   }
 }

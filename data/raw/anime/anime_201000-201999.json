@@ -1182,7 +1182,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787834400,
-      "timeUntilAiring": 481026,
+      "timeUntilAiring": 479601,
       "episode": 9
     },
     "relations": {
@@ -1554,7 +1554,7 @@
     "averageScore": 70,
     "meanScore": 71,
     "popularity": 38127,
-    "trending": 20,
+    "trending": 22,
     "favourites": 568,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1589,7 +1589,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787420280,
-      "timeUntilAiring": 68431,
+      "timeUntilAiring": 65518,
       "episode": 8
     },
     "relations": {
@@ -1913,7 +1913,7 @@
         }
       ]
     },
-    "updatedAt": 1787349667
+    "updatedAt": 1787353235
   },
   "201903": {
     "id": 201903,
@@ -2515,5 +2515,180 @@
       ]
     },
     "updatedAt": 1787349641
+  },
+  "201961": {
+    "id": 201961,
+    "idMal": 62419,
+    "title": {
+      "romaji": "Jebal Joyonghi Jom Hae!",
+      "english": "Quiet Please!",
+      "native": "제발 조용히 좀 해!"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "One month into living on his own, Yi-hyuk was hoping for an exciting, dramatic start to his independent life—but not this kind of drama. What he doesn’t expect is to be tormented by the thunderous noise coming from the apartment next door.<br><br>\n\nDetermined to put an end to it, he confronts his neighbor—only to make things infinitely worse when he accidentally punches him in the face.<br><br>\n\nYi-hyuk tries everything—from childish pranks to petty power plays—but his neighbor just won’t budge. He even pleads on his knees to make the noise stop. Just when it seems the feud will never end, they finally manage to call an uneasy truce.<br><br>\n\nAnd somewhere along the way, Yi-hyuk realizes he might be falling for the very person who once drove him up the wall.<br><br>\n\n(Source: Minam)",
+    "episodes": 5,
+    "duration": 6,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2025,
+      "month": 9,
+      "day": 2
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 9,
+      "day": 2
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b201961-7U7Xgi3PzrQf.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b201961-7U7Xgi3PzrQf.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b201961-7U7Xgi3PzrQf.jpg",
+      "color": "#43aee4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201961-87qmsuKFu03a.jpg",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "synonyms": [],
+    "averageScore": 76,
+    "meanScore": 78,
+    "popularity": 3030,
+    "trending": 2,
+    "favourites": 106,
+    "isAdult": false,
+    "countryOfOrigin": "KR",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "HIfZDexla4I",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/HIfZDexla4I/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://laftel.net/item/43105",
+        "site": "Laftel",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://minam.co/en/season/7/6",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 75,
+        "name": "Boys' Love",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 83,
+        "name": "Slapstick",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1689,
+        "name": "Curses",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6304,
+            "name": "LICO"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6953,
+            "name": "Laftel"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 379098,
+            "name": {
+              "full": "Yi-hyuk Shin",
+              "native": "신혁"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 379099,
+            "name": {
+              "full": "Lee Jeong-pyo",
+              "native": null
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 379100,
+            "name": {
+              "full": "Mid-eum Jeong",
+              "native": "정미음"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787353312
   }
 }

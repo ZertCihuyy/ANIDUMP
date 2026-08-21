@@ -349,7 +349,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1510,
-    "trending": 2,
+    "trending": 0,
     "favourites": 12,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -374,7 +374,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791295200,
-      "timeUntilAiring": 3943417,
+      "timeUntilAiring": 3940704,
       "episode": 1
     },
     "relations": {
@@ -603,7 +603,7 @@
         }
       ]
     },
-    "updatedAt": 1787349727
+    "updatedAt": 1787353355
   },
   "200929": {
     "id": 200929,
@@ -678,7 +678,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1796914800,
-      "timeUntilAiring": 9561288,
+      "timeUntilAiring": 9559918,
       "episode": 1
     },
     "relations": {
@@ -894,7 +894,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787470200,
-      "timeUntilAiring": 116665,
+      "timeUntilAiring": 115309,
       "episode": 8
     },
     "relations": {
@@ -1760,7 +1760,7 @@
     "averageScore": 57,
     "meanScore": 58,
     "popularity": 34068,
-    "trending": 5,
+    "trending": 4,
     "favourites": 479,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2181,7 +2181,7 @@
         }
       ]
     },
-    "updatedAt": 1787346030
+    "updatedAt": 1787353252
   },
   "200455": {
     "id": 200455,
@@ -2440,5 +2440,190 @@
       ]
     },
     "updatedAt": 1787353221
+  },
+  "200578": {
+    "id": 200578,
+    "idMal": 62808,
+    "title": {
+      "romaji": "Isshiki-san wa Koi wo Shiritai.",
+      "english": null,
+      "native": "一式さんは恋を知りたい。"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": null,
+    "episodes": null,
+    "duration": null,
+    "season": "WINTER",
+    "seasonYear": 2027,
+    "startDate": {
+      "year": 2027,
+      "month": 1,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200578-rm8q4SC105vs.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200578-rm8q4SC105vs.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200578-rm8q4SC105vs.jpg",
+      "color": "#e40d0d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Mystery",
+      "Romance"
+    ],
+    "synonyms": [
+      "Isshiki-san Wants to Know About Love."
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 3536,
+    "trending": 1,
+    "favourites": 43,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "M4Hd-y86hIs",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/M4Hd-y86hIs/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://isshikisan-anime.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://x.com/isshikisan_pr",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 120945,
+            "title": {
+              "romaji": "Isshiki-san wa Koi wo Shiritai.",
+              "english": "Isshiki-san Wants to Know About Love"
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 145,
+        "name": "Work",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 310,
+        "name": "Espionage",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 694,
+        "name": "Detective",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 138,
+        "name": "Age Gap",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 765,
+            "name": "Sakura Create"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6698,
+            "name": "KADOKAWA"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 151968,
+            "name": {
+              "full": "Rinna Isshiki",
+              "native": "リンナ・ミルフォード"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 343492,
+              "name": {
+                "full": "Riko Akechi",
+                "native": "明智璃子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 151969,
+            "name": {
+              "full": "Meisi Rokutanda",
+              "native": "メイシ・リーランド"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 236715,
+              "name": {
+                "full": "Shuuichirou Umeda",
+                "native": "梅田修一朗"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353285
   }
 }

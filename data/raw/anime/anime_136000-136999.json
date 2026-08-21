@@ -1359,7 +1359,7 @@
     "averageScore": 86,
     "meanScore": 86,
     "popularity": 68979,
-    "trending": 4,
+    "trending": 3,
     "favourites": 3283,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1843,7 +1843,7 @@
         }
       ]
     },
-    "updatedAt": 1787349718
+    "updatedAt": 1787353304
   },
   "136862": {
     "id": 136862,
@@ -2003,7 +2003,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 88410,
-    "trending": 1,
+    "trending": 3,
     "favourites": 1661,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2413,7 +2413,7 @@
         }
       ]
     },
-    "updatedAt": 1787349683
+    "updatedAt": 1787353303
   },
   "136934": {
     "id": 136934,
@@ -2463,7 +2463,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 107055,
-    "trending": 5,
+    "trending": 1,
     "favourites": 1837,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2923,7 +2923,7 @@
         }
       ]
     },
-    "updatedAt": 1787349666
+    "updatedAt": 1787353343
   },
   "136804": {
     "id": 136804,
@@ -6797,5 +6797,586 @@
       ]
     },
     "updatedAt": 1787349759
+  },
+  "136302": {
+    "id": 136302,
+    "idMal": 49345,
+    "title": {
+      "romaji": "Goodbye, Don Glees!",
+      "english": "Goodbye, Don Glees!",
+      "native": "グッバイ、ドン・グリーズ！"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "Teen misfits Roma, Toto, and Drop call themselves the “Don Glees”, an informal name for their backyard adventures. One day, when the trio gets blamed for a nearby forest fire, they set off into the woods to prove their innocence. As disaster strikes their expedition, tensions flare between the friends as they realize that growing up has taken them on wildly different paths in life. <br><br>\n(Source: GKIDS, edited)",
+    "episodes": 1,
+    "duration": 94,
+    "season": "WINTER",
+    "seasonYear": 2022,
+    "startDate": {
+      "year": 2022,
+      "month": 2,
+      "day": 18
+    },
+    "endDate": {
+      "year": 2022,
+      "month": 2,
+      "day": 18
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136302-4R03xBOGWrcq.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136302-4R03xBOGWrcq.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx136302-4R03xBOGWrcq.jpg",
+      "color": "#d6861a"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/136302-bVY7pyrAH95A.jpg",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "synonyms": [
+      "Żegnaj, DonGlees!"
+    ],
+    "averageScore": 73,
+    "meanScore": 74,
+    "popularity": 13529,
+    "trending": 1,
+    "favourites": 230,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "y8VaNqAI6d4",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/y8VaNqAI6d4/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/gb_donglees",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://donglees.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 144017,
+            "title": {
+              "romaji": "Goodbye, DonGlees!",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1310,
+        "name": "Travel",
+        "rank": 88,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 102,
+        "name": "Coming of Age",
+        "rank": 86,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 262,
+        "name": "Outdoor Activities",
+        "rank": 80,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 77,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 250,
+        "name": "Rural",
+        "rank": 72,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 195,
+        "name": "Photography",
+        "rank": 58,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 55,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 53,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 153,
+        "name": "Time Skip",
+        "rank": 50,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 151,
+        "name": "Cycling",
+        "rank": 34,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 186,
+        "name": "Crossdressing",
+        "rank": 24,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 198,
+        "name": "Foreign",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 11,
+            "name": "MADHOUSE"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6698,
+            "name": "KADOKAWA"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 247589,
+            "name": {
+              "full": "Rouma",
+              "native": "ロウマ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 111635,
+              "name": {
+                "full": "Natsuki Hanae",
+                "native": "花江夏樹"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 247590,
+            "name": {
+              "full": "Toto",
+              "native": "トト"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95672,
+              "name": {
+                "full": "Yuuki Kaji",
+                "native": "梶裕貴"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 247591,
+            "name": {
+              "full": "Drop",
+              "native": "ドロップ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 110919,
+              "name": {
+                "full": "Ayumu Murase",
+                "native": "村瀬歩"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 249730,
+            "name": {
+              "full": "Tivoli Urayasu",
+              "native": "浦安千穂里"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95185,
+              "name": {
+                "full": "Kana Hanazawa",
+                "native": "花澤香菜"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 258974,
+            "name": {
+              "full": "Tarou Kamogawa",
+              "native": "鴨川太朗"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95297,
+              "name": {
+                "full": "Atsushi Tamura",
+                "native": "田村淳"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 258975,
+            "name": {
+              "full": "Mako Kamogawa",
+              "native": "鴨川真子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 225928,
+              "name": {
+                "full": "Rino Sashihara",
+                "native": "指原莉乃"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353336
+  },
+  "136145": {
+    "id": 136145,
+    "idMal": 49200,
+    "title": {
+      "romaji": "Shiguang Dailiren Special",
+      "english": "LINK CLICK Episode 5.5",
+      "native": "时光代理人 番外篇"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Extra episode of <i>Shiguang Dailiren</i>, taking place between episode 5 and 6.\n<br><br>\nIn order to marry Ouyang, the daughter of the master of martial arts, Siwen commissioned the Time Photo Studio to help him crack the master's unique martial arts.\n<br><br>\n(Source: Funimation)",
+    "episodes": 1,
+    "duration": 24,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2021,
+      "month": 5,
+      "day": 28
+    },
+    "endDate": {
+      "year": 2021,
+      "month": 5,
+      "day": 28
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136145-guWKltDngjIu.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx136145-guWKltDngjIu.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx136145-guWKltDngjIu.jpg",
+      "color": "#f1865d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Mystery",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "Shiguang Dailiren Episode 5.5",
+      "Shiguang Dailiren Extra",
+      "LINK CLICK Extra",
+      "LINK CLICK: Marrying by Contesting"
+    ],
+    "averageScore": 78,
+    "meanScore": 78,
+    "popularity": 24017,
+    "trending": 1,
+    "favourites": 271,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.bilibili.com/bangumi/media/md28230742/",
+        "site": "Bilibili",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://weibo.com/u/7405254778",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://twitter.com/sgdlr_offical",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://twitter.com/linkclick_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.crunchyroll.com/link-click/episode-55-marrying-by-contesting-846116",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 126403,
+            "title": {
+              "romaji": "Shiguang Dailiren",
+              "english": "Link Click"
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 95,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 30,
+        "name": "Martial Arts",
+        "rank": 92,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 96,
+        "name": "Time Manipulation",
+        "rank": 85,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 154,
+        "name": "Body Swapping",
+        "rank": 76,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 195,
+        "name": "Photography",
+        "rank": 43,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6391,
+            "name": "Studio LAN"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6389,
+            "name": "bilibili"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6655,
+            "name": "BeDream"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 218266,
+            "name": {
+              "full": "Xiaoshi Cheng",
+              "native": "程小时"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95600,
+              "name": {
+                "full": "Toshiyuki Toyonaga",
+                "native": "豊永利行"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 310883,
+            "name": {
+              "full": "Siwen Liu",
+              "native": "劉思文"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 108055,
+              "name": {
+                "full": "Genki Muro",
+                "native": "室元気"
+              }
+            },
+            {
+              "id": 95718,
+              "name": {
+                "full": "Hiroya Ishimaru",
+                "native": "石丸博也"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 218267,
+            "name": {
+              "full": "Guang Lu",
+              "native": "陆光"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95079,
+              "name": {
+                "full": "Takahiro Sakurai",
+                "native": "櫻井孝宏"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 218265,
+            "name": {
+              "full": "Ling Qiao",
+              "native": "乔苓"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 123268,
+              "name": {
+                "full": "Aoi Koga",
+                "native": "古賀葵"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 310895,
+            "name": {
+              "full": "Yang Ou",
+              "native": "欧陽"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 125475,
+              "name": {
+                "full": "Riho Sugiyama",
+                "native": "杉山里穂"
+              }
+            },
+            {
+              "id": 310899,
+              "name": {
+                "full": "Yumiko Konatsu",
+                "native": "小夏ゆみこ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353311
   }
 }

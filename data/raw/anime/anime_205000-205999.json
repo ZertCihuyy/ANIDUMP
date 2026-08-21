@@ -73,7 +73,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787842800,
-      "timeUntilAiring": 489331,
+      "timeUntilAiring": 487961,
       "episode": 1
     },
     "relations": {
@@ -256,7 +256,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1731,
-    "trending": 2,
+    "trending": 1,
     "favourites": 28,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -387,7 +387,7 @@
         }
       ]
     },
-    "updatedAt": 1787349740
+    "updatedAt": 1787353285
   },
   "205130": {
     "id": 205130,
@@ -779,7 +779,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 17246,
-    "trending": 2,
+    "trending": 0,
     "favourites": 114,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -867,7 +867,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787349723
+    "updatedAt": 1787353355
   },
   "205905": {
     "id": 205905,
@@ -1055,7 +1055,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 14044,
-    "trending": 6,
+    "trending": 3,
     "favourites": 181,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1085,7 +1085,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791556200,
-      "timeUntilAiring": 4204339,
+      "timeUntilAiring": 4201490,
       "episode": 1
     },
     "relations": {
@@ -1269,7 +1269,7 @@
         }
       ]
     },
-    "updatedAt": 1787349651
+    "updatedAt": 1787353257
   },
   "205772": {
     "id": 205772,
@@ -1749,5 +1749,221 @@
       ]
     },
     "updatedAt": 1787349739
+  },
+  "205444": {
+    "id": 205444,
+    "idMal": 63253,
+    "title": {
+      "romaji": "Majo no Tabitabi Movie",
+      "english": null,
+      "native": "劇場版 魔女の旅々"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "NOT_YET_RELEASED",
+    "description": "Sequel movie to <i>Majo no Tabitabi</i>.",
+    "episodes": 1,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205444-dhVRPyVQaHrr.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205444-dhVRPyVQaHrr.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205444-dhVRPyVQaHrr.png",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "Wandering Witch: The Journey of Elaina Movie",
+      "MajoTabi",
+      "마녀의 여행",
+      "魔女之旅",
+      "Elainas Reise",
+      "การเดินทางของคุณแม่มด",
+      "Странствующая ведьма"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 5002,
+    "trending": 1,
+    "favourites": 55,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "LIGHT_NOVEL",
+    "trailer": {
+      "id": "vhqJ5SSjJZU",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/vhqJ5SSjJZU/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://majotabi.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/majotabi_PR",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 112609,
+            "title": {
+              "romaji": "Majo no Tabitabi",
+              "english": "Wandering Witch: The Journey of Elaina"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 98741,
+            "title": {
+              "romaji": "Majo no Tabitabi",
+              "english": "Wandering Witch: The Journey of Elaina"
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 105913,
+            "title": {
+              "romaji": "Majo no Tabitabi",
+              "english": "Wandering Witch: The Journey of Elaina"
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 179,
+        "name": "Witch",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1752,
+        "name": "Medieval",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1310,
+        "name": "Travel",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 64,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 198,
+        "name": "Foreign",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 240,
+        "name": "Amnesia",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6698,
+            "name": "KADOKAWA"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6562,
+            "name": "SB Creative"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 125736,
+            "name": {
+              "full": "Elaina",
+              "native": "イレイナ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119416,
+              "name": {
+                "full": "Kaede Hondo",
+                "native": "本渡楓"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353249
   }
 }

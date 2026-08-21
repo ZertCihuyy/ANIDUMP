@@ -518,7 +518,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 29540,
-    "trending": 1,
+    "trending": 0,
     "favourites": 506,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1021,7 +1021,7 @@
         }
       ]
     },
-    "updatedAt": 1787349755
+    "updatedAt": 1787353355
   },
   "144144": {
     "id": 144144,
@@ -1067,7 +1067,7 @@
     "averageScore": 64,
     "meanScore": 65,
     "popularity": 19989,
-    "trending": 1,
+    "trending": 0,
     "favourites": 306,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1445,7 +1445,7 @@
         }
       ]
     },
-    "updatedAt": 1787349740
+    "updatedAt": 1787353355
   },
   "144092": {
     "id": 144092,
@@ -1969,7 +1969,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 98243,
-    "trending": 8,
+    "trending": 3,
     "favourites": 2077,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2398,6 +2398,810 @@
         }
       ]
     },
-    "updatedAt": 1787349645
+    "updatedAt": 1787353311
+  },
+  "144803": {
+    "id": 144803,
+    "idMal": 49690,
+    "title": {
+      "romaji": "Girls und Panzer: Daikon War!",
+      "english": "Girls und Panzer: Daikon War!",
+      "native": "ガールズ&パンツァー ダイコン・ウォー！"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "OVA included in the Blu-ray/DVD release of the third \"Girls und Panzer das Finale\" film.\n<br><br>\nOne day at Oarai Girls High School, the five members of the Anglerfish Team are looking for a student named Jane, who belongs to the Agriculture Department, to deliver some documents of the Student Council. After unfamiliar horse riding, they finally arrive at the Agriculture Department building, where they meet Jane, who seems to be ready for battle with a gun in her hand. According to her, she is in the middle of chasing the \"Arch Villain of the Century\"...!\n<br><br>\n(Source: Crunchyroll)",
+    "episodes": 1,
+    "duration": 11,
+    "season": "FALL",
+    "seasonYear": 2021,
+    "startDate": {
+      "year": 2021,
+      "month": 12,
+      "day": 24
+    },
+    "endDate": {
+      "year": 2021,
+      "month": 12,
+      "day": 24
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b144803-Bn8UKTD3CZxp.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b144803-Bn8UKTD3CZxp.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b144803-Bn8UKTD3CZxp.jpg",
+      "color": "#e45d93"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/144803-3BijItP99AYk.jpg",
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [
+      "Girls & Panzer: Saishuushou OVA 2",
+      "Girls und Panzer das Finale OVA 2"
+    ],
+    "averageScore": 72,
+    "meanScore": 73,
+    "popularity": 3936,
+    "trending": 1,
+    "favourites": 40,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "11L0jSID8ng",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/11L0jSID8ng/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/garupan",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://girls-und-panzer-finale.jp/goods/bddvd-final3/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 124115,
+            "title": {
+              "romaji": "Girls und Panzer: Saishuushou 3",
+              "english": "Girls und Panzer das Finale - Part 3"
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 250,
+        "name": "Rural",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1648,
+        "name": "Cowboys",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 92,
+        "name": "Cute Girls Doing Cute Things",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 142,
+        "name": "Food",
+        "rank": 66,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 60,
+            "name": "Actas"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 62939,
+            "name": {
+              "full": "Miho Nishizumi",
+              "native": "西住みほ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 104593,
+              "name": {
+                "full": "Mai Fuchigami",
+                "native": "渕上舞"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 62941,
+            "name": {
+              "full": "Saori Takebe",
+              "native": "武部沙織"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105765,
+              "name": {
+                "full": "Ai Kayano",
+                "native": "茅野愛衣"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 62943,
+            "name": {
+              "full": "Hana Isuzu",
+              "native": "五十鈴華"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 112007,
+              "name": {
+                "full": "Mami Ozaki",
+                "native": "尾崎真実"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 62945,
+            "name": {
+              "full": "Yukari Akiyama",
+              "native": "秋山優花里"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 112009,
+              "name": {
+                "full": "Ikumi Nakagami",
+                "native": "中上育実"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 62947,
+            "name": {
+              "full": "Mako Reizei",
+              "native": "冷泉麻子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95885,
+              "name": {
+                "full": "Yuka Iguchi",
+                "native": "井口裕香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 263389,
+            "name": {
+              "full": "Jane",
+              "native": "ジェーン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 114884,
+              "name": {
+                "full": "Saori Oonishi",
+                "native": "大西沙織"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 263390,
+            "name": {
+              "full": "Belle",
+              "native": "ベル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 112297,
+              "name": {
+                "full": "Azusa Tadokoro",
+                "native": "田所あずさ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353318
+  },
+  "144176": {
+    "id": 144176,
+    "idMal": 50869,
+    "title": {
+      "romaji": "Kami wa Game ni Ueteiru.",
+      "english": "Gods' Games We Play",
+      "native": "神は遊戯に飢えている。"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "In a world of idle gods, humans are forced into brain challenges with them. With three defeats, humans lose their right to challenge, while 10 victories spell human triumph. Fay, determined to achieve the impossible, enters the ultimate test of wits against the gods. Will he defy divinity or is he just another loss in the making?<br><br>\n(Source: Crunchyroll)",
+    "episodes": 13,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2024,
+    "startDate": {
+      "year": 2024,
+      "month": 4,
+      "day": 1
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 6,
+      "day": 24
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144176-xM8XAC3oUn5C.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144176-xM8XAC3oUn5C.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx144176-xM8XAC3oUn5C.jpg",
+      "color": "#5093e4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/144176-pI0FHoCJ5Rxc.jpg",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "synonyms": [
+      "Gods' Game We Play The Animation",
+      " เกมอัจฉริยะ คนปะทะเทพ"
+    ],
+    "averageScore": 61,
+    "meanScore": 61,
+    "popularity": 42447,
+    "trending": 1,
+    "favourites": 514,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "LIGHT_NOVEL",
+    "trailer": {
+      "id": "dtWHRG3FzQ8",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/dtWHRG3FzQ8/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/kami_to_game",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://godsgame-anime.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.crunchyroll.com/series/G0XHWM1Q0/gods-games-we-play",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.bilibili.tv/en/media/2103848",
+        "site": "Bilibili TV",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 1 - Gods' Games We Play",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/df2f1dbbac654969e92e3ccf71392ec71711930017_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GX9UQWW91/gods-games-we-play",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - Hide-and-God-Seek",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/9a0dde61c81454b5e2637a8e076e4e161712578364_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G4VUQVVZ0/hide-and-god-seek",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - I'm Pearl Diamond",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/9950bef62e15b9c901df596d8c4b1ab71713172654_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G14U4112P/im-pearl-diamond",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - Uroboros",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/e09f93a367399909dbd43235b33931271713787548_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GJWU20082/uroboros",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - World Games Tour",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/35e47f6a0c2d29f931f988d2bedca3bf1714370081_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GN7UD11GN/world-games-tour",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - Mind Arena",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/6496449024456e8712845d4dcca8858b1714995086_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GK9U3KKQW/mind-arena",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 7 - Sunsteal Scramble",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/627184771b79de49eb08bc482a9521671715596567_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GMKUXPPWD/sunsteal-scramble",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 8 - Where Did the Sun Go?",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/5d9fa3925e7d9bbbea59fa6d10375afd1716203499_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GVWU077J3/where-did-the-sun-go",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 9 - Bookmaker",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/f0edc73362a5969c233ab83cb8ffbd0c1716808968_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G31UX44QM/bookmaker",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 10 - The Three Cheats the God Brings Forth",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/7d9ce822514222543ae86c1b4aeefa851717407686_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GPWUKVVEQ/the-three-cheats-the-god-brings-forth",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 11 - The Labyrinth of No Return: Luceimia",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/0882aeb643d5977a251ad2c97da534611718017983_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G2XU0GGJ5/the-labyrinth-of-no-return-luceimia",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 12 - The \"Labyrinth\" of Death and Rebirth: Luceimia",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/c41d1267979ba458e60fcb47550666201718620125_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G8WUN11EW/the-labyrinth-of-death-and-rebirth-luceimia",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 13 - Good Game Well Played",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/4fceffe644c4dbeed459f86f9cbbe47c1719227321_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GZ7UVEEJJ/good-game-well-played",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 138477,
+            "title": {
+              "romaji": "Kami wa Game ni Ueteiru.",
+              "english": "Gods' Games We Play"
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 128508,
+            "title": {
+              "romaji": "Kami wa Game ni Ueteiru.",
+              "english": "Gods’ Games We Play"
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 85,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 77,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1492,
+        "name": "Board Game",
+        "rank": 77,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 253,
+        "name": "Gods",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 63,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 56,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 46,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 178,
+        "name": "Card Battle",
+        "rank": 40,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 604,
+        "name": "Dungeon",
+        "rank": 40,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 276,
+        "name": "Kaiju",
+        "rank": 36,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 183,
+        "name": "Poker",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6698,
+            "name": "KADOKAWA"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 839,
+            "name": "LIDENFILMS"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 539,
+            "name": "Ultra Super Pictures"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 238,
+            "name": "AT-X"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6421,
+            "name": "Crunchyroll"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6424,
+            "name": "Sammy"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6389,
+            "name": "bilibili"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 144,
+            "name": "Pony Canyon"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 308883,
+            "name": {
+              "full": "Fay Philus",
+              "native": "フェイ・テオ・フィルス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105989,
+              "name": {
+                "full": "Nobunaga Shimazaki",
+                "native": "島﨑信長"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 308884,
+            "name": {
+              "full": "Leoleshea",
+              "native": "レオレーシェ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119722,
+              "name": {
+                "full": "Akari Kitou",
+                "native": "鬼頭明里"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 321522,
+            "name": {
+              "full": "Pearl Diamond",
+              "native": "パール・ダイアモンド"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 141370,
+              "name": {
+                "full": "Hina Tachibana",
+                "native": "立花日菜"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 321523,
+            "name": {
+              "full": "Nel Reckless",
+              "native": "ネル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 261344,
+              "name": {
+                "full": "Kanna Nakamura",
+                "native": "中村カンナ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 321524,
+            "name": {
+              "full": "Miranda",
+              "native": "ミランダ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95070,
+              "name": {
+                "full": "Ami Koshimizu",
+                "native": "小清水亜美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 328627,
+            "name": {
+              "full": "Darks",
+              "native": "ダークス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 122874,
+              "name": {
+                "full": "Kento Itou",
+                "native": "伊東健人"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 328628,
+            "name": {
+              "full": "Kerlich Sea",
+              "native": "ケルリッチ・シー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118581,
+              "name": {
+                "full": "Miku Itou",
+                "native": "伊藤美来"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 331756,
+            "name": {
+              "full": "Meep",
+              "native": "ミィプ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106641,
+              "name": {
+                "full": "Misaki Kuno",
+                "native": "久野美咲"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 334410,
+            "name": {
+              "full": "Meep",
+              "native": "ミィプ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95008,
+              "name": {
+                "full": "Rie Kugimiya",
+                "native": "釘宮理恵"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 334411,
+            "name": {
+              "full": "Uroboros",
+              "native": "ウロボロス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119518,
+              "name": {
+                "full": "Miyu Tomita",
+                "native": "富田美憂"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353289
   }
 }

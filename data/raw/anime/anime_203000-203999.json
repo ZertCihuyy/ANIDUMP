@@ -467,7 +467,7 @@
     "averageScore": 74,
     "meanScore": 85,
     "popularity": 547,
-    "trending": 1,
+    "trending": 0,
     "favourites": 35,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -583,7 +583,7 @@
         }
       ]
     },
-    "updatedAt": 1787349698
+    "updatedAt": 1787353355
   },
   "203855": {
     "id": 203855,
@@ -628,7 +628,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 5785,
-    "trending": 3,
+    "trending": 1,
     "favourites": 73,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -723,7 +723,7 @@
         }
       ]
     },
-    "updatedAt": 1787349691
+    "updatedAt": 1787353340
   },
   "203880": {
     "id": 203880,
@@ -767,7 +767,7 @@
     "averageScore": 64,
     "meanScore": 66,
     "popularity": 12125,
-    "trending": 19,
+    "trending": 33,
     "favourites": 162,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -797,7 +797,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787833800,
-      "timeUntilAiring": 481975,
+      "timeUntilAiring": 479030,
       "episode": 9
     },
     "relations": {
@@ -1192,7 +1192,7 @@
         }
       ]
     },
-    "updatedAt": 1787349688
+    "updatedAt": 1787353232
   },
   "203490": {
     "id": 203490,
@@ -1268,7 +1268,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787929200,
-      "timeUntilAiring": 575826,
+      "timeUntilAiring": 574402,
       "episode": 9
     },
     "relations": {
@@ -1611,5 +1611,237 @@
       ]
     },
     "updatedAt": 1787353214
+  },
+  "203275": {
+    "id": 203275,
+    "idMal": null,
+    "title": {
+      "romaji": "Demons' Crest",
+      "english": "Devils' Crest",
+      "native": "デモンズ・クレスト"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "Sixth-grader Yuuma Ashihara and his twin sister, Sawa, are playing Actual Magic , a brand-new virtual reality MMORPG, when it suddenly begins fusing with the real world. Amid all the chaos and confusion, it becomes clear that death is lurking around every corner, including when Yuuma runs into his classmate Sumika. Before, she was one of the cutest girls in his class, but she’s since undergone a terrible metamorphosis—into one of the game’s horrifying monsters! From the author of Sword Art Online and Accel World comes a story beyond VR and AR, where gaming and reality are one and the same…and staying alive is just the beginning!\n<br><br>\n(Source: Yen Press)",
+    "episodes": null,
+    "duration": null,
+    "season": "FALL",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 6
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b203275-YyNHygkzIjMC.jpg",
+      "color": "#0da1e4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203275-g8zkD7HCkJCn.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "デモクレ",
+      "DemoKure"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 2188,
+    "trending": 2,
+    "favourites": 12,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "LIGHT_NOVEL",
+    "trailer": {
+      "id": "jvxgudW4FCs",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/jvxgudW4FCs/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://demonscrest-anime.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://x.com/demonscrestPR",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://amazon.com",
+        "site": "Amazon Prime Video",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 155848,
+            "title": {
+              "romaji": "Demons' Crest",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 154372,
+            "title": {
+              "romaji": "Demons' Crest",
+              "english": "Demons' Crest"
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 308,
+        "name": "Video Games",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 615,
+        "name": "Death Game",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 415,
+            "name": "Warner Bros. Japan"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 10,
+            "name": "Production I.G"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 287003,
+            "name": {
+              "full": "Yuuma Ashihara",
+              "native": "芦原佑馬"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 112629,
+              "name": {
+                "full": "Haruka Shiraishi",
+                "native": "白石晴香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 287000,
+            "name": {
+              "full": "Sawa Ashihara",
+              "native": "芦原佐羽"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 271036,
+              "name": {
+                "full": "Konomi Inagaki",
+                "native": "稲垣好"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 287001,
+            "name": {
+              "full": "Minagi Sano",
+              "native": "茶野水凪"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 137669,
+              "name": {
+                "full": "Satomi Amano",
+                "native": "天野聡美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 287002,
+            "name": {
+              "full": "Kenji Kondo",
+              "native": "近堂健児"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 120129,
+              "name": {
+                "full": "Yuuya Hirose",
+                "native": "広瀬裕也"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353225
   }
 }

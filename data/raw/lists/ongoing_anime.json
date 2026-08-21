@@ -79,7 +79,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787834400,
-      "timeUntilAiring": 481026,
+      "timeUntilAiring": 479601,
       "episode": 9
     },
     "relations": {
@@ -451,7 +451,7 @@
     "averageScore": 70,
     "meanScore": 71,
     "popularity": 38127,
-    "trending": 20,
+    "trending": 22,
     "favourites": 568,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -486,7 +486,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787420280,
-      "timeUntilAiring": 68431,
+      "timeUntilAiring": 65518,
       "episode": 8
     },
     "relations": {
@@ -810,7 +810,7 @@
         }
       ]
     },
-    "updatedAt": 1787349667
+    "updatedAt": 1787353235
   },
   {
     "id": 165159,
@@ -1249,7 +1249,7 @@
     "averageScore": 71,
     "meanScore": 75,
     "popularity": 2649,
-    "trending": 1,
+    "trending": 0,
     "favourites": 64,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1591,7 +1591,7 @@
         }
       ]
     },
-    "updatedAt": 1787349726
+    "updatedAt": 1787353355
   },
   {
     "id": 155723,
@@ -1755,7 +1755,7 @@
     "averageScore": null,
     "meanScore": 76,
     "popularity": 1250,
-    "trending": 0,
+    "trending": 1,
     "favourites": 14,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1816,7 +1816,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787353332
   },
   {
     "id": 211181,
@@ -1863,7 +1863,7 @@
     "averageScore": 65,
     "meanScore": 84,
     "popularity": 370,
-    "trending": 1,
+    "trending": 0,
     "favourites": 27,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1889,7 +1889,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787410800,
-      "timeUntilAiring": 58916,
+      "timeUntilAiring": 56285,
       "episode": 19
     },
     "relations": {
@@ -1977,7 +1977,437 @@
         }
       ]
     },
-    "updatedAt": 1787349622
+    "updatedAt": 1787353355
+  },
+  {
+    "id": 2406,
+    "idMal": 2406,
+    "title": {
+      "romaji": "Sazae-san",
+      "english": null,
+      "native": "サザエさん"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "RELEASING",
+    "description": "The main character is a mother named Sazae-san. She lives in a house with her husband, her kid, her siblings and her parents. The show is the ultimate family program and tends to follow traditional themes. Think of this show as the Japanese equivalent to \"The Partridge Family\" and you'll get a good feel for this show's atmosphere. Don't expect to see things like violence, swearing, kung-fu action or magical girls. The plots are more like \"Today, Sazae-san goes to the new mall and gets lost\". Such \"boring\" plotlines and the simplistic art are often a turn-off to non-Japanese audiences, but most Japanese find the show incredibly good. As a result, it continues to be one of the top ratings grabbers on TV and is one of the few anime that is considered \"acceptable\" by adults.",
+    "episodes": null,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 1969,
+    "startDate": {
+      "year": 1969,
+      "month": 10,
+      "day": 5
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2406-nP8NIct9Sci3.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx2406-nP8NIct9Sci3.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2406-nP8NIct9Sci3.jpg",
+      "color": "#f1bb43"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2406-ROqXxejQ5bH9.jpg",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "Mrs. Sazae"
+    ],
+    "averageScore": 56,
+    "meanScore": 57,
+    "popularity": 2499,
+    "trending": 1,
+    "favourites": 48,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "http://www.sazaesan.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.fujitv.co.jp/sazaesan/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/sazaesan68",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": {
+      "airingAt": 1787477400,
+      "timeUntilAiring": 122835,
+      "episode": 2846
+    },
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 43192,
+            "title": {
+              "romaji": "Sazae-San",
+              "english": "The Wonderful World of Sazae-San"
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 101099,
+            "title": {
+              "romaji": "HUNGRY DAYS: Aoharu ka yo.",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 116324,
+            "title": {
+              "romaji": "Sazae-san: Dawn to Ikka de Hawaii Ryokou",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 140,
+        "name": "Educational",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 87,
+        "name": "Family Life",
+        "rank": 86,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 27,
+        "name": "Josei",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 247,
+        "name": "Slavery",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 169,
+            "name": "Fuji TV"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 191,
+            "name": "Eiken"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 41112,
+            "name": {
+              "full": "Sazae Fuguta",
+              "native": "フグ田サザエ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107589,
+              "name": {
+                "full": "Midori Katou",
+                "native": "加藤みどり"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 79895,
+            "name": {
+              "full": "Masuo Fuguta",
+              "native": "フグ田マスオ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 99988,
+              "name": {
+                "full": "Shinsuke Chikaishi",
+                "native": "近石真介"
+              }
+            },
+            {
+              "id": 96247,
+              "name": {
+                "full": "Hiroshi Masuoka",
+                "native": "増岡弘"
+              }
+            },
+            {
+              "id": 95234,
+              "name": {
+                "full": "Hideyuki Tanaka",
+                "native": "田中秀幸"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 247361,
+            "name": {
+              "full": "Namihei Isono",
+              "native": "磯野波平"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101730,
+              "name": {
+                "full": "Ichirou Nagai",
+                "native": "永井一郎"
+              }
+            },
+            {
+              "id": 95831,
+              "name": {
+                "full": "Chafuurin",
+                "native": "茶風林 "
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 247363,
+            "name": {
+              "full": "Fune Isono",
+              "native": "磯野フネ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96542,
+              "name": {
+                "full": "Miyoko Asou",
+                "native": "麻生美代子"
+              }
+            },
+            {
+              "id": 106027,
+              "name": {
+                "full": "Yorie Terauchi",
+                "native": "寺内よりえ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 79867,
+            "name": {
+              "full": "Katsuo Isono",
+              "native": "磯野カツオ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100902,
+              "name": {
+                "full": "Nobuyo Ooyama",
+                "native": "大山のぶ代"
+              }
+            },
+            {
+              "id": 115072,
+              "name": {
+                "full": "Kazue Takahashi",
+                "native": "高橋和枝"
+              }
+            },
+            {
+              "id": 95637,
+              "name": {
+                "full": "Miina Tominaga",
+                "native": "冨永みーな"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 247364,
+            "name": {
+              "full": "Wakame Isono",
+              "native": "磯野ワカメ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102611,
+              "name": {
+                "full": "Yoshiko Yamamoto",
+                "native": "山本嘉子"
+              }
+            },
+            {
+              "id": 101463,
+              "name": {
+                "full": "Michiko Nomura",
+                "native": "野村道子"
+              }
+            },
+            {
+              "id": 95648,
+              "name": {
+                "full": "Makoto Tsumura",
+                "native": "津村まこと"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 247365,
+            "name": {
+              "full": "Tarao Fuguta",
+              "native": "フグ田タラオ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 104803,
+              "name": {
+                "full": "Takako Sasuga",
+                "native": "貴家堂子"
+              }
+            },
+            {
+              "id": 96840,
+              "name": {
+                "full": "Rikako Aikawa",
+                "native": "愛河里花子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 247369,
+            "name": {
+              "full": "Tama",
+              "native": "タマ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 247411,
+            "name": {
+              "full": "Umihei Isono",
+              "native": "磯野海平"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101730,
+              "name": {
+                "full": "Ichirou Nagai",
+                "native": "永井一郎"
+              }
+            },
+            {
+              "id": 95831,
+              "name": {
+                "full": "Chafuurin",
+                "native": "茶風林 "
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 247412,
+            "name": {
+              "full": "Nagie Namino",
+              "native": "波野なぎえ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 103774,
+              "name": {
+                "full": "Reiko Yamada",
+                "native": "山田礼子"
+              }
+            },
+            {
+              "id": 95927,
+              "name": {
+                "full": "Hisako Kyouda",
+                "native": "京田尚子"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353322
   },
   {
     "id": 195885,
@@ -2615,7 +3045,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787409000,
-      "timeUntilAiring": 55637,
+      "timeUntilAiring": 54206,
       "episode": 20
     },
     "relations": {
@@ -3017,7 +3447,7 @@
     "averageScore": 84,
     "meanScore": 85,
     "popularity": 10638,
-    "trending": 6,
+    "trending": 7,
     "favourites": 1013,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3057,7 +3487,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787611200,
-      "timeUntilAiring": 259379,
+      "timeUntilAiring": 256481,
       "episode": 372
     },
     "relations": {
@@ -3388,7 +3818,7 @@
         }
       ]
     },
-    "updatedAt": 1787349692
+    "updatedAt": 1787353254
   },
   {
     "id": 208044,
@@ -3465,7 +3895,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787842800,
-      "timeUntilAiring": 489426,
+      "timeUntilAiring": 488001,
       "episode": 10
     },
     "relations": {
@@ -3922,7 +4352,7 @@
     "averageScore": 64,
     "meanScore": 66,
     "popularity": 10968,
-    "trending": 4,
+    "trending": 2,
     "favourites": 119,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3962,7 +4392,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787416200,
-      "timeUntilAiring": 64320,
+      "timeUntilAiring": 61582,
       "episode": 8
     },
     "relations": {
@@ -4306,7 +4736,7 @@
         }
       ]
     },
-    "updatedAt": 1787349633
+    "updatedAt": 1787353298
   },
   {
     "id": 208685,
@@ -4490,6 +4920,453 @@
     "updatedAt": 1787345768
   },
   {
+    "id": 208105,
+    "idMal": 64008,
+    "title": {
+      "romaji": "Yani Neko Mini",
+      "english": null,
+      "native": "ヤニねこ ミニ"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "RELEASING",
+    "description": "Chibi shorts posted on the official  Yani Neko YouTube channel and Twitter account of the main series.",
+    "episodes": null,
+    "duration": 1,
+    "season": "WINTER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 2,
+      "day": 22
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208105-pYHSBy6n9naY.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208105-pYHSBy6n9naY.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208105-pYHSBy6n9naY.png",
+      "color": "#865028"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [
+      "Yani Neko Mini Anime",
+      "ヤニねこ ミニアニメ",
+      "Chainsmoker Cat Minis"
+    ],
+    "averageScore": 53,
+    "meanScore": 63,
+    "popularity": 711,
+    "trending": 1,
+    "favourites": 8,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "uPZ5qL6ka2Q",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/uPZ5qL6ka2Q/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PL6GT3U72Ld9lYD_zI8HroRG81Y3jgO3jQ",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://x.com/yanineko_anime/status/2025223993285115915",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 162552,
+            "title": {
+              "romaji": "Yani Neko",
+              "english": "Chainsmoker Cat"
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 207141,
+            "title": {
+              "romaji": "Yani Neko",
+              "english": "Chainsmoker Cat"
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 324,
+        "name": "Chibi",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 113,
+        "name": "Nekomimi",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 389131,
+            "name": {
+              "full": "Yaniko Satou",
+              "native": "佐藤ヤニ子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 136272,
+              "name": {
+                "full": "Yuuko Natsuyoshi",
+                "native": "夏吉ゆうこ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 389132,
+            "name": {
+              "full": "Imoko Satou",
+              "native": "佐藤妹子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 125577,
+              "name": {
+                "full": "Rina Honizumi",
+                "native": "本泉莉奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 389134,
+            "name": {
+              "full": "Mashiko Koshimaru",
+              "native": "越司丸益子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 149680,
+              "name": {
+                "full": "Misato Matsuoka",
+                "native": "松岡美里"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 389135,
+            "name": {
+              "full": "Hameko Yurufuwa Anal Tenshi",
+              "native": "ゆるふわアナル天使ハメ子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 162029,
+              "name": {
+                "full": "Yurie Funato",
+                "native": "船戸ゆり絵"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 389136,
+            "name": {
+              "full": "Kaoruko Nishi",
+              "native": "西薫子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 104108,
+              "name": {
+                "full": "Ayaka Shimizu",
+                "native": "清水彩香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 389137,
+            "name": {
+              "full": "Aruko Sakai",
+              "native": "酒井アル子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 111453,
+              "name": {
+                "full": "Shiori Izawa",
+                "native": "井澤詩織"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 389139,
+            "name": {
+              "full": "Saori Tatsuno",
+              "native": "辰野沙織"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 343492,
+              "name": {
+                "full": "Riko Akechi",
+                "native": "明智璃子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 395258,
+            "name": {
+              "full": "Ouya Ootani",
+              "native": "大谷おう也"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95395,
+              "name": {
+                "full": "Tetsu Inada",
+                "native": "稲田徹"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353304
+  },
+  {
+    "id": 208824,
+    "idMal": 63641,
+    "title": {
+      "romaji": "Plannosaurus Gachi Koseibutsu-bu",
+      "english": null,
+      "native": "プラノサウルス ガチコセイブツ部"
+    },
+    "type": "ANIME",
+    "format": "TV_SHORT",
+    "status": "RELEASING",
+    "description": null,
+    "episodes": null,
+    "duration": 5,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 12
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208824-JeKq65nNiFhA.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208824-JeKq65nNiFhA.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx208824-JeKq65nNiFhA.png",
+      "color": "#d6e41a"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [
+      "Plannosaurus Seriously Extinct Creatures Club"
+    ],
+    "averageScore": null,
+    "meanScore": 55,
+    "popularity": 321,
+    "trending": 1,
+    "favourites": 7,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "pNYcQTmtyM0",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/pNYcQTmtyM0/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://bandai-hobby.net/site/gachikoseibutsubu/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": {
+      "airingAt": 1787436000,
+      "timeUntilAiring": 81245,
+      "episode": 7
+    },
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 704,
+        "name": "Dinosaurs",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 28,
+        "name": "Kids",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 446,
+        "name": "Primarily Child Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 140,
+        "name": "Educational",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 96,
+        "name": "Time Manipulation",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 474,
+            "name": "Shogakukan Music & Digital Entertainment"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 393021,
+            "name": {
+              "full": "Tetori Kitadani",
+              "native": "北谷テトリ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 216701,
+              "name": {
+                "full": "Yuuki Sakakihara",
+                "native": "榊原優希"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 393022,
+            "name": {
+              "full": "Kanna Nakazato",
+              "native": "中里カンナ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 261344,
+              "name": {
+                "full": "Kanna Nakamura",
+                "native": "中村カンナ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 393023,
+            "name": {
+              "full": "Dino",
+              "native": "ディノ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119813,
+              "name": {
+                "full": "Chitose Morinaga",
+                "native": "森永千才"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353239
+  },
+  {
     "id": 169080,
     "idMal": 56613,
     "title": {
@@ -4533,7 +5410,7 @@
     "averageScore": 62,
     "meanScore": 68,
     "popularity": 3788,
-    "trending": 2,
+    "trending": 1,
     "favourites": 40,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4563,7 +5440,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787500800,
-      "timeUntilAiring": 148969,
+      "timeUntilAiring": 146235,
       "episode": 8
     },
     "relations": {
@@ -4836,7 +5713,7 @@
         }
       ]
     },
-    "updatedAt": 1787349684
+    "updatedAt": 1787353320
   },
   {
     "id": 169582,
@@ -4886,7 +5763,7 @@
     "averageScore": 59,
     "meanScore": 59,
     "popularity": 22531,
-    "trending": 14,
+    "trending": 9,
     "favourites": 236,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4916,7 +5793,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787572620,
-      "timeUntilAiring": 220771,
+      "timeUntilAiring": 217880,
       "episode": 8
     },
     "relations": {
@@ -5259,7 +6136,7 @@
         }
       ]
     },
-    "updatedAt": 1787349667
+    "updatedAt": 1787353246
   },
   {
     "id": 169583,
@@ -5335,7 +6212,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787581800,
-      "timeUntilAiring": 228257,
+      "timeUntilAiring": 226904,
       "episode": 8
     },
     "relations": {
@@ -5645,7 +6522,7 @@
     "averageScore": 80,
     "meanScore": 81,
     "popularity": 39833,
-    "trending": 12,
+    "trending": 10,
     "favourites": 877,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5700,7 +6577,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787390760,
-      "timeUntilAiring": 38911,
+      "timeUntilAiring": 36050,
       "episode": 19
     },
     "relations": {
@@ -6026,7 +6903,7 @@
         }
       ]
     },
-    "updatedAt": 1787349667
+    "updatedAt": 1787353258
   },
   {
     "id": 184356,
@@ -6113,7 +6990,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787760900,
-      "timeUntilAiring": 407542,
+      "timeUntilAiring": 406112,
       "episode": 8
     },
     "relations": {
@@ -6542,7 +7419,7 @@
     "averageScore": 82,
     "meanScore": 83,
     "popularity": 38649,
-    "trending": 36,
+    "trending": 25,
     "favourites": 664,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6582,7 +7459,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787409000,
-      "timeUntilAiring": 57147,
+      "timeUntilAiring": 54230,
       "episode": 9
     },
     "relations": {
@@ -7024,7 +7901,7 @@
         }
       ]
     },
-    "updatedAt": 1787349660
+    "updatedAt": 1787353233
   },
   {
     "id": 137683,
@@ -7104,7 +7981,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787364000,
-      "timeUntilAiring": 10509,
+      "timeUntilAiring": 9144,
       "episode": 167
     },
     "relations": {
@@ -7391,7 +8268,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787536800,
-      "timeUntilAiring": 183266,
+      "timeUntilAiring": 181909,
       "episode": 155
     },
     "relations": {
@@ -7603,7 +8480,7 @@
     "averageScore": 73,
     "meanScore": 79,
     "popularity": 1973,
-    "trending": 2,
+    "trending": 3,
     "favourites": 129,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -7772,7 +8649,7 @@
         }
       ]
     },
-    "updatedAt": 1787345807
+    "updatedAt": 1787353287
   },
   {
     "id": 187260,
@@ -7851,7 +8728,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787661000,
-      "timeUntilAiring": 307618,
+      "timeUntilAiring": 306198,
       "episode": 8
     },
     "relations": {
@@ -8293,7 +9170,7 @@
     "averageScore": 68,
     "meanScore": 72,
     "popularity": 2343,
-    "trending": 2,
+    "trending": 4,
     "favourites": 24,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8318,7 +9195,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787835600,
-      "timeUntilAiring": 483724,
+      "timeUntilAiring": 480854,
       "episode": 47
     },
     "relations": {
@@ -8721,7 +9598,7 @@
         }
       ]
     },
-    "updatedAt": 1787349637
+    "updatedAt": 1787353245
   },
   {
     "id": 187538,
@@ -8770,7 +9647,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 61324,
-    "trending": 39,
+    "trending": 36,
     "favourites": 866,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8835,7 +9712,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787403600,
-      "timeUntilAiring": 51717,
+      "timeUntilAiring": 48873,
       "episode": 8
     },
     "relations": {
@@ -9152,7 +10029,7 @@
         }
       ]
     },
-    "updatedAt": 1787349627
+    "updatedAt": 1787353252
   },
   {
     "id": 191832,
@@ -9227,7 +10104,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787886000,
-      "timeUntilAiring": 532637,
+      "timeUntilAiring": 531206,
       "episode": 4
     },
     "relations": {
@@ -9904,7 +10781,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787457600,
-      "timeUntilAiring": 104058,
+      "timeUntilAiring": 102704,
       "episode": 6
     },
     "relations": {
@@ -10188,7 +11065,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 34150,
-    "trending": 41,
+    "trending": 26,
     "favourites": 552,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10238,7 +11115,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787496360,
-      "timeUntilAiring": 144504,
+      "timeUntilAiring": 141590,
       "episode": 7
     },
     "relations": {
@@ -10568,7 +11445,7 @@
         }
       ]
     },
-    "updatedAt": 1787349659
+    "updatedAt": 1787353234
   },
   {
     "id": 188388,
@@ -10617,7 +11494,7 @@
     "averageScore": 69,
     "meanScore": 70,
     "popularity": 14418,
-    "trending": 1,
+    "trending": 3,
     "favourites": 269,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10652,7 +11529,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787443200,
-      "timeUntilAiring": 91339,
+      "timeUntilAiring": 88424,
       "episode": 44
     },
     "relations": {
@@ -11070,7 +11947,7 @@
         }
       ]
     },
-    "updatedAt": 1787349652
+    "updatedAt": 1787353230
   },
   {
     "id": 188525,
@@ -11117,7 +11994,7 @@
     "averageScore": 76,
     "meanScore": 78,
     "popularity": 9889,
-    "trending": 71,
+    "trending": 65,
     "favourites": 112,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11162,7 +12039,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787927400,
-      "timeUntilAiring": 575528,
+      "timeUntilAiring": 572619,
       "episode": 8
     },
     "relations": {
@@ -11513,7 +12390,7 @@
         }
       ]
     },
-    "updatedAt": 1787349641
+    "updatedAt": 1787353224
   },
   {
     "id": 966,
@@ -11583,7 +12460,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787383800,
-      "timeUntilAiring": 30298,
+      "timeUntilAiring": 28925,
       "episode": 1349
     },
     "relations": {
@@ -12402,7 +13279,7 @@
     "averageScore": 81,
     "meanScore": 82,
     "popularity": 79224,
-    "trending": 12,
+    "trending": 8,
     "favourites": 6005,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -14028,7 +14905,7 @@
     ],
     "nextAiringEpisode": {
       "airingAt": 1787389200,
-      "timeUntilAiring": 37333,
+      "timeUntilAiring": 34453,
       "episode": 1210
     },
     "relations": {
@@ -15285,7 +16162,7 @@
         }
       ]
     },
-    "updatedAt": 1787349646
+    "updatedAt": 1787353244
   },
   {
     "id": 21,
@@ -15839,7 +16716,7 @@
     ],
     "nextAiringEpisode": {
       "airingAt": 1787494560,
-      "timeUntilAiring": 141186,
+      "timeUntilAiring": 139761,
       "episode": 1175
     },
     "relations": {
@@ -17376,7 +18253,7 @@
     "averageScore": 69,
     "meanScore": 73,
     "popularity": 2172,
-    "trending": 0,
+    "trending": 1,
     "favourites": 25,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -17643,7 +18520,7 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787353334
   },
   {
     "id": 206273,
@@ -17686,7 +18563,7 @@
     "averageScore": null,
     "meanScore": 76,
     "popularity": 253,
-    "trending": 1,
+    "trending": 0,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -17738,7 +18615,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787349751
+    "updatedAt": 1787353355
   },
   {
     "id": 206270,
@@ -17785,7 +18662,7 @@
     "averageScore": null,
     "meanScore": 82,
     "popularity": 416,
-    "trending": 1,
+    "trending": 0,
     "favourites": 17,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -17848,7 +18725,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787349719
+    "updatedAt": 1787353355
   },
   {
     "id": 206249,
@@ -18257,7 +19134,7 @@
     "averageScore": 72,
     "meanScore": 73,
     "popularity": 20713,
-    "trending": 12,
+    "trending": 19,
     "favourites": 173,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -18302,7 +19179,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787576400,
-      "timeUntilAiring": 224501,
+      "timeUntilAiring": 221629,
       "episode": 9
     },
     "relations": {
@@ -18691,7 +19568,7 @@
         }
       ]
     },
-    "updatedAt": 1787346037
+    "updatedAt": 1787353232
   },
   {
     "id": 206282,
@@ -18784,6 +19661,551 @@
     "updatedAt": 1787349759
   },
   {
+    "id": 206189,
+    "idMal": 62990,
+    "title": {
+      "romaji": "Zhu Xian Final",
+      "english": null,
+      "native": "诛仙 最终季"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "RELEASING",
+    "description": "The final season of <i>Zhu Xian</i>.",
+    "episodes": 26,
+    "duration": 20,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2026,
+      "month": 8,
+      "day": 21
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206189-QEJKS9J2xXr7.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206189-QEJKS9J2xXr7.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206189-QEJKS9J2xXr7.png",
+      "color": "#e4785d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Jade Dynasty 4",
+      "Zhu Xian Zuizhong"
+    ],
+    "averageScore": null,
+    "meanScore": 63,
+    "popularity": 189,
+    "trending": 0,
+    "favourites": 7,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://v.qq.com/x/cover/mzc00200w9z1axf.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 181181,
+            "title": {
+              "romaji": "Zhu Xian 3",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6342,
+            "name": "Cloud Art"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6382,
+            "name": "Tencent Penguin Pictures"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 285261,
+            "name": {
+              "full": "Xiaofan Zhang",
+              "native": "张小凡"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787353355
+  },
+  {
+    "id": 206523,
+    "idMal": 63352,
+    "title": {
+      "romaji": "Onegai AiPri",
+      "english": null,
+      "native": "おねがいアイプリ"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "RELEASING",
+    "description": "The latest entry in the <i>Pretty Series</i> franchise and a new chapter in the <i>AiPri</i> series.\n<br><br>\n<i>Note: Relations are provisional and will be updated when more info is announced.</i>",
+    "episodes": null,
+    "duration": null,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 4,
+      "day": 5
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206523-2IaJCk4R7i63.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206523-2IaJCk4R7i63.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206523-2IaJCk4R7i63.jpg",
+      "color": "#0035ff"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Music"
+    ],
+    "synonyms": [],
+    "averageScore": 54,
+    "meanScore": 63,
+    "popularity": 768,
+    "trending": 1,
+    "favourites": 10,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "j5MgjyhhUBc",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/j5MgjyhhUBc/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://x.com/aipri_animepr",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://aipri.jp/anime/special/onegai/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": {
+      "airingAt": 1787445000,
+      "timeUntilAiring": 90398,
+      "episode": 21
+    },
+    "relations": {
+      "edges": [
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 184470,
+            "title": {
+              "romaji": "Himitsu no AiPri: Ring-hen",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 115,
+        "name": "Idol",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 505,
+        "name": "Advertisement",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 92,
+        "name": "Cute Girls Doing Cute Things",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 28,
+        "name": "Kids",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 99,
+        "name": "Henshin",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 90,
+        "name": "CGI",
+        "rank": 46,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 112,
+        "name": "Virtual World",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 30,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 253,
+        "name": "Gods",
+        "rank": 30,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 28,
+            "name": "OLM"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6206,
+            "name": "Dongwoo Animation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6429,
+            "name": "Avex Pictures"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6869,
+            "name": "KYORAKU"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6161,
+            "name": "Shogakukan"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 327,
+            "name": "Takara Tomy"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 16,
+            "name": "TV Tokyo"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6206,
+            "name": "Dongwoo Animation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 139,
+            "name": "NAS"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 28,
+            "name": "OLM"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 392167,
+            "name": {
+              "full": "Inori Konomi",
+              "native": "好実いのり"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 392168,
+              "name": {
+                "full": "Hanaka Ogawa",
+                "native": "小川華果"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 392169,
+            "name": {
+              "full": "Aoi Yumemiya",
+              "native": "夢宮あおい"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 392171,
+              "name": {
+                "full": "Rika Kanaya",
+                "native": "叶矢りか"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 392172,
+            "name": {
+              "full": "Gumi Tomosaka",
+              "native": "友坂ぐみ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 191136,
+              "name": {
+                "full": "Wakana Maruoka",
+                "native": "丸岡和佳奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 392173,
+            "name": {
+              "full": "Olivia Yuuki",
+              "native": "勇樹おりびあ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 273899,
+              "name": {
+                "full": "Haruka Okamura",
+                "native": "岡村明香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 392174,
+            "name": {
+              "full": "Nana Atami",
+              "native": "熱海ナナ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 206623,
+              "name": {
+                "full": "Minori Fujidera",
+                "native": "藤寺美徳"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 392176,
+            "name": {
+              "full": "Emma Mochinaga",
+              "native": "望永エマ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 120134,
+              "name": {
+                "full": "Minori Suzuki",
+                "native": "鈴木みのり"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 392177,
+            "name": {
+              "full": "Fortu",
+              "native": "フォーチュ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 109251,
+              "name": {
+                "full": "You Taichi",
+                "native": "大地葉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 36309,
+            "name": {
+              "full": "Narrator",
+              "native": "ナレーター"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 121455,
+              "name": {
+                "full": "Miharu Hanai",
+                "native": "花井美春"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 127768,
+            "name": {
+              "full": "Meganee Akai",
+              "native": "赤井めが姉ぇ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95762,
+              "name": {
+                "full": "Kanae Itou",
+                "native": "伊藤かな恵"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 392178,
+            "name": {
+              "full": "MC PriUsa",
+              "native": "MCプリうさ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95178,
+              "name": {
+                "full": "Shoutarou Morikubo",
+                "native": "森久保祥太郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353307
+  },
+  {
     "id": 171110,
     "idMal": 57466,
     "title": {
@@ -18859,7 +20281,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787387400,
-      "timeUntilAiring": 34026,
+      "timeUntilAiring": 32601,
       "episode": 19
     },
     "relations": {
@@ -19619,7 +21041,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787473800,
-      "timeUntilAiring": 120265,
+      "timeUntilAiring": 118909,
       "episode": 8
     },
     "relations": {
@@ -20028,7 +21450,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787848080,
-      "timeUntilAiring": 494716,
+      "timeUntilAiring": 493285,
       "episode": 9
     },
     "relations": {
@@ -20595,7 +22017,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 49067,
-    "trending": 42,
+    "trending": 45,
     "favourites": 757,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -20630,7 +22052,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787754600,
-      "timeUntilAiring": 402736,
+      "timeUntilAiring": 399819,
       "episode": 8
     },
     "relations": {
@@ -20989,7 +22411,7 @@
         }
       ]
     },
-    "updatedAt": 1787349648
+    "updatedAt": 1787353228
   },
   {
     "id": 196722,
@@ -21225,7 +22647,7 @@
     "averageScore": 70,
     "meanScore": 72,
     "popularity": 8735,
-    "trending": 4,
+    "trending": 6,
     "favourites": 89,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -21255,7 +22677,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787410800,
-      "timeUntilAiring": 57583,
+      "timeUntilAiring": 56173,
       "episode": 8
     },
     "relations": {
@@ -21594,7 +23016,7 @@
         }
       ]
     },
-    "updatedAt": 1787349728
+    "updatedAt": 1787353289
   },
   {
     "id": 196974,
@@ -22186,7 +23608,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787409960,
-      "timeUntilAiring": 56597,
+      "timeUntilAiring": 55166,
       "episode": 21
     },
     "relations": {
@@ -22617,7 +24039,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787754600,
-      "timeUntilAiring": 401237,
+      "timeUntilAiring": 399806,
       "episode": 8
     },
     "relations": {
@@ -23067,7 +24489,7 @@
     "averageScore": 63,
     "meanScore": 64,
     "popularity": 18629,
-    "trending": 17,
+    "trending": 12,
     "favourites": 200,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -23097,7 +24519,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787662800,
-      "timeUntilAiring": 310933,
+      "timeUntilAiring": 308049,
       "episode": 9
     },
     "relations": {
@@ -23445,7 +24867,7 @@
         }
       ]
     },
-    "updatedAt": 1787349646
+    "updatedAt": 1787353241
   },
   {
     "id": 196187,
@@ -23530,7 +24952,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787842560,
-      "timeUntilAiring": 489197,
+      "timeUntilAiring": 487766,
       "episode": 8
     },
     "relations": {
@@ -23919,7 +25341,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787923800,
-      "timeUntilAiring": 570418,
+      "timeUntilAiring": 568998,
       "episode": 9
     },
     "relations": {
@@ -24592,7 +26014,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787910900,
-      "timeUntilAiring": 557542,
+      "timeUntilAiring": 556112,
       "episode": 147
     },
     "relations": {
@@ -25568,7 +26990,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787934600,
-      "timeUntilAiring": 581241,
+      "timeUntilAiring": 579811,
       "episode": 9
     },
     "relations": {
@@ -25923,7 +27345,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788449400,
-      "timeUntilAiring": 1096041,
+      "timeUntilAiring": 1094611,
       "episode": 9
     },
     "relations": {
@@ -26367,7 +27789,7 @@
     "averageScore": 61,
     "meanScore": 62,
     "popularity": 9919,
-    "trending": 5,
+    "trending": 2,
     "favourites": 94,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -26402,7 +27824,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787675700,
-      "timeUntilAiring": 323805,
+      "timeUntilAiring": 321118,
       "episode": 8
     },
     "relations": {
@@ -26775,7 +28197,7 @@
         }
       ]
     },
-    "updatedAt": 1787346067
+    "updatedAt": 1787353316
   },
   {
     "id": 207254,
@@ -26819,7 +28241,7 @@
     "averageScore": 52,
     "meanScore": 56,
     "popularity": 1918,
-    "trending": 0,
+    "trending": 3,
     "favourites": 17,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -26854,7 +28276,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787759040,
-      "timeUntilAiring": 405889,
+      "timeUntilAiring": 404413,
       "episode": 8
     },
     "relations": {
@@ -27239,7 +28661,7 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787353290
   },
   {
     "id": 192800,
@@ -27312,7 +28734,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787751000,
-      "timeUntilAiring": 397457,
+      "timeUntilAiring": 396104,
       "episode": 10
     },
     "relations": {
@@ -27715,7 +29137,7 @@
     "averageScore": 74,
     "meanScore": 76,
     "popularity": 6892,
-    "trending": 21,
+    "trending": 17,
     "favourites": 118,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -27755,7 +29177,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787839200,
-      "timeUntilAiring": 487350,
+      "timeUntilAiring": 484481,
       "episode": 11
     },
     "relations": {
@@ -28139,7 +29561,7 @@
         }
       ]
     },
-    "updatedAt": 1787349665
+    "updatedAt": 1787353254
   },
   {
     "id": 198709,
@@ -28186,7 +29608,7 @@
     "averageScore": 71,
     "meanScore": 73,
     "popularity": 13863,
-    "trending": 7,
+    "trending": 13,
     "favourites": 155,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -28226,7 +29648,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787670000,
-      "timeUntilAiring": 318133,
+      "timeUntilAiring": 315249,
       "episode": 8
     },
     "relations": {
@@ -28563,7 +29985,7 @@
         }
       ]
     },
-    "updatedAt": 1787349647
+    "updatedAt": 1787353242
   },
   {
     "id": 198946,
@@ -28656,7 +30078,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787745600,
-      "timeUntilAiring": 392227,
+      "timeUntilAiring": 390802,
       "episode": 8
     },
     "relations": {
@@ -29044,7 +30466,7 @@
     "averageScore": 59,
     "meanScore": 77,
     "popularity": 508,
-    "trending": 1,
+    "trending": 0,
     "favourites": 19,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -29139,7 +30561,7 @@
         }
       ]
     },
-    "updatedAt": 1787346092
+    "updatedAt": 1787353355
   },
   {
     "id": 198409,
@@ -29185,7 +30607,7 @@
     "averageScore": 55,
     "meanScore": 56,
     "popularity": 25299,
-    "trending": 12,
+    "trending": 11,
     "favourites": 282,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -29230,7 +30652,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787490000,
-      "timeUntilAiring": 138101,
+      "timeUntilAiring": 135238,
       "episode": 8
     },
     "relations": {
@@ -29500,7 +30922,7 @@
         }
       ]
     },
-    "updatedAt": 1787346033
+    "updatedAt": 1787353235
   },
   {
     "id": 202851,
@@ -29670,7 +31092,7 @@
     "averageScore": 79,
     "meanScore": 80,
     "popularity": 38898,
-    "trending": 46,
+    "trending": 31,
     "favourites": 726,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -29710,7 +31132,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787572800,
-      "timeUntilAiring": 220932,
+      "timeUntilAiring": 218024,
       "episode": 8
     },
     "relations": {
@@ -29934,7 +31356,7 @@
         }
       ]
     },
-    "updatedAt": 1787349645
+    "updatedAt": 1787353231
   },
   {
     "id": 202508,
@@ -29982,7 +31404,7 @@
     "averageScore": 54,
     "meanScore": 56,
     "popularity": 5681,
-    "trending": 18,
+    "trending": 10,
     "favourites": 39,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -30037,7 +31459,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787927400,
-      "timeUntilAiring": 575516,
+      "timeUntilAiring": 572619,
       "episode": 21
     },
     "relations": {
@@ -30334,7 +31756,7 @@
         }
       ]
     },
-    "updatedAt": 1787349625
+    "updatedAt": 1787353227
   },
   {
     "id": 202957,
@@ -30380,7 +31802,7 @@
     "averageScore": 75,
     "meanScore": 77,
     "popularity": 6091,
-    "trending": 8,
+    "trending": 6,
     "favourites": 152,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -30415,7 +31837,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787441400,
-      "timeUntilAiring": 89431,
+      "timeUntilAiring": 86702,
       "episode": 30
     },
     "relations": {
@@ -31021,7 +32443,7 @@
         }
       ]
     },
-    "updatedAt": 1787345757
+    "updatedAt": 1787353262
   },
   {
     "id": 197754,
@@ -31067,7 +32489,7 @@
     "averageScore": 61,
     "meanScore": 62,
     "popularity": 41276,
-    "trending": 21,
+    "trending": 18,
     "favourites": 475,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -31107,7 +32529,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787583600,
-      "timeUntilAiring": 231763,
+      "timeUntilAiring": 228902,
       "episode": 21
     },
     "relations": {
@@ -31411,7 +32833,7 @@
         }
       ]
     },
-    "updatedAt": 1787349679
+    "updatedAt": 1787353263
   },
   {
     "id": 197715,
@@ -31486,7 +32908,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787756400,
-      "timeUntilAiring": 403018,
+      "timeUntilAiring": 401598,
       "episode": 10
     },
     "relations": {
@@ -31975,7 +33397,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787749200,
-      "timeUntilAiring": 395826,
+      "timeUntilAiring": 394402,
       "episode": 14
     },
     "relations": {
@@ -32481,7 +33903,7 @@
     "averageScore": 74,
     "meanScore": 75,
     "popularity": 25893,
-    "trending": 23,
+    "trending": 21,
     "favourites": 287,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -32511,7 +33933,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787657400,
-      "timeUntilAiring": 305524,
+      "timeUntilAiring": 302645,
       "episode": 8
     },
     "relations": {
@@ -32875,7 +34297,7 @@
         }
       ]
     },
-    "updatedAt": 1787349638
+    "updatedAt": 1787353239
   },
   {
     "id": 186837,
@@ -33528,7 +34950,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787400000,
-      "timeUntilAiring": 46465,
+      "timeUntilAiring": 45109,
       "episode": 9
     },
     "relations": {
@@ -34576,7 +35998,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787439600,
-      "timeUntilAiring": 86105,
+      "timeUntilAiring": 84733,
       "episode": 73
     },
     "relations": {
@@ -34833,7 +36255,7 @@
     "averageScore": 65,
     "meanScore": 67,
     "popularity": 8959,
-    "trending": 2,
+    "trending": 3,
     "favourites": 124,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -34863,7 +36285,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787414400,
-      "timeUntilAiring": 62579,
+      "timeUntilAiring": 59835,
       "episode": 8
     },
     "relations": {
@@ -35274,7 +36696,7 @@
         }
       ]
     },
-    "updatedAt": 1787349692
+    "updatedAt": 1787353321
   },
   {
     "id": 185542,
@@ -35322,7 +36744,7 @@
     "averageScore": 66,
     "meanScore": 67,
     "popularity": 45195,
-    "trending": 21,
+    "trending": 27,
     "favourites": 649,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -35367,7 +36789,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787576400,
-      "timeUntilAiring": 224532,
+      "timeUntilAiring": 221645,
       "episode": 8
     },
     "relations": {
@@ -35737,7 +37159,7 @@
         }
       ]
     },
-    "updatedAt": 1787349645
+    "updatedAt": 1787353239
   },
   {
     "id": 185692,
@@ -35814,7 +37236,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787414100,
-      "timeUntilAiring": 60741,
+      "timeUntilAiring": 59311,
       "episode": 8
     },
     "relations": {
@@ -36256,7 +37678,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787407200,
-      "timeUntilAiring": 53657,
+      "timeUntilAiring": 52304,
       "episode": 5
     },
     "relations": {
@@ -38789,6 +40211,457 @@
     "updatedAt": 1787346104
   },
   {
+    "id": 212272,
+    "idMal": 64250,
+    "title": {
+      "romaji": "Deco x Deco THE ANIMATION",
+      "english": null,
+      "native": "デコ×デコ THE ANIMATION"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "RELEASING",
+    "description": "<b>Episode 1</b> - <i>Wanshot Underpuppy</i><br>\nYuna, a slutty landmine who preys on virgins, is looking for an exclusive photographer on Insta. One day, just when she thought another creepy otaku was going to show up as usual, a total hottie appeared instead…!? So desperate to have sex with him, Yuna can’t help but beg for his cock, wiggling her hips back and forth… \n<br><br>\n<b>Episode 2</b> - <i>Yes My Kitty</i><br>\nMiyo is stunningly beautiful and the center of everyone’s attention. Only her childhood friend and boyfriend, Atsuki, knew her true self!! And just like always, the two of them start a challenge where the winner gets to give the loser a sexy command! Game → Relentless breast play → Game → Teasing titfuck. How will their fast-paced showdown play out!? \n<br><br>\n(Source: PinkPineapple, transtaled)",
+    "episodes": null,
+    "duration": 20,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 31
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212272-VcnUqLIAarAD.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212272-VcnUqLIAarAD.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx212272-VcnUqLIAarAD.png",
+      "color": "#e4ae86"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Hentai",
+      "Romance"
+    ],
+    "synonyms": [],
+    "averageScore": 56,
+    "meanScore": 72,
+    "popularity": 381,
+    "trending": 3,
+    "favourites": 8,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 208540,
+            "title": {
+              "romaji": "Deco x Deco",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 213409,
+            "title": {
+              "romaji": "Wanshot Underpuppy",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 213410,
+            "title": {
+              "romaji": "Yes My Kitty",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 45,
+            "name": "Pink Pineapple"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 541,
+            "name": "Seven"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787353272
+  },
+  {
+    "id": 132203,
+    "idMal": 48755,
+    "title": {
+      "romaji": "Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii",
+      "english": "Imaizumi's house seems to be a gathering place for gals",
+      "native": "今泉ん家はどうやらギャルの溜まり場になってるらしい"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "RELEASING",
+    "description": "Some gyarus have decided to use Imaizumi's house as a gathering spot to play video games and eat snacks. When Reina gets bored with video games, she sets her sights on another toy in the house: Imaizumi himself...<br>\n<br>\n(Source: Fakku!)",
+    "episodes": null,
+    "duration": 17,
+    "season": "SUMMER",
+    "seasonYear": 2021,
+    "startDate": {
+      "year": 2021,
+      "month": 8,
+      "day": 6
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132203-s7yzfJv6d48L.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx132203-s7yzfJv6d48L.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx132203-s7yzfJv6d48L.jpg",
+      "color": "#f1bba1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/132203-Vks73Lishg1I.jpg",
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [
+      "Imaizumi Brings All The Gyarus To His House",
+      "Imaizumi's house is a place for gals to gather"
+    ],
+    "averageScore": 77,
+    "meanScore": 77,
+    "popularity": 10457,
+    "trending": 1,
+    "favourites": 686,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 123760,
+            "title": {
+              "romaji": "Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii",
+              "english": "Imaizumi Brings All The Gyarus To His House"
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1367,
+        "name": "Hypersexuality",
+        "rank": 97,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 94,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 92,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 830,
+        "name": "Group Sex",
+        "rank": 92,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 356,
+        "name": "Gyaru",
+        "rank": 89,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 86,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 137,
+        "name": "Large Breasts",
+        "rank": 84,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 125,
+        "name": "Nakadashi",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1146,
+        "name": "Femdom",
+        "rank": 77,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 76,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 132,
+        "name": "Threesome",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 134,
+        "name": "Fellatio",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 126,
+        "name": "Boobjob",
+        "rank": 47,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 845,
+        "name": "Rimjob",
+        "rank": 34,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 317,
+        "name": "Handjob",
+        "rank": 33,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 135,
+        "name": "Cunnilingus",
+        "rank": 25,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 130,
+        "name": "Facial",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 127,
+        "name": "Public Sex",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 360,
+        "name": "Sumata",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1653,
+        "name": "Mating Press",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1573,
+        "name": "Cervix Penetration",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 405,
+            "name": "T-REX"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6128,
+            "name": "Bunny Walker"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 823,
+            "name": "Lune Pictures"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 217955,
+            "name": {
+              "full": "Reina Hamazaki",
+              "native": "浜崎レイナ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 120207,
+              "name": {
+                "full": "Matsuri Mizuguchi",
+                "native": "水口まつり"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 217956,
+            "name": {
+              "full": "Yukina Sasaki",
+              "native": "佐々木ユキナ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105811,
+              "name": {
+                "full": "Mayu Isshiki",
+                "native": "一色まゆ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 217957,
+            "name": {
+              "full": "Ruri Kurumizaka",
+              "native": "胡桃坂ルリ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 244441,
+              "name": {
+                "full": "Nohana",
+                "native": "乃葉奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 217958,
+            "name": {
+              "full": "Imaizumi",
+              "native": "今泉"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105446,
+              "name": {
+                "full": "Hisafumi Oda",
+                "native": "小田久史"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 278710,
+            "name": {
+              "full": "Risa Hamazaki",
+              "native": "浜崎リサ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 125242,
+              "name": {
+                "full": "Kotobuki Tsukasa",
+                "native": "琴吹司"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353345
+  },
+  {
     "id": 203880,
     "idMal": 63082,
     "title": {
@@ -38830,7 +40703,7 @@
     "averageScore": 64,
     "meanScore": 66,
     "popularity": 12125,
-    "trending": 19,
+    "trending": 33,
     "favourites": 162,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -38860,7 +40733,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787833800,
-      "timeUntilAiring": 481975,
+      "timeUntilAiring": 479030,
       "episode": 9
     },
     "relations": {
@@ -39255,7 +41128,7 @@
         }
       ]
     },
-    "updatedAt": 1787349688
+    "updatedAt": 1787353232
   },
   {
     "id": 203490,
@@ -39331,7 +41204,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787929200,
-      "timeUntilAiring": 575826,
+      "timeUntilAiring": 574402,
       "episode": 9
     },
     "relations": {
@@ -39676,6 +41549,362 @@
     "updatedAt": 1787353214
   },
   {
+    "id": 142274,
+    "idMal": 50418,
+    "title": {
+      "romaji": "Ninjala",
+      "english": "Ninjala the Animation",
+      "native": "ニンジャラ"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "RELEASING",
+    "description": "The year is 20XX. The ninja, who once forged the history of Japan, were scattered across the country during the Meiji Restoration. As these ninja mingled with the other clans, their bloodline thinned, and they gradually faded from sight. The descendants of these ninja clans, seeking to preserve their heritage, formed the WNA (World Ninja Association) in the hope of carrying on their legacy.\n<br><br>\nAnd so it was that the WNA succeeded in developing Ninja-Gum, an art which could summon forth the strength of the Shinobi. And yet creating the most powerful Ninja-Gum requires the strongest of ninja DNA. So it was that the Ninjala Tournament was held, that the mightiest of all ninjas could be found...\n<br><br>\n(Source: Official Game website)",
+    "episodes": null,
+    "duration": 23,
+    "season": "WINTER",
+    "seasonYear": 2022,
+    "startDate": {
+      "year": 2022,
+      "month": 1,
+      "day": 8
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142274-qPfkeKk4caKI.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142274-qPfkeKk4caKI.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx142274-qPfkeKk4caKI.png",
+      "color": "#f1bb43"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "synonyms": [],
+    "averageScore": 47,
+    "meanScore": 49,
+    "popularity": 1406,
+    "trending": 1,
+    "favourites": 34,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.tv-tokyo.co.jp/anime/ninjala/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/Ninjala_JP",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.hidive.com/tv/ninjala-the-animation",
+        "site": "HIDIVE",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 118308,
+            "title": {
+              "romaji": "Ninjala",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 123778,
+            "title": {
+              "romaji": "Ninjala Cartoon Anime",
+              "english": "Ninjala 2D Cartoon Anime"
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 28,
+        "name": "Kids",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 255,
+        "name": "Ninja",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 488,
+        "name": "Age Regression",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 446,
+        "name": "Primarily Child Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 226,
+        "name": "Fugitive",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 191,
+        "name": "Aliens",
+        "rank": 30,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 96,
+        "name": "Time Manipulation",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 28,
+            "name": "OLM"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 186792,
+            "name": {
+              "full": "Burton",
+              "native": "バートン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95079,
+              "name": {
+                "full": "Takahiro Sakurai",
+                "native": "櫻井孝宏"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 186793,
+            "name": {
+              "full": "Berecca",
+              "native": "べレッカ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119722,
+              "name": {
+                "full": "Akari Kitou",
+                "native": "鬼頭明里"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 187875,
+            "name": {
+              "full": "Van",
+              "native": "バーン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95539,
+              "name": {
+                "full": "Yumiko Kobayashi",
+                "native": "小林由美子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 193481,
+            "name": {
+              "full": "Kappei",
+              "native": "カッペイ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 110919,
+              "name": {
+                "full": "Ayumu Murase",
+                "native": "村瀬歩"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 187871,
+            "name": {
+              "full": "Lucy",
+              "native": "ルーシー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101686,
+              "name": {
+                "full": "Aoi Yuuki",
+                "native": "悠木碧"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 258199,
+            "name": {
+              "full": "Emma",
+              "native": "エマ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107961,
+              "name": {
+                "full": "Megumi Han",
+                "native": "潘めぐみ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 187907,
+            "name": {
+              "full": "Jane",
+              "native": "ジェーン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95062,
+              "name": {
+                "full": "Junko Minagawa",
+                "native": "皆川純子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 186794,
+            "name": {
+              "full": "Ron",
+              "native": "ロン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95025,
+              "name": {
+                "full": "Hiroki Yasumoto",
+                "native": "安元洋貴"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 306764,
+            "name": {
+              "full": "Ezet",
+              "native": "エゼット"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119319,
+              "name": {
+                "full": "Junya Enoki",
+                "native": "榎木淳弥"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 193482,
+            "name": {
+              "full": "Gumchi",
+              "native": "ガムッチ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 129363,
+              "name": {
+                "full": "Honoka Inoue",
+                "native": "井上ほの花"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353350
+  },
+  {
     "id": 209504,
     "idMal": 63752,
     "title": {
@@ -39720,7 +41949,7 @@
     "averageScore": 61,
     "meanScore": 62,
     "popularity": 12816,
-    "trending": 5,
+    "trending": 3,
     "favourites": 130,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -39760,7 +41989,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787580000,
-      "timeUntilAiring": 228140,
+      "timeUntilAiring": 225385,
       "episode": 8
     },
     "relations": {
@@ -40101,7 +42330,7 @@
         }
       ]
     },
-    "updatedAt": 1787349654
+    "updatedAt": 1787353300
   },
   {
     "id": 209669,
@@ -40149,7 +42378,7 @@
     "averageScore": 68,
     "meanScore": 71,
     "popularity": 6492,
-    "trending": 17,
+    "trending": 13,
     "favourites": 89,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -40189,7 +42418,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787760000,
-      "timeUntilAiring": 408133,
+      "timeUntilAiring": 405230,
       "episode": 10
     },
     "relations": {
@@ -40526,7 +42755,7 @@
         }
       ]
     },
-    "updatedAt": 1787349646
+    "updatedAt": 1787353233
   },
   {
     "id": 209983,
@@ -40608,7 +42837,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787932800,
-      "timeUntilAiring": 579418,
+      "timeUntilAiring": 577998,
       "episode": 9
     },
     "relations": {
@@ -41022,7 +43251,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787668200,
-      "timeUntilAiring": 314841,
+      "timeUntilAiring": 313411,
       "episode": 8
     },
     "relations": {
@@ -41450,6 +43679,146 @@
     "updatedAt": 1787345811
   },
   {
+    "id": 209981,
+    "idMal": 63846,
+    "title": {
+      "romaji": "Heart Mark Oome.",
+      "english": null,
+      "native": "はーとまーく多め。"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "RELEASING",
+    "description": "His step-sister is an erotic manga artist. Reika usually relies on her step-brother, Yuu, for support while she works hard on her manga manuscripts, but once she finishes a manuscript, she can’t control her desires and transforms into a total slut! With her body aroused from drawing too many erotic scenes, she gives in to her instincts, unleashes her desires, and pounces on Yuu without hesitation! Today, just like every other day, she’s determined to milk him dry, shoving herself into every orifice she can find! There’s no resisting her step-sister’s relentless sexual assault…!\n<br><br>\n(Source: Lune-soft, translated and edited)",
+    "episodes": null,
+    "duration": 16,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 5,
+      "day": 29
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209981-rXlkRNX1unMb.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209981-rXlkRNX1unMb.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209981-rXlkRNX1unMb.png",
+      "color": "#e4aeae"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [
+      "Lotsa Hearts",
+      "Plenty of Heart Marks."
+    ],
+    "averageScore": 67,
+    "meanScore": 74,
+    "popularity": 896,
+    "trending": 1,
+    "favourites": 38,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 181852,
+            "title": {
+              "romaji": "Heart Mark Motto Oome.",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 114385,
+            "title": {
+              "romaji": "Heart Mark Oome.",
+              "english": "Lotsa Hearts"
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1102,
+        "name": "Inseki",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 356,
+        "name": "Gyaru",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 294,
+        "name": "Bisexual",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 128,
+        "name": "Incest",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 405,
+            "name": "T-REX"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6128,
+            "name": "Bunny Walker"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 823,
+            "name": "Lune Pictures"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787353266
+  },
+  {
     "id": 199363,
     "idMal": null,
     "title": {
@@ -41614,7 +43983,7 @@
     "averageScore": 68,
     "meanScore": 69,
     "popularity": 20140,
-    "trending": 21,
+    "trending": 20,
     "favourites": 186,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -41644,7 +44013,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787578200,
-      "timeUntilAiring": 226348,
+      "timeUntilAiring": 223460,
       "episode": 8
     },
     "relations": {
@@ -42046,7 +44415,7 @@
         }
       ]
     },
-    "updatedAt": 1787349662
+    "updatedAt": 1787353247
   },
   {
     "id": 199111,
@@ -42127,7 +44496,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787583600,
-      "timeUntilAiring": 230241,
+      "timeUntilAiring": 228811,
       "episode": 8
     },
     "relations": {
@@ -42664,7 +45033,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787923800,
-      "timeUntilAiring": 570437,
+      "timeUntilAiring": 569006,
       "episode": 9
     },
     "relations": {
@@ -43075,7 +45444,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787418000,
-      "timeUntilAiring": 64637,
+      "timeUntilAiring": 63206,
       "episode": 7
     },
     "relations": {
@@ -43518,7 +45887,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787470200,
-      "timeUntilAiring": 116665,
+      "timeUntilAiring": 115309,
       "episode": 8
     },
     "relations": {
@@ -44390,7 +46759,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787392800,
-      "timeUntilAiring": 39331,
+      "timeUntilAiring": 37961,
       "episode": 10
     },
     "relations": {
@@ -44494,7 +46863,7 @@
     "averageScore": null,
     "meanScore": 59,
     "popularity": 57,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -44658,7 +47027,7 @@
         }
       ]
     },
-    "updatedAt": 1787349745
+    "updatedAt": 1787353355
   },
   {
     "id": 213665,
@@ -44977,7 +47346,7 @@
     "averageScore": 53,
     "meanScore": 58,
     "popularity": 2454,
-    "trending": 1,
+    "trending": 3,
     "favourites": 23,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -45017,7 +47386,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787749200,
-      "timeUntilAiring": 395970,
+      "timeUntilAiring": 394453,
       "episode": 8
     },
     "relations": {
@@ -45133,7 +47502,7 @@
         }
       ]
     },
-    "updatedAt": 1787349730
+    "updatedAt": 1787353243
   },
   {
     "id": 213484,
@@ -45177,7 +47546,7 @@
     "averageScore": 62,
     "meanScore": 67,
     "popularity": 3062,
-    "trending": 6,
+    "trending": 7,
     "favourites": 43,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -45207,7 +47576,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787630400,
-      "timeUntilAiring": 278553,
+      "timeUntilAiring": 275630,
       "episode": 19
     },
     "relations": {
@@ -45443,7 +47812,7 @@
         }
       ]
     },
-    "updatedAt": 1787349668
+    "updatedAt": 1787353234
   },
   {
     "id": 213831,
@@ -45521,7 +47890,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787935320,
-      "timeUntilAiring": 581785,
+      "timeUntilAiring": 580429,
       "episode": 9
     },
     "relations": {
@@ -45740,7 +48109,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787713200,
-      "timeUntilAiring": 359722,
+      "timeUntilAiring": 358355,
       "episode": 8
     },
     "relations": {
@@ -45766,6 +48135,108 @@
       "edges": []
     },
     "updatedAt": 1787349759
+  },
+  {
+    "id": 213188,
+    "idMal": 64388,
+    "title": {
+      "romaji": "Jueshi Zhan Hun 2",
+      "english": null,
+      "native": "绝世战魂 第2季"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "RELEASING",
+    "description": "In the Canglan Continent, strength is determined by martial spirits. Qin Nan, the young master of the Qin family, was originally a useless soul, suffering endless scorn. By chance, he awakened the soul of an ancient war god, thus defying fate. He swept through sect geniuses, overcame powerful enemies and obstacles, encountered a soulmate, used his battle spirit to break all laws, and forged a legend with his blood. From a humble young master, he rose through the ranks to become an invincible supreme celestial being who shakes the nine realms.<br><br>\n\n(Source: IQIYI, translated)",
+    "episodes": 100,
+    "duration": 10,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2026,
+      "month": 6,
+      "day": 9
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213188-zwmmMVqqUjh8.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213188-zwmmMVqqUjh8.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213188-zwmmMVqqUjh8.png",
+      "color": "#f1e4c9"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Peerless Battle Spirit 2"
+    ],
+    "averageScore": null,
+    "meanScore": 78,
+    "popularity": 96,
+    "trending": 1,
+    "favourites": 3,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.iqiyi.com/v_t59o3wgac8.html?v",
+        "site": "iQIYI",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": {
+      "airingAt": 1787623200,
+      "timeUntilAiring": 268645,
+      "episode": 12
+    },
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 179807,
+            "title": {
+              "romaji": "Jueshi Zhan Hun",
+              "english": null
+            },
+            "type": "ANIME"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6203,
+            "name": "iQIYI"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787353325
   },
   {
     "id": 103303,
@@ -45880,7 +48351,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787493600,
-      "timeUntilAiring": 140218,
+      "timeUntilAiring": 138798,
       "episode": 8
     },
     "relations": {
@@ -46321,7 +48792,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787927400,
-      "timeUntilAiring": 574037,
+      "timeUntilAiring": 572606,
       "episode": 7
     },
     "relations": {
@@ -46767,7 +49238,7 @@
     ],
     "nextAiringEpisode": {
       "airingAt": 1787925600,
-      "timeUntilAiring": 572218,
+      "timeUntilAiring": 570798,
       "episode": 20
     },
     "relations": {
@@ -47219,6 +49690,362 @@
     "updatedAt": 1787353207
   },
   {
+    "id": 154887,
+    "idMal": 53204,
+    "title": {
+      "romaji": "Isekai Kita node Sukebe Skill de Zenryoku Ouka Shiyou to Omou THE ANIMATION",
+      "english": "try all my might to enjoy it with my Erotic Skills in a DIFFERENT WORLD",
+      "native": "異世界来たのでスケベスキルで全力謳歌しようと思う THE ANIMATION"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "RELEASING",
+    "description": "...Warrior... wake up!<br>\n<br>\nIf you reincarnate into this other world, you can do whatever you want!<br>\nYou can have them all... the goddess, the saint, the elf, the succubus, and more...",
+    "episodes": null,
+    "duration": 18,
+    "season": "FALL",
+    "seasonYear": 2022,
+    "startDate": {
+      "year": 2022,
+      "month": 12,
+      "day": 27
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154887-yTRXVOLMLleD.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx154887-yTRXVOLMLleD.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154887-yTRXVOLMLleD.jpg",
+      "color": "#f1935d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154887-EgVW77ICmImc.jpg",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Hentai"
+    ],
+    "synonyms": [],
+    "averageScore": 68,
+    "meanScore": 70,
+    "popularity": 3281,
+    "trending": 1,
+    "favourites": 180,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 133675,
+            "title": {
+              "romaji": "Isekai Kita node Sukebe Skill de Zenryoku Ouka Shiyou to Omou",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 125,
+        "name": "Nakadashi",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 279,
+        "name": "Ahegao",
+        "rank": 88,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 244,
+        "name": "Isekai",
+        "rank": 82,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1235,
+        "name": "Squirting",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 39,
+        "name": "Parody",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 129,
+        "name": "Defloration",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 253,
+        "name": "Gods",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 134,
+        "name": "Fellatio",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 127,
+        "name": "Public Sex",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 614,
+        "name": "Nun",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 155,
+        "name": "Rape",
+        "rank": 53,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 185,
+        "name": "Anal Sex",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 598,
+        "name": "Elf",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 15,
+        "name": "Demons",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 665,
+        "name": "Succubus",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 359,
+        "name": "Irrumatio",
+        "rank": 46,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 380,
+        "name": "Virginity",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1273,
+        "name": "Cumflation",
+        "rank": 35,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1146,
+        "name": "Femdom",
+        "rank": 30,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 189,
+        "name": "Tentacles",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 45,
+            "name": "Pink Pineapple"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 7213,
+            "name": "Shion"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 291411,
+            "name": {
+              "full": "Tatsuo",
+              "native": "辰雄"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 292997,
+              "name": {
+                "full": "Chouyakuba Kuma-san",
+                "native": "くまさん町役場"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 291412,
+            "name": {
+              "full": "Megami",
+              "native": "めがみ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 103954,
+              "name": {
+                "full": "Ringo Aoba",
+                "native": "青葉りんご"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 291413,
+            "name": {
+              "full": "Seijo",
+              "native": "せいじょ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 292998,
+              "name": {
+                "full": "Hinata Inugami",
+                "native": "犬神ひなた"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 291414,
+            "name": {
+              "full": "Elf",
+              "native": "えるふ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 292999,
+              "name": {
+                "full": "Hikari Kazuki",
+                "native": "葉月ひかり"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 291415,
+            "name": {
+              "full": "Succun",
+              "native": "さっきゅん"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 277947,
+              "name": {
+                "full": "Nao Fumizuki",
+                "native": "文月なお"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 291416,
+            "name": {
+              "full": "Maou",
+              "native": "まおう"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95568,
+              "name": {
+                "full": "Tae Okajima",
+                "native": "岡嶋妙"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787353342
+  },
+  {
     "id": 179916,
     "idMal": 59410,
     "title": {
@@ -47470,7 +50297,7 @@
     "averageScore": 76,
     "meanScore": 77,
     "popularity": 28884,
-    "trending": 28,
+    "trending": 25,
     "favourites": 434,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -47500,7 +50327,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787499000,
-      "timeUntilAiring": 147143,
+      "timeUntilAiring": 144223,
       "episode": 8
     },
     "relations": {
@@ -47925,7 +50752,7 @@
         }
       ]
     },
-    "updatedAt": 1787349658
+    "updatedAt": 1787353228
   },
   {
     "id": 177699,
@@ -48025,7 +50852,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787666400,
-      "timeUntilAiring": 313036,
+      "timeUntilAiring": 311605,
       "episode": 8
     },
     "relations": {
@@ -48574,7 +51401,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787497200,
-      "timeUntilAiring": 143826,
+      "timeUntilAiring": 142401,
       "episode": 9
     },
     "relations": {
@@ -49211,7 +52038,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 88342,
-    "trending": 70,
+    "trending": 74,
     "favourites": 1692,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -49246,7 +52073,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787747400,
-      "timeUntilAiring": 395528,
+      "timeUntilAiring": 392623,
       "episode": 8
     },
     "relations": {
@@ -49670,7 +52497,7 @@
         }
       ]
     },
-    "updatedAt": 1787349640
+    "updatedAt": 1787353228
   },
   {
     "id": 205772,
@@ -50034,7 +52861,7 @@
     "averageScore": 68,
     "meanScore": 69,
     "popularity": 19089,
-    "trending": 19,
+    "trending": 11,
     "favourites": 347,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -50064,7 +52891,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787412600,
-      "timeUntilAiring": 60732,
+      "timeUntilAiring": 57873,
       "episode": 8
     },
     "relations": {
@@ -50402,7 +53229,7 @@
         }
       ]
     },
-    "updatedAt": 1787349645
+    "updatedAt": 1787353252
   },
   {
     "id": 194829,
@@ -50505,7 +53332,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787755560,
-      "timeUntilAiring": 402186,
+      "timeUntilAiring": 400761,
       "episode": 8
     },
     "relations": {
@@ -50901,7 +53728,7 @@
     "averageScore": 52,
     "meanScore": 59,
     "popularity": 553,
-    "trending": 1,
+    "trending": 2,
     "favourites": 6,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -50941,7 +53768,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787828400,
-      "timeUntilAiring": 476451,
+      "timeUntilAiring": 473660,
       "episode": 47
     },
     "relations": {
@@ -51038,7 +53865,7 @@
         }
       ]
     },
-    "updatedAt": 1787345803
+    "updatedAt": 1787353247
   },
   {
     "id": 210031,
@@ -51085,7 +53912,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 53478,
-    "trending": 44,
+    "trending": 59,
     "favourites": 993,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -51120,7 +53947,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787472000,
-      "timeUntilAiring": 120123,
+      "timeUntilAiring": 117223,
       "episode": 8
     },
     "relations": {
@@ -51439,7 +54266,7 @@
         }
       ]
     },
-    "updatedAt": 1787349636
+    "updatedAt": 1787353230
   },
   {
     "id": 180704,
@@ -51692,7 +54519,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787844360,
-      "timeUntilAiring": 490986,
+      "timeUntilAiring": 489562,
       "episode": 9
     },
     "relations": {
