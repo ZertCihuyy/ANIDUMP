@@ -11,8 +11,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 API_URL = 'https://graphql.anilist.co'
 
 QUERY_FULL = '''
-query ($page: Int, $perPage: Int) {
-  Page (page: $page, perPage: $perPage) {
+query ($chunkId: Int, $perPage: Int) {
+  Page (page: 1, perPage: $perPage) {
     pageInfo {
       total
       currentPage
@@ -20,7 +20,7 @@ query ($page: Int, $perPage: Int) {
       hasNextPage
       perPage
     }
-    media (type: ANIME, sort: ID) {
+    media (type: ANIME, sort: ID, id_greater: $chunkId) {
       id
       idMal
       title { romaji english native }
@@ -146,6 +146,10 @@ def fetch_page(query, variables):
                 retry_after = int(response.headers.get('Retry-After', 60))
                 logging.warning(f"429 Too Many Requests. Sleeping for {retry_after}s...")
                 time.sleep(retry_after)
+            elif response.status_code == 400:
+                logging.error(f"Error 400 (Bad Request): {response.text}")
+                logging.info("Stopping pagination due to API limitation (e.g., 5000 depth limit).")
+                return None
             else:
                 logging.error(f"Error {response.status_code}: {response.text}")
                 logging.info("Sleeping 10s before retry...")
@@ -258,6 +262,7 @@ def main():
     base_dir.mkdir(parents=True, exist_ok=True)
     
     page = 1
+    chunk_id = 0
     has_next_page = True
     
     logging.info(f"Starting Anilist dump in {args.mode} mode. Saving to {base_dir}")
@@ -272,12 +277,21 @@ def main():
 
     total_fetched = 0
     while has_next_page:
-        logging.info(f"Fetching page {page}...")
-        variables['page'] = page
+        if args.mode == 'full':
+            logging.info(f"Fetching chunk starting after ID {chunk_id}...")
+            variables['chunkId'] = chunk_id
+        else:
+            logging.info(f"Fetching page {page}...")
+            variables['page'] = page
         
         data = fetch_page(query, variables)
         
-        if not data or 'data' not in data or not data['data']['Page']:
+        if not data:
+            # Reached a 400 error (like depth limit) or critical failure, gracefully stop
+            logging.info("Stopping fetch cycle gracefully.")
+            break
+            
+        if 'data' not in data or not data['data']['Page']:
             logging.error("Failed to fetch data or invalid format.")
             break
             
@@ -287,6 +301,10 @@ def main():
         if not anime_list:
             logging.info("No more anime found.")
             break
+            
+        # Update chunk_id for full mode pagination
+        if args.mode == 'full':
+            chunk_id = max(anime['id'] for anime in anime_list)
             
         # If incremental, filter out anime older than our timestamp and stop pagination if necessary
         if args.mode == 'incremental':
