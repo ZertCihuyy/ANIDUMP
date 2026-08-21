@@ -11,12 +11,13 @@ Repositori ini menyimpan *dump data* (salinan data) lengkap anime dari **AniList
 - Format file berupa **JSON** yang dikelompokkan berdasarkan rentang ID anime agar ringan untuk diakses dan perubahan (*diff*) git tetap minimal.
 
 ## Struktur Folder
-- `data/anime/`: Berisi file JSON yang di-dump per kelompok (group) 1000 ID anime. Contoh: 
+- `data/raw/anime/`: Berisi file JSON yang di-dump per kelompok (group) 1000 ID anime. Contoh: 
   - `anime_0-999.json` (Berisi anime dengan ID 0 sampai 999)
   - `anime_1000-1999.json` (Berisi anime dengan ID 1000 sampai 1999)
+- `scripts/`: Berisi skrip utama (`dump_anilist.py`) dan dependenciesnya.
 
 ## Cara Kerja
-1. **Source**: Script `dump_anilist.py` menggunakan **GraphQL API AniList**.
+1. **Source**: Script `scripts/dump_anilist.py` menggunakan **GraphQL API AniList**.
 2. **Otomatisasi**: GitHub Actions (`.github/workflows/dump.yml`) akan menjalankan script setiap 1 jam untuk mengambil data terbaru secara **inkremental** (hanya mengambil data yang baru di-update di AniList pada jam-jam terakhir).
 3. **Manual**: Anda juga dapat memicu dari tab *Actions* GitHub secara manual untuk mengambil data *full* (seluruh anime dari awal).
 

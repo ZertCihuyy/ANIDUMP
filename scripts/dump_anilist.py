@@ -42,7 +42,7 @@ query ($page: Int, $perPage: Int) {
       meanScore
       popularity
       trending
-      favorites
+      favourites
       isAdult
       countryOfOrigin
       source
@@ -70,7 +70,7 @@ query ($page: Int, $perPage: Int) {
 '''
 
 QUERY_INCREMENTAL = '''
-query ($page: Int, $perPage: Int, $updatedSince: Int) {
+query ($page: Int, $perPage: Int) {
   Page (page: $page, perPage: $perPage) {
     pageInfo {
       total
@@ -79,7 +79,7 @@ query ($page: Int, $perPage: Int, $updatedSince: Int) {
       hasNextPage
       perPage
     }
-    media (type: ANIME, sort: UPDATED_AT_DESC, updatedAt_greater: $updatedSince) {
+    media (type: ANIME, sort: UPDATED_AT_DESC) {
       id
       idMal
       title { romaji english native }
@@ -101,7 +101,7 @@ query ($page: Int, $perPage: Int, $updatedSince: Int) {
       meanScore
       popularity
       trending
-      favorites
+      favourites
       isAdult
       countryOfOrigin
       source
@@ -133,7 +133,6 @@ def fetch_page(query, variables):
         try:
             response = requests.post(API_URL, json={'query': query, 'variables': variables})
             
-            # Check rate limits (AniList has a 90 per minute limit)
             remaining = int(response.headers.get('x-ratelimit-remaining', 90))
             if remaining <= 5:
                 reset_time = int(response.headers.get('x-ratelimit-reset', time.time() + 60))
@@ -143,7 +142,7 @@ def fetch_page(query, variables):
             
             if response.status_code == 200:
                 return response.json()
-            elif response.status_code == 429: # Too Many Requests
+            elif response.status_code == 429:
                 retry_after = int(response.headers.get('Retry-After', 60))
                 logging.warning(f"429 Too Many Requests. Sleeping for {retry_after}s...")
                 time.sleep(retry_after)
@@ -156,7 +155,6 @@ def fetch_page(query, variables):
             time.sleep(5)
 
 def save_anime_data(anime_list, base_dir):
-    # Group data by thousands to keep file sizes manageable
     group_size = 1000
     groups_updated = {}
     
@@ -189,20 +187,23 @@ def main():
                         help='Number of hours to look back for incremental updates')
     args = parser.parse_args()
 
-    base_dir = Path("data/anime")
+    # Determine script location to properly route paths
+    script_dir = Path(__file__).parent.resolve()
+    # Save into data/raw/anime which is in the parent directory of scripts/
+    base_dir = script_dir.parent / "data" / "raw" / "anime"
     base_dir.mkdir(parents=True, exist_ok=True)
     
     page = 1
     has_next_page = True
     
-    logging.info(f"Starting Anilist dump in {args.mode} mode...")
+    logging.info(f"Starting Anilist dump in {args.mode} mode. Saving to {base_dir}")
     
     query = QUERY_FULL if args.mode == 'full' else QUERY_INCREMENTAL
-    variables = {'perPage': 50} # Maximum allowed complexity might restrict this
+    variables = {'perPage': 50}
     
+    updated_since = 0
     if args.mode == 'incremental':
         updated_since = int(time.time()) - (args.hours * 3600)
-        variables['updatedSince'] = updated_since
         logging.info(f"Fetching anime updated since {updated_since}")
 
     total_fetched = 0
@@ -223,13 +224,30 @@ def main():
             logging.info("No more anime found.")
             break
             
-        save_anime_data(anime_list, base_dir)
-        total_fetched += len(anime_list)
+        # If incremental, filter out anime older than our timestamp and stop pagination if necessary
+        if args.mode == 'incremental':
+            filtered_anime_list = []
+            reached_old_data = False
+            for anime in anime_list:
+                anime_updated = anime.get('updatedAt', 0)
+                if anime_updated >= updated_since:
+                    filtered_anime_list.append(anime)
+                else:
+                    reached_old_data = True
+            
+            if filtered_anime_list:
+                save_anime_data(filtered_anime_list, base_dir)
+                total_fetched += len(filtered_anime_list)
+            
+            if reached_old_data:
+                logging.info("Reached data older than the update threshold. Stopping.")
+                break
+        else:
+            save_anime_data(anime_list, base_dir)
+            total_fetched += len(anime_list)
         
         has_next_page = page_info['hasNextPage']
         page += 1
-        
-        # Sleep slightly to be gentle on the API
         time.sleep(1)
         
     logging.info(f"Dump complete! Total anime fetched/updated: {total_fetched}")

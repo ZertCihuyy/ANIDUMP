@@ -31,15 +31,15 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        pip install -r scripts/requirements.txt
         
     - name: Run dump script (Incremental Hourly)
       if: github.event_name == 'schedule'
-      run: python dump_anilist.py --mode incremental --hours 2
+      run: python scripts/dump_anilist.py --mode incremental --hours 2
       
     - name: Run dump script (Manual Dispatch)
       if: github.event_name == 'workflow_dispatch'
-      run: python dump_anilist.py --mode ${{ github.event.inputs.mode }}
+      run: python scripts/dump_anilist.py --mode ${{ github.event.inputs.mode }}
       
     - name: Commit and Push changes
       run: |
