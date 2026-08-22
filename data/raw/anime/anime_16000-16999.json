@@ -636,7 +636,7 @@
     "averageScore": 57,
     "meanScore": 57,
     "popularity": 30722,
-    "trending": 0,
+    "trending": 1,
     "favourites": 219,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1124,7 +1124,7 @@
         }
       ]
     },
-    "updatedAt": 1787360559,
+    "updatedAt": 1787396444,
     "idTmdb": 56081,
     "idImdb": "tt2623042",
     "idTvdb": 267436,
@@ -1188,7 +1188,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 72668,
-    "trending": 2,
+    "trending": 0,
     "favourites": 3158,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1578,7 +1578,7 @@
         }
       ]
     },
-    "updatedAt": 1787392886,
+    "updatedAt": 1787396492,
     "idTmdb": 149871,
     "idImdb": "tt2576852",
     "idTvdb": null,
@@ -4540,7 +4540,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 51814,
-    "trending": 2,
+    "trending": 1,
     "favourites": 439,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4969,7 +4969,7 @@
         }
       ]
     },
-    "updatedAt": 1787392885,
+    "updatedAt": 1787396438,
     "idTmdb": 65602,
     "idImdb": "tt2904686",
     "idTvdb": 269877,
@@ -5019,7 +5019,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 51092,
-    "trending": 0,
+    "trending": 2,
     "favourites": 522,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5126,7 +5126,13 @@
               "romaji": "Kiniro Mosaic",
               "english": "Kiniro Mosaic"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx56036-29guiI2bWeeI.png"
+            }
           }
         },
         {
@@ -5137,7 +5143,13 @@
               "romaji": "Hello!! Kiniro Mosaic",
               "english": "Hello!! KINMOZA!"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2015,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20654-mXuY0nxLV96O.png"
+            }
           }
         }
       ]
@@ -5442,7 +5454,14 @@
         }
       ]
     },
-    "updatedAt": 1787353355
+    "updatedAt": 1787396448,
+    "idTmdb": 78589,
+    "idImdb": "tt2904582",
+    "idTvdb": 269872,
+    "idTrakt": 70751,
+    "traktSlug": "kinmoza",
+    "idSimkl": 37369,
+    "idShikimori": 16732
   },
   "16894": {
     "id": 16894,
@@ -5489,7 +5508,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 181718,
-    "trending": 7,
+    "trending": 6,
     "favourites": 3386,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6149,7 +6168,7 @@
         }
       ]
     },
-    "updatedAt": 1787392818,
+    "updatedAt": 1787396419,
     "idTmdb": 45783,
     "idImdb": "tt2348803",
     "idTvdb": 257765,
@@ -6206,7 +6225,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 67979,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1105,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6704,7 +6723,7 @@
         }
       ]
     },
-    "updatedAt": 1787392936,
+    "updatedAt": 1787396484,
     "idTmdb": 56351,
     "idImdb": "tt1899022",
     "idTvdb": 195711,
@@ -6763,7 +6782,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 38353,
-    "trending": 0,
+    "trending": 1,
     "favourites": 502,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6880,7 +6899,13 @@
               "romaji": "Choujigen Game Neptune THE ANIMATION: Yakusoku no Eien (True End)",
               "english": "Hyperdimension Neptunia: The Eternity (True Ending) Promised"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2014,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20472-Ywr8YyhaYTbU.png"
+            }
           }
         },
         {
@@ -6891,7 +6916,13 @@
               "romaji": "Choujigen Game Neptune THE ANIMATION: Nepu no Natsuyasumi",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2019,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx108758-bAbaPvmEtBtf.jpg"
+            }
           }
         },
         {
@@ -6902,7 +6933,13 @@
               "romaji": "Choujigen Game Neptune: THE ANIMATION - Hello New World",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx82007-Pre79R7P3d8p.jpg"
+            }
           }
         },
         {
@@ -6913,7 +6950,13 @@
               "romaji": "Choujigen Game Neptune: High School",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/42749.jpg"
+            }
           }
         },
         {
@@ -6924,7 +6967,13 @@
               "romaji": "Choujigen Game Neptune: THE ANIMATION - Comic Anthology",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/91371-4ceOyWm5Dcwc.jpg"
+            }
           }
         },
         {
@@ -6935,7 +6984,13 @@
               "romaji": "Choujigen Game Neptune: Megami Tsuushin",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx53207-DQXD4oYqkXwc.jpg"
+            }
           }
         },
         {
@@ -6946,7 +7001,13 @@
               "romaji": "Choujigen Game Neptune: THE ANIMATION - Dengeki Comic Anthology",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/91115-MCxQVKYo7s1s.jpg"
+            }
           }
         },
         {
@@ -6957,7 +7018,13 @@
               "romaji": "Choujigen Game Neptune THE ANIMATION: TGS Honoo no Futsukakan",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/50937.jpg"
+            }
           }
         },
         {
@@ -6968,7 +7035,13 @@
               "romaji": "Choujigen Game Neptune THE ANIMATION: Nepu Nepu Darake no Festival",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx139806-6Za2gq8AK8sj.jpg"
+            }
           }
         },
         {
@@ -6979,7 +7052,13 @@
               "romaji": "Choujigen Game Neptune THE ANIMATION: Hidamari no Little Purple",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143766-2FVLbbjR3W5n.jpg"
+            }
           }
         },
         {
@@ -6990,7 +7069,13 @@
               "romaji": "Choujigen Game Neptune",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/89943-YffeyuuC1XI2.jpg"
+            }
           }
         },
         {
@@ -7001,7 +7086,13 @@
               "romaji": "Choujigen Game Neptune of the Nightmare?",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b202716-V9qHZsuOKKZO.jpg"
+            }
           }
         }
       ]
@@ -7327,7 +7418,7 @@
         }
       ]
     },
-    "updatedAt": 1787357027,
+    "updatedAt": 1787396441,
     "idTmdb": 63525,
     "idImdb": "tt2859264",
     "idTvdb": 267705,
@@ -9571,7 +9662,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 128056,
-    "trending": 2,
+    "trending": 0,
     "favourites": 1966,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10044,7 +10135,7 @@
         }
       ]
     },
-    "updatedAt": 1787392870,
+    "updatedAt": 1787396492,
     "idTmdb": 48561,
     "idImdb": "tt2560604",
     "idTvdb": 264534,
@@ -10584,7 +10675,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 74527,
-    "trending": 4,
+    "trending": 5,
     "favourites": 969,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11227,7 +11318,7 @@
         }
       ]
     },
-    "updatedAt": 1787392816,
+    "updatedAt": 1787396409,
     "idTmdb": 55011,
     "idImdb": "tt2632044",
     "idTvdb": 267432,
@@ -11288,7 +11379,7 @@
     "averageScore": 79,
     "meanScore": 79,
     "popularity": 95736,
-    "trending": 1,
+    "trending": 2,
     "favourites": 2243,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11945,7 +12036,7 @@
         }
       ]
     },
-    "updatedAt": 1787385678,
+    "updatedAt": 1787396476,
     "idTmdb": 30977,
     "idImdb": "tt1515996",
     "idTvdb": 114921,
@@ -12002,7 +12093,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 141901,
-    "trending": 3,
+    "trending": 0,
     "favourites": 2580,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -12381,7 +12472,7 @@
         }
       ]
     },
-    "updatedAt": 1787392924,
+    "updatedAt": 1787396492,
     "idTmdb": 317442,
     "idImdb": "tt3717532",
     "idTvdb": null,
@@ -13312,7 +13403,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 152901,
-    "trending": 4,
+    "trending": 3,
     "favourites": 3027,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13789,7 +13880,7 @@
         }
       ]
     },
-    "updatedAt": 1787392845,
+    "updatedAt": 1787396432,
     "idTmdb": 61755,
     "idImdb": "tt2963556",
     "idTvdb": 270062,
@@ -14692,7 +14783,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 58687,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1422,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -15009,7 +15100,7 @@
         }
       ]
     },
-    "updatedAt": 1787392873,
+    "updatedAt": 1787396492,
     "idTmdb": 55006,
     "idImdb": "tt2636546",
     "idTvdb": 267810,
@@ -17492,7 +17583,7 @@
     "averageScore": 75,
     "meanScore": 75,
     "popularity": 26306,
-    "trending": 0,
+    "trending": 1,
     "favourites": 166,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -17756,7 +17847,7 @@
         }
       ]
     },
-    "updatedAt": 1787364123,
+    "updatedAt": 1787396439,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -17817,7 +17908,7 @@
     "averageScore": 75,
     "meanScore": 75,
     "popularity": 246253,
-    "trending": 3,
+    "trending": 1,
     "favourites": 5530,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -18146,7 +18237,7 @@
         }
       ]
     },
-    "updatedAt": 1787392918,
+    "updatedAt": 1787396425,
     "idTmdb": 198375,
     "idImdb": "tt2591814",
     "idTvdb": null,
@@ -19520,7 +19611,7 @@
     "averageScore": 65,
     "meanScore": 66,
     "popularity": 3458,
-    "trending": 1,
+    "trending": 0,
     "favourites": 90,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -19673,7 +19764,7 @@
         }
       ]
     },
-    "updatedAt": 1787392928,
+    "updatedAt": 1787396492,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -20098,7 +20189,7 @@
     "averageScore": 65,
     "meanScore": 66,
     "popularity": 3625,
-    "trending": 1,
+    "trending": 0,
     "favourites": 140,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -20256,7 +20347,7 @@
         }
       ]
     },
-    "updatedAt": 1787392932,
+    "updatedAt": 1787396492,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

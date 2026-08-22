@@ -150,7 +150,7 @@
     "averageScore": null,
     "meanScore": 73,
     "popularity": 243,
-    "trending": 5,
+    "trending": 1,
     "favourites": 1,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -236,7 +236,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787392804
+    "updatedAt": 1787396456
   },
   "215523": {
     "id": 215523,
@@ -770,7 +770,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 526,
-    "trending": 8,
+    "trending": 20,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -883,7 +883,7 @@
         }
       ]
     },
-    "updatedAt": 1787392821
+    "updatedAt": 1787396414
   },
   "215582": {
     "id": 215582,
@@ -1221,7 +1221,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787389206
+    "updatedAt": 1787396492
   },
   "215522": {
     "id": 215522,
@@ -2022,5 +2022,115 @@
       "edges": []
     },
     "updatedAt": 1787389222
+  },
+  "215297": {
+    "id": 215297,
+    "idMal": null,
+    "title": {
+      "romaji": "Chuan Jin Sai Bo Youxi Hou Gandiao Boss Chenggong Shangwei",
+      "english": null,
+      "native": "穿进赛博游戏后干掉Boss成功上位"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "NOT_YET_RELEASED",
+    "description": "After transmigrating into a cyberpunk world, she defeated the BOSS and rose to the top.\n<br><br>\nKui Xin was one of the lucky few to be selected to become a beta tester for an upcoming game, 'Crimson Earth'. A futuristic game with a mix of cyberpunk and lovecraft elements.\n<br><br>\nHowever, things soon took a wild turn after she realised she got transported into a parallel world where hyper intelligent AI monitors everyone's movement while playing the virtual game.\n<br><br>\nSupernatural beings, Cyborgs, Secret Cults, and Abnormal humans took the spotlight in this new world.\n<br><br>\n(Source: Kuaikan, translated)",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx215297-MaQvNfam2a0Q.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx215297-MaQvNfam2a0Q.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx215297-MaQvNfam2a0Q.png",
+      "color": "#6b1ad6"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "After Transmigrating into the Cyberpunk Game, I Defeated the BOSS and Successfully Rose to the Top"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 74,
+    "trending": 1,
+    "favourites": 3,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://v.qq.com/x/cover/mzc00200a63bp18.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 205408,
+            "title": {
+              "romaji": "Chuan Jin Sai Bo Youxi Hou Gandiao BOSS Chenggong Shangwei",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx205408-FQggShx4qxRM.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6382,
+            "name": "Tencent Penguin Pictures"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6529,
+            "name": "Visual Persistence"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787396451,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }

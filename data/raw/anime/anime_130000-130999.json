@@ -2638,7 +2638,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 69516,
-    "trending": 2,
+    "trending": 0,
     "favourites": 925,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3215,7 +3215,7 @@
         }
       ]
     },
-    "updatedAt": 1787382047,
+    "updatedAt": 1787396492,
     "idTmdb": 97617,
     "idImdb": "tt12432936",
     "idTvdb": 375927,
@@ -5130,7 +5130,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 10488,
-    "trending": 2,
+    "trending": 0,
     "favourites": 607,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -5411,7 +5411,7 @@
         }
       ]
     },
-    "updatedAt": 1787392866,
+    "updatedAt": 1787396492,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -13165,5 +13165,793 @@
     "traktSlug": "i-tsushima",
     "idSimkl": 1551901,
     "idShikimori": 48252
+  },
+  "130846": {
+    "id": 130846,
+    "idMal": 48577,
+    "title": {
+      "romaji": "HOME!",
+      "english": "HOME!",
+      "native": "HOME!"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Year 2124. Christopher is on Mars research expedition and finds a missing commercial vessel from Earth. <br>\n<br>3 years since it's disappearance, hope is slim but Christopher searches for any survivors. In the ship, Christopher encounters a girl named Cyane...<br><br>\n(Source: Orange Animation Studio)\n<br><br>\n<i>Note: One of the four short movies that showed in Animenotane 2021.</i>",
+    "episodes": 1,
+    "duration": 8,
+    "season": "WINTER",
+    "seasonYear": 2021,
+    "startDate": {
+      "year": 2021,
+      "month": 3,
+      "day": 26
+    },
+    "endDate": {
+      "year": 2021,
+      "month": 3,
+      "day": 26
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130846-cSednft9mlwC.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130846-cSednft9mlwC.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx130846-cSednft9mlwC.png",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "Anime no Tane 2021",
+      "Young Animator Training Project 2021"
+    ],
+    "averageScore": 65,
+    "meanScore": 66,
+    "popularity": 3057,
+    "trending": 0,
+    "favourites": 27,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "T8HDxILIPdc",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/T8HDxILIPdc/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=H4wXUaPGZeg",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 136139,
+            "title": {
+              "romaji": "DELIVER POLICE: Nishitokyo-shi Deliver Keisatsutai",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2021,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx136139-kGSdQNy80I8j.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 136138,
+            "title": {
+              "romaji": "Hachimitsu Suicide Machine",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2021,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx136138-2QNbCPCV1EqB.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 136140,
+            "title": {
+              "romaji": "Ryuusatsu no Kyoukotsu",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2021,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx136140-ozeJF4pcUjzK.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 63,
+        "name": "Space",
+        "rank": 95,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 90,
+        "name": "CGI",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 220,
+        "name": "Ghost",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 66,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6077,
+            "name": "Orange"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 236093,
+            "name": {
+              "full": "Christopher Newton",
+              "native": "クリストファー・ニュートン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95310,
+              "name": {
+                "full": "Yasunori Matsumoto",
+                "native": "松本保典"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 236094,
+            "name": {
+              "full": "Cyane",
+              "native": "キアネ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 125475,
+              "name": {
+                "full": "Riho Sugiyama",
+                "native": "杉山里穂"
+              }
+            }
+          ]
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 393491,
+            "name": {
+              "full": "Hayo AI",
+              "native": "補助AI"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 125475,
+              "name": {
+                "full": "Riho Sugiyama",
+                "native": "杉山里穂"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787397038,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 1562195,
+    "idShikimori": 48577
+  },
+  "130974": {
+    "id": 130974,
+    "idMal": 48116,
+    "title": {
+      "romaji": "Xiuluo Jian Zun",
+      "english": null,
+      "native": "修罗剑尊"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 156,
+    "duration": 10,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2021,
+      "month": 2,
+      "day": 15
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 3,
+      "day": 16
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b130974-EgtPkMqfA9HX.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b130974-EgtPkMqfA9HX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b130974-EgtPkMqfA9HX.jpg",
+      "color": "#5daee4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 59,
+    "popularity": 128,
+    "trending": 0,
+    "favourites": 8,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.iq.com/album/qjdoxxm621",
+        "site": "iQ",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.iqiyi.com/a_qjdoxxm621.html",
+        "site": "iQIYI",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 137237,
+            "title": {
+              "romaji": "Xiu Luo Jian Zun",
+              "english": "The Lord of Swords"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx137237-E12Uby1aar99.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787397024,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 48116
+  },
+  "130997": {
+    "id": 130997,
+    "idMal": 48470,
+    "title": {
+      "romaji": "D_CIDE TRAUMEREI THE ANIMATION",
+      "english": "D_CIDE TRAUMEREI THE ANIMATION",
+      "native": "D_CIDE TRAUMEREI THE ANIMATION"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "The story takes place in Shibuya.<br>\n<br>\nRyuuhei had always looked up to his older brother as a child. Even after witnessing his mysterious death, Ryuuhei grows up to be a cheerful high school student. One day after his daily kickboxing practice, he is bitten by a strange creature calling itself Tris. That night, an unusual dream bothers his sleep. As the rumored \"Drops\" circulate around the city, Ryuuhei is confronted with a force of twisted desire. What is it that awaits him beyond that?<br>\n<br>\n(Source: Crunchyroll)",
+    "episodes": 13,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2021,
+    "startDate": {
+      "year": 2021,
+      "month": 7,
+      "day": 10
+    },
+    "endDate": {
+      "year": 2021,
+      "month": 10,
+      "day": 2
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130997-2sNA99siFVhE.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx130997-2sNA99siFVhE.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx130997-2sNA99siFVhE.jpg",
+      "color": "#f1865d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/130997-evCBQALxkMfb.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "ディーサイドトロイメライ"
+    ],
+    "averageScore": 53,
+    "meanScore": 53,
+    "popularity": 8205,
+    "trending": 0,
+    "favourites": 62,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "tFCNU_0e5jQ",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/tFCNU_0e5jQ/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/dctm_pj",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://dctm-pj.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://crunchyroll.com/series/GXJHM3DZX/d_cide-traumerei-the-animation",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 1 - Awakening",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/31f1a7469d41755242554d4fa28f72cd1625913364_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G9DUEDPV7/awakening",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - Cocoon Thread",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/516465fafd053bc2bbbd839916e9ad0e1626506260_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GX9UQK78P/cocoon-thread",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - Fake Friend!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/6e50139aab764d4eb424cf4bc21f01fe1627113978_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G4VUQMX4J/fake-friend",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - Rascal",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/e0b0f30f3b7db551ad33919eff520dc41627720781_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G14U4XEZD/rascal",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - My Own Decision",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/3608fccc7c2475bc72667d2318b253741628318385_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GJWU2JXDZ/my-own-decision",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - Kazuha",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/e18d03a88868498d6f97620b67fb3bc01628922081_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GN7UDW734/kazuha",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 7 - Island and City",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/a2880455ac5409e24fb6313a32b4d4971629515006_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GK9U384PD/island-and-city",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 8 - Inside the Box",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/77cbdddd6a1bed15c9ce38481cc5a5011630131975_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GMKUX54DQ/inside-the-box",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 9 - The Man Who Stops Time",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/bd1f08dd099781b525d6e1960fff8f5d1630735627_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GVWU0PZG7/the-man-who-stops-time",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 10 - Let Me Dream",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/efbef9f42a04efc40721d2c2823ab6d11631347109_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G31UX73JN/let-me-dream",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 11 - Recollection",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/a1b551c8e9ede40eea372098ca398be01631948401_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GPWUK053N/recollection",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 12 - Staying True to Your Feelings",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/7d9b233a41b5c7180d8e9e5e3225c7761632556765_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G2XU053M1/staying-true-to-your-feelings",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 13 - The Light of Dawn",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/eff6375ee1193b1d433ea6cb319137091633154810_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G8WUN2WKP/the-light-of-dawn",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 82,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 489,
+        "name": "Drugs",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 193,
+        "name": "Episodic",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 308,
+        "name": "Video Games",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 654,
+        "name": "Denpa",
+        "rank": 30,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1046,
+        "name": "Suicide",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 75,
+        "name": "Boys' Love",
+        "rank": 10,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 10,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 537,
+            "name": "SANZIGEN"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6621,
+            "name": "Bit grooove promotion"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 775,
+            "name": "Bushiroad"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6602,
+            "name": "Sumzap"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 213472,
+            "name": {
+              "full": "Aruto Fushibe",
+              "native": "伏辺或斗"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119869,
+              "name": {
+                "full": "Shun Horie",
+                "native": "堀江瞬"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 213473,
+            "name": {
+              "full": "Jessica Clayborn",
+              "native": "ジェシカ・クレイボーン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101686,
+              "name": {
+                "full": "Aoi Yuuki",
+                "native": "悠木碧"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 213474,
+            "name": {
+              "full": "Rena Mouri",
+              "native": "毛利玲菜"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118799,
+              "name": {
+                "full": "Ayasa Itou",
+                "native": "伊藤彩沙"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 213475,
+            "name": {
+              "full": "Eri Ibusaki",
+              "native": "伊吹咲愛莉"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119383,
+              "name": {
+                "full": "Marika Kouno",
+                "native": "高野麻里佳"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 213476,
+            "name": {
+              "full": "Tris",
+              "native": "トリス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 139262,
+              "name": {
+                "full": "Haruna Momono",
+                "native": "もものはるな"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 213477,
+            "name": {
+              "full": "Ryuuhei Oda",
+              "native": "織田龍平"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 109155,
+              "name": {
+                "full": "Youhei Azakami",
+                "native": "阿座上洋平"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 213485,
+            "name": {
+              "full": "Shuuichi Ooneya",
+              "native": "大寝屋周一"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95118,
+              "name": {
+                "full": "Hiroshi Kamiya",
+                "native": "神谷浩史"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 213486,
+            "name": {
+              "full": "Eru Amami",
+              "native": "天海える"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119834,
+              "name": {
+                "full": "Kaoru Sakura",
+                "native": "佐倉薫"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 213487,
+            "name": {
+              "full": "Eiji Saruba",
+              "native": "猿場瑛士"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95123,
+              "name": {
+                "full": "Kazuya Nakai",
+                "native": "中井和哉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 213488,
+            "name": {
+              "full": "Rin Hario",
+              "native": "針尾凛"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 135405,
+              "name": {
+                "full": "Wakana Minami",
+                "native": "美波わかな"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787397022,
+    "idTmdb": 120968,
+    "idImdb": "tt14264200",
+    "idTvdb": 402093,
+    "idTrakt": 179945,
+    "traktSlug": "d_cide-traumerei-the-animation",
+    "idSimkl": 1567007,
+    "idShikimori": 48470
   }
 }
