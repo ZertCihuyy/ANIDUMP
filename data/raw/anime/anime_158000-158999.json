@@ -1118,7 +1118,7 @@
     "averageScore": 62,
     "meanScore": 62,
     "popularity": 76038,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1443,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1627,7 +1627,7 @@
         }
       ]
     },
-    "updatedAt": 1787371321,
+    "updatedAt": 1787374889,
     "idTmdb": 236144,
     "idImdb": "tt30146725",
     "idTvdb": 427883,
@@ -2482,7 +2482,7 @@
     "averageScore": 74,
     "meanScore": 75,
     "popularity": 74629,
-    "trending": 3,
+    "trending": 4,
     "favourites": 1732,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2971,7 +2971,7 @@
         }
       ]
     },
-    "updatedAt": 1787364096,
+    "updatedAt": 1787374842,
     "idTmdb": 216467,
     "idImdb": "tt31131310",
     "idTvdb": 424019,
@@ -3032,7 +3032,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 66971,
-    "trending": 5,
+    "trending": 2,
     "favourites": 1558,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3628,7 +3628,7 @@
         }
       ]
     },
-    "updatedAt": 1787371235,
+    "updatedAt": 1787374822,
     "idTmdb": 216074,
     "idImdb": "tt31141567",
     "idTvdb": 428168,
@@ -4782,7 +4782,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 103410,
-    "trending": 2,
+    "trending": 3,
     "favourites": 1683,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5280,7 +5280,7 @@
         }
       ]
     },
-    "updatedAt": 1787364059,
+    "updatedAt": 1787374810,
     "idTmdb": 1062807,
     "idImdb": "tt26684398",
     "idTvdb": null,
@@ -5338,7 +5338,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 49535,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1131,
     "isAdult": false,
     "countryOfOrigin": "KR",
@@ -5690,7 +5690,7 @@
         }
       ]
     },
-    "updatedAt": 1787371294,
+    "updatedAt": 1787374914,
     "idTmdb": 210942,
     "idImdb": "tt22297722",
     "idTvdb": 425285,
@@ -6761,7 +6761,7 @@
         }
       ]
     },
-    "updatedAt": 1787365248,
+    "updatedAt": 1787374895,
     "idTmdb": 216523,
     "idImdb": "tt29370857",
     "idTvdb": 427919,
@@ -6958,7 +6958,13 @@
               "romaji": "Ao no Exorcist",
               "english": "Blue Exorcist"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx43492-2mvXJnP6Feqq.png"
+            }
           }
         },
         {
@@ -6969,7 +6975,13 @@
               "romaji": "Ao no Exorcist: Kyoto Fujouou-hen",
               "english": "Blue Exorcist: Kyoto Saga"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2017,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21861-KDvJJQenJJlT.jpg"
+            }
           }
         },
         {
@@ -6980,7 +6992,13 @@
               "romaji": "Ao no Exorcist: Yuki no Hate-hen",
               "english": "Blue Exorcist -Beyond the Snow Saga-"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176311-OZudERHrpJJ0.jpg"
+            }
           }
         }
       ]
@@ -7317,7 +7335,14 @@
         }
       ]
     },
-    "updatedAt": 1787345772
+    "updatedAt": 1787374838,
+    "idTmdb": 38464,
+    "idImdb": "tt1799631",
+    "idTvdb": 248035,
+    "idTrakt": 38304,
+    "traktSlug": "blue-exorcist",
+    "idSimkl": 2060004,
+    "idShikimori": 53889
   },
   "158417": {
     "id": 158417,
@@ -8476,5 +8501,1692 @@
     "traktSlug": "unnamed-memory",
     "idSimkl": 2057238,
     "idShikimori": 53835
+  },
+  "158997": {
+    "id": 158997,
+    "idMal": 53780,
+    "title": {
+      "romaji": "Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
+      "english": null,
+      "native": "名探偵コナン 灰原哀物語～黒鉄のミステリートレイン～"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "The movie focuses on Ai Haibara's past and reconstructs the <i>Mystery Train</i> arc from the television anime, which shows Haibara and Conan meeting for the first time. The movie also includes scenes from the <i>Kurogane no Submarine (Black Iron Submarine)</i> film.",
+    "episodes": 1,
+    "duration": 90,
+    "season": "WINTER",
+    "seasonYear": 2023,
+    "startDate": {
+      "year": 2023,
+      "month": 1,
+      "day": 6
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 1,
+      "day": 6
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158997-9HkllZFhiV5K.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158997-9HkllZFhiV5K.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158997-9HkllZFhiV5K.png",
+      "color": "#f19350"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Mystery"
+    ],
+    "synonyms": [
+      "名探偵コナン 灰原哀物語～黒鉄（くろがね）のミステリートレイン～",
+      "Detective Conan Ai Habara's Story ~Jet-Black Mystery Train~"
+    ],
+    "averageScore": 72,
+    "meanScore": 75,
+    "popularity": 2055,
+    "trending": 1,
+    "favourites": 20,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "-WIKbdURi4c",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/-WIKbdURi4c/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.conan-movie.jp/mysterytrain/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 156841,
+            "title": {
+              "romaji": "Meitantei Conan: Kurogane no Submarine",
+              "english": "Detective Conan: Black Iron Submarine"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx156841-eCdzTqfaqNb7.png"
+            }
+          }
+        },
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 235,
+            "title": {
+              "romaji": "Meitantei Conan",
+              "english": "Detective Conan"
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "WINTER",
+            "seasonYear": 1996,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx235-MyYT7K3chBdO.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 122,
+        "name": "Trains",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 694,
+        "name": "Detective",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 40,
+        "name": "Police",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 488,
+        "name": "Age Regression",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 245,
+            "name": "Toho"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 73,
+            "name": "TMS Entertainment"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 76,
+            "name": "Yomiuri TV"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6161,
+            "name": "Shogakukan"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 1742,
+            "name": {
+              "full": "Conan Edogawa",
+              "native": "江戸川コナン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95024,
+              "name": {
+                "full": "Minami Takayama",
+                "native": "高山みなみ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 1743,
+            "name": {
+              "full": "Ai Haibara",
+              "native": "灰原哀"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95014,
+              "name": {
+                "full": "Megumi Hayashibara",
+                "native": "林原めぐみ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1746,
+            "name": {
+              "full": "Kogorou Mouri",
+              "native": "毛利小五郎"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95113,
+              "name": {
+                "full": "Rikiya Koyama",
+                "native": "小山力也"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1747,
+            "name": {
+              "full": "Kaito Kuroba",
+              "native": "黒羽快斗"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95067,
+              "name": {
+                "full": "Kappei Yamaguchi",
+                "native": "山口勝平"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1748,
+            "name": {
+              "full": "Ran Mouri",
+              "native": "毛利蘭"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95496,
+              "name": {
+                "full": "Wakana Yamazaki",
+                "native": "山崎和佳奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1749,
+            "name": {
+              "full": "Sonoko Suzuki",
+              "native": "鈴木園子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95516,
+              "name": {
+                "full": "Naoko Matsui",
+                "native": "松井菜桜子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 4162,
+            "name": {
+              "full": "Hiroshi Agasa",
+              "native": "阿笠博士"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95481,
+              "name": {
+                "full": "Kenichi Ogata",
+                "native": "緒方賢一"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 4228,
+            "name": {
+              "full": "Ayumi Yoshida",
+              "native": "吉田歩美"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95517,
+              "name": {
+                "full": "Yukiko Iwai",
+                "native": "岩居由希子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 4251,
+            "name": {
+              "full": "Genta Kojima",
+              "native": "小嶋元太"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95133,
+              "name": {
+                "full": "Wataru Takagi",
+                "native": "高木渉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 4252,
+            "name": {
+              "full": "Mitsuhiko Tsuburaya",
+              "native": "円谷光彦"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95128,
+              "name": {
+                "full": "Ikue Ootani",
+                "native": "大谷育江"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787374898,
+    "idTmdb": 1058906,
+    "idImdb": "tt25994796",
+    "idTvdb": null,
+    "idTrakt": 852380,
+    "traktSlug": "detective-conan-the-story-of-ai-haibara-black-iron-mystery-train-2023",
+    "idSimkl": 2052664,
+    "idShikimori": 53780
+  },
+  "158896": {
+    "id": 158896,
+    "idMal": 53882,
+    "title": {
+      "romaji": "SAND LAND",
+      "english": "Sand Land",
+      "native": "SAND LAND"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "In a desert world where both demons and humans suffer from an extreme water shortage, Beelzebub, the prince of demons, and Rao, a small-town sheriff, form a tag-team and set off on an adventure in search of the Phantom Lake somewhere in the desert.<br>\n<br>\n(Source: Bandai Namco Entertainment)",
+    "episodes": 1,
+    "duration": 105,
+    "season": "SUMMER",
+    "seasonYear": 2023,
+    "startDate": {
+      "year": 2023,
+      "month": 8,
+      "day": 18
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 8,
+      "day": 18
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158896-SCFIPICjCybS.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158896-SCFIPICjCybS.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158896-SCFIPICjCybS.jpg",
+      "color": "#e45078"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "サンドランド",
+      "SandLand"
+    ],
+    "averageScore": 68,
+    "meanScore": 71,
+    "popularity": 4937,
+    "trending": 1,
+    "favourites": 46,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "oaj53j3zmgU",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/oaj53j3zmgU/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://sandland.jp/film/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/sandland_pj_jp",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://twitter.com/sandland_pj",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.instagram.com/sandland_project/",
+        "site": "Instagram",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.tiktok.com/@sandland_project",
+        "site": "TikTok",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 30724,
+            "title": {
+              "romaji": "Sand Land",
+              "english": "Sand Land"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx30724-EIciYgxgyUqs.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 175642,
+            "title": {
+              "romaji": "SAND LAND: THE SERIES",
+              "english": "Sand Land: The Series"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175642-TAHPp5wztFUp.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1453,
+        "name": "Desert",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 93,
+        "name": "Post-Apocalyptic",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 174,
+        "name": "Tanks",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 34,
+        "name": "Military",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 252,
+        "name": "Revenge",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 90,
+        "name": "CGI",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 15,
+        "name": "Demons",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 111,
+        "name": "War",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 50,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 14,
+            "name": "Sunrise"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 437,
+            "name": "Kamikaze Douga"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 298,
+            "name": "Studio Anima"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 7241,
+            "name": {
+              "full": "Beelzebub",
+              "native": "ベルゼブブ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105013,
+              "name": {
+                "full": "Mutsumi Tamura",
+                "native": "田村睦心"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 13697,
+            "name": {
+              "full": "Thief",
+              "native": "シーフ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95898,
+              "name": {
+                "full": "Choo",
+                "native": "チョー "
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 13698,
+            "name": {
+              "full": "Rao",
+              "native": "ラオ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101755,
+              "name": {
+                "full": "Kazuhiro Yamaji",
+                "native": "山路和弘"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 301647,
+            "name": {
+              "full": "Are Shougun",
+              "native": "アレ将軍"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100539,
+              "name": {
+                "full": "Satoshi Tsuruoka",
+                "native": "鶴岡聡"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 301648,
+            "name": {
+              "full": "Zeu Daishougun",
+              "native": "ゼウ大将軍"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95157,
+              "name": {
+                "full": "Nobuo Tobita",
+                "native": "飛田展男"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 331384,
+            "name": {
+              "full": "Sand Land Kokuou",
+              "native": "サンドランド国王"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95831,
+              "name": {
+                "full": "Chafuurin",
+                "native": "茶風林 "
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 331385,
+            "name": {
+              "full": "Swimmers Papa",
+              "native": "スイマーズ・パパ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95002,
+              "name": {
+                "full": "Tomokazu Sugita",
+                "native": "杉田智和"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 331386,
+            "name": {
+              "full": "Swimmers Pike",
+              "native": "スイマーズ・パイク"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95068,
+              "name": {
+                "full": "Kouji Yusa",
+                "native": "遊佐浩二"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 331387,
+            "name": {
+              "full": "Swimmers Shark",
+              "native": "スイマーズ・シャーク"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95283,
+              "name": {
+                "full": "Hiroyuki Yoshino",
+                "native": "吉野裕行"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 331388,
+            "name": {
+              "full": "Swimmers Guppy",
+              "native": "スイマーズ・グッピー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 254486,
+              "name": {
+                "full": "Masafumi Kobatake",
+                "native": "こばたけまさふみ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787374898,
+    "idTmdb": 1062372,
+    "idImdb": "tt25048890",
+    "idTvdb": null,
+    "idTrakt": 854551,
+    "traktSlug": "sand-land-2023",
+    "idSimkl": 2057966,
+    "idShikimori": 53882
+  },
+  "158870": {
+    "id": 158870,
+    "idMal": 53874,
+    "title": {
+      "romaji": "Pocket Monsters: Mezase Pokémon Master",
+      "english": "Pokémon: To Be a Pokémon Master: Ultimate Journeys: The Series",
+      "native": "ポケットモンスター　めざせポケモンマスター"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "<i>Mezase Pokémon Master</i> celebrates the final chapter in Satoshi and Pikachu's story, with their first companions and many Pokémon they have met throughout their journeys making their return.",
+    "episodes": 11,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2023,
+    "startDate": {
+      "year": 2023,
+      "month": 1,
+      "day": 13
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 3,
+      "day": 24
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158870-RJfWBtOFJ6tr.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158870-RJfWBtOFJ6tr.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158870-RJfWBtOFJ6tr.jpg",
+      "color": "#e4a128"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158870-EcM1WiwjV18A.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Pokémon: Aim to be a Pokémon Master",
+      "Pokémon: Zostać Mistrzem Pokémonów",
+      "Pokémon: Att Vara En Pokémon-Mästare",
+      "Pokémon: Å Være En Pokémonmester",
+      "פוקמון: להיות מאסטר פוקמון: מסעות אולטימטיביים: הסדרה"
+    ],
+    "averageScore": 75,
+    "meanScore": 75,
+    "popularity": 13827,
+    "trending": 2,
+    "favourites": 300,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": {
+      "id": "NTura9hwAkI",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/NTura9hwAkI/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/anipoke_PR",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.tv-tokyo.co.jp/anime/pocketmonster/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.netflix.com/title/81706101",
+        "site": "Netflix",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 112153,
+            "title": {
+              "romaji": "Pocket Monsters (2019)",
+              "english": "Pokémon Journeys: The Series"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2019,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx112153-LK1lpFz3vlvl.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 158871,
+            "title": {
+              "romaji": "Pocket Monsters (2023)",
+              "english": "Pokémon Horizons: The Series"
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "SPRING",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158871-GBM9AMDfDRSu.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 152282,
+            "title": {
+              "romaji": "#AniPoke After Story",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx152282-AvDYx304p0Br.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 169824,
+            "title": {
+              "romaji": "Tong Meng Zhi Lu",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b169824-qgt6lysVXe6o.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 93,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 28,
+        "name": "Kids",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 433,
+        "name": "Animals",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1490,
+        "name": "Proxy Battle",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 102,
+        "name": "Coming of Age",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1310,
+        "name": "Travel",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1771,
+        "name": "Creature Taming",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 16,
+            "name": "TV Tokyo"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 28,
+            "name": "OLM"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 2473,
+            "name": {
+              "full": "Satoshi",
+              "native": "サトシ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95678,
+              "name": {
+                "full": "Rica Matsumoto",
+                "native": "松本梨香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 2909,
+            "name": {
+              "full": "Kasumi",
+              "native": "カスミ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95273,
+              "name": {
+                "full": "Mayumi Iizuka",
+                "native": "飯塚雅弓"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 3854,
+            "name": {
+              "full": "Takeshi",
+              "native": "タケシ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95058,
+              "name": {
+                "full": "Yuuji Ueda",
+                "native": "うえだゆうじ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 3891,
+            "name": {
+              "full": "Pikachu",
+              "native": "ピカチュウ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95128,
+              "name": {
+                "full": "Ikue Ootani",
+                "native": "大谷育江"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 3935,
+            "name": {
+              "full": "Musashi",
+              "native": "ムサシ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95014,
+              "name": {
+                "full": "Megumi Hayashibara",
+                "native": "林原めぐみ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 3936,
+            "name": {
+              "full": "Kojirou",
+              "native": "コジロウ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95022,
+              "name": {
+                "full": "Shinichirou Miki",
+                "native": "三木眞一郎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 3937,
+            "name": {
+              "full": "Nyarth",
+              "native": "ニャース"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96024,
+              "name": {
+                "full": "Inuko Inuyama",
+                "native": "犬山イヌコ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 4848,
+            "name": {
+              "full": "Shigeru Ookido",
+              "native": "オーキドシゲル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95983,
+              "name": {
+                "full": "Yuuko Kobayashi",
+                "native": "小林優子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 7558,
+            "name": {
+              "full": "Joy",
+              "native": "ジョーイ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95594,
+              "name": {
+                "full": "Kei Shindou",
+                "native": "真堂圭"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 9881,
+            "name": {
+              "full": "Sakaki",
+              "native": "サカキ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95720,
+              "name": {
+                "full": "Kenta Miyake",
+                "native": "三宅健太"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787374879,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2059218,
+    "idShikimori": 53874
+  },
+  "158895": {
+    "id": 158895,
+    "idMal": 53881,
+    "title": {
+      "romaji": "Arknights: Touin Kiro",
+      "english": "Arknights: PERISH IN FROST",
+      "native": "アークナイツ 冬隠帰路"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "Oripathy, an incurable disease that slowly crystallizes the bodies of those infected until their deaths.\n<br><br>\nRhodes Island is a pharmaceutical company that endeavors to find a cure and solve the problems that follow in the disease's wake,\nand in an attempt to put a stop to the revolt of the terrorist organization known as Reunion Movement whose ultimate goal is the salvation of the Infected,\nRhodes Island has formed a contract with the Yanese city of Lungmen and continues its mission there.\n<br><br>\nHowever, Amiya has found herself despondent since their battle against Skullshatterer, unable to accept the fact they were unable to save Misha.\n<br><br>\nIn the meantime, Rhodes Island deploys a reconnaissance squad to an abandoned city discovered in the Lungmen countryside.\nThere, the squad notices a strange phenomenon unfolding before them…",
+    "episodes": 8,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2023,
+    "startDate": {
+      "year": 2023,
+      "month": 10,
+      "day": 7
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 11,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158895-QPy3ElZBKziT.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158895-QPy3ElZBKziT.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158895-QPy3ElZBKziT.jpg",
+      "color": "#862828"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158895-GwaXDM5EOIoV.jpg",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "明日方舟：冬隐归路",
+      "명일방주: 서리 속의 죽음",
+      "Arknights Season 2"
+    ],
+    "averageScore": 75,
+    "meanScore": 75,
+    "popularity": 22558,
+    "trending": 1,
+    "favourites": 532,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": {
+      "id": "G_wEICcHRNs",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/G_wEICcHRNs/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/ArknightsStaff",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://twitter.com/ArknightsEN",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://2nd.arknights-anime.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.crunchyroll.com/series/GG5H5X3VN/arknights",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://ak.hypergryph.com/anime/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 21 - Vengeance",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/f07f60e9518fe7342af651f25822b5a01754054213_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GPWU8XE0P/vengeance",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 20 - Patriot",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/1750d3572847c434ea137fc9924a0e141753425719_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G31UV2Q71/patriot",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 19 - Mission",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/9cb4faa8c8ad548f8c9654f14ab80b821752846727_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GVWU82JP5/mission",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 18 - Consumables",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/208b34fbe19d1e41f4bf048f69d786b21752214844_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GMKUE3W58/consumables",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 17 - Confession",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/57dbf29154d0e68abc7e43b5600fb6d51751630549_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GK9UGNQ8Q/confession",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 140660,
+            "title": {
+              "romaji": "Arknights: Reimei Zensou",
+              "english": "Arknights: PRELUDE TO DAWN"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140660-iJAS9omOJdzU.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 177175,
+            "title": {
+              "romaji": "Arknights: Enshin Shomei",
+              "english": "Arknights: RISE FROM EMBER"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177175-cr5tlJIj7dEi.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 217,
+        "name": "Dystopian",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 874,
+        "name": "Pandemic",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 97,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 111,
+        "name": "War",
+        "rank": 92,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 285,
+        "name": "Terrorism",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 456,
+        "name": "Conspiracy",
+        "rank": 85,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 254,
+        "name": "Kemonomimi",
+        "rank": 76,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 76,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 240,
+        "name": "Amnesia",
+        "rank": 67,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 34,
+        "name": "Military",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 56,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 103,
+        "name": "Politics",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6371,
+            "name": "Yostar Pictures"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6453,
+            "name": "Hypergryph"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7307,
+            "name": "Yostar"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6371,
+            "name": "Yostar Pictures"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 174797,
+            "name": {
+              "full": "Ch'en",
+              "native": "陈"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118738,
+              "name": {
+                "full": "Shizuka Ishigami",
+                "native": "石上静香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 174801,
+            "name": {
+              "full": "Amiya",
+              "native": "阿米娅"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106661,
+              "name": {
+                "full": "Tomoyo Kurosawa",
+                "native": "黒沢ともよ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 182729,
+            "name": {
+              "full": "Doctor",
+              "native": "博士"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95688,
+              "name": {
+                "full": "Yuki Kaida",
+                "native": "甲斐田ゆき"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 182730,
+            "name": {
+              "full": "FrostNova",
+              "native": "霜星"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95823,
+              "name": {
+                "full": "Ayahi Takagaki",
+                "native": "高垣彩陽"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 174794,
+            "name": {
+              "full": "Exusiai",
+              "native": "能天使"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 121821,
+              "name": {
+                "full": "Manaka Iwami",
+                "native": "石見舞菜香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 174795,
+            "name": {
+              "full": "Liskarm",
+              "native": "雷蛇"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100142,
+              "name": {
+                "full": "Yui Ishikawa",
+                "native": "石川由依"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 174796,
+            "name": {
+              "full": "Cellinia Texas",
+              "native": "切利尼娜·德克萨斯"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 112297,
+              "name": {
+                "full": "Azusa Tadokoro",
+                "native": "田所あずさ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 174800,
+            "name": {
+              "full": "Hoshiguma",
+              "native": "星熊"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107711,
+              "name": {
+                "full": "Kiyono Yasuno",
+                "native": "安野希世乃"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 174802,
+            "name": {
+              "full": "Franka",
+              "native": "芙兰卡"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 113511,
+              "name": {
+                "full": "Ai Kakuma",
+                "native": "加隈亜衣"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 174803,
+            "name": {
+              "full": "Kal'tsit",
+              "native": "凯尔希"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102263,
+              "name": {
+                "full": "Youko Hikasa",
+                "native": "日笠陽子"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787371277,
+    "idTmdb": 137065,
+    "idImdb": "tt22443832",
+    "idTvdb": 411800,
+    "idTrakt": 192868,
+    "traktSlug": "arknights",
+    "idSimkl": 2059220,
+    "idShikimori": 53881
   }
 }

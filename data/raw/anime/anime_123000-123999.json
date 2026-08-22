@@ -1774,5 +1774,290 @@
     "traktSlug": null,
     "idSimkl": 1335677,
     "idShikimori": 41842
+  },
+  "123769": {
+    "id": 123769,
+    "idMal": 42803,
+    "title": {
+      "romaji": "Dokyuu Hentai HxEros OVA",
+      "english": null,
+      "native": "ド級編隊エグゼロス OVA"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "Unaired episodes bundled with the 11th and 12th manga volumes.",
+    "episodes": 2,
+    "duration": 25,
+    "season": "FALL",
+    "seasonYear": 2020,
+    "startDate": {
+      "year": 2020,
+      "month": 11,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2021,
+      "month": 3,
+      "day": 4
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123769-ClztG4bhi1hD.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123769-ClztG4bhi1hD.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx123769-ClztG4bhi1hD.jpg",
+      "color": "#e4bb5d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "SUPER HXEROS OVA"
+    ],
+    "averageScore": 60,
+    "meanScore": 60,
+    "popularity": 7902,
+    "trending": 1,
+    "favourites": 123,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://hxeros.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/hxeros_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 112818,
+            "title": {
+              "romaji": "Dokyuu Hentai HxEros",
+              "english": "SUPER HXEROS"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2020,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx112818-9sOdhLPYX3eL.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 99323,
+            "title": {
+              "romaji": "Dokyuu Hentai HxEros",
+              "english": "SUPER HXEROS"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx99323-mWlIO0zNtNsI.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 172,
+        "name": "Superhero",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 153042,
+            "name": {
+              "full": "Maihime  Shirayuki",
+              "native": "白雪舞姫"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105765,
+              "name": {
+                "full": "Ai Kayano",
+                "native": "茅野愛衣"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 153043,
+            "name": {
+              "full": "Kirara  Hoshino",
+              "native": "星乃雲母"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 113511,
+              "name": {
+                "full": "Ai Kakuma",
+                "native": "加隈亜衣"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 153044,
+            "name": {
+              "full": "Momoka  Momozono",
+              "native": "桃園桃花"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95380,
+              "name": {
+                "full": "Sayuri Yahagi",
+                "native": "矢作紗友里"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 153045,
+            "name": {
+              "full": "Sora  Tenkuuji",
+              "native": "天空寺宙"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118399,
+              "name": {
+                "full": "Yuuki Kuwahara",
+                "native": "桑原由気"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 153046,
+            "name": {
+              "full": "Retto Enjou",
+              "native": "炎城烈人"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106817,
+              "name": {
+                "full": "Yoshitsugu Matsuoka",
+                "native": "松岡禎丞"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 177012,
+            "name": {
+              "full": "Chacha",
+              "native": "チャチャ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118921,
+              "name": {
+                "full": "Nichika Oomori",
+                "native": "大森日雅"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 177013,
+            "name": {
+              "full": "Anno Jou",
+              "native": "庵野丈"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95022,
+              "name": {
+                "full": "Shinichirou Miki",
+                "native": "三木眞一郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787374840,
+    "idTmdb": 96120,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 1425177,
+    "idShikimori": 42803
   }
 }

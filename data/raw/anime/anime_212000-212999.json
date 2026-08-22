@@ -41,7 +41,7 @@
     "averageScore": 70,
     "meanScore": 73,
     "popularity": 1381,
-    "trending": 0,
+    "trending": 1,
     "favourites": 12,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -80,7 +80,13 @@
               "romaji": "Meitantei Conan",
               "english": "Detective Conan"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "WINTER",
+            "seasonYear": 1996,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx235-MyYT7K3chBdO.jpg"
+            }
           }
         },
         {
@@ -91,7 +97,13 @@
               "romaji": "Meitantei Precure!",
               "english": "Star Detective Precure!"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "WINTER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202957-fxZGgJTvwXzP.jpg"
+            }
           }
         }
       ]
@@ -389,7 +401,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787374882,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 64359
   },
   "212503": {
     "id": 212503,
@@ -435,7 +454,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 6962,
-    "trending": 3,
+    "trending": 1,
     "favourites": 74,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -465,7 +484,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791476880,
-      "timeUntilAiring": 4104258,
+      "timeUntilAiring": 4100989,
       "episode": 1
     },
     "relations": {
@@ -737,7 +756,7 @@
         }
       ]
     },
-    "updatedAt": 1787371275,
+    "updatedAt": 1787374908,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1344,7 +1363,13 @@
               "romaji": "Marronnier Oukoku no Shichinin no Kishi",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx99855-dbwbF8Iq15ul.jpg"
+            }
           }
         }
       ]
@@ -1586,7 +1611,7 @@
         }
       ]
     },
-    "updatedAt": 1787353296,
+    "updatedAt": 1787374893,
     "idTmdb": 324326,
     "idImdb": null,
     "idTvdb": null,
@@ -1834,7 +1859,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 6975,
-    "trending": 2,
+    "trending": 3,
     "favourites": 87,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2145,7 +2170,7 @@
         }
       ]
     },
-    "updatedAt": 1787371269,
+    "updatedAt": 1787374842,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2421,7 +2446,7 @@
     "averageScore": 79,
     "meanScore": 83,
     "popularity": 1409,
-    "trending": 1,
+    "trending": 0,
     "favourites": 32,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3043,7 +3068,7 @@
         }
       ]
     },
-    "updatedAt": 1787364092,
+    "updatedAt": 1787371321,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3881,7 +3906,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 339,
-    "trending": 0,
+    "trending": 1,
     "favourites": 5,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -3891,7 +3916,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787842800,
-      "timeUntilAiring": 472993,
+      "timeUntilAiring": 466886,
       "episode": 1
     },
     "relations": {
@@ -3992,7 +4017,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787364123,
+    "updatedAt": 1787374893,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

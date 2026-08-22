@@ -689,7 +689,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 79077,
-    "trending": 3,
+    "trending": 2,
     "favourites": 1768,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1254,7 +1254,7 @@
         }
       ]
     },
-    "updatedAt": 1787371269,
+    "updatedAt": 1787374878,
     "idTmdb": 102086,
     "idImdb": "tt12642654",
     "idTvdb": 380477,
@@ -1309,7 +1309,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 149532,
-    "trending": 6,
+    "trending": 4,
     "favourites": 2829,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1744,7 +1744,7 @@
         }
       ]
     },
-    "updatedAt": 1787371273,
+    "updatedAt": 1787374851,
     "idTmdb": 98986,
     "idImdb": "tt12464182",
     "idTvdb": 381406,
@@ -3962,7 +3962,7 @@
     "averageScore": 74,
     "meanScore": 75,
     "popularity": 12271,
-    "trending": 0,
+    "trending": 1,
     "favourites": 829,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -4157,7 +4157,7 @@
         }
       ]
     },
-    "updatedAt": 1787365310,
+    "updatedAt": 1787374870,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4692,5 +4692,124 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 41260
+  },
+  "115143": {
+    "id": 115143,
+    "idMal": null,
+    "title": {
+      "romaji": "Donaiyanen Yadon",
+      "english": "The Slowpoke Song",
+      "native": "どないやねんヤドン"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "A song made for the Yadon Paradise, a site made in celebration of Slowpoke Day on August 10, 2014.\n<br><br>\nThe first song created for the Pokémon Daisuki Club.",
+    "episodes": 1,
+    "duration": 4,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 10
+    },
+    "endDate": {
+      "year": 2014,
+      "month": 8,
+      "day": 10
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115143-Gk63qccauq2C.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115143-Gk63qccauq2C.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx115143-Gk63qccauq2C.png",
+      "color": "#35c9e4"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [
+      "What's Going on, Yadon?"
+    ],
+    "averageScore": 55,
+    "meanScore": 58,
+    "popularity": 575,
+    "trending": 1,
+    "favourites": 7,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": {
+      "id": "Ce5mRvkAePU",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/Ce5mRvkAePU/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=Ce5mRvkAePU",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=lOqy8cC72wA",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.pokemon.jp/special/yadon_paradise/song/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 19291,
+            "title": {
+              "romaji": "Pocket Monsters XY",
+              "english": "Pokémon the Series: XY"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2013,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx19291-jwGqfWIXPtGA.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 209,
+        "name": "Dancing",
+        "rank": 46,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 391,
+        "name": "Philosophy",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787374911,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }

@@ -42,7 +42,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3609,
-    "trending": 1,
+    "trending": 2,
     "favourites": 56,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -67,7 +67,13 @@
               "romaji": "Mairimashita! Iruma-kun if: Episode of Ma-fia",
               "english": "Welcome to Demon School! Iruma-kun: IruMafia Edition"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx167422-ftim3QXOI7by.jpg"
+            }
           }
         },
         {
@@ -78,7 +84,13 @@
               "romaji": "Mairimashita! Iruma-kun",
               "english": "Welcome to Demon School! Iruma-kun"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2019,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx107693-A9bSSFAMxA6j.jpg"
+            }
           }
         }
       ]
@@ -269,7 +281,14 @@
         }
       ]
     },
-    "updatedAt": 1787349727
+    "updatedAt": 1787374860,
+    "idTmdb": 313215,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 3012818,
+    "idShikimori": 63419
   },
   "207035": {
     "id": 207035,
@@ -638,7 +657,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 12754,
-    "trending": 0,
+    "trending": 1,
     "favourites": 155,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -788,7 +807,7 @@
         }
       ]
     },
-    "updatedAt": 1787360559,
+    "updatedAt": 1787374904,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1264,7 +1283,7 @@
     "averageScore": 57,
     "meanScore": 58,
     "popularity": 17554,
-    "trending": 30,
+    "trending": 29,
     "favourites": 252,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1299,7 +1318,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787934600,
-      "timeUntilAiring": 561898,
+      "timeUntilAiring": 558551,
       "episode": 9
     },
     "relations": {
@@ -1569,7 +1588,7 @@
         }
       ]
     },
-    "updatedAt": 1787371229,
+    "updatedAt": 1787374809,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1623,7 +1642,7 @@
     "averageScore": 67,
     "meanScore": 68,
     "popularity": 66410,
-    "trending": 100,
+    "trending": 115,
     "favourites": 1151,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1673,7 +1692,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788449400,
-      "timeUntilAiring": 1076689,
+      "timeUntilAiring": 1073342,
       "episode": 9
     },
     "relations": {
@@ -2081,7 +2100,7 @@
         }
       ]
     },
-    "updatedAt": 1787371218,
+    "updatedAt": 1787374805,
     "idTmdb": 312949,
     "idImdb": "tt39551330",
     "idTvdb": 473423,
@@ -2601,7 +2620,7 @@
     "averageScore": 52,
     "meanScore": 56,
     "popularity": 1918,
-    "trending": 1,
+    "trending": 3,
     "favourites": 17,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2636,7 +2655,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787759040,
-      "timeUntilAiring": 389435,
+      "timeUntilAiring": 383025,
       "episode": 8
     },
     "relations": {
@@ -3027,7 +3046,7 @@
         }
       ]
     },
-    "updatedAt": 1787365302,
+    "updatedAt": 1787374829,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3720,7 +3739,7 @@
         }
       ]
     },
-    "updatedAt": 1787360511,
+    "updatedAt": 1787374907,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

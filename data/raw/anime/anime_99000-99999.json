@@ -50,7 +50,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 94949,
-    "trending": 1,
+    "trending": 2,
     "favourites": 1139,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -617,7 +617,7 @@
         }
       ]
     },
-    "updatedAt": 1787371280,
+    "updatedAt": 1787374870,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -671,7 +671,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 53154,
-    "trending": 0,
+    "trending": 2,
     "favourites": 900,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1354,7 +1354,7 @@
         }
       ]
     },
-    "updatedAt": 1787365310,
+    "updatedAt": 1787374849,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1415,7 +1415,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 169445,
-    "trending": 3,
+    "trending": 2,
     "favourites": 3979,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1863,7 +1863,7 @@
         }
       ]
     },
-    "updatedAt": 1787371211,
+    "updatedAt": 1787374897,
     "idTmdb": 75865,
     "idImdb": "tt7808344",
     "idTvdb": 337936,
@@ -2713,7 +2713,7 @@
     "averageScore": 62,
     "meanScore": 62,
     "popularity": 78271,
-    "trending": 1,
+    "trending": 2,
     "favourites": 1008,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3351,7 +3351,7 @@
         }
       ]
     },
-    "updatedAt": 1787371301,
+    "updatedAt": 1787374816,
     "idTmdb": 77701,
     "idImdb": "tt8010544",
     "idTvdb": 344315,
@@ -4074,7 +4074,7 @@
     "averageScore": 62,
     "meanScore": 62,
     "popularity": 55578,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1085,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4674,7 +4674,7 @@
         }
       ]
     },
-    "updatedAt": 1787371321,
+    "updatedAt": 1787374904,
     "idTmdb": 75775,
     "idImdb": "tt7814574",
     "idTvdb": 335237,
@@ -4727,7 +4727,7 @@
     "averageScore": 68,
     "meanScore": 69,
     "popularity": 17522,
-    "trending": 1,
+    "trending": 0,
     "favourites": 319,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5151,7 +5151,7 @@
         }
       ]
     },
-    "updatedAt": 1787371229,
+    "updatedAt": 1787374914,
     "idTmdb": 84141,
     "idImdb": "tt10223702",
     "idTvdb": 355576,
@@ -5789,7 +5789,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 136317,
-    "trending": 5,
+    "trending": 3,
     "favourites": 6861,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6240,7 +6240,7 @@
         }
       ]
     },
-    "updatedAt": 1787371272,
+    "updatedAt": 1787374881,
     "idTmdb": 74185,
     "idImdb": "tt7474942",
     "idTvdb": 332983,
@@ -6291,7 +6291,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 104391,
-    "trending": 2,
+    "trending": 0,
     "favourites": 1834,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7093,7 +7093,7 @@
         }
       ]
     },
-    "updatedAt": 1787371262,
+    "updatedAt": 1787374914,
     "idTmdb": 82895,
     "idImdb": "tt8747928",
     "idTvdb": 349418,
@@ -8059,7 +8059,7 @@
     "averageScore": 75,
     "meanScore": 76,
     "popularity": 140861,
-    "trending": 5,
+    "trending": 1,
     "favourites": 4512,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9154,7 +9154,13 @@
               "romaji": "FAIRY TAIL",
               "english": "Fairy Tail"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx30598-UOCymo2vPcWe.png"
+            }
           }
         },
         {
@@ -9165,7 +9171,13 @@
               "romaji": "FAIRY TAIL (2014)",
               "english": "Fairy Tail Series 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2014,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20626-9LTreIofBgnu.jpg"
+            }
           }
         },
         {
@@ -9176,7 +9188,13 @@
               "romaji": "FAIRY TAIL: 100 YEARS QUEST",
               "english": "FAIRY TAIL 100 YEARS QUEST"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx139095-xXcToL6L4vuv.jpg"
+            }
           }
         }
       ]
@@ -9550,7 +9568,7 @@
         }
       ]
     },
-    "updatedAt": 1787357139,
+    "updatedAt": 1787374861,
     "idTmdb": 46261,
     "idImdb": "tt1528406",
     "idTvdb": 114801,
@@ -9972,7 +9990,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 217051,
-    "trending": 1,
+    "trending": 0,
     "favourites": 5185,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10434,7 +10452,7 @@
         }
       ]
     },
-    "updatedAt": 1787360512,
+    "updatedAt": 1787374914,
     "idTmdb": 80477,
     "idImdb": "tt8670784",
     "idTvdb": 344844,
@@ -10492,7 +10510,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 135094,
-    "trending": 1,
+    "trending": 2,
     "favourites": 2318,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10931,7 +10949,7 @@
         }
       ]
     },
-    "updatedAt": 1787371286,
+    "updatedAt": 1787374879,
     "idTmdb": 74163,
     "idImdb": "tt7662364",
     "idTvdb": 332771,
@@ -10981,7 +10999,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 44156,
-    "trending": 0,
+    "trending": 1,
     "favourites": 332,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11093,7 +11111,13 @@
               "romaji": "Dagashi Kashi",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2016,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21365-FRalqWQn0lf9.jpg"
+            }
           }
         },
         {
@@ -11104,7 +11128,13 @@
               "romaji": "Dagashi Kashi",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx85966-iJQEKqi5l6bg.jpg"
+            }
           }
         }
       ]
@@ -11332,7 +11362,7 @@
         }
       ]
     },
-    "updatedAt": 1787357139,
+    "updatedAt": 1787374902,
     "idTmdb": 65523,
     "idImdb": "tt5346952",
     "idTvdb": 303725,
@@ -11977,7 +12007,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 138161,
-    "trending": 2,
+    "trending": 5,
     "favourites": 3849,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -12752,7 +12782,7 @@
         }
       ]
     },
-    "updatedAt": 1787371265,
+    "updatedAt": 1787374827,
     "idTmdb": 76757,
     "idImdb": "tt8225204",
     "idTvdb": 338455,
@@ -12817,7 +12847,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 325835,
-    "trending": 10,
+    "trending": 5,
     "favourites": 12225,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13272,7 +13302,7 @@
         }
       ]
     },
-    "updatedAt": 1787371245,
+    "updatedAt": 1787374867,
     "idTmdb": 78457,
     "idImdb": "tt8254880",
     "idTvdb": 341425,
@@ -13327,7 +13357,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 457289,
-    "trending": 9,
+    "trending": 7,
     "favourites": 18029,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -14018,7 +14048,7 @@
         }
       ]
     },
-    "updatedAt": 1787371243,
+    "updatedAt": 1787374877,
     "idTmdb": 83095,
     "idImdb": "tt9529546",
     "idTvdb": 353712,
@@ -14076,7 +14106,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 496414,
-    "trending": 10,
+    "trending": 13,
     "favourites": 20598,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -14807,7 +14837,7 @@
         }
       ]
     },
-    "updatedAt": 1787371253,
+    "updatedAt": 1787374854,
     "idTmdb": 76121,
     "idImdb": "tt7865090",
     "idTvdb": 337017,
@@ -14868,7 +14898,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 371068,
-    "trending": 10,
+    "trending": 6,
     "favourites": 20324,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -15251,7 +15281,7 @@
         }
       ]
     },
-    "updatedAt": 1787371219,
+    "updatedAt": 1787374869,
     "idTmdb": 504253,
     "idImdb": "tt7236034",
     "idTvdb": null,
@@ -15313,7 +15343,7 @@
     "averageScore": 86,
     "meanScore": 86,
     "popularity": 681271,
-    "trending": 22,
+    "trending": 13,
     "favourites": 22075,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -16076,7 +16106,7 @@
         }
       ]
     },
-    "updatedAt": 1787371233,
+    "updatedAt": 1787374812,
     "idTmdb": 1429,
     "idImdb": "tt2560140",
     "idTvdb": 267440,
@@ -16675,7 +16705,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 284837,
-    "trending": 7,
+    "trending": 5,
     "favourites": 4166,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -17132,7 +17162,7 @@
         }
       ]
     },
-    "updatedAt": 1787371251,
+    "updatedAt": 1787374810,
     "idTmdb": 62104,
     "idImdb": "tt3909224",
     "idTvdb": 284131,
@@ -17186,7 +17216,7 @@
     "averageScore": 46,
     "meanScore": 46,
     "popularity": 66913,
-    "trending": 0,
+    "trending": 1,
     "favourites": 606,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -17298,7 +17328,13 @@
               "romaji": "Ousama Game Shuukyoku",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx77332-Qw1Z7RSssHLR.jpg"
+            }
           }
         },
         {
@@ -17309,7 +17345,13 @@
               "romaji": "Ousama Game",
               "english": "King's Game"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx54836-6Hx3mPgPOGIB.jpg"
+            }
           }
         }
       ]
@@ -17605,7 +17647,7 @@
         }
       ]
     },
-    "updatedAt": 1787357138,
+    "updatedAt": 1787374903,
     "idTmdb": 74183,
     "idImdb": "tt7462702",
     "idTvdb": 332981,
@@ -17659,7 +17701,7 @@
     "averageScore": 77,
     "meanScore": 78,
     "popularity": 109208,
-    "trending": 3,
+    "trending": 1,
     "favourites": 3776,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -18106,7 +18148,7 @@
         }
       ]
     },
-    "updatedAt": 1787371229,
+    "updatedAt": 1787374824,
     "idTmdb": 553600,
     "idImdb": "tt9116358",
     "idTvdb": null,
@@ -20681,7 +20723,13 @@
               "romaji": "Nanatsu no Taizai",
               "english": "The Seven Deadly Sins"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx74485-mFbj0sQEcBur.jpg"
+            }
           }
         },
         {
@@ -20692,7 +20740,13 @@
               "romaji": "Nanatsu no Taizai: Imashime no Fukkatsu",
               "english": "The Seven Deadly Sins: Revival of the Commandments"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2018,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx99539-caPX28RSsgRP.jpg"
+            }
           }
         },
         {
@@ -20703,7 +20757,13 @@
               "romaji": "Nanatsu no Taizai: Tenkuu no Torawarebito",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx138978-ULmwfskNW5sK.png"
+            }
           }
         },
         {
@@ -20714,7 +20774,13 @@
               "romaji": "Shousetsu Gekijouban Nanatsu no Taizai: Tenkuu no Torawarebito",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx140549-csgq5LBsgd93.jpg"
+            }
           }
         }
       ]
@@ -21041,7 +21107,14 @@
         }
       ]
     },
-    "updatedAt": 1787345743
+    "updatedAt": 1787374871,
+    "idTmdb": 507569,
+    "idImdb": "tt9089294",
+    "idTvdb": null,
+    "idTrakt": 354805,
+    "traktSlug": "the-seven-deadly-sins-prisoners-of-the-sky-2018",
+    "idSimkl": 702821,
+    "idShikimori": 35946
   },
   "99131": {
     "id": 99131,
@@ -22423,7 +22496,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 39284,
-    "trending": 1,
+    "trending": 2,
     "favourites": 672,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -22661,7 +22734,7 @@
         }
       ]
     },
-    "updatedAt": 1787371312,
+    "updatedAt": 1787374836,
     "idTmdb": 70311,
     "idImdb": "tt11317074",
     "idTvdb": 328670,
@@ -23566,7 +23639,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 40218,
-    "trending": 0,
+    "trending": 1,
     "favourites": 768,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -23678,7 +23751,13 @@
               "romaji": "Miira no Kaikata",
               "english": "How to Keep a Mummy"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx87444-wnEWOXbMOC2X.jpg"
+            }
           }
         }
       ]
@@ -23956,7 +24035,7 @@
         }
       ]
     },
-    "updatedAt": 1787357134,
+    "updatedAt": 1787374819,
     "idTmdb": 76132,
     "idImdb": "tt8693220",
     "idTvdb": 337019,
@@ -27416,5 +27495,582 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 35823
+  },
+  "99884": {
+    "id": 99884,
+    "idMal": 38413,
+    "title": {
+      "romaji": "Arad: Suming Zhi Men",
+      "english": null,
+      "native": "阿拉德：宿命之门"
+    },
+    "type": "ANIME",
+    "format": "TV_SHORT",
+    "status": "FINISHED",
+    "description": "",
+    "episodes": 20,
+    "duration": 15,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 28
+    },
+    "endDate": {
+      "year": 2017,
+      "month": 9,
+      "day": 8
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99884-2T0g49MO5GPr.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99884-2T0g49MO5GPr.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/99884-2T0g49MO5GPr.jpg",
+      "color": "#e49350"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "阿拉徳 宿命之門",
+      "Arad De: Suming Zhi Men",
+      "アラド：運命の門",
+      "Arad: Shukumei no Mon",
+      "Dungeon Fighter Online: The Fate of Arad"
+    ],
+    "averageScore": 47,
+    "meanScore": 52,
+    "popularity": 1293,
+    "trending": 1,
+    "favourites": 22,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "VIDEO_GAME",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.bilibili.com/bangumi/media/md5855",
+        "site": "Bilibili",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 4657,
+            "title": {
+              "romaji": "Arad Senki: Slap Up Party",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2009,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4657-6pEc6zlGUQpM.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 124341,
+            "title": {
+              "romaji": "Arad: Gyakuten no Wa",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx124341-HFlKVdhZ9lDS.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6390,
+            "name": "Success"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6129,
+            "name": "Tencent Animation & Comics"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6521,
+            "name": "Dangun Pictures"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787374910,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 999041,
+    "idShikimori": 38413
+  },
+  "99363": {
+    "id": 99363,
+    "idMal": 34534,
+    "title": {
+      "romaji": "Natsume Yuujinchou Go Tokubetsu-hen",
+      "english": null,
+      "native": "夏目友人帳 伍 特別編"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "Two special episodes bundled in the fourth and fifth volume of the Blu-ray/DVD.\n",
+    "episodes": 2,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2017,
+    "startDate": {
+      "year": 2017,
+      "month": 3,
+      "day": 22
+    },
+    "endDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 26
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx99363-vFOXsEm0340k.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx99363-vFOXsEm0340k.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx99363-vFOXsEm0340k.png",
+      "color": "#e4a143"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "Natsume's Book of Friends Go Specials",
+      "Natsume Yujin-cho 5 Specials",
+      "Natsume's Book of Friends Season 5 Specials",
+      "Natsume Yuujinchou Go Specials"
+    ],
+    "averageScore": 80,
+    "meanScore": 81,
+    "popularity": 12158,
+    "trending": 1,
+    "favourites": 129,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.crunchyroll.com/series/GRE5XQJV6/natsumes-book-of-friends",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 12 - From the Path of Dreams",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/fbb405085d2f2e4d56e3491c2f8088a31734964676_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GG1UXW01Z/from-the-path-of-dreams",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 11 - Tell Me Your Name",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/a9184f5f2c95de5b746cfa0b03876fd81734365689_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GWDU7VG0D/tell-me-your-name",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 10 - The House Where a Promise Remains",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/0275159a878c72ef76574d8aa5a0331f1733766915_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G50UMKWGQ/the-house-where-a-promise-remains",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 9 - That Which Blocks The Ceremony",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/dc61ad03c1a1559e239d7b71b58e1eca1733152852_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GQJUMN7WJ/that-which-blocks-the-ceremony",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 8 - Natsume on the Moonlit Night",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/54f8d2f229aa20e42d0ad281b8faa1e01732549904_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GD9UE9D7J/natsume-on-the-moonlit-night",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 7 - A Difficult Two",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/d3768d70db3ee277b1da76084dc2e0f01731948687_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GZ7UDQJ90/a-difficult-two",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - The Abandoned Station, Two Wheels",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/bede253cb1bfd0610c2ff6a4490085151731346633_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G8WU73E5E/the-abandoned-station-two-wheels",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - Chobi's Treasure",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/ecb42d78c08a1fe16a755de295a894fa1730742107_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G2XUNXJ93/chobis-treasure",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - Depths of the Page",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/5c2950c4c3dd90c88b72191024e931ed1730133068_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GPWU8NEM0/depths-of-the-page",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - Tookanya",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/eb91887f32d210be696bbf71505baef11729520281_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G31UVKQ8P/tookanya",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - Someday's Garden",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/90ed48cc0c6887d8c39aa6cadf47abd91728915064_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GVWU8NJ1D/somedays-garden",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1 - The Fragment's Lament",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/14c9bff26e5adf4de8b0d52b77cc63551728317971_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GMKUE9W0N/the-fragments-lament",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 31859,
+            "title": {
+              "romaji": "Natsume Yuujinchou",
+              "english": "Natsume's Book of Friends"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx31859-mITgIaJFBzl4.png"
+            }
+          }
+        },
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 21710,
+            "title": {
+              "romaji": "Natsume Yuujinchou Go",
+              "english": "Natsume's Book of Friends Season 5"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2016,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21710-Y20fKQviC3hL.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 233,
+        "name": "Youkai",
+        "rank": 94,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 53,
+        "name": "Shoujo",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 81,
+        "name": "Iyashikei",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 250,
+        "name": "Rural",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1052,
+        "name": "Adoption",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 262,
+        "name": "Outdoor Activities",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6071,
+            "name": "Shuka"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 13783,
+            "name": {
+              "full": "Takashi Natsume",
+              "native": "夏目貴志"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95118,
+              "name": {
+                "full": "Hiroshi Kamiya",
+                "native": "神谷浩史"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 13784,
+            "name": {
+              "full": "Madara",
+              "native": "斑"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95021,
+              "name": {
+                "full": "Kazuhiko Inoue",
+                "native": "井上和彦"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 13886,
+            "name": {
+              "full": "Reiko Natsume",
+              "native": "夏目レイコ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95149,
+              "name": {
+                "full": "Sanae Kobayashi",
+                "native": "小林沙苗"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 19455,
+            "name": {
+              "full": "Hinoe",
+              "native": "ヒノエ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95076,
+              "name": {
+                "full": "Akemi Okamura",
+                "native": "岡村明美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 19546,
+            "name": {
+              "full": "Touko Fujiwara",
+              "native": "藤原塔子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95121,
+              "name": {
+                "full": "Miki Itou",
+                "native": "伊藤美紀 "
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 20336,
+            "name": {
+              "full": "Shigeru Fujiwara",
+              "native": "藤原滋"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102983,
+              "name": {
+                "full": "Eiji Itou",
+                "native": "伊藤栄次"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 23038,
+            "name": {
+              "full": "Satoru Nishimura",
+              "native": "西村悟"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96762,
+              "name": {
+                "full": "Ryouhei Kimura",
+                "native": "木村良平"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 23115,
+            "name": {
+              "full": "Chobi-hige",
+              "native": "ちょびひげ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95898,
+              "name": {
+                "full": "Choo",
+                "native": "チョー "
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 25272,
+            "name": {
+              "full": "Misuzu",
+              "native": "三篠"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96122,
+              "name": {
+                "full": "Takaya Kuroda",
+                "native": "黒田崇矢"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 36826,
+            "name": {
+              "full": "Hitotsume no Chuukyuu Youkai",
+              "native": "一つ目の中級妖怪"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95685,
+              "name": {
+                "full": "Takashi Matsuyama",
+                "native": "松山鷹志"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787374910,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 34534
   }
 }

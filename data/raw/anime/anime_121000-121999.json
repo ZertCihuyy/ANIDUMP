@@ -1694,7 +1694,7 @@
     "averageScore": 79,
     "meanScore": 80,
     "popularity": 59518,
-    "trending": 1,
+    "trending": 2,
     "favourites": 1259,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2441,7 +2441,7 @@
         }
       ]
     },
-    "updatedAt": 1787371310,
+    "updatedAt": 1787374840,
     "idTmdb": 91768,
     "idImdb": "tt10885406",
     "idTvdb": 366263,
@@ -2449,5 +2449,203 @@
     "traktSlug": "ascendance-of-a-bookworm",
     "idSimkl": 1406099,
     "idShikimori": 42429
+  },
+  "121181": {
+    "id": 121181,
+    "idMal": 34510,
+    "title": {
+      "romaji": "Hei Mao Jingzhang",
+      "english": "Black Cat Detective",
+      "native": "黑猫警长"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "The series follows Officer Black Cat's adventures around the forest neighborhood, apprehending criminals, dealing justice, and solving crimes.\n",
+    "episodes": 5,
+    "duration": 20,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 1984,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": 1984,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121181-BhWGCU9PE1n4.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121181-BhWGCU9PE1n4.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx121181-BhWGCU9PE1n4.png",
+      "color": "#e47843"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action"
+    ],
+    "synonyms": [
+      "黑貓警長",
+      "Mr. Black"
+    ],
+    "averageScore": 44,
+    "meanScore": 45,
+    "popularity": 396,
+    "trending": 1,
+    "favourites": 4,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 121182,
+            "title": {
+              "romaji": "Hei Mao Jingzhang (1992)",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b121182-Db5Wb5Ma3sR2.png"
+            }
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 121183,
+            "title": {
+              "romaji": "Hei Mao Jingzhang: Feicui Zhi Xing",
+              "english": "Mr. Black: Green Star"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx121183-Hza71pz5UkpJ.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 142553,
+            "title": {
+              "romaji": "Women De Dong Ao",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx142553-wKpAM5Y7lPjv.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 433,
+        "name": "Animals",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1304,
+        "name": "Anthropomorphism",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 28,
+        "name": "Kids",
+        "rank": 76,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 40,
+        "name": "Police",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 648,
+        "name": "Crime",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 173,
+        "name": "Motorcycles",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 226,
+        "name": "Fugitive",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 94,
+        "name": "Gore",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 870,
+        "name": "Cannibalism",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 305,
+        "name": "Ships",
+        "rank": 10,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 471,
+            "name": "Shanghai Animation Film Studio"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787374906,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 1077171,
+    "idShikimori": 34510
   }
 }

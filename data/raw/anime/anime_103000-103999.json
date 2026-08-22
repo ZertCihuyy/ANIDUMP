@@ -1165,7 +1165,7 @@
     "averageScore": 70,
     "meanScore": 71,
     "popularity": 14120,
-    "trending": 1,
+    "trending": 0,
     "favourites": 126,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1483,7 +1483,7 @@
         }
       ]
     },
-    "updatedAt": 1787371267,
+    "updatedAt": 1787374914,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2114,7 +2114,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 152301,
-    "trending": 4,
+    "trending": 3,
     "favourites": 4412,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2724,7 +2724,7 @@
         }
       ]
     },
-    "updatedAt": 1787371258,
+    "updatedAt": 1787374849,
     "idTmdb": 99618,
     "idImdb": "tt12598008",
     "idTvdb": 377902,
@@ -4539,7 +4539,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 319348,
-    "trending": 15,
+    "trending": 10,
     "favourites": 12139,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5045,7 +5045,7 @@
         }
       ]
     },
-    "updatedAt": 1787371253,
+    "updatedAt": 1787374848,
     "idTmdb": 84669,
     "idImdb": "tt9584920",
     "idTvdb": 355966,
@@ -5102,7 +5102,7 @@
     "averageScore": 75,
     "meanScore": 76,
     "popularity": 51846,
-    "trending": 21,
+    "trending": 19,
     "favourites": 568,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5167,7 +5167,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787493600,
-      "timeUntilAiring": 120943,
+      "timeUntilAiring": 117575,
       "episode": 8
     },
     "relations": {
@@ -5524,7 +5524,7 @@
         }
       ]
     },
-    "updatedAt": 1787371255,
+    "updatedAt": 1787374823,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -5582,7 +5582,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 197056,
-    "trending": 2,
+    "trending": 1,
     "favourites": 5378,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6164,7 +6164,7 @@
         }
       ]
     },
-    "updatedAt": 1787371219,
+    "updatedAt": 1787374911,
     "idTmdb": 65931,
     "idImdb": "tt5679720",
     "idTvdb": 305075,
@@ -13682,7 +13682,7 @@
     "averageScore": 42,
     "meanScore": 43,
     "popularity": 280,
-    "trending": 1,
+    "trending": 0,
     "favourites": 2,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13763,7 +13763,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787371294,
+    "updatedAt": 1787374914,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -13771,5 +13771,935 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 22241
+  },
+  "103473": {
+    "id": 103473,
+    "idMal": 33600,
+    "title": {
+      "romaji": "Menghuan Xiyou",
+      "english": null,
+      "native": "梦幻西游"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "To save the magical realms, a group of warriors rise against a great evil power.\n",
+    "episodes": 13,
+    "duration": 25,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2014,
+      "month": 12,
+      "day": 29
+    },
+    "endDate": {
+      "year": 2015,
+      "month": 2,
+      "day": 6
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103473-tQEwu8ZLPvwn.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103473-tQEwu8ZLPvwn.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/103473-tQEwu8ZLPvwn.jpg",
+      "color": "#e4bb50"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Garena"
+    ],
+    "averageScore": null,
+    "meanScore": 33,
+    "popularity": 101,
+    "trending": 1,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "VIDEO_GAME",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.iqiyi.com/v_19rrnzpid4.html?vfrm=pcw_album_auto&rfr=https://baike.baidu.com/",
+        "site": "iQIYI",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 103472,
+            "title": {
+              "romaji": "Menghuan Xiyou 2",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/103472-2X1Cu4ELP3R9.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 126367,
+            "title": {
+              "romaji": "Shikong Zhi Xi",
+              "english": "Rift"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx126367-Z6PSXokTjqX3.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787374908,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 33600
+  },
+  "103402": {
+    "id": 103402,
+    "idMal": 32728,
+    "title": {
+      "romaji": "Sensou no Tsukurikata",
+      "english": "What Happens Before War?",
+      "native": "戦争のつくりかた"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Short anti-war animation adapting the picture book Sensou no Tsukurikata. It was created by the group NOddIN.",
+    "episodes": 1,
+    "duration": 7,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2016,
+      "month": 2,
+      "day": 10
+    },
+    "endDate": {
+      "year": 2016,
+      "month": 2,
+      "day": 10
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103402-mBrMz78ff5Ka.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103402-mBrMz78ff5Ka.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx103402-mBrMz78ff5Ka.jpg",
+      "color": "#fee450"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Drama"
+    ],
+    "synonyms": [],
+    "averageScore": 58,
+    "meanScore": 61,
+    "popularity": 568,
+    "trending": 1,
+    "favourites": 7,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "cUGu73hnjdY",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/cUGu73hnjdY/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://noddin.jp/war/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 103,
+        "name": "Politics",
+        "rank": 79,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 36309,
+            "name": {
+              "full": "Narrator",
+              "native": "ナレーター"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95422,
+              "name": {
+                "full": "Marika Matsumoto",
+                "native": "松本まりか"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787374903,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 560268,
+    "idShikimori": 32728
+  },
+  "103631": {
+    "id": 103631,
+    "idMal": 37986,
+    "title": {
+      "romaji": "Trinity Seven Movie - Tenkuu Toshokan to Shinku no Maou",
+      "english": "Trinity Seven: Heavens Library & Crimson Lord",
+      "native": "劇場版トリニティセブン -天空図書館と真紅の魔王"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "Arata, Lilith and the rest of the Trinity Seven ace off against their greatest enemy; Lilith's own father, who is revealed to be the strongest Demon Lord. He challenges Arata who is now a Demon Lord candidate.\n<br><br>\n(Source: Anime News Network)",
+    "episodes": 1,
+    "duration": 60,
+    "season": "WINTER",
+    "seasonYear": 2019,
+    "startDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 29
+    },
+    "endDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 29
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103631-LUdp603NQ36A.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103631-LUdp603NQ36A.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx103631-LUdp603NQ36A.jpg",
+      "color": "#284378"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "synonyms": [
+      "Trinity Seven Movie 2"
+    ],
+    "averageScore": 71,
+    "meanScore": 71,
+    "popularity": 37651,
+    "trending": 1,
+    "favourites": 529,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "1KQdv6sidmY",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/1KQdv6sidmY/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/TrinitySeven_PR",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://movie.trinity-7.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.crunchyroll.com/trinity-seven",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 1 - Administer and Third Selection",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/9ff23b51b871cc2ff940b7e332da334e1412280094_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G67573W4R/administer-and-third-selection",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - Prison Lock and Grimoire Security",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/970bc26a60238fc845166322dbc5c6ee1413250941_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYX01KV5R/prison-lock-and-grimoire-security",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - Magus and Alchemist",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/646e31b0900ee1e4fa1aed80fa415c161413846909_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR19N1J76/magus-and-alchemist",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - Labyrinth and Magic Gunner",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/37e4f80cd345dc5dd70e9fa0184ca6681414093124_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYNQPGMWY/labyrinth-and-magic-gunner",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - Dream World and Sub-Administer",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/a3d50863964738a4908b3a9e6afeba161414701418_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6MGDWMW6/dream-world-and-sub-administer",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - Dark Mage and Big Event",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/4b37b2d16eec79c98b632a7fc8096bdd1415386649_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G63V7NJQY/dark-mage-and-big-event",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 7 - Lost Technica and Problem Solving",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/615e2ef4c81024f4c374ee99a9c90b851415841933_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR2P1J0KR/lost-technica-and-problem-solving",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 8 - Study and Holiday",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/222e49ff2b461e458d09f19840df01b91416865134_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRZX2VKXY/study-and-holiday",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 9 - Bible Battle and Sweet Memory",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/8b6be0e1ca92dbd77fdea2d2e01de8d31417512135_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6Q4K739R/bible-battle-and-sweet-memory",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 10 - Game Master and Satan Slave",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/f8041876970f9ce6c8b6e359b2cd0b7b1417631382_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYWEZNK2Y/game-master-and-satan-slave",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 11 - Fianna Knights and Sisters",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/bb59f78779d8b63615f5b4f24256e4891418681396_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR0914WMR/fianna-knights-and-sisters",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 12 - Criminal Girl and His World",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/c11dffb5dd7a7d6c9578d9dbfe920be81418950420_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR757344Y/criminal-girl-and-his-world",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 54822,
+            "title": {
+              "romaji": "Trinity Seven: 7-nin no Mahoutsukai",
+              "english": "Trinity Seven: The Seven Magicians"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx54822-RtRk8BhQz7R5.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 21874,
+            "title": {
+              "romaji": "Trinity Seven Movie - Yuukyuu Toshokan to Renkinjutsu Shoujo",
+              "english": "Trinity Seven: Eternal Library & Alchemic Girl"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2017,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21874-X0MzTN5jehbN.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 84,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 146,
+        "name": "Alternate Universe",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 96,
+        "name": "Time Manipulation",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7845,
+            "name": "Seven Arcs Pictures"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 42391,
+            "name": {
+              "full": "Arata Kasuga",
+              "native": "春日アラタ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106817,
+              "name": {
+                "full": "Yoshitsugu Matsuoka",
+                "native": "松岡禎丞"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 52883,
+            "name": {
+              "full": "Lilith Asami",
+              "native": "浅見リリス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107016,
+              "name": {
+                "full": "Yumi Hara",
+                "native": "原由実"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 52885,
+            "name": {
+              "full": "Levi Kazama",
+              "native": "風間レヴィ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106622,
+              "name": {
+                "full": "Ayane Sakura",
+                "native": "佐倉綾音"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 52887,
+            "name": {
+              "full": "Yui Kurata",
+              "native": "倉田ユイ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107212,
+              "name": {
+                "full": "Rie Murakawa",
+                "native": "村川梨衣"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 52889,
+            "name": {
+              "full": "Akio Fudou",
+              "native": "不動アキオ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95141,
+              "name": {
+                "full": "Ryouka Yuzuki",
+                "native": "柚木涼香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 52891,
+            "name": {
+              "full": "Mira Yamana",
+              "native": "山奈ミラ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102263,
+              "name": {
+                "full": "Youko Hikasa",
+                "native": "日笠陽子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 56701,
+            "name": {
+              "full": "Arin Kannazuki",
+              "native": "神無月アリン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 103921,
+              "name": {
+                "full": "Aya Uchida",
+                "native": "内田彩"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 68397,
+            "name": {
+              "full": "Lieselotte Sherlock",
+              "native": "リーゼロッテ・シャルロック"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106184,
+              "name": {
+                "full": "Nao Touyama",
+                "native": "東山奈央"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 68373,
+            "name": {
+              "full": "Selina Sherlock",
+              "native": "セリナ＝シャルロック"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 114834,
+              "name": {
+                "full": "Aya Suzaki",
+                "native": "洲崎綾"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 126070,
+            "name": {
+              "full": "Sora",
+              "native": "ソラ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95008,
+              "name": {
+                "full": "Rie Kugimiya",
+                "native": "釘宮理恵"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787374899,
+    "idTmdb": 570269,
+    "idImdb": "tt9826484",
+    "idTvdb": null,
+    "idTrakt": 421426,
+    "traktSlug": "trinity-seven-heaven-s-library-crimson-lord-2019",
+    "idSimkl": 853851,
+    "idShikimori": 37986
+  },
+  "103374": {
+    "id": 103374,
+    "idMal": 31501,
+    "title": {
+      "romaji": "MASTER BLASTER",
+      "english": null,
+      "native": "MASTER BLASTER"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Talk between girls regarding the desire to hide in the rectum of the person you like (in other words, wanting to be together forever). \n<br><br>\nIf you begin to think that you might as well dedicate yourself completely to the other person, you become tempted to devour the other person whole. Without knowing their true feelings you are at their mercy.In this situation there is a swirling of various emotions such as yearning, possessiveness, jealousy, and guilt. Constantly having him on my mind, at this rate what will come of me?!\n<br><br>\n(Source: Official Youtube Channel)",
+    "episodes": 1,
+    "duration": 4,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2014,
+      "month": 9,
+      "day": 30
+    },
+    "endDate": {
+      "year": 2014,
+      "month": 9,
+      "day": 30
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103374-qEgYfRfmjVQR.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx103374-qEgYfRfmjVQR.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx103374-qEgYfRfmjVQR.jpg",
+      "color": "#f15d86"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [],
+    "averageScore": 40,
+    "meanScore": 40,
+    "popularity": 479,
+    "trending": 1,
+    "favourites": 2,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": null,
+    "trailer": {
+      "id": "VI2fvMq6Knw",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/VI2fvMq6Knw/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787374894,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 526364,
+    "idShikimori": 31501
+  },
+  "103370": {
+    "id": 103370,
+    "idMal": 30860,
+    "title": {
+      "romaji": "Koumon-teki Juuku Ketsujiru Juke",
+      "english": "Anal Juke: Anal Juice",
+      "native": "肛門的重苦 Ketsujiru Juke"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "After breaking up with my ex-boyfriend, I was heartbroken but I had to think about the theme for my next animation film. Just then I had a dream of this ex-boyfriend. This animation film is based on that dream.\n<br><br>\nIn Japan, on 11th March 2011, we had great earthquakes and aftershocks followed over and over. And not only earthquakes but also how to face the nuclear power is one of the hottest issues in our country. I think that dream  is the mixture of this charged atmosphere of Japan and my heartbreaking depression. So I \"re-mixed\" what I had in my head.  <br>\nBy the way, he used to like enema. So in this song, the word of \"ass\" and its related words are fluttering. All of these are linked to the memories of him so I decided to use this song. In that dream the face of my ex-boyfriend was not clear, so in this animation, his face is drawn just like \"ass\".。\n<br><br>\n(Source: Official Youtube Channel)",
+    "episodes": 1,
+    "duration": 3,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2013,
+      "month": 4,
+      "day": 23
+    },
+    "endDate": {
+      "year": 2013,
+      "month": 4,
+      "day": 23
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103370-lm3YmnlR9a5F.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103370-lm3YmnlR9a5F.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/103370-lm3YmnlR9a5F.jpg",
+      "color": "#fef10d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [],
+    "averageScore": 30,
+    "meanScore": 29,
+    "popularity": 733,
+    "trending": 1,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "oOa3skIlBIc",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/oOa3skIlBIc/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 50,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787374882,
+    "idTmdb": 261232,
+    "idImdb": "tt3375428",
+    "idTvdb": null,
+    "idTrakt": 160252,
+    "traktSlug": "anal-juice-2013",
+    "idSimkl": 526662,
+    "idShikimori": 30860
+  },
+  "103369": {
+    "id": 103369,
+    "idMal": 31685,
+    "title": {
+      "romaji": "Okaa-san ni Naisho",
+      "english": "Don't tell Mom",
+      "native": "おかあさんにないしょ"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "A nocturnal education film, designed to help children develop their emotions and expressions as well as language and physical skills by enjoying singing and exercising with a big brother. \n<br><br>\n(Source: Official Youtube Channel)",
+    "episodes": 1,
+    "duration": 3,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2015,
+      "month": 3,
+      "day": 15
+    },
+    "endDate": {
+      "year": 2015,
+      "month": 3,
+      "day": 15
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103369-1D92mFbYxsTe.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103369-1D92mFbYxsTe.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/103369-1D92mFbYxsTe.jpg",
+      "color": "#f1ae0d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Music"
+    ],
+    "synonyms": [],
+    "averageScore": 35,
+    "meanScore": 34,
+    "popularity": 722,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "p2i574dM_kI",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/p2i574dM_kI/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 131,
+        "name": "Masturbation",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 140,
+        "name": "Educational",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1742,
+        "name": "Mixed Media",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 246,
+        "name": "Bondage",
+        "rank": 50,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787374877,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 526362,
+    "idShikimori": 31685
   }
 }

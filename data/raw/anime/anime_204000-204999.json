@@ -319,7 +319,7 @@
     "averageScore": 76,
     "meanScore": 77,
     "popularity": 20423,
-    "trending": 0,
+    "trending": 1,
     "favourites": 386,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -683,7 +683,7 @@
         }
       ]
     },
-    "updatedAt": 1787371321,
+    "updatedAt": 1787374891,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -735,7 +735,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 37815,
-    "trending": 1,
+    "trending": 3,
     "favourites": 784,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1121,7 +1121,7 @@
         }
       ]
     },
-    "updatedAt": 1787360539,
+    "updatedAt": 1787374827,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1173,7 +1173,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 13551,
-    "trending": 0,
+    "trending": 2,
     "favourites": 125,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1330,7 +1330,7 @@
         }
       ]
     },
-    "updatedAt": 1787365310,
+    "updatedAt": 1787374888,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2001,7 +2001,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3356,
-    "trending": 0,
+    "trending": 2,
     "favourites": 30,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2026,7 +2026,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788606000,
-      "timeUntilAiring": 1233467,
+      "timeUntilAiring": 1229942,
       "episode": 1
     },
     "relations": {
@@ -2102,7 +2102,7 @@
         }
       ]
     },
-    "updatedAt": 1787371321,
+    "updatedAt": 1787374804,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2157,7 +2157,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 27796,
-    "trending": 0,
+    "trending": 2,
     "favourites": 277,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2191,7 +2191,13 @@
               "romaji": "Chainsaw Man",
               "english": "Chainsaw Man"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx105778-euxXZEIfDY2u.png"
+            }
           }
         },
         {
@@ -2202,7 +2208,13 @@
               "romaji": "Chainsaw Man: Reze-hen",
               "english": "Chainsaw Man – The Movie: Reze Arc"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171627-ZN9D7P46yHnw.png"
+            }
           }
         }
       ]
@@ -2504,7 +2516,7 @@
         }
       ]
     },
-    "updatedAt": 1787357390,
+    "updatedAt": 1787374902,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2870,7 +2882,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 7904,
-    "trending": 1,
+    "trending": 2,
     "favourites": 91,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3176,7 +3188,7 @@
         }
       ]
     },
-    "updatedAt": 1787371309,
+    "updatedAt": 1787374873,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3754,7 +3766,7 @@
     "averageScore": 60,
     "meanScore": 72,
     "popularity": 831,
-    "trending": 3,
+    "trending": 1,
     "favourites": 21,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3794,7 +3806,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787698800,
-      "timeUntilAiring": 346954,
+      "timeUntilAiring": 322849,
       "episode": 34
     },
     "relations": {
@@ -3960,7 +3972,14 @@
         }
       ]
     },
-    "updatedAt": 1787349670
+    "updatedAt": 1787374868,
+    "idTmdb": 308934,
+    "idImdb": null,
+    "idTvdb": 472627,
+    "idTrakt": 311697,
+    "traktSlug": "mofusand-the-animation",
+    "idSimkl": 2972426,
+    "idShikimori": 63151
   },
   "204060": {
     "id": 204060,
@@ -4005,7 +4024,7 @@
     "averageScore": 70,
     "meanScore": 72,
     "popularity": 9583,
-    "trending": 2,
+    "trending": 9,
     "favourites": 97,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4035,7 +4054,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787473800,
-      "timeUntilAiring": 101147,
+      "timeUntilAiring": 97747,
       "episode": 8
     },
     "relations": {
@@ -4364,7 +4383,7 @@
         }
       ]
     },
-    "updatedAt": 1787371256,
+    "updatedAt": 1787374809,
     "idTmdb": 308403,
     "idImdb": "tt42963873",
     "idTvdb": 471657,
@@ -4852,7 +4871,7 @@
     "averageScore": 75,
     "meanScore": 76,
     "popularity": 35357,
-    "trending": 63,
+    "trending": 73,
     "favourites": 588,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4892,7 +4911,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787848080,
-      "timeUntilAiring": 475393,
+      "timeUntilAiring": 472027,
       "episode": 9
     },
     "relations": {
@@ -5311,7 +5330,7 @@
         }
       ]
     },
-    "updatedAt": 1787371237,
+    "updatedAt": 1787374807,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
