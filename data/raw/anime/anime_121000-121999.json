@@ -1712,7 +1712,7 @@
     "averageScore": 79,
     "meanScore": 80,
     "popularity": 59548,
-    "trending": 1,
+    "trending": 3,
     "favourites": 1259,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2459,7 +2459,7 @@
         }
       ]
     },
-    "updatedAt": 1787404657,
+    "updatedAt": 1787414503,
     "idTmdb": 91768,
     "idImdb": "tt10885406",
     "idTvdb": 366263,
@@ -7236,5 +7236,242 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": null
+  },
+  "121215": {
+    "id": 121215,
+    "idMal": 41920,
+    "title": {
+      "romaji": "Dahua: Shaonian You",
+      "english": "Big Talk Youth Tour",
+      "native": "大话之少年游"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "It tells the story of the protagonist of the game, Xiaoyaosheng, a swordsman who first entered Chang'an, saw a rough road, and was involved in the biggest dispute in the rivers and lakes-the battle between immortals and demons. Behind this battle, there seems to be a mysterious force.\n<br><br>\n(Source: Youku TV)\n\n",
+    "episodes": 16,
+    "duration": 18,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2020,
+      "month": 8,
+      "day": 15
+    },
+    "endDate": {
+      "year": 2020,
+      "month": 11,
+      "day": 14
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121215-cgBBv9wxRdAJ.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121215-cgBBv9wxRdAJ.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx121215-cgBBv9wxRdAJ.png",
+      "color": "#e46b50"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Westward Juvenile Journey",
+      "Dahua Zhi Shaonian You ",
+      "Da Hua: Shao Nian You"
+    ],
+    "averageScore": null,
+    "meanScore": 57,
+    "popularity": 226,
+    "trending": 1,
+    "favourites": 4,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "VIDEO_GAME",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.bilibili.com/bangumi/media/md103892",
+        "site": "Bilibili",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://weibo.com/u/6625108278",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.youku.tv/v/v_show/id_XNTkyMTc2Mzk4MA==.html?spm=a2hcb.12701310.app.5~5!3~5!3~5~5~5!27~5~5~5!2~5~A&s=fbad6dd78ac34d30b734",
+        "site": "Youku TV",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://v.youku.com/v_show/id_XNDc5Nzg3ODk5Ng==.html",
+        "site": "Youku",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://v.qq.com/x/cover/mzc00200bcfea29/h0034zefhb5.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.iqiyi.com/a_19rrhwfny5.html",
+        "site": "iQIYI",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6505,
+            "name": "DC Impression Vision"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6395,
+            "name": "NetEase"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 245085,
+            "name": {
+              "full": "Yaosheng Xiao",
+              "native": "逍遥生"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 245086,
+            "name": {
+              "full": "Meiren Hu",
+              "native": "狐美人"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 245087,
+            "name": {
+              "full": "Xiake Jian",
+              "native": "剑侠客"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 245088,
+            "name": {
+              "full": "Jingling Gu",
+              "native": "骨精灵"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 245089,
+            "name": {
+              "full": "Touguai Hu",
+              "native": "虎头怪"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 245090,
+            "name": {
+              "full": "Tianmo Ni",
+              "native": "逆天魔"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 245091,
+            "name": {
+              "full": "Linghu Mei",
+              "native": "媚灵狐"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 245092,
+            "name": {
+              "full": "Lie Hunying",
+              "native": "猎魂影"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 245093,
+            "name": {
+              "full": "Xiaolie",
+              "native": "小猎"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 245094,
+            "name": {
+              "full": "Jiane Xuan",
+              "native": "玄剑娥"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787414550,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 1447985,
+    "idShikimori": 41920
   }
 }

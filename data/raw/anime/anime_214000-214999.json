@@ -41,7 +41,7 @@
     "averageScore": 76,
     "meanScore": 78,
     "popularity": 8129,
-    "trending": 3,
+    "trending": 1,
     "favourites": 70,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -262,7 +262,7 @@
         }
       ]
     },
-    "updatedAt": 1787411029,
+    "updatedAt": 1787414691,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1719,7 +1719,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 2389,
-    "trending": 2,
+    "trending": 0,
     "favourites": 43,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1805,7 +1805,7 @@
         }
       ]
     },
-    "updatedAt": 1787411183,
+    "updatedAt": 1787414716,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2155,7 +2155,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3701,
-    "trending": 2,
+    "trending": 0,
     "favourites": 36,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2292,7 +2292,7 @@
         }
       ]
     },
-    "updatedAt": 1787411116,
+    "updatedAt": 1787414716,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3209,7 +3209,7 @@
     "averageScore": null,
     "meanScore": 76,
     "popularity": 267,
-    "trending": 5,
+    "trending": 2,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -3225,7 +3225,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787965200,
-      "timeUntilAiring": 553487,
+      "timeUntilAiring": 549465,
       "episode": 9
     },
     "relations": {
@@ -3260,7 +3260,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787411033,
+    "updatedAt": 1787414553,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3724,7 +3724,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1162,
-    "trending": 0,
+    "trending": 1,
     "favourites": 6,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3791,7 +3791,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787389268,
+    "updatedAt": 1787414650,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4692,7 +4692,7 @@
     "averageScore": null,
     "meanScore": 30,
     "popularity": 335,
-    "trending": 1,
+    "trending": 0,
     "favourites": 3,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4767,7 +4767,7 @@
         }
       ]
     },
-    "updatedAt": 1787408186,
+    "updatedAt": 1787414716,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7327,7 +7327,7 @@
     "averageScore": 59,
     "meanScore": 73,
     "popularity": 218,
-    "trending": 1,
+    "trending": 0,
     "favourites": 8,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7409,7 +7409,7 @@
         }
       ]
     },
-    "updatedAt": 1787400040,
+    "updatedAt": 1787408191,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7542,5 +7542,98 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 64386
+  },
+  "214018": {
+    "id": 214018,
+    "idMal": null,
+    "title": {
+      "romaji": "JUNK END",
+      "english": null,
+      "native": "JUNK END"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "NOT_YET_RELEASED",
+    "description": "Final movie of the <i>JUNK</i> trilogy.<br>\nSet after the story in <i>JUNK HEAD</i>.\n<br><br>\n<i>Note: Title and relations are provisional and subject to change.</i>",
+    "episodes": 1,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/default.jpg",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 94,
+    "trending": 1,
+    "favourites": 2,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 140113,
+            "title": {
+              "romaji": "JUNK HEAD",
+              "english": "JUNK HEAD"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2017,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140113-OP80L0tn5JEM.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 323,
+        "name": "Stop Motion",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787414649,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }
