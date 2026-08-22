@@ -387,7 +387,14 @@
         }
       ]
     },
-    "updatedAt": 1787353285
+    "updatedAt": 1787353285,
+    "idTmdb": 288588,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2990960,
+    "idShikimori": 63292
   },
   "205130": {
     "id": 205130,
@@ -867,7 +874,14 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787353355
+    "updatedAt": 1787353355,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 63212
   },
   "205905": {
     "id": 205905,
@@ -1056,7 +1070,7 @@
     "meanScore": null,
     "popularity": 14044,
     "trending": 3,
-    "favourites": 181,
+    "favourites": 182,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -1085,7 +1099,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791556200,
-      "timeUntilAiring": 4201490,
+      "timeUntilAiring": 4196311,
       "episode": 1
     },
     "relations": {
@@ -1269,7 +1283,14 @@
         }
       ]
     },
-    "updatedAt": 1787353257
+    "updatedAt": 1787357394,
+    "idTmdb": 320909,
+    "idImdb": "tt39394153",
+    "idTvdb": 472641,
+    "idTrakt": 319695,
+    "traktSlug": "firefly-wedding",
+    "idSimkl": null,
+    "idShikimori": 63293
   },
   "205772": {
     "id": 205772,
@@ -1629,7 +1650,7 @@
     "averageScore": null,
     "meanScore": 69,
     "popularity": 124,
-    "trending": 1,
+    "trending": 0,
     "favourites": 3,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1748,7 +1769,14 @@
         }
       ]
     },
-    "updatedAt": 1787349739
+    "updatedAt": 1787353355,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 63548
   },
   "205444": {
     "id": 205444,
@@ -1964,6 +1992,176 @@
         }
       ]
     },
-    "updatedAt": 1787353249
+    "updatedAt": 1787353249,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2985080,
+    "idShikimori": 63253
+  },
+  "205375": {
+    "id": 205375,
+    "idMal": 63235,
+    "title": {
+      "romaji": "Long Zu 3",
+      "english": null,
+      "native": "龍族Ⅲ 黑月之潮"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "NOT_YET_RELEASED",
+    "description": "Third season of <i>Long Zu</i>.",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2028,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205375-ZMmjcJPs82rw.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205375-ZMmjcJPs82rw.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205375-ZMmjcJPs82rw.png",
+      "color": "#e46b35"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Dragon Raja 3",
+      "Ryuuzoku III: The Tide of Dark Moon",
+      "龍族Ⅲ ：The Tide of Dark Moon",
+      "Long Zu III: Hei Yue Zhi Chao",
+      "Dragon Raja III: The Tide of Dark Moon"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 1863,
+    "trending": 0,
+    "favourites": 25,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://weibo.com/u/7484234692",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://v.qq.com/x/cover/mzc00200iiosd7s/h41016inay0.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://x.com/ryuzoku_jp",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://ryuzoku-anime.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 157692,
+            "title": {
+              "romaji": "Long Zu 2",
+              "english": "Dragon Raja II -The Mourner's Eyes-"
+            },
+            "type": "ANIME"
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 154298,
+            "title": {
+              "romaji": "Long Zu III",
+              "english": null
+            },
+            "type": "MANGA"
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6546,
+            "name": "GARDEN"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 271923,
+            "name": {
+              "full": "Mingfei Lu",
+              "native": "路明非"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 271919,
+            "name": {
+              "full": "Zihang Chu",
+              "native": "楚子航"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 271921,
+            "name": {
+              "full": "Caesare Gattuso",
+              "native": "恺撒·加图索"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787357393,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 63235
   }
 }
