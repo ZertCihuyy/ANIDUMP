@@ -45,7 +45,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 35988,
-    "trending": 1,
+    "trending": 0,
     "favourites": 487,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -551,7 +551,7 @@
         }
       ]
     },
-    "updatedAt": 1787374890,
+    "updatedAt": 1787382097,
     "idTmdb": 229609,
     "idImdb": "tt28102247",
     "idTvdb": 426703,
@@ -1949,7 +1949,13 @@
               "romaji": "Sword Art Online: Alicization - War of Underworld Part 2",
               "english": "Sword Art Online: Alicization - War of Underworld Part 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2020,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx114308-8UBiS7U9buzu.jpg"
+            }
           }
         }
       ]
@@ -2047,7 +2053,14 @@
         }
       ]
     },
-    "updatedAt": 1787349688
+    "updatedAt": 1787382083,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2029378,
+    "idShikimori": 53529
   },
   "156092": {
     "id": 156092,
@@ -2096,7 +2109,7 @@
     "averageScore": 85,
     "meanScore": 85,
     "popularity": 124857,
-    "trending": 7,
+    "trending": 3,
     "favourites": 6114,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -2784,7 +2797,7 @@
         }
       ]
     },
-    "updatedAt": 1787374831,
+    "updatedAt": 1787382046,
     "idTmdb": 272059,
     "idImdb": "tt23139038",
     "idTvdb": 459453,
@@ -2843,7 +2856,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 118117,
-    "trending": 5,
+    "trending": 7,
     "favourites": 3622,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3267,7 +3280,7 @@
         }
       ]
     },
-    "updatedAt": 1787378463,
+    "updatedAt": 1787382017,
     "idTmdb": 213402,
     "idImdb": "tt24229160",
     "idTvdb": 426572,
@@ -3325,7 +3338,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 59715,
-    "trending": 3,
+    "trending": 1,
     "favourites": 839,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3861,7 +3874,7 @@
         }
       ]
     },
-    "updatedAt": 1787378462,
+    "updatedAt": 1787382090,
     "idTmdb": 113256,
     "idImdb": "tt13483212",
     "idTvdb": 400573,
@@ -3915,7 +3928,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 29932,
-    "trending": 2,
+    "trending": 1,
     "favourites": 786,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4385,7 +4398,7 @@
         }
       ]
     },
-    "updatedAt": 1787378487,
+    "updatedAt": 1787382061,
     "idTmdb": 77694,
     "idImdb": "tt8253268",
     "idTvdb": 344220,
@@ -4442,7 +4455,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 183912,
-    "trending": 14,
+    "trending": 22,
     "favourites": 4995,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5188,7 +5201,7 @@
         }
       ]
     },
-    "updatedAt": 1787378452,
+    "updatedAt": 1787382013,
     "idTmdb": 82684,
     "idImdb": "tt9054364",
     "idTvdb": 352408,
@@ -6058,7 +6071,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 99063,
-    "trending": 1,
+    "trending": 3,
     "favourites": 2060,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6602,7 +6615,7 @@
         }
       ]
     },
-    "updatedAt": 1787371279,
+    "updatedAt": 1787378457,
     "idTmdb": 213331,
     "idImdb": "tt28685497",
     "idTvdb": 426530,
@@ -6979,7 +6992,7 @@
     "averageScore": 75,
     "meanScore": 75,
     "popularity": 27752,
-    "trending": 2,
+    "trending": 1,
     "favourites": 497,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -7338,7 +7351,7 @@
         }
       ]
     },
-    "updatedAt": 1787371270,
+    "updatedAt": 1787382087,
     "idTmdb": 98123,
     "idImdb": "tt11755260",
     "idTvdb": 376751,
@@ -8488,7 +8501,7 @@
         }
       ]
     },
-    "updatedAt": 1787364052,
+    "updatedAt": 1787382090,
     "idTmdb": 213424,
     "idImdb": "tt28689252",
     "idTvdb": 437544,
@@ -9498,5 +9511,266 @@
     "traktSlug": "detective-conan-black-iron-submarine-2023",
     "idSimkl": 1895632,
     "idShikimori": 53540
+  },
+  "156053": {
+    "id": 156053,
+    "idMal": 55374,
+    "title": {
+      "romaji": "Kuroko no Basket: Zero Step",
+      "english": null,
+      "native": "黒子のバスケ「ゼロステップ」"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "A short music video made for the project to commemorate the 10th anniversary of the <i>Kuroko no Basket</i> anime. Directed and storyboarded by Shunsuke Tada, the animation is accompanied by the song <i>Zero Step</i> by GRANRODEO featuring Kenshou Ono.<br><br>\n\n<i>Note: A ~2-min short version of the music video was uploaded onto YouTube on October 28, 2022. The full version was released in theaters alongside 4D screenings of the \"Kuroko no Basket: Last Game\" film on January 20, 2023.",
+    "episodes": 1,
+    "duration": 5,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2023,
+      "month": 1,
+      "day": 20
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 1,
+      "day": 20
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156053-z7xvJnGApxhx.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx156053-z7xvJnGApxhx.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx156053-z7xvJnGApxhx.png",
+      "color": "#e47843"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Sports"
+    ],
+    "synonyms": [
+      "The Basketball Which Kuroko Plays. 10th Anniversary",
+      "黒子のバスケ アニメ10周年記念",
+      "黒子のバスケ アニバーサリーソング「ゼロステップ」",
+      "Kuroko no Basket 10th Anniversary Song: Zero Step",
+      "Kuroko's Basketball 10th Anniversary Song: Zero Step"
+    ],
+    "averageScore": 67,
+    "meanScore": 71,
+    "popularity": 1612,
+    "trending": 1,
+    "favourites": 19,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "8gNSQm_USp0",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/8gNSQm_USp0/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=8gNSQm_USp0",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "http://www.kurobas.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/kurobasanime/",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 11771,
+            "title": {
+              "romaji": "Kuroko no Basket",
+              "english": "Kuroko's Basketball"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2012,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11771-uvr44RAwRxPw.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 21377,
+            "title": {
+              "romaji": "Kuroko no Basket: Last Game",
+              "english": "Kuroko's Basketball: Last Game"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2017,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21377-oRcPPiQ1btPZ.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 192,
+        "name": "Basketball",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1674,
+        "name": "Rock Music",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 10,
+            "name": "Production I.G"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 18769,
+            "name": {
+              "full": "Tetsuya Kuroko",
+              "native": "黒子テツヤ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 18770,
+            "name": {
+              "full": "Taiga Kagami",
+              "native": "火神大我"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 21331,
+            "name": {
+              "full": "Riko Aida",
+              "native": "相田リコ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 21332,
+            "name": {
+              "full": "Ryouta Kise",
+              "native": "黄瀬涼太"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 22251,
+            "name": {
+              "full": "Shun Izuki",
+              "native": "伊月俊"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 22253,
+            "name": {
+              "full": "Shintarou Midorima",
+              "native": "緑間真太郎"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 22254,
+            "name": {
+              "full": "Junpei Hyuuga",
+              "native": "日向順平"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 36820,
+            "name": {
+              "full": "Daiki Aomine",
+              "native": "青峰大輝"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 36821,
+            "name": {
+              "full": "Satsuki Momoi",
+              "native": "桃井さつき"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 36976,
+            "name": {
+              "full": "Atsushi Murasakibara",
+              "native": "紫原敦"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787382043,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 55374
   }
 }

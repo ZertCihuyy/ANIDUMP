@@ -43,7 +43,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 64902,
-    "trending": 3,
+    "trending": 2,
     "favourites": 1191,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -456,7 +456,7 @@
         }
       ]
     },
-    "updatedAt": 1787374905,
+    "updatedAt": 1787382012,
     "idTmdb": 206324,
     "idImdb": "tt21342052",
     "idTvdb": 422564,
@@ -509,7 +509,7 @@
     "averageScore": 75,
     "meanScore": 75,
     "popularity": 68122,
-    "trending": 1,
+    "trending": 3,
     "favourites": 1735,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1079,7 +1079,7 @@
         }
       ]
     },
-    "updatedAt": 1787378520,
+    "updatedAt": 1787382022,
     "idTmdb": 206799,
     "idImdb": "tt21844490",
     "idTvdb": 422090,
@@ -1136,7 +1136,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 42234,
-    "trending": 1,
+    "trending": 0,
     "favourites": 651,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1708,7 +1708,7 @@
         }
       ]
     },
-    "updatedAt": 1787378447,
+    "updatedAt": 1787382097,
     "idTmdb": 206630,
     "idImdb": "tt27524116",
     "idTvdb": 422728,
@@ -1767,7 +1767,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 18667,
-    "trending": 2,
+    "trending": 0,
     "favourites": 248,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2048,7 +2048,7 @@
         }
       ]
     },
-    "updatedAt": 1787378465,
+    "updatedAt": 1787382097,
     "idTmdb": 117061,
     "idImdb": "tt13884052",
     "idTvdb": 397197,
@@ -2675,7 +2675,7 @@
     "averageScore": 72,
     "meanScore": 73,
     "popularity": 80693,
-    "trending": 4,
+    "trending": 5,
     "favourites": 1899,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3167,7 +3167,7 @@
         }
       ]
     },
-    "updatedAt": 1787378425,
+    "updatedAt": 1787382034,
     "idTmdb": 206629,
     "idImdb": "tt21975478",
     "idTvdb": 422721,
@@ -3223,7 +3223,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 92982,
-    "trending": 2,
+    "trending": 3,
     "favourites": 1828,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3701,7 +3701,7 @@
         }
       ]
     },
-    "updatedAt": 1787374821,
+    "updatedAt": 1787382064,
     "idTmdb": 205743,
     "idImdb": "tt31186547",
     "idTvdb": 422250,
@@ -3754,7 +3754,7 @@
     "averageScore": 53,
     "meanScore": 53,
     "popularity": 7749,
-    "trending": 0,
+    "trending": 1,
     "favourites": 94,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3876,7 +3876,13 @@
               "romaji": "HIGHSPEED Étoile: L'Entrée de Towa et Kanata",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx170309-29BbrRj5bifI.jpg"
+            }
           }
         },
         {
@@ -3887,7 +3893,13 @@
               "romaji": "Haisupi!",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx172678-79KRGNn1iLR3.jpg"
+            }
           }
         },
         {
@@ -3898,7 +3910,13 @@
               "romaji": "HIGHSPEED Étoile: pit in♪",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx184270-gbJDZEtDNan6.jpg"
+            }
           }
         },
         {
@@ -3909,7 +3927,13 @@
               "romaji": "HIGHSPEED Étoile New Anime Project (Provisional Title)",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188005-lKuhs4XL3VJP.png"
+            }
           }
         }
       ]
@@ -4203,7 +4227,14 @@
         }
       ]
     },
-    "updatedAt": 1787345811
+    "updatedAt": 1787382047,
+    "idTmdb": 206033,
+    "idImdb": "tt31811111",
+    "idTvdb": 422432,
+    "idTrakt": 200968,
+    "traktSlug": "highspeed-etoile",
+    "idSimkl": 1952982,
+    "idShikimori": 52405
   },
   "152184": {
     "id": 152184,
@@ -5729,7 +5760,7 @@
     "averageScore": 78,
     "meanScore": 79,
     "popularity": 4264,
-    "trending": 1,
+    "trending": 0,
     "favourites": 113,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5862,7 +5893,7 @@
         }
       ]
     },
-    "updatedAt": 1787378527,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

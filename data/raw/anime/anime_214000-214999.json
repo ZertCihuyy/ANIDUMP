@@ -314,7 +314,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1530,
-    "trending": 1,
+    "trending": 0,
     "favourites": 7,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -445,7 +445,7 @@
         }
       ]
     },
-    "updatedAt": 1787378511,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -666,7 +666,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 550,
-    "trending": 1,
+    "trending": 0,
     "favourites": 2,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -790,7 +790,7 @@
         }
       ]
     },
-    "updatedAt": 1787378519,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1500,7 +1500,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 5193,
-    "trending": 0,
+    "trending": 1,
     "favourites": 56,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1657,7 +1657,7 @@
         }
       ]
     },
-    "updatedAt": 1787374914,
+    "updatedAt": 1787382072,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2828,7 +2828,7 @@
     "averageScore": 62,
     "meanScore": 66,
     "popularity": 1468,
-    "trending": 0,
+    "trending": 1,
     "favourites": 17,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3064,7 +3064,7 @@
         }
       ]
     },
-    "updatedAt": 1787374914,
+    "updatedAt": 1787382076,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3213,7 +3213,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787965200,
-      "timeUntilAiring": 585367,
+      "timeUntilAiring": 581513,
       "episode": 9
     },
     "relations": {
@@ -3831,7 +3831,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1950,
-    "trending": 1,
+    "trending": 2,
     "favourites": 31,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3948,7 +3948,7 @@
         }
       ]
     },
-    "updatedAt": 1787374910,
+    "updatedAt": 1787382057,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3956,5 +3956,152 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 64599
+  },
+  "214559": {
+    "id": 214559,
+    "idMal": null,
+    "title": {
+      "romaji": "BooooM!!!",
+      "english": null,
+      "native": "BooooM!!!"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video directed by Mizumi for the song <i>BooooM!!!</i> by Houshou Marine.<br><br>\n<i>Note: The song featured in this music video also serves as the ending song in the second season of the anime Kabushiki Gaisha Magi Lumiere.</i>",
+    "episodes": 1,
+    "duration": 3,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 30
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 30
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214559-IBSQAPAnqKQS.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214559-IBSQAPAnqKQS.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214559-IBSQAPAnqKQS.jpg",
+      "color": "#e41a35"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [],
+    "averageScore": 63,
+    "meanScore": 75,
+    "popularity": 274,
+    "trending": 1,
+    "favourites": 7,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "zfYGdSqliRU",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/zfYGdSqliRU/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 118123,
+            "title": {
+              "romaji": "Holo no Graffiti",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "SPRING",
+            "seasonYear": 2019,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118123-xqn5fYsjKXJU.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 185692,
+            "title": {
+              "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+              "english": "Magilumiere Magical Girls Inc. Season 2"
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "SUMMER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185692-1a8huwOIx7gw.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1047,
+        "name": "VTuber",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6450,
+            "name": "Cover Corp"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 7849,
+            "name": "bees inc."
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 169489,
+            "name": {
+              "full": "Marine Houshou",
+              "native": "宝鐘マリン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 197904,
+              "name": {
+                "full": "Marine Houshou",
+                "native": "宝鐘マリン"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787382041,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 64711
   }
 }

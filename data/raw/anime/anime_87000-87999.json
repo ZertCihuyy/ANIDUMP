@@ -4000,7 +4000,7 @@
     "averageScore": 66,
     "meanScore": 67,
     "popularity": 8315,
-    "trending": 0,
+    "trending": 1,
     "favourites": 78,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4393,7 +4393,7 @@
         }
       ]
     },
-    "updatedAt": 1787371321,
+    "updatedAt": 1787382066,
     "idTmdb": 34660,
     "idImdb": "tt0111056",
     "idTvdb": 80587,
@@ -6332,5 +6332,374 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 33491
+  },
+  "87528": {
+    "id": 87528,
+    "idMal": 33950,
+    "title": {
+      "romaji": "Black Clover: Jump Festa 2016 Special",
+      "english": "Black Clover: Jump Festa 2016 Special",
+      "native": "ブラッククローバー"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "<i>Black Clover</i> OVA that aired at the Jump Special Anime Festa. \n<br><br>\n<i>\nNote: It was later bundled with the 11th manga volume.\n</i>",
+    "episodes": 1,
+    "duration": 27,
+    "season": "FALL",
+    "seasonYear": 2016,
+    "startDate": {
+      "year": 2016,
+      "month": 11,
+      "day": 27
+    },
+    "endDate": {
+      "year": 2016,
+      "month": 11,
+      "day": 27
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87528-parADBBGJOVP.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87528-parADBBGJOVP.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx87528-parADBBGJOVP.png",
+      "color": "#e4935d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "synonyms": [],
+    "averageScore": 63,
+    "meanScore": 63,
+    "popularity": 11879,
+    "trending": 1,
+    "favourites": 87,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "http://www.jumpfesta.com/anime/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 86123,
+            "title": {
+              "romaji": "Black Clover",
+              "english": "Black Clover"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx86123-Ill8uBdtvWrR.png"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 97940,
+            "title": {
+              "romaji": "Black Clover",
+              "english": "Black Clover"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2017,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx97940-fyh8o7gNbha0.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1752,
+        "name": "Medieval",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 250,
+        "name": "Rural",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 27,
+            "name": "Xebec"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 898,
+            "name": "Xebec Zwei"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6570,
+            "name": "Shueisha"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 36309,
+            "name": {
+              "full": "Narrator",
+              "native": "ナレーター"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95357,
+              "name": {
+                "full": "Unshou Ishizuka",
+                "native": "石塚運昇"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 123284,
+            "name": {
+              "full": "Yuno",
+              "native": "ユノ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105071,
+              "name": {
+                "full": "Mikako Komatsu",
+                "native": "小松未可子"
+              }
+            },
+            {
+              "id": 113227,
+              "name": {
+                "full": "Souma Saitou",
+                "native": "斉藤壮馬"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 123285,
+            "name": {
+              "full": "Asta",
+              "native": "アスタ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119740,
+              "name": {
+                "full": "Natsumi Fujiwara",
+                "native": "藤原夏海"
+              }
+            },
+            {
+              "id": 119869,
+              "name": {
+                "full": "Shun Horie",
+                "native": "堀江瞬"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 124443,
+            "name": {
+              "full": "Lily Aquaria",
+              "native": "リリー・アクアリア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105765,
+              "name": {
+                "full": "Ai Kayano",
+                "native": "茅野愛衣"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 124462,
+            "name": {
+              "full": "Mars",
+              "native": "マルス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 115156,
+              "name": {
+                "full": "Kaito Ishikawa",
+                "native": "石川界人"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 124463,
+            "name": {
+              "full": "Revchi Salik",
+              "native": "レブチ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96538,
+              "name": {
+                "full": "Yutaka Aoyama",
+                "native": "青山穣"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 124682,
+            "name": {
+              "full": "Orsi Ofai",
+              "native": "オルジ・オーファイ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95926,
+              "name": {
+                "full": "Youji Ueda",
+                "native": "上田燿司"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 125028,
+            "name": {
+              "full": "Recca",
+              "native": "レッカ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102489,
+              "name": {
+                "full": "Asuka Oogame",
+                "native": "大亀あすか"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 125029,
+            "name": {
+              "full": "Nash",
+              "native": "ナッシュ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118738,
+              "name": {
+                "full": "Shizuka Ishigami",
+                "native": "石上静香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 125036,
+            "name": {
+              "full": "Aruru",
+              "native": "アルル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107490,
+              "name": {
+                "full": "Nozomi Yamamoto",
+                "native": "山本希望"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787382062,
+    "idTmdb": 73223,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 611497,
+    "idShikimori": 33950
   }
 }

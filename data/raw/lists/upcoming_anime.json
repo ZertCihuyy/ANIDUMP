@@ -391,7 +391,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 9712,
-    "trending": 1,
+    "trending": 0,
     "favourites": 141,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -509,7 +509,7 @@
         }
       ]
     },
-    "updatedAt": 1787374892,
+    "updatedAt": 1787378531,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -517,6 +517,154 @@
     "traktSlug": null,
     "idSimkl": 2114822,
     "idShikimori": 54687
+  },
+  {
+    "id": 165831,
+    "idMal": 55571,
+    "title": {
+      "romaji": "Macross (Shinsaku Animation)",
+      "english": null,
+      "native": "マクロス (新作アニメーション)"
+    },
+    "type": "ANIME",
+    "format": null,
+    "status": "NOT_YET_RELEASED",
+    "description": "Announced on the final day of the \"Walküre FINAL LIVE TOUR 2023 ~Last Mission~\" concert, a new animation project for the  <i>Macross</i> franchise.\n<br><br>\n<i>Note: Title and Relations are provisional and will be updated when more info is announced.</i>",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165831-qAHVEXqUGfME.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b165831-qAHVEXqUGfME.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b165831-qAHVEXqUGfME.jpg",
+      "color": "#f15d6b"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 1006,
+    "trending": 1,
+    "favourites": 5,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://macross.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/macrossD",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://twitter.com/MACROSS_BIGWEST",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 1088,
+            "title": {
+              "romaji": "Choujikuu Yousai Macross",
+              "english": "Macross"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 1982,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1088-b2eAPvA5zmmi.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 118126,
+            "title": {
+              "romaji": "Macross Δ: Zettai LIVE!!!!!!",
+              "english": "Macross Delta: Zettai Live!!!!!!"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2021,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118126-kcHtcMuSH3P6.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 162,
+        "name": "Space Opera",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 34,
+        "name": "Military",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 139,
+        "name": "Love Triangle",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 14,
+            "name": "Sunrise"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787382036,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 655627,
+    "idShikimori": 55571
   },
   {
     "id": 155737,
@@ -656,7 +804,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1530,
-    "trending": 1,
+    "trending": 0,
     "favourites": 7,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -787,7 +935,7 @@
         }
       ]
     },
-    "updatedAt": 1787378511,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1008,7 +1156,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 550,
-    "trending": 1,
+    "trending": 0,
     "favourites": 2,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1132,7 +1280,7 @@
         }
       ]
     },
-    "updatedAt": 1787378519,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1842,7 +1990,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 5193,
-    "trending": 0,
+    "trending": 1,
     "favourites": 56,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1999,7 +2147,7 @@
         }
       ]
     },
-    "updatedAt": 1787374914,
+    "updatedAt": 1787382072,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2971,7 +3119,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1950,
-    "trending": 1,
+    "trending": 2,
     "favourites": 31,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3088,7 +3236,7 @@
         }
       ]
     },
-    "updatedAt": 1787374910,
+    "updatedAt": 1787382057,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3167,7 +3315,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1795100400,
-      "timeUntilAiring": 7720595,
+      "timeUntilAiring": 7716718,
       "episode": 1
     },
     "relations": {
@@ -3564,7 +3712,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 27302,
-    "trending": 0,
+    "trending": 2,
     "favourites": 521,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3829,7 +3977,7 @@
         }
       ]
     },
-    "updatedAt": 1787378531,
+    "updatedAt": 1787382051,
     "idTmdb": 320905,
     "idImdb": "tt42171190",
     "idTvdb": 457476,
@@ -4085,7 +4233,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 8530,
-    "trending": 1,
+    "trending": 0,
     "favourites": 111,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4173,7 +4321,7 @@
         }
       ]
     },
-    "updatedAt": 1787378517,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4431,7 +4579,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 2710,
-    "trending": 1,
+    "trending": 0,
     "favourites": 23,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4642,7 +4790,7 @@
         }
       ]
     },
-    "updatedAt": 1787374905,
+    "updatedAt": 1787378531,
     "idTmdb": 321518,
     "idImdb": null,
     "idTvdb": null,
@@ -5376,7 +5524,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1374,
-    "trending": 1,
+    "trending": 0,
     "favourites": 9,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5491,7 +5639,7 @@
         }
       ]
     },
-    "updatedAt": 1787374854,
+    "updatedAt": 1787378531,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6986,7 +7134,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 55746,
-    "trending": 6,
+    "trending": 5,
     "favourites": 1382,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7212,7 +7360,7 @@
         }
       ]
     },
-    "updatedAt": 1787374835,
+    "updatedAt": 1787382012,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7462,7 +7610,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 30818,
-    "trending": 2,
+    "trending": 1,
     "favourites": 343,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7643,7 +7791,7 @@
         }
       ]
     },
-    "updatedAt": 1787378476,
+    "updatedAt": 1787382009,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7693,7 +7841,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 62300,
-    "trending": 6,
+    "trending": 2,
     "favourites": 1067,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7723,7 +7871,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1790949600,
-      "timeUntilAiring": 3569779,
+      "timeUntilAiring": 3566131,
       "episode": 1
     },
     "relations": {
@@ -8084,7 +8232,7 @@
         }
       ]
     },
-    "updatedAt": 1787378441,
+    "updatedAt": 1787382066,
     "idTmdb": 220542,
     "idImdb": "tt26743760",
     "idTvdb": 431162,
@@ -8138,7 +8286,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 53968,
-    "trending": 15,
+    "trending": 6,
     "favourites": 622,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8335,7 +8483,7 @@
         }
       ]
     },
-    "updatedAt": 1787378439,
+    "updatedAt": 1787382025,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9079,7 +9227,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3475,
-    "trending": 1,
+    "trending": 0,
     "favourites": 45,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9235,7 +9383,7 @@
         }
       ]
     },
-    "updatedAt": 1787371300,
+    "updatedAt": 1787378531,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9380,6 +9528,151 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 63534
+  },
+  {
+    "id": 208369,
+    "idMal": 63573,
+    "title": {
+      "romaji": "Zeikin de Katta Hon",
+      "english": null,
+      "native": "税金で買った本"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "Ishidaira is a delinquent who visited the library for the first time since elementary school. But then, he was pointed out by Hayasameru and Shirai, who works at the library, that he has not returned a book that he borrowed ten years ago. A manga about how Ishidaira went from trying to borrow a book from a library to working there instead.\n<br><br>\n(Source: Kodansha, translated)",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208369-N2zCuaa5q0BB.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208369-N2zCuaa5q0BB.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx208369-N2zCuaa5q0BB.jpg",
+      "color": "#f1ae43"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "Books Bought With Tax",
+      "Racaille de bibliothèque",
+      "Taxpayer-Purchased Books"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 1496,
+    "trending": 0,
+    "favourites": 15,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 142165,
+            "title": {
+              "romaji": "Zeikin de Katta Hon",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx142165-M083rgaNaMZ8.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 145,
+        "name": "Work",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 395,
+        "name": "Delinquents",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 296280,
+            "name": {
+              "full": "Sayaka Hayasemaru",
+              "native": "早瀬丸小夜香"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 296283,
+            "name": {
+              "full": "Kiichi Ishidaira",
+              "native": "石平紀一"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 308163,
+            "name": {
+              "full": "Satoyuki Shirai",
+              "native": "白井里雪"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787378531,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 63573
   },
   {
     "id": 169579,
@@ -9686,7 +9979,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 4191,
-    "trending": 0,
+    "trending": 1,
     "favourites": 56,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9895,7 +10188,7 @@
         }
       ]
     },
-    "updatedAt": 1787374914,
+    "updatedAt": 1787382038,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9948,7 +10241,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 4602,
-    "trending": 1,
+    "trending": 0,
     "favourites": 23,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10127,7 +10420,7 @@
         }
       ]
     },
-    "updatedAt": 1787365302,
+    "updatedAt": 1787378531,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -10762,7 +11055,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3620,
-    "trending": 0,
+    "trending": 1,
     "favourites": 61,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10887,7 +11180,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787374914,
+    "updatedAt": 1787382047,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -11160,7 +11453,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 6776,
-    "trending": 0,
+    "trending": 1,
     "favourites": 116,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11466,7 +11759,7 @@
         }
       ]
     },
-    "updatedAt": 1787357371,
+    "updatedAt": 1787382076,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -11866,7 +12159,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 47051,
-    "trending": 1,
+    "trending": 0,
     "favourites": 716,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -12136,7 +12429,7 @@
         }
       ]
     },
-    "updatedAt": 1787378480,
+    "updatedAt": 1787382097,
     "idTmdb": 235758,
     "idImdb": "tt31131295",
     "idTvdb": 432531,
@@ -12189,7 +12482,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 16156,
-    "trending": 1,
+    "trending": 0,
     "favourites": 178,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -12388,7 +12681,7 @@
         }
       ]
     },
-    "updatedAt": 1787371276,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -14703,7 +14996,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 5543,
-    "trending": 1,
+    "trending": 0,
     "favourites": 46,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -15004,7 +15297,7 @@
         }
       ]
     },
-    "updatedAt": 1787378427,
+    "updatedAt": 1787382097,
     "idTmdb": 285899,
     "idImdb": "tt38939893",
     "idTvdb": 461059,
@@ -15401,7 +15694,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 8355,
-    "trending": 0,
+    "trending": 1,
     "favourites": 70,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -15649,7 +15942,7 @@
         }
       ]
     },
-    "updatedAt": 1787364123,
+    "updatedAt": 1787382025,
     "idTmdb": 283938,
     "idImdb": null,
     "idTvdb": null,
@@ -17812,7 +18105,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 8416,
-    "trending": 0,
+    "trending": 3,
     "favourites": 144,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -18073,7 +18366,7 @@
         }
       ]
     },
-    "updatedAt": 1787374914,
+    "updatedAt": 1787382053,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -18967,6 +19260,197 @@
     "idShikimori": 63381
   },
   {
+    "id": 206298,
+    "idMal": 63326,
+    "title": {
+      "romaji": "Medalist Movie",
+      "english": null,
+      "native": "劇場版 メダリスト"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "NOT_YET_RELEASED",
+    "description": "Sequel to <i>Medalist 2nd Season.</i>",
+    "episodes": 1,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206298-JlZmS2os2PQL.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206298-JlZmS2os2PQL.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206298-JlZmS2os2PQL.png",
+      "color": "#f15d78"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Sports"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 5127,
+    "trending": 1,
+    "favourites": 39,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "C8uDLOYMM5s",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/C8uDLOYMM5s/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://medalist-pr.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://x.com/medalist_PR",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 118371,
+            "title": {
+              "romaji": "Medalist",
+              "english": "Medalist"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx118371-3xk9VUbWnnRR.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 189275,
+            "title": {
+              "romaji": "Medalist 2nd Season",
+              "english": "Medalist Season 2"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189275-eHsK0lNnFfXH.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 228,
+        "name": "Ice Sports",
+        "rank": 86,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 76,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 102,
+        "name": "Coming of Age",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 264,
+        "name": "Athletics",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 197151,
+            "name": {
+              "full": "Inori Yuitsuka",
+              "native": "結束いのり"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 197163,
+            "name": {
+              "full": "Tsukasa Akeuraji",
+              "native": "明浦路司"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 197152,
+            "name": {
+              "full": "Hikaru Kamisaki",
+              "native": "狼嵜光"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787382054,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2996988,
+    "idShikimori": 63326
+  },
+  {
     "id": 10089,
     "idMal": null,
     "title": {
@@ -19638,7 +20122,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 24769,
-    "trending": 0,
+    "trending": 1,
     "favourites": 389,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -19941,7 +20425,7 @@
         }
       ]
     },
-    "updatedAt": 1787374914,
+    "updatedAt": 1787382056,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -20463,7 +20947,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 14257,
-    "trending": 1,
+    "trending": 0,
     "favourites": 82,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -20658,7 +21142,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787378487,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -20712,7 +21196,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 5130,
-    "trending": 0,
+    "trending": 1,
     "favourites": 48,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -20933,7 +21417,7 @@
         }
       ]
     },
-    "updatedAt": 1787371321,
+    "updatedAt": 1787382026,
     "idTmdb": 309176,
     "idImdb": null,
     "idTvdb": null,
@@ -20985,7 +21469,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 13551,
-    "trending": 2,
+    "trending": 0,
     "favourites": 125,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -21142,7 +21626,7 @@
         }
       ]
     },
-    "updatedAt": 1787374888,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -21192,7 +21676,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 20283,
-    "trending": 1,
+    "trending": 0,
     "favourites": 192,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -21510,7 +21994,7 @@
         }
       ]
     },
-    "updatedAt": 1787378489,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -21561,7 +22045,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 5647,
-    "trending": 2,
+    "trending": 1,
     "favourites": 59,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -21610,7 +22094,13 @@
               "romaji": "PSYЯEN",
               "english": "PSYЯEN"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx33438-pBfMEC42XhCA.png"
+            }
           }
         }
       ]
@@ -21764,7 +22254,7 @@
         }
       ]
     },
-    "updatedAt": 1787353267,
+    "updatedAt": 1787382073,
     "idTmdb": 297903,
     "idImdb": "tt39181351",
     "idTvdb": 471609,
@@ -21813,7 +22303,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3356,
-    "trending": 2,
+    "trending": 0,
     "favourites": 30,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -21838,7 +22328,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788606000,
-      "timeUntilAiring": 1229942,
+      "timeUntilAiring": 1222341,
       "episode": 1
     },
     "relations": {
@@ -21914,7 +22404,7 @@
         }
       ]
     },
-    "updatedAt": 1787374804,
+    "updatedAt": 1787378531,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -21969,7 +22459,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 27796,
-    "trending": 0,
+    "trending": 1,
     "favourites": 277,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -22328,7 +22818,7 @@
         }
       ]
     },
-    "updatedAt": 1787378531,
+    "updatedAt": 1787382010,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -23053,7 +23543,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 11893,
-    "trending": 1,
+    "trending": 0,
     "favourites": 94,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -23187,7 +23677,7 @@
         }
       ]
     },
-    "updatedAt": 1787378458,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -23579,7 +24069,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 6864,
-    "trending": 1,
+    "trending": 0,
     "favourites": 64,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -23669,7 +24159,7 @@
         }
       ]
     },
-    "updatedAt": 1787378526,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -23924,7 +24414,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 12220,
-    "trending": 0,
+    "trending": 1,
     "favourites": 129,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -24091,7 +24581,7 @@
         }
       ]
     },
-    "updatedAt": 1787365310,
+    "updatedAt": 1787382086,
     "idTmdb": 309381,
     "idImdb": "tt39292927",
     "idTvdb": 472095,
@@ -24148,7 +24638,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 7273,
-    "trending": 2,
+    "trending": 0,
     "favourites": 90,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -24293,7 +24783,7 @@
         }
       ]
     },
-    "updatedAt": 1787378472,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -24608,7 +25098,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1790782200,
-      "timeUntilAiring": 3402379,
+      "timeUntilAiring": 3398518,
       "episode": 1
     },
     "relations": {
@@ -25879,7 +26369,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 17453,
-    "trending": 0,
+    "trending": 1,
     "favourites": 142,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -26012,7 +26502,7 @@
         }
       ]
     },
-    "updatedAt": 1787365310,
+    "updatedAt": 1787382065,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -26611,7 +27101,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 4472,
-    "trending": 1,
+    "trending": 0,
     "favourites": 44,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -26770,7 +27260,7 @@
         }
       ]
     },
-    "updatedAt": 1787378429,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -27030,7 +27520,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 7994,
-    "trending": 2,
+    "trending": 1,
     "favourites": 68,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -27060,7 +27550,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791471600,
-      "timeUntilAiring": 4091823,
+      "timeUntilAiring": 4088062,
       "episode": 1
     },
     "relations": {
@@ -27321,7 +27811,7 @@
         }
       ]
     },
-    "updatedAt": 1787378476,
+    "updatedAt": 1787382032,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -27378,7 +27868,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3018,
-    "trending": 1,
+    "trending": 0,
     "favourites": 37,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -27670,7 +28160,7 @@
         }
       ]
     },
-    "updatedAt": 1787374907,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -28105,7 +28595,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 7569,
-    "trending": 2,
+    "trending": 1,
     "favourites": 91,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -28307,7 +28797,7 @@
         }
       ]
     },
-    "updatedAt": 1787378455,
+    "updatedAt": 1787382092,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -30556,7 +31046,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 10426,
-    "trending": 1,
+    "trending": 0,
     "favourites": 122,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -30699,7 +31189,7 @@
         }
       ]
     },
-    "updatedAt": 1787378523,
+    "updatedAt": 1787382097,
     "idTmdb": 306231,
     "idImdb": null,
     "idTvdb": null,
@@ -30752,7 +31242,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3039,
-    "trending": 2,
+    "trending": 1,
     "favourites": 49,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -30777,7 +31267,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791471600,
-      "timeUntilAiring": 4111711,
+      "timeUntilAiring": 4088137,
       "episode": 1
     },
     "relations": {
@@ -30790,7 +31280,13 @@
               "romaji": "Girls und Panzer: Saishuushou 4",
               "english": "Girls und Panzer das Finale - Part 4"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx132420-aE5g1TCAbvUG.png"
+            }
           }
         }
       ]
@@ -31021,7 +31517,7 @@
         }
       ]
     },
-    "updatedAt": 1787357386,
+    "updatedAt": 1787382073,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -32297,7 +32793,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 22588,
-    "trending": 1,
+    "trending": 0,
     "favourites": 176,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -32504,7 +33000,7 @@
         }
       ]
     },
-    "updatedAt": 1787378504,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -32558,7 +33054,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 30532,
-    "trending": 1,
+    "trending": 0,
     "favourites": 433,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -32588,7 +33084,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791099000,
-      "timeUntilAiring": 3719082,
+      "timeUntilAiring": 3715586,
       "episode": 1
     },
     "relations": {
@@ -32877,7 +33373,7 @@
         }
       ]
     },
-    "updatedAt": 1787374883,
+    "updatedAt": 1787382097,
     "idTmdb": 207347,
     "idImdb": "tt32639706",
     "idTvdb": 429934,
@@ -34307,7 +34803,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 18664,
-    "trending": 1,
+    "trending": 3,
     "favourites": 323,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -34491,7 +34987,7 @@
         }
       ]
     },
-    "updatedAt": 1787371300,
+    "updatedAt": 1787382019,
     "idTmdb": 284751,
     "idImdb": "tt37421046",
     "idTvdb": 460416,
@@ -34544,7 +35040,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 39078,
-    "trending": 2,
+    "trending": 0,
     "favourites": 463,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -34757,7 +35253,7 @@
         }
       ]
     },
-    "updatedAt": 1787374864,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -35626,6 +36122,223 @@
     "idShikimori": 60829
   },
   {
+    "id": 186751,
+    "idMal": 63500,
+    "title": {
+      "romaji": "Huhuan Shaonü",
+      "english": null,
+      "native": "呼唤少女"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "NOT_YET_RELEASED",
+    "description": null,
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186751-BlePiscme4Sp.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186751-BlePiscme4Sp.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186751-BlePiscme4Sp.jpg",
+      "color": "#e4f1bb"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "Call Up Girls",
+      "Call Up·Girls"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 603,
+    "trending": 1,
+    "favourites": 6,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "MANGA",
+    "trailer": {
+      "id": "NFmb7z81058",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/NFmb7z81058/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://x.com/callupgirls_cn",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.youtube.com/@CallUpGirls",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://weibo.com/u/7061989839",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 210376,
+            "title": {
+              "romaji": "Huhuan Shaonü Special: Xiang Zuo de Shi Daodi Shi Shenme",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210376-1z3KgIvnh7ky.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 212593,
+            "title": {
+              "romaji": "Huhuan Shaonü",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx212593-Bd5VVg8uxMgl.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7612,
+            "name": "A4works"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 395356,
+            "name": {
+              "full": "Xi Ye",
+              "native": "叶曦"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 395357,
+            "name": {
+              "full": "Xiaotao Bai",
+              "native": "白小桃"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 395358,
+            "name": {
+              "full": "Zhiya Sun",
+              "native": "孙芝雅"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 395359,
+            "name": {
+              "full": "Zhao Li",
+              "native": "李照"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787382067,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 63500
+  },
+  {
     "id": 160803,
     "idMal": 54344,
     "title": {
@@ -35672,7 +36385,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 4203,
-    "trending": 1,
+    "trending": 0,
     "favourites": 33,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -36021,7 +36734,7 @@
         }
       ]
     },
-    "updatedAt": 1787371286,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -36078,7 +36791,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 35952,
-    "trending": 3,
+    "trending": 1,
     "favourites": 408,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -36103,7 +36816,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1792681200,
-      "timeUntilAiring": 5301431,
+      "timeUntilAiring": 5297682,
       "episode": 1
     },
     "relations": {
@@ -36346,7 +37059,7 @@
         }
       ]
     },
-    "updatedAt": 1787378481,
+    "updatedAt": 1787382043,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -37203,7 +37916,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 14540,
-    "trending": 2,
+    "trending": 0,
     "favourites": 187,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -37311,7 +38024,7 @@
         }
       ]
     },
-    "updatedAt": 1787378517,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -38393,7 +39106,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1253,
-    "trending": 0,
+    "trending": 1,
     "favourites": 8,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -38675,7 +39388,7 @@
         }
       ]
     },
-    "updatedAt": 1787378531,
+    "updatedAt": 1787382063,
     "idTmdb": 324326,
     "idImdb": null,
     "idTvdb": null,
@@ -38727,7 +39440,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 2591,
-    "trending": 1,
+    "trending": 0,
     "favourites": 50,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -38869,7 +39582,7 @@
         }
       ]
     },
-    "updatedAt": 1787371289,
+    "updatedAt": 1787378531,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -38923,7 +39636,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 6975,
-    "trending": 3,
+    "trending": 4,
     "favourites": 87,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -39234,7 +39947,7 @@
         }
       ]
     },
-    "updatedAt": 1787374842,
+    "updatedAt": 1787382032,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -39287,7 +40000,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 2892,
-    "trending": 0,
+    "trending": 1,
     "favourites": 6,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -39321,7 +40034,13 @@
               "romaji": "Umi ga Hashiru End Roll",
               "english": "The Credits Roll into the Sea"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx137614-N816f4TDUHtF.jpg"
+            }
           }
         }
       ]
@@ -39431,7 +40150,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787382032,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 64154
   },
   {
     "id": 212575,
@@ -40141,6 +40867,136 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 64350
+  },
+  {
+    "id": 212391,
+    "idMal": 64213,
+    "title": {
+      "romaji": "GIGANT",
+      "english": null,
+      "native": "GIGANT"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "NOT_YET_RELEASED",
+    "description": "Rei dreams of becoming a big-ticket film director, but when he stumbles into a chance meeting with a busty adult film star, his high school life takes a turn for the strange. Not only does his favorite porn star like him, she gains the power to grow to an enormous, towering size! Is alien technology to blame? Time travel? The end of the world? All manner of bizarre trouble lies ahead, and a gigantic, gorgeous woman is just the tip of the iceberg!\n<br><br>\n(Source: Seven Seas Entertainment)",
+    "episodes": 1,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212391-g1dD510WO9Hz.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212391-g1dD510WO9Hz.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b212391-g1dD510WO9Hz.png",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [
+      "Drama",
+      "Ecchi",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "ギガント"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 1060,
+    "trending": 1,
+    "favourites": 10,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 100765,
+            "title": {
+              "romaji": "GIGANT",
+              "english": "GIGANT"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx100765-sD0dKVQO5xVf.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 276,
+        "name": "Kaiju",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 7811,
+            "name": "K2 Pictures"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 168783,
+            "name": {
+              "full": "Chiho Johansson",
+              "native": "ちほヨハンソン"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787382053,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 64213
   },
   {
     "id": 203116,
@@ -41278,7 +42134,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 4500,
-    "trending": 1,
+    "trending": 0,
     "favourites": 70,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -41475,7 +42331,7 @@
         }
       ]
     },
-    "updatedAt": 1787378511,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -41526,7 +42382,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 5289,
-    "trending": 0,
+    "trending": 1,
     "favourites": 32,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -41733,7 +42589,7 @@
         }
       ]
     },
-    "updatedAt": 1787364123,
+    "updatedAt": 1787382029,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -41788,7 +42644,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 7228,
-    "trending": 4,
+    "trending": 5,
     "favourites": 51,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -41957,7 +42813,7 @@
         }
       ]
     },
-    "updatedAt": 1787378490,
+    "updatedAt": 1787382057,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -42010,7 +42866,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 7190,
-    "trending": 1,
+    "trending": 0,
     "favourites": 110,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -42244,7 +43100,7 @@
         }
       ]
     },
-    "updatedAt": 1787378471,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -43047,7 +43903,7 @@
         }
       ]
     },
-    "updatedAt": 1787374913,
+    "updatedAt": 1787382074,
     "idTmdb": 316891,
     "idImdb": null,
     "idTvdb": null,
@@ -43882,7 +44738,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 22390,
-    "trending": 1,
+    "trending": 2,
     "favourites": 196,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -44215,7 +45071,7 @@
         }
       ]
     },
-    "updatedAt": 1787378489,
+    "updatedAt": 1787382076,
     "idTmdb": 95479,
     "idImdb": "tt12343534",
     "idTvdb": 377543,
@@ -44270,7 +45126,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 11644,
-    "trending": 2,
+    "trending": 1,
     "favourites": 163,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -44423,7 +45279,7 @@
         }
       ]
     },
-    "updatedAt": 1787378470,
+    "updatedAt": 1787382057,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -45300,7 +46156,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 40855,
-    "trending": 3,
+    "trending": 1,
     "favourites": 440,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -45470,7 +46326,7 @@
         }
       ]
     },
-    "updatedAt": 1787378479,
+    "updatedAt": 1787382035,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -47077,7 +47933,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1514,
-    "trending": 1,
+    "trending": 2,
     "favourites": 11,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -47270,7 +48126,7 @@
         }
       ]
     },
-    "updatedAt": 1787378475,
+    "updatedAt": 1787382056,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -48209,7 +49065,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 16065,
-    "trending": 0,
+    "trending": 1,
     "favourites": 170,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -48526,7 +49382,7 @@
         }
       ]
     },
-    "updatedAt": 1787371321,
+    "updatedAt": 1787382046,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -50513,7 +51369,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 580,
-    "trending": 1,
+    "trending": 0,
     "favourites": 3,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -50586,7 +51442,7 @@
         }
       ]
     },
-    "updatedAt": 1787378512,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -51176,7 +52032,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 20925,
-    "trending": 3,
+    "trending": 1,
     "favourites": 170,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -51206,7 +52062,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1796914800,
-      "timeUntilAiring": 9534983,
+      "timeUntilAiring": 9531332,
       "episode": 1
     },
     "relations": {
@@ -51347,7 +52203,7 @@
         }
       ]
     },
-    "updatedAt": 1787378446,
+    "updatedAt": 1787382067,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -53314,7 +54170,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 15929,
-    "trending": 7,
+    "trending": 2,
     "favourites": 169,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -53339,7 +54195,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1790823360,
-      "timeUntilAiring": 3443563,
+      "timeUntilAiring": 3439804,
       "episode": 1
     },
     "relations": {
@@ -53530,7 +54386,7 @@
         }
       ]
     },
-    "updatedAt": 1787378460,
+    "updatedAt": 1787382024,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -53580,7 +54436,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 21291,
-    "trending": 2,
+    "trending": 0,
     "favourites": 202,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -53711,7 +54567,7 @@
         }
       ]
     },
-    "updatedAt": 1787378527,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -53762,7 +54618,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 5635,
-    "trending": 1,
+    "trending": 0,
     "favourites": 55,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -53940,7 +54796,7 @@
         }
       ]
     },
-    "updatedAt": 1787371317,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -53993,7 +54849,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 9550,
-    "trending": 1,
+    "trending": 3,
     "favourites": 120,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -54130,7 +54986,7 @@
         }
       ]
     },
-    "updatedAt": 1787378519,
+    "updatedAt": 1787382078,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -54184,7 +55040,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 19969,
-    "trending": 0,
+    "trending": 1,
     "favourites": 253,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -54294,7 +55150,7 @@
         }
       ]
     },
-    "updatedAt": 1787378531,
+    "updatedAt": 1787382052,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -55320,7 +56176,7 @@
         }
       ]
     },
-    "updatedAt": 1787374811,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -55725,7 +56581,7 @@
         }
       ]
     },
-    "updatedAt": 1787371268,
+    "updatedAt": 1787382078,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -55918,7 +56774,7 @@
         }
       ]
     },
-    "updatedAt": 1787364093,
+    "updatedAt": 1787382078,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -55970,7 +56826,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 15946,
-    "trending": 1,
+    "trending": 2,
     "favourites": 177,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -56133,7 +56989,7 @@
         }
       ]
     },
-    "updatedAt": 1787374867,
+    "updatedAt": 1787382080,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -56185,7 +57041,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 5117,
-    "trending": 0,
+    "trending": 3,
     "favourites": 52,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -56334,7 +57190,7 @@
         }
       ]
     },
-    "updatedAt": 1787374914,
+    "updatedAt": 1787382027,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -56386,7 +57242,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 5040,
-    "trending": 0,
+    "trending": 1,
     "favourites": 53,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -56506,7 +57362,7 @@
         }
       ]
     },
-    "updatedAt": 1787378531,
+    "updatedAt": 1787382052,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -56736,7 +57592,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 32113,
-    "trending": 4,
+    "trending": 2,
     "favourites": 279,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -57083,7 +57939,7 @@
         }
       ]
     },
-    "updatedAt": 1787378477,
+    "updatedAt": 1787382017,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -57290,7 +58146,7 @@
         }
       ]
     },
-    "updatedAt": 1787371298,
+    "updatedAt": 1787382054,
     "idTmdb": 96316,
     "idImdb": "tt11448214",
     "idTvdb": 380654,
@@ -57342,7 +58198,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 9681,
-    "trending": 9,
+    "trending": 3,
     "favourites": 66,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -57598,7 +58454,7 @@
         }
       ]
     },
-    "updatedAt": 1787374825,
+    "updatedAt": 1787378468,
     "idTmdb": 326247,
     "idImdb": "tt43613803",
     "idTvdb": 479566,
@@ -59555,6 +60411,445 @@
     "idShikimori": 64439
   },
   {
+    "id": 213952,
+    "idMal": 64573,
+    "title": {
+      "romaji": "Watashi wo Center ni Suru to Chikaimasuka?",
+      "english": null,
+      "native": "私をセンターにすると誓いますか？"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "\"If you can really make me the Center...then we can get married.\"\n<br><br>\nMeet Mizuki Natsuno, the least popular member of the nationally acclaimed idol group, Melty Strawberry. She has an eternal fan in Koichi Okuta, who is always pouring heart and soul into supporting her. Normally, a fan would never get to interact with their idol beyond the stage. But one thing led to another, and Koichi now finds himself living together with Mizuki in his own house. He vows to make her the new Center of Melty Strawberry, sparking an unconventional tag-team between a devoted fan and his idol. Together, they attempt to elevate Mizuki's career from obscurity to stardom! \n<br><br>\n(Source: K MANGA)",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213952-1DegwC5aES0U.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213952-1DegwC5aES0U.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213952-1DegwC5aES0U.jpg",
+      "color": "#aec9f1"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "synonyms": [
+      "Watacen"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 849,
+    "trending": 1,
+    "favourites": 4,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.watacen-anime.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://x.com/watacen_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 159158,
+            "title": {
+              "romaji": "Watashi wo Center ni Suru to Chikaimasuka?",
+              "english": "Promise Me the Spotlight"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx159158-93jZ3B2oKj5V.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 79,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787382092,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 64573
+  },
+  {
+    "id": 213422,
+    "idMal": 64452,
+    "title": {
+      "romaji": "Koisuru (Otome) no Tsukurikata",
+      "english": null,
+      "native": "恋する(おとめ)の作り方"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "It’s a familiar story: a popular high school student gives their plain friend a makeover and transforms their life. But this time, the path to a new life isn’t quite so straight and narrow. Kenshirou Midou has loved cosmetics all his life, keeping his obsession secret from almost everyone except for his childhood friend Hiura Mihate. One day, Kenshirou gets permission to practice applying makeup on Hiura, and the results are earth-shattering: Hiura’s appearance transforms from a plain, undersized boy to a pretty, petite girl, and Kenshirou discovers just how freeing it is to apply his passion! Yet he’s not the only one who finds the process liberating. Hiura likes the makeup, and the subsequent “dress-up” in feminine clothes, and decides to start wearing the girls’ uniform to school. Kenshirou doesn’t understand if he’s unlocked something in Hiura, or if he’s simply seeing a new side to his childhood buddy that he never noticed before. What are these feelings bubbling between them now–is this attraction truly new?\n<br><br>\n(Source: Seven Seas Entertainment)",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213422-bkk13nKcmfTt.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213422-bkk13nKcmfTt.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213422-bkk13nKcmfTt.jpg",
+      "color": "#e45d78"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "synonyms": [
+      "I Think I Turned My Childhood Friend Into a Girl",
+      "I Turned My Childhood Friend (♂) Into a Girl"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 2134,
+    "trending": 1,
+    "favourites": 40,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 114898,
+            "title": {
+              "romaji": "Koisuru (Otome) no Tsukurikata",
+              "english": "I Think I Turned My Childhood Friend Into a Girl"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx114898-quAtt09RdK2J.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1456,
+        "name": "Femboy",
+        "rank": 94,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 186,
+        "name": "Crossdressing",
+        "rank": 94,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 75,
+        "name": "Boys' Love",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 89,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 88,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1140,
+        "name": "Makeup",
+        "rank": 86,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 53,
+        "name": "Shoujo",
+        "rank": 56,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 181402,
+            "name": {
+              "full": "Mihate Hiura",
+              "native": "日浦美果"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 181403,
+            "name": {
+              "full": "Kenshiro Midou",
+              "native": "御堂賢士郎"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787382060,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 64452
+  },
+  {
+    "id": 213733,
+    "idMal": 64531,
+    "title": {
+      "romaji": "Kanojo Saimin",
+      "english": null,
+      "native": "彼女催眠"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "NOT_YET_RELEASED",
+    "description": "Koto Tenryuuji acts completely indifferent and aloof. She’s the daughter of a massive conglomerate—a true “unattainable beauty”—but with just a single hypnotic suggestion, she turns into a love-struck girlfriend! Convinced of his false affection, she starts seeking him out on her own… Even though it’s her first time, she cums over and over just from being touched! With her actively seeking him out, he savors every inch of her body all day long, leaving nothing to be desired! No matter how many times he cums inside her, no matter how many times he makes her come, she feels nothing but happiness…!?\n<br><br>\n(Source: Lune-soft, translated)",
+    "episodes": null,
+    "duration": null,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 8,
+      "day": 28
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213733-cZ0bFNkypDtV.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213733-cZ0bFNkypDtV.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213733-cZ0bFNkypDtV.png",
+      "color": "#bba135"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213733-cEurdb2TrsmQ.jpg",
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 245,
+    "trending": 1,
+    "favourites": 4,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": {
+      "airingAt": 1787842800,
+      "timeUntilAiring": 459318,
+      "episode": 1
+    },
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 155074,
+            "title": {
+              "romaji": "Kanojo Saimin",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx155074-6pIh1Dzx0QgL.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 823,
+            "name": "Lune Pictures"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6128,
+            "name": "Bunny Walker"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 405,
+            "name": "T-REX"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 402985,
+            "name": {
+              "full": "Koto Tenryuuji",
+              "native": "天龍寺琴"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 403007,
+              "name": {
+                "full": "Sui Komura",
+                "native": "小村スイ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 402986,
+            "name": {
+              "full": "Yui Shiratori",
+              "native": "白鳥結衣"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 126430,
+              "name": {
+                "full": "Hana Kuga",
+                "native": "空賀花"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 402987,
+            "name": {
+              "full": "Akira Kurosaki",
+              "native": "黒崎晶"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 114799,
+              "name": {
+                "full": "Minori Ozawa",
+                "native": "小澤みのり"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787382059,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 64531
+  },
+  {
     "id": 167151,
     "idMal": 56008,
     "title": {
@@ -59802,7 +61097,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 13586,
-    "trending": 0,
+    "trending": 1,
     "favourites": 166,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -59952,7 +61247,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787378531,
+    "updatedAt": 1787382084,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -60042,7 +61337,13 @@
               "romaji": "Sword Art Online: Alicization - War of Underworld Part 2",
               "english": "Sword Art Online: Alicization - War of Underworld Part 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2020,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx114308-8UBiS7U9buzu.jpg"
+            }
           }
         }
       ]
@@ -60140,7 +61441,14 @@
         }
       ]
     },
-    "updatedAt": 1787349688
+    "updatedAt": 1787382083,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2029378,
+    "idShikimori": 53529
   },
   {
     "id": 161410,
@@ -60962,7 +62270,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 27268,
-    "trending": 1,
+    "trending": 0,
     "favourites": 646,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -61178,7 +62486,7 @@
         }
       ]
     },
-    "updatedAt": 1787378454,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -61880,7 +63188,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 43476,
-    "trending": 4,
+    "trending": 1,
     "favourites": 360,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -62128,7 +63436,7 @@
         }
       ]
     },
-    "updatedAt": 1787378434,
+    "updatedAt": 1787382024,
     "idTmdb": 207784,
     "idImdb": "tt21621494",
     "idTvdb": 423257,
@@ -62182,7 +63490,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 28237,
-    "trending": 1,
+    "trending": 0,
     "favourites": 488,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -62334,7 +63642,7 @@
         }
       ]
     },
-    "updatedAt": 1787374865,
+    "updatedAt": 1787378531,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -62397,7 +63705,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 6566,
-    "trending": 1,
+    "trending": 4,
     "favourites": 27,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -62422,7 +63730,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1793890800,
-      "timeUntilAiring": 6510864,
+      "timeUntilAiring": 6507239,
       "episode": 1
     },
     "relations": {
@@ -62739,7 +64047,7 @@
         }
       ]
     },
-    "updatedAt": 1787374806,
+    "updatedAt": 1787382020,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -63722,7 +65030,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 473,
-    "trending": 2,
+    "trending": 1,
     "favourites": 8,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -63802,7 +65110,7 @@
         }
       ]
     },
-    "updatedAt": 1787371248
+    "updatedAt": 1787378487
   },
   {
     "id": 215695,
@@ -63978,7 +65286,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 0,
-    "trending": 11,
+    "trending": 10,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -64091,7 +65399,7 @@
         }
       ]
     },
-    "updatedAt": 1787378447
+    "updatedAt": 1787382012
   },
   {
     "id": 215617,
@@ -64321,7 +65629,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 18667,
-    "trending": 2,
+    "trending": 0,
     "favourites": 248,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -64602,7 +65910,7 @@
         }
       ]
     },
-    "updatedAt": 1787378465,
+    "updatedAt": 1787382097,
     "idTmdb": 117061,
     "idImdb": "tt13884052",
     "idTvdb": 397197,
@@ -64697,7 +66005,13 @@
               "romaji": "BLADE & BASTARD",
               "english": "BLADE & BASTARD"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx153615-cIROQ9ZJzBXq.jpg"
+            }
           }
         },
         {
@@ -64708,7 +66022,13 @@
               "romaji": "Blade & Bastard",
               "english": "Blade & Bastard"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx165852-tMlwqg8mQRPZ.jpg"
+            }
           }
         }
       ]
@@ -64862,7 +66182,14 @@
         }
       ]
     },
-    "updatedAt": 1787349750
+    "updatedAt": 1787382021,
+    "idTmdb": 274711,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2613908,
+    "idShikimori": 60152
   },
   {
     "id": 183960,
@@ -64906,7 +66233,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 6827,
-    "trending": 0,
+    "trending": 1,
     "favourites": 69,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -65210,7 +66537,7 @@
         }
       ]
     },
-    "updatedAt": 1787371321,
+    "updatedAt": 1787382090,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -66257,7 +67584,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 4087,
-    "trending": 1,
+    "trending": 0,
     "favourites": 16,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -66564,7 +67891,7 @@
         }
       ]
     },
-    "updatedAt": 1787378462,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -66798,7 +68125,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791556200,
-      "timeUntilAiring": 4176383,
+      "timeUntilAiring": 4172518,
       "episode": 1
     },
     "relations": {
@@ -68125,7 +69452,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3296,
-    "trending": 1,
+    "trending": 0,
     "favourites": 54,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -68211,7 +69538,7 @@
         }
       ]
     },
-    "updatedAt": 1787378446,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -68511,7 +69838,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 21160,
-    "trending": 0,
+    "trending": 1,
     "favourites": 285,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -68546,7 +69873,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1790262000,
-      "timeUntilAiring": 2882318,
+      "timeUntilAiring": 2878537,
       "episode": 1
     },
     "relations": {
@@ -68774,7 +70101,7 @@
         }
       ]
     },
-    "updatedAt": 1787378531,
+    "updatedAt": 1787382071,
     "idTmdb": 45790,
     "idImdb": "tt2359704",
     "idTvdb": 262954,
@@ -69032,7 +70359,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 2188,
-    "trending": 0,
+    "trending": 1,
     "favourites": 10,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -69139,7 +70466,7 @@
         }
       ]
     },
-    "updatedAt": 1787378531,
+    "updatedAt": 1787382058,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -69384,7 +70711,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3525,
-    "trending": 0,
+    "trending": 1,
     "favourites": 48,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -69537,7 +70864,7 @@
         }
       ]
     },
-    "updatedAt": 1787364123,
+    "updatedAt": 1787382022,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -69590,7 +70917,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1586,
-    "trending": 0,
+    "trending": 1,
     "favourites": 21,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -69889,7 +71216,7 @@
         }
       ]
     },
-    "updatedAt": 1787374914,
+    "updatedAt": 1787382094,
     "idTmdb": 305313,
     "idImdb": null,
     "idTvdb": null,

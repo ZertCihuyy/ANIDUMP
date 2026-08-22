@@ -43,7 +43,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 68436,
-    "trending": 4,
+    "trending": 2,
     "favourites": 1117,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -495,7 +495,7 @@
         }
       ]
     },
-    "updatedAt": 1787371223,
+    "updatedAt": 1787382006,
     "idTmdb": 200732,
     "idImdb": "tt21844706",
     "idTvdb": 419490,
@@ -550,7 +550,7 @@
     "averageScore": 74,
     "meanScore": 75,
     "popularity": 94889,
-    "trending": 2,
+    "trending": 3,
     "favourites": 2372,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -914,7 +914,7 @@
         }
       ]
     },
-    "updatedAt": 1787378453,
+    "updatedAt": 1787382010,
     "idTmdb": 201889,
     "idImdb": "tt21844614",
     "idTvdb": 420084,
@@ -1498,7 +1498,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 78392,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1409,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1941,7 +1941,7 @@
         }
       ]
     },
-    "updatedAt": 1787378493,
+    "updatedAt": 1787382097,
     "idTmdb": 200777,
     "idImdb": "tt25531288",
     "idTvdb": 419502,
@@ -2648,7 +2648,7 @@
     "averageScore": 63,
     "meanScore": 64,
     "popularity": 58144,
-    "trending": 0,
+    "trending": 1,
     "favourites": 830,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3112,7 +3112,7 @@
         }
       ]
     },
-    "updatedAt": 1787378531,
+    "updatedAt": 1787382010,
     "idTmdb": 200750,
     "idImdb": "tt19853780",
     "idTvdb": 419500,
@@ -3168,7 +3168,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 32953,
-    "trending": 0,
+    "trending": 1,
     "favourites": 588,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3555,7 +3555,7 @@
         }
       ]
     },
-    "updatedAt": 1787371321,
+    "updatedAt": 1787382066,
     "idTmdb": 218843,
     "idImdb": "tt20228550",
     "idTvdb": 420018,
@@ -4449,7 +4449,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 24029,
-    "trending": 2,
+    "trending": 0,
     "favourites": 758,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4812,7 +4812,7 @@
         }
       ]
     },
-    "updatedAt": 1787378502,
+    "updatedAt": 1787382097,
     "idTmdb": 223251,
     "idImdb": "tt27522506",
     "idTvdb": 430212,
@@ -5055,5 +5055,117 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 52197
+  },
+  "148818": {
+    "id": 148818,
+    "idMal": 42084,
+    "title": {
+      "romaji": "Sabu to Ichi Torimono Hikae Pilot Film",
+      "english": null,
+      "native": "佐武と市捕物控 パイロットフィルム"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "The pilot film for Sabu to Ichi Torimono Hikae.",
+    "episodes": 1,
+    "duration": 19,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 1968,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": 1968,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148818-ifhjfHXDCp66.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148818-ifhjfHXDCp66.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx148818-ifhjfHXDCp66.png",
+      "color": "#e4ae86"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 40,
+    "popularity": 113,
+    "trending": 1,
+    "favourites": 2,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 5997,
+            "title": {
+              "romaji": "Sabu to Ichi Torimono Hikae",
+              "english": "Sabu & Ichi's Arrest Warrant"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 1968,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5997-MiaOOIfCYak2.png"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 42427,
+            "title": {
+              "romaji": "Sabu to Ichi Torimono Hikae",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx42427-RbEOS4yNcxbH.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 435,
+            "name": "Studio Zero"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787382080,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 42084
   }
 }

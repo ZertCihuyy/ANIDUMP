@@ -272,7 +272,7 @@
     "averageScore": 58,
     "meanScore": 60,
     "popularity": 8118,
-    "trending": 1,
+    "trending": 0,
     "favourites": 96,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -488,7 +488,7 @@
         }
       ]
     },
-    "updatedAt": 1787374890,
+    "updatedAt": 1787378531,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -540,7 +540,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3475,
-    "trending": 1,
+    "trending": 0,
     "favourites": 45,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -696,7 +696,7 @@
         }
       ]
     },
-    "updatedAt": 1787371300,
+    "updatedAt": 1787378531,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -752,7 +752,7 @@
     "averageScore": 71,
     "meanScore": 72,
     "popularity": 8421,
-    "trending": 1,
+    "trending": 2,
     "favourites": 123,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1003,7 +1003,7 @@
         }
       ]
     },
-    "updatedAt": 1787374911,
+    "updatedAt": 1787382061,
     "idTmdb": 316973,
     "idImdb": "tt40356933",
     "idTvdb": 474691,
@@ -1057,7 +1057,7 @@
     "averageScore": 63,
     "meanScore": 64,
     "popularity": 45731,
-    "trending": 84,
+    "trending": 64,
     "favourites": 687,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1087,7 +1087,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787842800,
-      "timeUntilAiring": 462955,
+      "timeUntilAiring": 459217,
       "episode": 10
     },
     "relations": {
@@ -1510,7 +1510,7 @@
         }
       ]
     },
-    "updatedAt": 1787378411,
+    "updatedAt": 1787382009,
     "idTmdb": 314554,
     "idImdb": "tt40550160",
     "idTvdb": 474303,
@@ -1563,7 +1563,7 @@
     "averageScore": 64,
     "meanScore": 66,
     "popularity": 10968,
-    "trending": 2,
+    "trending": 4,
     "favourites": 121,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1603,7 +1603,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787416200,
-      "timeUntilAiring": 36273,
+      "timeUntilAiring": 32649,
       "episode": 8
     },
     "relations": {
@@ -1953,7 +1953,7 @@
         }
       ]
     },
-    "updatedAt": 1787374855,
+    "updatedAt": 1787382026,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3251,7 +3251,7 @@
         }
       ]
     },
-    "updatedAt": 1787374888,
+    "updatedAt": 1787382076,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3259,5 +3259,150 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 62942
+  },
+  "208369": {
+    "id": 208369,
+    "idMal": 63573,
+    "title": {
+      "romaji": "Zeikin de Katta Hon",
+      "english": null,
+      "native": "税金で買った本"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "Ishidaira is a delinquent who visited the library for the first time since elementary school. But then, he was pointed out by Hayasameru and Shirai, who works at the library, that he has not returned a book that he borrowed ten years ago. A manga about how Ishidaira went from trying to borrow a book from a library to working there instead.\n<br><br>\n(Source: Kodansha, translated)",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208369-N2zCuaa5q0BB.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208369-N2zCuaa5q0BB.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx208369-N2zCuaa5q0BB.jpg",
+      "color": "#f1ae43"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "Books Bought With Tax",
+      "Racaille de bibliothèque",
+      "Taxpayer-Purchased Books"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 1496,
+    "trending": 0,
+    "favourites": 15,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 142165,
+            "title": {
+              "romaji": "Zeikin de Katta Hon",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx142165-M083rgaNaMZ8.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 145,
+        "name": "Work",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 395,
+        "name": "Delinquents",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 296280,
+            "name": {
+              "full": "Sayaka Hayasemaru",
+              "native": "早瀬丸小夜香"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 296283,
+            "name": {
+              "full": "Kiichi Ishidaira",
+              "native": "石平紀一"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 308163,
+            "name": {
+              "full": "Satoyuki Shirai",
+              "native": "白井里雪"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787378531,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 63573
   }
 }
