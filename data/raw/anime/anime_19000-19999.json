@@ -1626,7 +1626,7 @@
     "averageScore": 69,
     "meanScore": 69,
     "popularity": 11881,
-    "trending": 0,
+    "trending": 1,
     "favourites": 55,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2073,7 +2073,7 @@
         }
       ]
     },
-    "updatedAt": 1787436143,
+    "updatedAt": 1787439731,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -5577,7 +5577,7 @@
     "averageScore": 58,
     "meanScore": 58,
     "popularity": 30343,
-    "trending": 1,
+    "trending": 0,
     "favourites": 237,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6047,7 +6047,7 @@
         }
       ]
     },
-    "updatedAt": 1787392929,
+    "updatedAt": 1787439734,
     "idTmdb": 60868,
     "idImdb": "tt3104096",
     "idTvdb": 272045,
@@ -7414,7 +7414,7 @@
         }
       ]
     },
-    "updatedAt": 1787411029,
+    "updatedAt": 1787439664,
     "idTmdb": 61415,
     "idImdb": "tt3621796",
     "idTvdb": 278626,
@@ -8010,7 +8010,7 @@
     "averageScore": 69,
     "meanScore": 69,
     "popularity": 85074,
-    "trending": 5,
+    "trending": 3,
     "favourites": 841,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8535,7 +8535,7 @@
         }
       ]
     },
-    "updatedAt": 1787414508,
+    "updatedAt": 1787439670,
     "idTmdb": 62691,
     "idImdb": "tt3196310",
     "idTvdb": 273008,
@@ -8593,7 +8593,7 @@
     "averageScore": 69,
     "meanScore": 69,
     "popularity": 147543,
-    "trending": 3,
+    "trending": 1,
     "favourites": 2100,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9137,7 +9137,7 @@
         }
       ]
     },
-    "updatedAt": 1787414618,
+    "updatedAt": 1787439710,
     "idTmdb": 46004,
     "idImdb": "tt2575684",
     "idTvdb": 264663,
@@ -9531,7 +9531,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 65217,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1403,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9993,7 +9993,7 @@
         }
       ]
     },
-    "updatedAt": 1787374914,
+    "updatedAt": 1787439731,
     "idTmdb": 53721,
     "idImdb": "tt2595486",
     "idTvdb": 264533,
@@ -10050,7 +10050,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 89951,
-    "trending": 2,
+    "trending": 0,
     "favourites": 923,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10503,7 +10503,7 @@
         }
       ]
     },
-    "updatedAt": 1787414509,
+    "updatedAt": 1787439734,
     "idTmdb": 72798,
     "idImdb": "tt3105434",
     "idTvdb": 272314,
@@ -13064,7 +13064,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 19947,
-    "trending": 0,
+    "trending": 1,
     "favourites": 139,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13083,7 +13083,13 @@
               "romaji": "Ansatsu Kyoushitsu",
               "english": "Assassination Classroom"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx69883-zDt4DUXkQS5N.png"
+            }
           }
         },
         {
@@ -13094,7 +13100,13 @@
               "romaji": "Ansatsu Kyoushitsu",
               "english": "Assassination Classroom"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2015,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20755-dWrhs569YGUO.jpg"
+            }
           }
         }
       ]
@@ -13372,7 +13384,7 @@
         }
       ]
     },
-    "updatedAt": 1787357044,
+    "updatedAt": 1787439715,
     "idTmdb": 439191,
     "idImdb": "tt3428540",
     "idTvdb": null,
@@ -17829,7 +17841,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 15383,
-    "trending": 0,
+    "trending": 1,
     "favourites": 86,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -18100,7 +18112,7 @@
         }
       ]
     },
-    "updatedAt": 1787414716,
+    "updatedAt": 1787439698,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -18776,5 +18788,369 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 19051
+  },
+  "19123": {
+    "id": 19123,
+    "idMal": 19123,
+    "title": {
+      "romaji": "ONE PIECE: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+      "english": "One Piece: Episode of Merry - The Tale of One More Friend",
+      "native": "ONE PIECE エピソードオブメリー 〜もうひとりの仲間の物語〜"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "The story arcs aboard the Straw Hat Crew's first ship Going Merry (Merry Go in some adaptations) are recreated with brand-new animation, from Luffy and Usopp's fight and Robin's disappearance to the crew's final farewell to the ship. Going Merry is treated as another member of the Straw Hats as Luffy, Zoro, Nami, and the rest of the crew set sail for the legendary treasure, the One Piece.<br><br>\n(Source: Anime News Network)",
+    "episodes": 1,
+    "duration": 106,
+    "season": "SUMMER",
+    "seasonYear": 2013,
+    "startDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 24
+    },
+    "endDate": {
+      "year": 2013,
+      "month": 8,
+      "day": 24
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx19123-leET1CrSJknT.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx19123-leET1CrSJknT.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx19123-leET1CrSJknT.jpg",
+      "color": "#e4c95d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/19123-QyRShJCfnIWD.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "One Piece Special"
+    ],
+    "averageScore": 78,
+    "meanScore": 78,
+    "popularity": 15225,
+    "trending": 1,
+    "favourites": 166,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 30013,
+            "title": {
+              "romaji": "ONE PIECE",
+              "english": "One Piece"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx30013-BeslEMqiPhlk.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 21,
+            "title": {
+              "romaji": "ONE PIECE",
+              "english": "ONE PIECE"
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "FALL",
+            "seasonYear": 1999,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21-ELSYx3yMPcKM.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 305,
+        "name": "Ships",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 201,
+        "name": "Pirates",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 499,
+        "name": "Skeleton",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 466,
+        "name": "Lost Civilization",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 18,
+            "name": "Toei Animation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 169,
+            "name": "Fuji TV"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 40,
+            "name": {
+              "full": "Luffy Monkey",
+              "native": "モンキー・D・ルフィ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95075,
+              "name": {
+                "full": "Mayumi Tanaka",
+                "native": "田中真弓"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 61,
+            "name": {
+              "full": "Robin Nico",
+              "native": "ニコロビン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95130,
+              "name": {
+                "full": "Yuriko Yamaguchi",
+                "native": "山口由里子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 62,
+            "name": {
+              "full": "Zoro Roronoa",
+              "native": "ロロノア・ゾロ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95123,
+              "name": {
+                "full": "Kazuya Nakai",
+                "native": "中井和哉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 64,
+            "name": {
+              "full": "Franky",
+              "native": "フランキー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95131,
+              "name": {
+                "full": "Kazuki Yao",
+                "native": "矢尾一樹"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 305,
+            "name": {
+              "full": "Sanji",
+              "native": "サンジ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95125,
+              "name": {
+                "full": "Hiroaki Hirata",
+                "native": "平田広明"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 309,
+            "name": {
+              "full": "Chopper Tony Tony",
+              "native": "トニートニー・チョッパー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95128,
+              "name": {
+                "full": "Ikue Ootani",
+                "native": "大谷育江"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 723,
+            "name": {
+              "full": "Nami",
+              "native": "ナミ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95076,
+              "name": {
+                "full": "Akemi Okamura",
+                "native": "岡村明美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 724,
+            "name": {
+              "full": "Usopp",
+              "native": "ウソップ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95067,
+              "name": {
+                "full": "Kappei Yamaguchi",
+                "native": "山口勝平"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 5627,
+            "name": {
+              "full": "Brook",
+              "native": "ブルック"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95898,
+              "name": {
+                "full": "Choo",
+                "native": "チョー "
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 2752,
+            "name": {
+              "full": "Kuzan",
+              "native": "クザン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95160,
+              "name": {
+                "full": "Takehito Koyasu",
+                "native": "子安武人"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787439711,
+    "idTmdb": 245538,
+    "idImdb": "tt3354352",
+    "idTvdb": null,
+    "idTrakt": 149476,
+    "traktSlug": "one-piece-episode-of-merry-the-tale-of-one-more-friend-2013",
+    "idSimkl": null,
+    "idShikimori": 19123
   }
 }

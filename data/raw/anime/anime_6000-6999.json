@@ -3118,7 +3118,7 @@
         }
       ]
     },
-    "updatedAt": 1787414716,
+    "updatedAt": 1787439734,
     "idTmdb": 34188,
     "idImdb": "tt1470836",
     "idTvdb": 105131,
@@ -3180,7 +3180,7 @@
     "averageScore": 75,
     "meanScore": 75,
     "popularity": 153691,
-    "trending": 4,
+    "trending": 3,
     "favourites": 3034,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3913,7 +3913,7 @@
         }
       ]
     },
-    "updatedAt": 1787414493,
+    "updatedAt": 1787439689,
     "idTmdb": 30977,
     "idImdb": "tt1515996",
     "idTvdb": 114921,
@@ -3968,7 +3968,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 47317,
-    "trending": 2,
+    "trending": 1,
     "favourites": 948,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4353,7 +4353,7 @@
         }
       ]
     },
-    "updatedAt": 1787396477,
+    "updatedAt": 1787439689,
     "idTmdb": 35461,
     "idImdb": "tt1568632",
     "idTvdb": 132771,
@@ -5295,7 +5295,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 89620,
-    "trending": 2,
+    "trending": 3,
     "favourites": 2848,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5737,7 +5737,7 @@
         }
       ]
     },
-    "updatedAt": 1787414630,
+    "updatedAt": 1787439667,
     "idTmdb": 65447,
     "idImdb": "tt1610860",
     "idTvdb": 141121,
@@ -5795,7 +5795,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 48051,
-    "trending": 1,
+    "trending": 2,
     "favourites": 377,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6115,7 +6115,7 @@
         }
       ]
     },
-    "updatedAt": 1787404658,
+    "updatedAt": 1787439698,
     "idTmdb": 36728,
     "idImdb": "tt1481363",
     "idTvdb": null,
@@ -8228,7 +8228,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 102560,
-    "trending": 0,
+    "trending": 2,
     "favourites": 1271,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8730,7 +8730,7 @@
         }
       ]
     },
-    "updatedAt": 1787411283,
+    "updatedAt": 1787439725,
     "idTmdb": 50712,
     "idImdb": "tt1316554",
     "idTvdb": 83996,
@@ -8783,7 +8783,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 43428,
-    "trending": 0,
+    "trending": 1,
     "favourites": 452,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9195,7 +9195,7 @@
         }
       ]
     },
-    "updatedAt": 1787414716,
+    "updatedAt": 1787439676,
     "idTmdb": 37555,
     "idImdb": "tt3029762",
     "idTvdb": 133821,
@@ -9249,7 +9249,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 23638,
-    "trending": 0,
+    "trending": 1,
     "favourites": 255,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9279,7 +9279,13 @@
               "romaji": "Kuroshitsuji",
               "english": "Black Butler"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2008,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx4898-mW4gabZvwmLC.jpg"
+            }
           }
         }
       ]
@@ -9546,7 +9552,7 @@
         }
       ]
     },
-    "updatedAt": 1787353355,
+    "updatedAt": 1787439726,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9601,7 +9607,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 112204,
-    "trending": 2,
+    "trending": 3,
     "favourites": 4442,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10019,7 +10025,7 @@
         }
       ]
     },
-    "updatedAt": 1787414593,
+    "updatedAt": 1787439677,
     "idTmdb": 71883,
     "idImdb": "tt1483797",
     "idTvdb": null,
@@ -13479,7 +13485,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 248519,
-    "trending": 1,
+    "trending": 3,
     "favourites": 3543,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13956,7 +13962,7 @@
         }
       ]
     },
-    "updatedAt": 1787414566,
+    "updatedAt": 1787439670,
     "idTmdb": 42503,
     "idImdb": "tt1909447",
     "idTvdb": 247997,
@@ -15846,16 +15852,28 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 252,
+        "name": "Revenge",
+        "rank": 80,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 80,
+        "isMediaSpoiler": true
+      },
+      {
         "id": 1310,
         "name": "Travel",
         "rank": 80,
         "isMediaSpoiler": false
       },
       {
-        "id": 252,
-        "name": "Revenge",
-        "rank": 79,
-        "isMediaSpoiler": true
+        "id": 391,
+        "name": "Philosophy",
+        "rank": 80,
+        "isMediaSpoiler": false
       },
       {
         "id": 94,
@@ -15864,21 +15882,9 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 1045,
-        "name": "Heterosexual",
-        "rank": 77,
-        "isMediaSpoiler": true
-      },
-      {
         "id": 82,
         "name": "Male Protagonist",
         "rank": 76,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 391,
-        "name": "Philosophy",
-        "rank": 75,
         "isMediaSpoiler": false
       },
       {
@@ -15902,7 +15908,7 @@
       {
         "id": 490,
         "name": "Anachronism",
-        "rank": 69,
+        "rank": 68,
         "isMediaSpoiler": true
       },
       {
@@ -15956,7 +15962,7 @@
       {
         "id": 83,
         "name": "Slapstick",
-        "rank": 45,
+        "rank": 46,
         "isMediaSpoiler": false
       },
       {
@@ -16002,15 +16008,15 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 220,
-        "name": "Ghost",
-        "rank": 25,
+        "id": 175,
+        "name": "Robots",
+        "rank": 26,
         "isMediaSpoiler": true
       },
       {
-        "id": 175,
-        "name": "Robots",
-        "rank": 20,
+        "id": 220,
+        "name": "Ghost",
+        "rank": 25,
         "isMediaSpoiler": true
       }
     ],
@@ -16268,7 +16274,7 @@
         }
       ]
     },
-    "updatedAt": 1787411178,
+    "updatedAt": 1787439704,
     "idTmdb": 46374,
     "idImdb": "tt1945730",
     "idTvdb": 132941,
@@ -18496,7 +18502,7 @@
         }
       ]
     },
-    "updatedAt": 1787411252,
+    "updatedAt": 1787439700,
     "idTmdb": 38112,
     "idImdb": "tt3443306",
     "idTvdb": 134181,
@@ -24558,7 +24564,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 54767,
-    "trending": 0,
+    "trending": 1,
     "favourites": 539,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -25176,7 +25182,7 @@
         }
       ]
     },
-    "updatedAt": 1787414716,
+    "updatedAt": 1787439711,
     "idTmdb": 46304,
     "idImdb": "tt1587156",
     "idTvdb": null,
@@ -26282,7 +26288,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 40700,
-    "trending": 0,
+    "trending": 1,
     "favourites": 671,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -26466,7 +26472,7 @@
         }
       ]
     },
-    "updatedAt": 1787436143,
+    "updatedAt": 1787439691,
     "idTmdb": 47747,
     "idImdb": "tt3868344",
     "idTvdb": null,
@@ -30424,7 +30430,7 @@
         }
       ]
     },
-    "updatedAt": 1787411058,
+    "updatedAt": 1787439723,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -30896,7 +30902,7 @@
         }
       ]
     },
-    "updatedAt": 1787414597,
+    "updatedAt": 1787439702,
     "idTmdb": 36025,
     "idImdb": "tt1516239",
     "idTvdb": 115991,
@@ -34082,7 +34088,7 @@
     "averageScore": 53,
     "meanScore": 53,
     "popularity": 3919,
-    "trending": 0,
+    "trending": 1,
     "favourites": 34,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -34393,7 +34399,7 @@
         }
       ]
     },
-    "updatedAt": 1787385727,
+    "updatedAt": 1787439674,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -36457,7 +36463,7 @@
         }
       ]
     },
-    "updatedAt": 1787396492,
+    "updatedAt": 1787439734,
     "idTmdb": 62798,
     "idImdb": "tt1988235",
     "idTvdb": 249846,
@@ -36992,7 +36998,7 @@
         }
       ]
     },
-    "updatedAt": 1787411231,
+    "updatedAt": 1787439702,
     "idTmdb": 44310,
     "idImdb": "tt1515976",
     "idTvdb": 117851,
@@ -37915,7 +37921,7 @@
     "averageScore": 69,
     "meanScore": 69,
     "popularity": 15339,
-    "trending": 0,
+    "trending": 1,
     "favourites": 87,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -38281,7 +38287,7 @@
         }
       ]
     },
-    "updatedAt": 1787382097,
+    "updatedAt": 1787439681,
     "idTmdb": 60669,
     "idImdb": "tt1546649",
     "idTvdb": null,
@@ -38335,7 +38341,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 12793,
-    "trending": 0,
+    "trending": 1,
     "favourites": 89,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -38752,7 +38758,7 @@
         }
       ]
     },
-    "updatedAt": 1787385727,
+    "updatedAt": 1787439714,
     "idTmdb": 36067,
     "idImdb": "tt1266617",
     "idTvdb": 82688,
@@ -41989,7 +41995,7 @@
         }
       ]
     },
-    "updatedAt": 1787382042,
+    "updatedAt": 1787439674,
     "idTmdb": 45502,
     "idImdb": "tt1407599",
     "idTvdb": 87491,
@@ -43777,7 +43783,7 @@
     "averageScore": 40,
     "meanScore": 40,
     "popularity": 7158,
-    "trending": 0,
+    "trending": 1,
     "favourites": 177,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -43859,7 +43865,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787403874,
+    "updatedAt": 1787439729,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -47852,7 +47858,7 @@
         }
       ]
     },
-    "updatedAt": 1787414573,
+    "updatedAt": 1787439723,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -49062,5 +49068,1751 @@
     "traktSlug": "crayon-shin-chan-pursuit-of-the-balls-of-darkness-1997",
     "idSimkl": 36922,
     "idShikimori": 6460
+  },
+  "6149": {
+    "id": 6149,
+    "idMal": 6149,
+    "title": {
+      "romaji": "Chibi Maruko-chan (1995)",
+      "english": "Chibi Maruko-chan",
+      "native": "ちびまる子ちゃん"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "RELEASING",
+    "description": "Momoko Sakura is an elementary school student who likes popular idol Momoe Yamaguchi and mangas. She is often called \"Chibi Maruko-chan\" due to her young age and small size. She lives together with her parents, her grandparents and her elder sister in a little town. In school, she has many friends with whom she studies and plays together everyday, including her close pal, Tama-chan; the student committee members, Maruo-kun and Migiwa-san; and the B-class trio: 'little master' Hanawa-kun, Hamaji-Bu Taro and Sekiguchi-kun. This is a fun-loving and enjoyable anime that portrays the simple things in life.\n<br><br>\n(Source: Anime News Network)",
+    "episodes": null,
+    "duration": 23,
+    "season": "SUMMER",
+    "seasonYear": 1995,
+    "startDate": {
+      "year": 1995,
+      "month": 8,
+      "day": 1
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6149-w9IRcMlFkn4i.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6149-w9IRcMlFkn4i.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b6149-w9IRcMlFkn4i.jpg",
+      "color": "#e4a150"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "Maruko-chan",
+      "Little Miss Maruko"
+    ],
+    "averageScore": 71,
+    "meanScore": 75,
+    "popularity": 1853,
+    "trending": 0,
+    "favourites": 57,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/@chibimarukochanenglish",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "http://chibimaru.tv/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "http://chibimaruko-chan.net/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.crunchyroll.com/series/GG5H5XQK4/chibi-maruko-chan",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/@chibimarukochanbahasaindonesia",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://x.com/tweet_maruko",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 1448 - Nakano-san's More Talkative Than Usual / Tomozou's Toy of Friendship",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/6c389d9c649fa9c6ed7cc27caf1533aa1727000370_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G8WUNJ0X5/nakano-sans-more-talkative-than-usual-tomozous-toy-of-friendship",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1447 - Hiroshi Teaches Baseball / Mom Wants to Cut Maruko's Hair",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/c09b522396b6abc3803332f0d5507ef61726386102_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G2XU07DKN/hiroshi-teaches-baseball-mom-wants-to-cut-marukos-hair",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1446 - Big Sis Learns How the Younger Ones Feel / Noguchi-san Becomes the Grandchild of the Sakura Family",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/b47bb3f465a7e41b3da77f355fba29b01725792949_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GPWUK9D7K/big-sis-learns-how-the-younger-ones-feel-noguchi-san-becomes-the-grandchild-of-the-sakura-family",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1445 - There's an Alligator in the Tomoe River / Mom's High Heels",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/9b800e58352a7a26a8bb3d92e11332a41725179984_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G31UXNZ12/theres-an-alligator-in-the-tomoe-river-moms-high-heels",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1444 - Dad's Holiday / Maruko is Afraid of the Ghost Bird",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/2c0d5cde65e32c7dd6e7263494f5b6921724578928_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GVWU0M4EX/dads-holiday-maruko-is-afraid-of-the-ghost-bird",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1443 - Maruko and Big Sis Go on an Excursion on Bicycles/Maruko is Scared but Wants to Read",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/d8d04e0c652508815ed7befa0c44b92e1723967066_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GMKUX1G29/maruko-and-big-sis-go-on-an-excursion-on-bicyclesmaruko-is-scared-but-wants-to-read",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1442 - Maruko and Big Sis Go on an Excursion on Bicycles/Maruko is Scared but Wants to Read",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/301e90496311c7a8602492b224d6cf3f1723365861_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GK9U3ED0E/maruko-and-big-sis-go-on-an-excursion-on-bicyclesmaruko-is-scared-but-wants-to-read",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1441 - Maruko and Big Sis Get New Hand-Me-Downs / Maruko Is Afraid of the Ghost of the Mirror",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/5e3a5e7e6d7b19a60b895b57d7b3af471722758162_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GN7UDMV91/maruko-and-big-sis-get-new-hand-me-downs-maruko-is-afraid-of-the-ghost-of-the-mirror",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1440 - Is Kosugi the Watermelon Thief? / Maruko Secretly Tails Big Sis",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/24454ebda711cc98a6e1938943e3f4e41722162820_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GJWU2WEG9/is-kosugi-the-watermelon-thief-maruko-secretly-tails-big-sis",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1439 - Maruko is Scared of the Cursed Poster / Maruko Wants to Get a Perfect Suntan",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/5c6628aa1586ee87cf535c8f5cb61d2c1720947220_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G8WUNJW0Z/maruko-is-scared-of-the-cursed-poster-maruko-wants-to-get-a-perfect-suntan",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1438 - Sakura Family's Summer Fair / Maruko Is Concerned About the Weather Forecast",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/d63083928a81358ef4ca1d708fbec6ee1720340315_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G2XU073DK/sakura-familys-summer-fair-maruko-is-concerned-about-the-weather-forecast",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1437 - Fujiki Thinks About Himself / Mom's Tanabata Festival",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/41717aa4e44f7613090247326c3357ba1719744228_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GPWUK95D4/fujiki-thinks-about-himself-moms-tanabata-festival",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1436 - Big Sis Wants To Get Spoiled As a Little Sister / Maruko Comes Up With a Way To Stay Dry in Rain",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/e8ddb92ccfbf5be964dcbcd2e1928d491719128683_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G31UXN3Z0/big-sis-wants-to-get-spoiled-as-a-little-sister-maruko-comes-up-with-a-way-to-stay-dry-in-rain",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1435 - What Should We Play After School? / Yamane Wants to be Called by His Nickname",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/a44e7f04ba83bc3c60cac1a5e549e7f31718532045_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G0DUN2ZWN/what-should-we-play-after-school-yamane-wants-to-be-called-by-his-nickname",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1434 - Maruko Gives in to the Cold",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/d151efe943378fe343248f868c708ebe1717927328_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GG1U2J15V/maruko-gives-in-to-the-cold",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1433 - Maruko Makes a Scene Over Hot Pot",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/9801203d3712f6ae3effa3c656b85f091717312080_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GWDU820MM/maruko-makes-a-scene-over-hot-pot",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1432 - Maru-chan Buys an Alarm Clock",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/e1b16878388d4abfaf19b2ab616734801716711343_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G50UZ0GNK/maru-chan-buys-an-alarm-clock",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1431 - Bell Crickets Are Noisy",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/f47848f9e8b264863e46f3847b4427991716100550_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GQJUG5WN5/bell-crickets-are-noisy",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1430 - At Home on a Hot Summer Day",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/73042be1b9d8f233631efc4d95c634a81715495280_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GD9UVM793/at-home-on-a-hot-summer-day",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1429 - The Family Goes on a Drive",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/42e3bdf7b8d6ed598e4e0e6d0b76ef791714889368_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G9DUEMK0M/the-family-goes-on-a-drive",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1428 - Today's Home Visit Day / A Tutor is Coming",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/66087dfb4693335d81b522b83882cddd1714290473_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G7PU41G7M/todays-home-visit-day-a-tutor-is-coming",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1427 - Professional Baseball Season Begins!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/2691e1ea22cb311b6b3ff0a4f95ea5c21713698314_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GEVUZD17N/professional-baseball-season-begins",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1426 - Hiroshi's Friendship, Maruko's Friendship / Maruko Wants to Play Darts",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/03d9538766732be481f91fa840e66f971709465197_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G0DUNKV28/hiroshis-friendship-marukos-friendship-maruko-wants-to-play-darts",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1425 - Maruko's Mask of Fortune/Maruko Wanders, Looking for A Bonfire",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/c7192e2d9ef2adf63c7e04c2014774541708854561_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GG1U2NKJ8/marukos-mask-of-fortunemaruko-wanders-looking-for-a-bonfire",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1424 - Tomozou Gets Distressed by Souvenirs/Hanawa-kun Commutes Alone",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/4b3a2da792d0f57c1b9dd3de03a21ca11708244214_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GWDU8J42X/tomozou-gets-distressed-by-souvenirshanawa-kun-commutes-alone",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1423 - Big Sis Has a Hard Time Writing About Her Family/Tonkatsu Challenge of Friendship",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/1396f4c0ac173eac664f3d028386b0881707646143_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G50UZV809/big-sis-has-a-hard-time-writing-about-her-familytonkatsu-challenge-of-friendship",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1422 - The Suitcase is Filled With Dreams \\ Maruko Looks for a Lost Item",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/ffc7be1b0f89b44e0e24757ae8a7f76c1707016990_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GQJUG3X5P/the-suitcase-is-filled-with-dreams-maruko-looks-for-a-lost-item",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1421 - Maruko Wants to Bring Good Fortune \\ Maruko Wants to Remove Lint Balls",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/93473f58d1fbc906f107cd3ee64786551706429530_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GD9UV31MD/maruko-wants-to-bring-good-fortune-maruko-wants-to-remove-lint-balls",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1420 - The Sakura Family Spends 3 Days Without a TV / Tama-chan Wants to Focus On Her Reading",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/74ab6089a0b7c59adc382da7af69423e1705837668_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GZ7UVEWGX/the-sakura-family-spends-3-days-without-a-tv-tama-chan-wants-to-focus-on-her-reading",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1419 - Hiroshi Longs to Live in the Countryside \\ The Sakura Family Enters a Marathon? \\",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/c3269683b970088dc30a0500a97882911705313515_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GD9UV31D4/hiroshi-longs-to-live-in-the-countryside-the-sakura-family-enters-a-marathon-",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 951,
+            "title": {
+              "romaji": "Chibi Maruko-chan",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 1990,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/951.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 28,
+        "name": "Kids",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 324,
+        "name": "Chibi",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 193,
+        "name": "Episodic",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 22,
+            "name": "Nippon Animation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 611,
+            "name": "Sakura Production"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 9528,
+            "name": {
+              "full": "Momoko Sakura",
+              "native": "さくらももこ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95345,
+              "name": {
+                "full": "TARAKO",
+                "native": null
+              }
+            },
+            {
+              "id": 96172,
+              "name": {
+                "full": "Kokoro Kikuchi",
+                "native": "菊池こころ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 21945,
+            "name": {
+              "full": "Kazuhiko Hanawa",
+              "native": "花輪和彦"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95488,
+              "name": {
+                "full": "Masami Kikuchi",
+                "native": "菊池正美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 26012,
+            "name": {
+              "full": "Hanako Migiwa",
+              "native": "みぎわ花子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96600,
+              "name": {
+                "full": "Miki Narahashi",
+                "native": "ならはしみき"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 36309,
+            "name": {
+              "full": "Narrator",
+              "native": "ナレーター"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 210750,
+              "name": {
+                "full": "Kyouya Kimura",
+                "native": "木村匡也"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 36475,
+            "name": {
+              "full": "Tamae Honami",
+              "native": "穂波たまえ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95674,
+              "name": {
+                "full": "Naoko Watanabe",
+                "native": "渡辺菜生子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 39490,
+            "name": {
+              "full": "Sakiko Sakura",
+              "native": "さくらさきこ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95485,
+              "name": {
+                "full": "Yuuko Mizutani",
+                "native": "水谷優子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 230181,
+            "name": {
+              "full": "Sueo Maruo",
+              "native": "丸尾末男"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95157,
+              "name": {
+                "full": "Nobuo Tobita",
+                "native": "飛田展男"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 230182,
+            "name": {
+              "full": "Sumire Sakura",
+              "native": "さくらすみれ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106122,
+              "name": {
+                "full": "Teiyuu Ichiryuusai",
+                "native": "一龍斎貞友"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 230183,
+            "name": {
+              "full": "Hiroshi Sakura",
+              "native": "さくらひろし"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100770,
+              "name": {
+                "full": "Yuusaku Yara",
+                "native": "屋良有作"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 230184,
+            "name": {
+              "full": "Tomozou Sakura",
+              "native": "さくら友蔵"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95142,
+              "name": {
+                "full": "Takeshi Aono",
+                "native": "青野武"
+              }
+            },
+            {
+              "id": 95220,
+              "name": {
+                "full": "Yuuki Tai",
+                "native": "泰勇気"
+              }
+            },
+            {
+              "id": 95651,
+              "name": {
+                "full": "Bin Shimada",
+                "native": "島田敏"
+              }
+            },
+            {
+              "id": 95870,
+              "name": {
+                "full": "Kei Tomiyama",
+                "native": "富山敬"
+              }
+            },
+            {
+              "id": 106122,
+              "name": {
+                "full": "Teiyuu Ichiryuusai",
+                "native": "一龍斎貞友"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787439734,
+    "idTmdb": 57775,
+    "idImdb": "tt0220204",
+    "idTvdb": 167131,
+    "idTrakt": 70690,
+    "traktSlug": "chibi-maruko-chan",
+    "idSimkl": 36942,
+    "idShikimori": 6149
+  },
+  "6312": {
+    "id": 6312,
+    "idMal": 6312,
+    "title": {
+      "romaji": "Taiho Shichauzo: Full Throttle Special",
+      "english": null,
+      "native": "逮捕しちゃうぞ フルスロットル Special"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "Rounding off season 3, Natsumi and Miyuki reminiscince about their lives at Bokuto station while hearing from people they've met through work. (This is limited to characters they've met in season 3.)<br><br>\nWe are also introduced to Bokuto Station's two new recruits; Kaori Takano and Sakura Fujieda. Starting off their duty, they are taken on a field trip by Miyuki and Natsumi and quickly find out what will be expected of them as police officers.",
+    "episodes": 1,
+    "duration": 21,
+    "season": "SUMMER",
+    "seasonYear": 2008,
+    "startDate": {
+      "year": 2008,
+      "month": 8,
+      "day": 22
+    },
+    "endDate": {
+      "year": 2008,
+      "month": 8,
+      "day": 22
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6312.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6312.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/6312.jpg",
+      "color": "#f1d6c9"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6312-tAfliZxJTc4Z.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "synonyms": [
+      "You're Under Arrest Full Throttle Episode 0"
+    ],
+    "averageScore": 63,
+    "meanScore": 66,
+    "popularity": 1322,
+    "trending": 0,
+    "favourites": 8,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 3000,
+            "title": {
+              "romaji": "Taiho Shichauzo: Full Throttle",
+              "english": "You're Under Arrest: Full Throttle"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2007,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3000.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 31292,
+            "title": {
+              "romaji": "Taiho Shichauzo",
+              "english": "You’re Under Arrest!"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx31292-HDOxvP3aZfwQ.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 40,
+        "name": "Police",
+        "rank": 50,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 37,
+            "name": "Studio DEEN"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 145,
+            "name": "TBS"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 376,
+            "name": "Sentai Filmworks"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 3726,
+            "name": {
+              "full": "Miyuki Kobayakawa",
+              "native": "小早川美幸"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95066,
+              "name": {
+                "full": "Akiko Hiramatsu",
+                "native": "平松晶子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 3727,
+            "name": {
+              "full": "Natsumi Tsujimoto",
+              "native": "辻本夏実"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95448,
+              "name": {
+                "full": "Sakiko Tamagawa",
+                "native": "玉川砂記子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 32704,
+            "name": {
+              "full": "Sakura Fujieda",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95185,
+              "name": {
+                "full": "Kana Hanazawa",
+                "native": "花澤香菜"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 32705,
+            "name": {
+              "full": "Kaori Takano",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95890,
+              "name": {
+                "full": "Haruka Tomatsu",
+                "native": "戸松遥"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787439734,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 6312
+  },
+  "6383": {
+    "id": 6383,
+    "idMal": 6383,
+    "title": {
+      "romaji": "Chargeman Ken!",
+      "english": "Chargeman Ken",
+      "native": "チャージマン研！"
+    },
+    "type": "ANIME",
+    "format": "TV_SHORT",
+    "status": "FINISHED",
+    "description": "\t\nIt is the year 2074. In a world threatened by aliens... an unlikely hero emerges! Ken Izumi may look like an ordinary 10-year-old boy, but he secretly possesses weapons, armor, and accessories that transform him into the superheroic Chargeman Ken. Ken protects his mom, dad, little sister Caron, robot pal Barican, and the rest of mankind from the diabolical Juralians, shape-shifting alien invaders bent on terrorizing the earth with flesh-eating butterflies, booby-trapped scientists, an evil doll, a prison break, alien mummies, a kid that sets stuff on fire, a song that makes you die... basically, they have about 65 plans for world domination.\n<br><br>\nThe only thing standing between the fragile human race and conquest by the Juralians is Chargeman Ken and his unquenchable thirst for fiery, atomic justice!\n<br><br>\nChargeman Ken originally ran on Japanese broadcast television in 1974. This delightfully bizarre kids’ cartoon was rediscovered in 2007 by Japanese fans, who flocked to Chargeman Ken for its strange artwork, clumsy animation, and fantastically inept stories... some of which have been banned from Japanese TV altogether.\n<br><br>\n(Source: Discotek Media)",
+    "episodes": 65,
+    "duration": 7,
+    "season": "SPRING",
+    "seasonYear": 1974,
+    "startDate": {
+      "year": 1974,
+      "month": 4,
+      "day": 1
+    },
+    "endDate": {
+      "year": 1974,
+      "month": 6,
+      "day": 28
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6383-Of2IRIAtgYaF.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6383-Of2IRIAtgYaF.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/6383-Of2IRIAtgYaF.png",
+      "color": "#d6a11a"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6383-MLIJau6o8f9m.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "Charge Man Ken!",
+      "Cha-Ken!"
+    ],
+    "averageScore": 41,
+    "meanScore": 42,
+    "popularity": 2253,
+    "trending": 1,
+    "favourites": 34,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLAGY-FsbTSSZ_ybD39rvJyMIJgi8LtC8q",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.crunchyroll.com/chargeman-ken",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.retrocrush.tv/series/011971s/chargeman-ken!",
+        "site": "RetroCrush",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 1 - DANGER!! THE CHILDREN'S SPACE STATION",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/772def4870643832d6f1df5e2152a55c1499978680_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYNQZPG2Y/danger-the-childrens-space-station",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - SAFE BY A HAIR!!!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/3ece95ca9b1f2b4579d8ee62105528701499978609_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6MGZDWZ6/safe-by-a-hair",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - THE BUTTERFLY SWARM FLUTTERS!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/64f2b1ea3c7966bc40b060799055498f1499978621_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G63VX7N9Y/the-butterfly-swarm-flutters",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - THE MYSTERIOUS HANDSOME BOY",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/5b1c35f0ab185433f82d90693ca8ef731499978946_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR2P91JJR/the-mysterious-handsome-boy",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - TERROR! THE MUMMY COMES BY CARRIAGE!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/9d66db12ba0f61e8bd72c713a277e4411499978652_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRZXZ2V8Y/terror-the-mummy-comes-by-carriage",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - UNCANNY! THE SPACE BOTANICAL GARDEN",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/2244b07fc43a5cc86012016bcccb97ad1499978649_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6Q4ZKDGR/uncanny-the-space-botanical-garden",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 7 - MAN OF THE WEST KEN!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/7d9408520e20705f92ead5badcdadb561499979203_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYWE8ZWEY/man-of-the-west-ken",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 8 - JURALIAN X-6",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/dfecbd2a8de6b924d06d73c380243af01499978916_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR09E157R/juralian-x-6",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 9 - ENTER, THE JURALMONS!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/93e888aaf583920e1b0b7e177279fc911499978689_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR75N7XKY/enter-the-juralmons",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 10 - BARICAN RUNS AMUCK!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/74688a6021d08c58e9b137822e48e5911499980586_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6X081GEY/barican-runs-amuck",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 11 - SAVE THE EARTH!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/9819ce00eff5df0d1466a1c43598bcb01499980812_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GY197NWGR/save-the-earth",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 12 - WE CAN'T EAT VEGETABLE SALAD",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/57c33cdacd490d74a41b661445e693c21499981064_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6NQZPN26/we-cant-eat-vegetable-salad",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 13 - SHOWDOWN! THE UNDERSEA CITY",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/5a8b86cb9bd12d882a3c18e3435e774e1499980542_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRMGZDJZR/showdown-the-undersea-city",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 14 - THE DAIBUTSU THAT VANISHED INTO THE NIGHT",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/6ea5ba114fefe733630876840b34e5661499980547_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR3VX7096/the-daibutsu-that-vanished-into-the-night",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 15 - THE ART GALLERY MYSTERY!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/392edf714b5bdca3fa3ee43e514fc1ce1499980570_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GY2P91GJY/the-art-gallery-mystery",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 16 - MURDER RECORD, MELODY OF TERROR!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/80381d0d9ed2114e2d0a0ae39f5ec7571499980557_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYZXZ2E86/murder-record-melody-of-terror",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 17 - FIND KEN'S SECRET!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/d6910c1e5eb231d7bbbb54b823c84dee1499980574_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRQ4ZK1GY/find-kens-secret",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 18 - THE GREAT ESCAPE FROM PRISON ISLAND",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/556cfb58062c9b14e79fba678af3bf051499980795_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6WE8Z3E6/the-great-escape-from-prison-island",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 19 - BANK GANG - CARON'S IN DANGER!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/a05394d52484023300f3f798d95150001499980599_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GY09E1P7Y/bank-gang-carons-in-danger",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 20 - KEN GETS A GIRLFRIEND",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/98fb6fabd47039e2db37be7482929f6c1499980875_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GY75N70K6/ken-gets-a-girlfriend",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 21 - CARON'S PRESENT",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/21a99eae8909c4cbc9b549ab292c24f51499980895_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRX081PE6/carons-present",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 22 - TIME BOMB FAX TV",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/1005e27d9a3ff025d8c93cf8fb0ce32a1499980964_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6197N2GY/time-bomb-fax-tv",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 23 - MENTAL HOSPITAL TERROR",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/07c080a657245e2cd9b6c17669d1f8241499980747_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRNQZP92R/mental-hospital-terror",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 24 - AN INVITATION TO THE ROBOT CLUB",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/7d06fb68361759d29bc790248e6e71911499980743_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYMGZD7ZY/an-invitation-to-the-robot-club",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 25 - SAVE YOUNG YUUICHI!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/0be10b84a39935438f112365ffa4aa591499981079_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GY3VX7Q9R/save-young-yuuichi",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 26 - THE GIRL WHO LOST HER MEMORY",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/00d70dee72f6757734409dba63c361e01499980984_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G62P918J6/the-girl-who-lost-her-memory",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 27 - THE BURNING POISON MUSHROOM HOUSE",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/fb2a3784a06708ba2a804840f702d03f1499981619_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6ZXZ288R/the-burning-poison-mushroom-house",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 28 - SPACE ROCKET Z9",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/021ed3e8a7e493fd0d6490d531f423ac1499981102_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYQ4ZKVG6/space-rocket-z9",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 29 - RUB OUT THE FASHION MODEL!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/ea5fd6051f8fc48b9c4becaf01a21d9d1499981136_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRWE8Z7ER/rub-out-the-fashion-model",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 30 - SAVE CARON FROM THE TOP OF THE TOWER!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/62b3bbb323a4928e229800c9b00fdc2a1499981167_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G609E1N76/save-caron-from-the-top-of-the-tower",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 31 - CRISIS! ONE SECOND TO BLAST",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/71355adab05dabb886aa350ab4a9f89d1499981285_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G675N7EKR/crisis-one-second-to-blast",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 32 - THE MASTER SAFE CRACKER",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/d74b30501196875b4882661931ff84ba1499980990_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYX081XER/the-master-safe-cracker",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 33 - IS MY DAD OLD-FASHIONED?",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/e075e96a3544ae9727e2f622be6e904e1499981307_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR197NMG6/is-my-dad-old-fashioned",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 34 - SKY ROD, BURROW INTO THE EARTH'S DEPTHS!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/6fa511ce5e254706f067a084bf7e72321499981897_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYNQZP42Y/sky-rod-burrow-into-the-earths-depths",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 35 - DYNAMITE IN THE BRAIN!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/5ff412422b5bbef0e85e92b5b0b0ca111499981415_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6MGZD9Z6/dynamite-in-the-brain",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 36 - SHUDDER! THE DEVIL'S HOSPITAL",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/419f452de01e2b646f2b5628d120182d1499982026_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G63VX729Y/shudder-the-devils-hospital",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 37 - BEAT THE HIJACK",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/227401d191d8939702e050fcbc16f2571499981447_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR2P913JR/beat-the-hijack",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 38 - OPERATION JURALIAN FAKE FRIENDSHIP",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/66acb70a12615935448e198ee69228521499981470_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRZXZ2N8Y/operation-juralian-fake-friendship",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 39 - THE PRETTY ROBOT IS A HERALD OF DEATH",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/38850dbe7c892d73b875b101733d34711499981365_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6Q4ZQGGR/the-pretty-robot-is-a-herald-of-death",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 40 - RACE ON MURDER HIGHWAY!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/7f7d73b805958f8511587aadacc4e1df1499981274_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYWE82GEY/race-on-murder-highway",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 41 - CINDERELLA GIRL",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/7db295ac1aabc1bb9b9516d2f2e7ee0c1499981681_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR09EGV7R/cinderella-girl",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 42 - THE AIR FORCE BASE IS TARGETED!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/10cc1c489d4c8079b3d9d21fad6960a11499981560_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR75NKVKY/the-air-force-base-is-targeted",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 43 - PEER THROUGH THE CAMERA VIEWFINDER!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/ad4b9beb2a87fcd13eccd62002f605dd1499981603_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6X0837EY/peer-through-the-camera-viewfinder",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 44 - BEAT THE FAKE KEN!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/ee0475c0b2bfbe49152737f40d73dde01499981678_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GY1970KGR/beat-the-fake-ken",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 45 - WHEN THE CUCKOO CLOCK STRIKES THREE",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/55461763caf497614a541118135e549a1499981673_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYQ4ZQG26/when-the-cuckoo-clock-strikes-three",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 46 - TERROR! THE HOUSE OF THE WHITE-HAIRED CRONE!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/410d4635c29130eb868de433818e1baa1499981727_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRWE82G8R/terror-the-house-of-the-white-haired-crone",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 47 - THE GREAT JURALIAN COUNTERATTACK",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/c02da08fb988ca52420c061aef65e1591499981763_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G609EGV06/the-great-juralian-counterattack",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 48 - SHOWDOWN ON THE SOLITARY ISLAND!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/67c82dc0e3e29fc1d637bf54b29604661499981832_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G675NKV3R/showdown-on-the-solitary-island",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 49 - THE DELINQUENT'S TRUE COLORS",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/ec8a1b7148a5bfe1d9c2944490c494141499981894_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYX0837PR/the-delinquents-true-colors",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 50 - SAVE THE ORPHAN CENTER!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/aff8287a0bf102986b069cb9e8110ce71499982290_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR19704K6/save-the-orphan-center",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 51 - STRAY DOG KORO",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/3d64b5e33ba9cb8eee72417718d3c1661499981946_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYNQZX7QY/stray-dog-koro",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 52 - BLOW UP THE UNDERSEA OIL FIELD!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/026fab2972e043a0eae01994378712641499981949_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6MGZPK86/blow-up-the-undersea-oil-field",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 53 - THE SUSPICIOUS BRIDE",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/5b3d07cc431b0768c6628eafbbd15f121499981978_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G63VXM1MY/the-suspicious-bride",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 54 - SPOOKY! THE WAXWORK MUSEUM",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/7d48e5ebdd92cbb4e6b0238706caf9df1499982014_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR2P9EXMR/spooky-the-waxwork-museum",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 55 - THE ONES THEY MET IN EGYPT",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/a86b22a9670d8d6ed6f03dc6098229c51499982066_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRZXZD7KY/the-ones-they-met-in-egypt",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 56 - RUNAWAY! HORSEBACK KEN",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/ff3c0b3eb386c700c13949411baa3a421499982088_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6Q4ZQJ2R/runaway-horseback-ken",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 57 - THE ANTARCTIC AMUSEMENT PARK",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/d46a71041146abbc3a7c4c42d5e4c8e51499982831_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYWE82D8Y/the-antarctic-amusement-park",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 58 - CIRCUS OF FIENDS",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/ebd4700302bb44ae5689d1ba40bff6121499982239_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR09EGD0R/circus-of-fiends",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 59 - FOREST OF TERROR",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/f00a1c2d5256e9b384e81ab79ec70db91499982156_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR75NKP3Y/forest-of-terror",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 60 - TSUNAMI ATTACK",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/71f77fe37077a7b46ba05bede7f0e8b11499982197_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6X0839PY/tsunami-attack",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 61 - BARICAN'S OLD FRIEND PAYS A VISIT",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/cd3403f3e870dcac1a3672c1a6f28cb31499982368_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GY19709KR/baricans-old-friend-pays-a-visit",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 62 - CRISIS AT THE AGRICULTURAL COMPLEX!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/eba04fa5de6c532978f2544b583e7a391499983009_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6NQZXQQ6/crisis-at-the-agricultural-complex",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 63 - DEFEAT THE MURDEROUS BOXER!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/5bc70727b1bc54580374b1d3ae422bfd1499982265_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRMGZPG8R/defeat-the-murderous-boxer",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 64 - EXPLOSION! THE MAMMOTH CONTROL CENTER",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/23c7d010826df3869fbc5822ead3ae8e1499982365_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR3VXMVM6/explosion-the-mammoth-control-center",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 65 - VICTORY! CHARGEMAN KEN!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/b09954578ec9dc3c1d5f72c7fbf139cd1499982347_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GY2P9EPMY/victory-chargeman-ken",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 10812,
+            "title": {
+              "romaji": "Toumei Shounen Tantei Akira",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/10812.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 513,
+        "name": "Tokusatsu",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 193,
+        "name": "Episodic",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 104,
+        "name": "Anti-Hero",
+        "rank": 91,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 99,
+        "name": "Henshin",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 191,
+        "name": "Aliens",
+        "rank": 82,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 772,
+        "name": "Shapeshifting",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 172,
+        "name": "Superhero",
+        "rank": 72,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 456,
+        "name": "Conspiracy",
+        "rank": 66,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 314,
+        "name": "American Football",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1046,
+        "name": "Suicide",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 175,
+        "name": "Robots",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 152,
+        "name": "Zombie",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 149,
+        "name": "Baseball",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 194,
+        "name": "Tennis",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 169,
+        "name": "Boxing",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 636,
+        "name": "Cosmic Horror",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 452,
+            "name": "Knack Productions"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 467,
+            "name": "Discotek"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 939,
+            "name": "Tama Production"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 42013,
+            "name": {
+              "full": "Ken Izumi",
+              "native": "泉研"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 115070,
+              "name": {
+                "full": "Kazuko Sawada",
+                "native": "沢田和子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 61975,
+            "name": {
+              "full": "Caron Izumi",
+              "native": "泉キャロン"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 80007,
+            "name": {
+              "full": "Barican",
+              "native": "バリカン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 104181,
+              "name": {
+                "full": "Kazumi Tanaka",
+                "native": "田中和実"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 46797,
+            "name": {
+              "full": "Volga Hakase",
+              "native": "ボルガ博士"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 61973,
+            "name": {
+              "full": "Hoshi",
+              "native": "星"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 61977,
+            "name": {
+              "full": "Jurals Seijin",
+              "native": "ジュラル星人"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 61981,
+            "name": {
+              "full": "Maou",
+              "native": "魔王"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 314524,
+            "name": {
+              "full": "Miyuki",
+              "native": "みゆき"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 314525,
+            "name": {
+              "full": "Nagisa",
+              "native": "なぎさ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 314526,
+            "name": {
+              "full": "Helen Koizumi",
+              "native": "こいずみエレン"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787439706,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 39903,
+    "idShikimori": 6383
+  },
+  "6691": {
+    "id": 6691,
+    "idMal": 6691,
+    "title": {
+      "romaji": "Elf no Futagohime: Willan to Arsura",
+      "english": null,
+      "native": "エルフの双子姫 ウィランとアルスラ"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "Based on the erotic game by Lune.<br>\n<br>\nThere is a world where humans and elves live together. Elves rule the world because of their intelligence and longevity. But one day, humans rise in rebellion and a big war breaks out. After a long battle, both countries decide to stop the war by a marriage of convenience. Arsura, a princess of elf country, is chosen as a bride. However, when she is on her way to the human territory, she and Willan, her sister and security guard, are kidnapped by someone! While elves and humans push responsibility to each other, a group of monsters appear! It's them who kidnapped elf sisters. Their boss is Darsh, who is half human and half elf. What is his purpose...? Another war breaks out now! <br>\n<br>\n(Source: ErogeShop)",
+    "episodes": 1,
+    "duration": 30,
+    "season": "SUMMER",
+    "seasonYear": 2009,
+    "startDate": {
+      "year": 2009,
+      "month": 7,
+      "day": 31
+    },
+    "endDate": {
+      "year": 2009,
+      "month": 7,
+      "day": 31
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6691.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6691.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/6691.jpg",
+      "color": "#f1d650"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [
+      "Twin Elf Princesses Willan & Arsura"
+    ],
+    "averageScore": 53,
+    "meanScore": 55,
+    "popularity": 940,
+    "trending": 1,
+    "favourites": 13,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "VISUAL_NOVEL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 92170,
+            "title": {
+              "romaji": "Elf no Futagohime: Willan to Arsura - \"Watashi wa Dou Natte mo Ii kara, Onee-sama ni wa Te wo Dasanaide......!\"",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/92170-G4HKxBbtgYWg.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 598,
+        "name": "Elf",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 137,
+        "name": "Large Breasts",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 405,
+            "name": "T-REX"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 821,
+            "name": "Cotton Doll"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 823,
+            "name": "Lune Pictures"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 37022,
+            "name": {
+              "full": "Arsura",
+              "native": "アルスラ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 123916,
+              "name": {
+                "full": "Saki Minase",
+                "native": "水瀬沙季"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 37023,
+            "name": {
+              "full": "Daashu",
+              "native": "ダーシュ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 37024,
+            "name": {
+              "full": "Meiriin",
+              "native": "メイリーン"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 37025,
+            "name": {
+              "full": "Willan",
+              "native": "ウィラン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96133,
+              "name": {
+                "full": "Harumi Sakurai",
+                "native": "櫻井浩美"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787439674,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 6691
   }
 }

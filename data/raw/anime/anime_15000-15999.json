@@ -218,7 +218,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 37920,
-    "trending": 0,
+    "trending": 1,
     "favourites": 223,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -458,7 +458,7 @@
         }
       ]
     },
-    "updatedAt": 1787414716,
+    "updatedAt": 1787439686,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -953,7 +953,7 @@
         }
       ]
     },
-    "updatedAt": 1787414686,
+    "updatedAt": 1787439670,
     "idTmdb": 52890,
     "idImdb": "tt2622978",
     "idTvdb": 267437,
@@ -4249,7 +4249,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 23612,
-    "trending": 1,
+    "trending": 0,
     "favourites": 188,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4628,7 +4628,7 @@
         }
       ]
     },
-    "updatedAt": 1787414592,
+    "updatedAt": 1787439734,
     "idTmdb": 53020,
     "idImdb": "tt2390066",
     "idTvdb": 262856,
@@ -4681,7 +4681,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 149889,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1871,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4821,15 +4821,15 @@
         "isMediaSpoiler": true
       },
       {
-        "id": 391,
-        "name": "Philosophy",
-        "rank": 77,
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 79,
         "isMediaSpoiler": false
       },
       {
-        "id": 82,
-        "name": "Male Protagonist",
-        "rank": 73,
+        "id": 391,
+        "name": "Philosophy",
+        "rank": 77,
         "isMediaSpoiler": false
       },
       {
@@ -4849,6 +4849,12 @@
         "name": "Gore",
         "rank": 70,
         "isMediaSpoiler": true
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 68,
+        "isMediaSpoiler": false
       },
       {
         "id": 1228,
@@ -5041,7 +5047,7 @@
         }
       ]
     },
-    "updatedAt": 1787414716,
+    "updatedAt": 1787439681,
     "idTmdb": 46195,
     "idImdb": null,
     "idTvdb": null,
@@ -5995,7 +6001,7 @@
     "averageScore": 75,
     "meanScore": 75,
     "popularity": 393976,
-    "trending": 5,
+    "trending": 4,
     "favourites": 7468,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6534,7 +6540,7 @@
         }
       ]
     },
-    "updatedAt": 1787414537,
+    "updatedAt": 1787439687,
     "idTmdb": 45997,
     "idImdb": "tt2622982",
     "idTvdb": 267441,
@@ -6590,7 +6596,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 121901,
-    "trending": 1,
+    "trending": 2,
     "favourites": 1692,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7029,7 +7035,7 @@
         }
       ]
     },
-    "updatedAt": 1787403832,
+    "updatedAt": 1787439695,
     "idTmdb": 56090,
     "idImdb": "tt2575690",
     "idTvdb": 264531,
@@ -7678,7 +7684,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 78427,
-    "trending": 2,
+    "trending": 0,
     "favourites": 965,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8120,7 +8126,7 @@
         }
       ]
     },
-    "updatedAt": 1787414503,
+    "updatedAt": 1787439734,
     "idTmdb": 53594,
     "idImdb": "tt2552262",
     "idTvdb": 264049,
@@ -8782,7 +8788,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 22134,
-    "trending": 0,
+    "trending": 1,
     "favourites": 244,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9229,7 +9235,7 @@
         }
       ]
     },
-    "updatedAt": 1787436143,
+    "updatedAt": 1787439668,
     "idTmdb": 53085,
     "idImdb": "tt2552290",
     "idTvdb": 264525,
@@ -10683,7 +10689,7 @@
     "averageScore": 60,
     "meanScore": 60,
     "popularity": 12004,
-    "trending": 0,
+    "trending": 1,
     "favourites": 99,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10702,7 +10708,13 @@
               "romaji": "Hagure Yuusha no Estetica",
               "english": "Aesthetica of a Rogue Hero"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2012,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx13161-m4znwxInGXfd.jpg"
+            }
           }
         }
       ]
@@ -10849,7 +10861,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787439722,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 15729
   },
   "15775": {
     "id": 15775,
@@ -12884,7 +12903,7 @@
     "averageScore": 59,
     "meanScore": 59,
     "popularity": 86136,
-    "trending": 0,
+    "trending": 2,
     "favourites": 978,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13310,7 +13329,7 @@
         }
       ]
     },
-    "updatedAt": 1787411283,
+    "updatedAt": 1787439674,
     "idTmdb": 61178,
     "idImdb": "tt3127798",
     "idTvdb": 271988,
@@ -17747,7 +17766,7 @@
     "averageScore": 89,
     "meanScore": 89,
     "popularity": 83975,
-    "trending": 0,
+    "trending": 2,
     "favourites": 2179,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -18565,7 +18584,7 @@
         }
       ]
     },
-    "updatedAt": 1787436143,
+    "updatedAt": 1787439676,
     "idTmdb": 57041,
     "idImdb": "tt0988818",
     "idTvdb": 79895,
@@ -22020,7 +22039,7 @@
         }
       ]
     },
-    "updatedAt": 1787385727,
+    "updatedAt": 1787439734,
     "idTmdb": 57287,
     "idImdb": null,
     "idTvdb": null,
@@ -26604,7 +26623,7 @@
         }
       ]
     },
-    "updatedAt": 1787414593,
+    "updatedAt": 1787439710,
     "idTmdb": 46440,
     "idImdb": "tt2074011",
     "idTvdb": 186911,
@@ -27886,5 +27905,695 @@
     "traktSlug": "hetalia-axis-powers",
     "idSimkl": 1099573,
     "idShikimori": 15195
+  },
+  "15323": {
+    "id": 15323,
+    "idMal": 15323,
+    "title": {
+      "romaji": "ONE PIECE: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna",
+      "english": null,
+      "native": "ONE PIECE エピソードオブナミ 〜航海士の涙と仲間の絆〜"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "A retelling of the Arlong Park arc, with new animation.",
+    "episodes": 1,
+    "duration": 105,
+    "season": "SUMMER",
+    "seasonYear": 2012,
+    "startDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 25
+    },
+    "endDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15323.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15323.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/15323.jpg",
+      "color": "#fed628"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/15323-zrax5OGlGepE.png",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "One Piece Special"
+    ],
+    "averageScore": 78,
+    "meanScore": 78,
+    "popularity": 17447,
+    "trending": 2,
+    "favourites": 179,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 30013,
+            "title": {
+              "romaji": "ONE PIECE",
+              "english": "One Piece"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx30013-BeslEMqiPhlk.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 21,
+            "title": {
+              "romaji": "ONE PIECE",
+              "english": "ONE PIECE"
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "FALL",
+            "seasonYear": 1999,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21-ELSYx3yMPcKM.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 201,
+        "name": "Pirates",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 305,
+        "name": "Ships",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 43,
+        "name": "Swordplay",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1525,
+        "name": "Horticulture",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 18,
+            "name": "Toei Animation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 169,
+            "name": "Fuji TV"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 40,
+            "name": {
+              "full": "Luffy Monkey",
+              "native": "モンキー・D・ルフィ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95075,
+              "name": {
+                "full": "Mayumi Tanaka",
+                "native": "田中真弓"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 62,
+            "name": {
+              "full": "Zoro Roronoa",
+              "native": "ロロノア・ゾロ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95123,
+              "name": {
+                "full": "Kazuya Nakai",
+                "native": "中井和哉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 305,
+            "name": {
+              "full": "Sanji",
+              "native": "サンジ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95125,
+              "name": {
+                "full": "Hiroaki Hirata",
+                "native": "平田広明"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 723,
+            "name": {
+              "full": "Nami",
+              "native": "ナミ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95076,
+              "name": {
+                "full": "Akemi Okamura",
+                "native": "岡村明美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 724,
+            "name": {
+              "full": "Usopp",
+              "native": "ウソップ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95067,
+              "name": {
+                "full": "Kappei Yamaguchi",
+                "native": "山口勝平"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 4887,
+            "name": {
+              "full": "Arlong",
+              "native": "アーロン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95237,
+              "name": {
+                "full": "Juurouta Kosugi",
+                "native": "小杉十郎太"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 2064,
+            "name": {
+              "full": "Dracule Mihawk",
+              "native": "ジュラキュール・ミホーク"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102664,
+              "name": {
+                "full": "Hirohiko Kakegawa",
+                "native": "掛川裕彦"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 4888,
+            "name": {
+              "full": "Nojiko",
+              "native": "ノジコ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95496,
+              "name": {
+                "full": "Wakana Yamazaki",
+                "native": "山崎和佳奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 4889,
+            "name": {
+              "full": "Hatchan",
+              "native": "はっちゃん"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95006,
+              "name": {
+                "full": "Toshiyuki Morikawa",
+                "native": "森川智之"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 4890,
+            "name": {
+              "full": "Bellemere",
+              "native": "ベルメール"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95181,
+              "name": {
+                "full": "Noriko Hidaka",
+                "native": "日高のり子"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787439712,
+    "idTmdb": 215180,
+    "idImdb": "tt2598466",
+    "idTvdb": null,
+    "idTrakt": 132876,
+    "traktSlug": "one-piece-episode-of-nami-tears-of-a-navigator-and-the-bonds-of-friends-2012",
+    "idSimkl": null,
+    "idShikimori": 15323
+  },
+  "15487": {
+    "id": 15487,
+    "idMal": 15487,
+    "title": {
+      "romaji": "Kuroko no Basket NG-shuu",
+      "english": "Kuroko's Basketball Specials",
+      "native": "黒子のバスケNG集"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "Animated bloopers, based on the extra section of the original manga series, included with the BD/DVD series for Kuroko no Basket (both limited and normal editions).",
+    "episodes": 9,
+    "duration": 4,
+    "season": "SUMMER",
+    "seasonYear": 2012,
+    "startDate": {
+      "year": 2012,
+      "month": 7,
+      "day": 27
+    },
+    "endDate": {
+      "year": 2013,
+      "month": 3,
+      "day": 22
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15487.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15487.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/15487.jpg",
+      "color": "#d66b1a"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Sports"
+    ],
+    "synonyms": [
+      "Kuroko no Basket NG Collection",
+      "Kuroko no Basket Specials"
+    ],
+    "averageScore": 73,
+    "meanScore": 73,
+    "popularity": 14264,
+    "trending": 1,
+    "favourites": 81,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 11771,
+            "title": {
+              "romaji": "Kuroko no Basket",
+              "english": "Kuroko's Basketball"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2012,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11771-uvr44RAwRxPw.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 192,
+        "name": "Basketball",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 83,
+        "name": "Slapstick",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 149,
+        "name": "Baseball",
+        "rank": 10,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 10,
+            "name": "Production I.G"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 18769,
+            "name": {
+              "full": "Tetsuya Kuroko",
+              "native": "黒子テツヤ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95819,
+              "name": {
+                "full": "Kenshou Ono",
+                "native": "小野賢章"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 18770,
+            "name": {
+              "full": "Taiga Kagami",
+              "native": "火神大我"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96154,
+              "name": {
+                "full": "Yuuki Ono",
+                "native": "小野友樹"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 21331,
+            "name": {
+              "full": "Riko Aida",
+              "native": "相田リコ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95061,
+              "name": {
+                "full": "Chiwa Saitou",
+                "native": "斎藤千和"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 21332,
+            "name": {
+              "full": "Ryouta Kise",
+              "native": "黄瀬涼太"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96762,
+              "name": {
+                "full": "Ryouhei Kimura",
+                "native": "木村良平"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 22251,
+            "name": {
+              "full": "Shun Izuki",
+              "native": "伊月俊"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95341,
+              "name": {
+                "full": "Hirofumi Nojima",
+                "native": "野島裕史"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 22253,
+            "name": {
+              "full": "Shintarou Midorima",
+              "native": "緑間真太郎"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95212,
+              "name": {
+                "full": "Daisuke Ono",
+                "native": "小野大輔"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 22254,
+            "name": {
+              "full": "Junpei Hyuuga",
+              "native": "日向順平"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100626,
+              "name": {
+                "full": "Yoshimasa Hosoya",
+                "native": "細谷佳正"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 22255,
+            "name": {
+              "full": "Shinji Koganei",
+              "native": "小金井慎二"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102695,
+              "name": {
+                "full": "Takuya Eguchi",
+                "native": "江口拓也"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 36820,
+            "name": {
+              "full": "Daiki Aomine",
+              "native": "青峰大輝"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95095,
+              "name": {
+                "full": "Junichi Suwabe",
+                "native": "諏訪部順一"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 36821,
+            "name": {
+              "full": "Satsuki Momoi",
+              "native": "桃井さつき"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95152,
+              "name": {
+                "full": "Fumiko Orikasa",
+                "native": "折笠富美子"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787439707,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 15487
   }
 }

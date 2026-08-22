@@ -247,7 +247,7 @@
     "averageScore": 59,
     "meanScore": 60,
     "popularity": 5203,
-    "trending": 0,
+    "trending": 1,
     "favourites": 56,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -581,7 +581,7 @@
         }
       ]
     },
-    "updatedAt": 1787404670,
+    "updatedAt": 1787439704,
     "idTmdb": 296851,
     "idImdb": "tt38037470",
     "idTvdb": 466237,
@@ -632,7 +632,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 4109,
-    "trending": 0,
+    "trending": 1,
     "favourites": 30,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -775,7 +775,7 @@
         }
       ]
     },
-    "updatedAt": 1787390521,
+    "updatedAt": 1787439707,
     "idTmdb": 296551,
     "idImdb": "tt38040644",
     "idTvdb": 470384,
@@ -1299,7 +1299,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788015600,
-      "timeUntilAiring": 575786,
+      "timeUntilAiring": 575083,
       "episode": 9
     },
     "relations": {
@@ -2686,7 +2686,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787495400,
-      "timeUntilAiring": 55617,
+      "timeUntilAiring": 54921,
       "episode": 20
     },
     "relations": {
@@ -3211,7 +3211,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788014760,
-      "timeUntilAiring": 574950,
+      "timeUntilAiring": 574247,
       "episode": 22
     },
     "relations": {
@@ -3655,7 +3655,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787754600,
-      "timeUntilAiring": 314816,
+      "timeUntilAiring": 314121,
       "episode": 8
     },
     "relations": {
@@ -4148,7 +4148,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787662800,
-      "timeUntilAiring": 222981,
+      "timeUntilAiring": 222277,
       "episode": 9
     },
     "relations": {
@@ -4600,7 +4600,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787842560,
-      "timeUntilAiring": 402741,
+      "timeUntilAiring": 402037,
       "episode": 8
     },
     "relations": {
@@ -5002,7 +5002,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787923800,
-      "timeUntilAiring": 483985,
+      "timeUntilAiring": 483282,
       "episode": 9
     },
     "relations": {
@@ -5665,7 +5665,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 8993,
-    "trending": 2,
+    "trending": 0,
     "favourites": 93,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5843,7 +5843,7 @@
         }
       ]
     },
-    "updatedAt": 1787414533,
+    "updatedAt": 1787439734,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -8432,5 +8432,115 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": null
+  },
+  "196193": {
+    "id": 196193,
+    "idMal": 60447,
+    "title": {
+      "romaji": "MONOCHROME",
+      "english": null,
+      "native": "MONOCHROME"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video directed by Akira Kadoya and animaed by Kouhei Ashiya for the song <i>MONOCHROME</i> by suisoh.\n<br><br>\n<i>Note: This song also serves as the ending theme for the anime BLEACH: Sennen Kessen-hen - Soukoku-tan</i>.",
+    "episodes": 1,
+    "duration": 3,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2024,
+      "month": 10,
+      "day": 12
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 10,
+      "day": 12
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196193-y9KcjE3SB9IO.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196193-y9KcjE3SB9IO.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196193-y9KcjE3SB9IO.png",
+      "color": "#1a5d78"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "synonyms": [],
+    "averageScore": 54,
+    "meanScore": 60,
+    "popularity": 267,
+    "trending": 0,
+    "favourites": 3,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "PvEz-mDsQeI",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/PvEz-mDsQeI/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 169755,
+            "title": {
+              "romaji": "BLEACH: Sennen Kessen-hen - Soukoku-tan",
+              "english": "BLEACH: Thousand-Year Blood War - The Conflict"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169755-Rqb7MjnzdTc6.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1596,
+        "name": "Time Loop",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 694,
+        "name": "Detective",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 285,
+        "name": "Terrorism",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787439734,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 60447
   }
 }

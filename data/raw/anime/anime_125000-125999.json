@@ -2236,7 +2236,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 158696,
-    "trending": 4,
+    "trending": 1,
     "favourites": 3152,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2609,7 +2609,7 @@
         }
       ]
     },
-    "updatedAt": 1787414671,
+    "updatedAt": 1787439719,
     "idTmdb": 112160,
     "idImdb": "tt13357124",
     "idTvdb": 391005,
@@ -4396,7 +4396,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 135451,
-    "trending": 4,
+    "trending": 1,
     "favourites": 2307,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4812,7 +4812,7 @@
         }
       ]
     },
-    "updatedAt": 1787414568,
+    "updatedAt": 1787439715,
     "idTmdb": 112163,
     "idImdb": "tt13352232",
     "idTvdb": 391006,
@@ -4875,7 +4875,7 @@
     "averageScore": 89,
     "meanScore": 89,
     "popularity": 289886,
-    "trending": 8,
+    "trending": 7,
     "favourites": 15750,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5460,7 +5460,7 @@
         }
       ]
     },
-    "updatedAt": 1787414531,
+    "updatedAt": 1787439666,
     "idTmdb": 83121,
     "idImdb": "tt9522300",
     "idTvdb": 354198,
@@ -11818,5 +11818,219 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 43020
+  },
+  "125517": {
+    "id": 125517,
+    "idMal": null,
+    "title": {
+      "romaji": "Star Smash PV",
+      "english": null,
+      "native": "スタースマッシュ PV"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Promotional Video for the Disney mobile game <i>Star Smash<i/>",
+    "episodes": 1,
+    "duration": 1,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2020,
+      "month": 10,
+      "day": 30
+    },
+    "endDate": {
+      "year": 2020,
+      "month": 10,
+      "day": 30
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125517-LDYgiI7Kw69R.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125517-LDYgiI7Kw69R.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx125517-LDYgiI7Kw69R.png",
+      "color": "#e45d35"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Music",
+      "Sports"
+    ],
+    "synonyms": [],
+    "averageScore": 50,
+    "meanScore": 57,
+    "popularity": 241,
+    "trending": 0,
+    "favourites": 4,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": {
+      "id": "ftFi__rLTWA",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/ftFi__rLTWA/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/stasma_jp",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 505,
+        "name": "Advertisement",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 558,
+        "name": "Mermaid",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6248,
+            "name": "XFLAG"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 103,
+            "name": "Tatsunoko Production"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 417,
+            "name": "Walt Disney Studios"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 193830,
+            "name": {
+              "full": "Yuu",
+              "native": "ユウ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 193832,
+            "name": {
+              "full": "Yuuya",
+              "native": "ユーヤ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 193833,
+            "name": {
+              "full": "Kei",
+              "native": "ケイ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 193835,
+            "name": {
+              "full": "Shin",
+              "native": "シン"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 12149,
+            "name": {
+              "full": "Mickey Mouse",
+              "native": "ミッキーマウス"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 29462,
+            "name": {
+              "full": "Ariel",
+              "native": "アリエル"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 193829,
+            "name": {
+              "full": "Aladdin",
+              "native": "アラジン"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 193831,
+            "name": {
+              "full": "Hercules",
+              "native": "ヘラクレス"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 193834,
+            "name": {
+              "full": "Peter Pan",
+              "native": "ピーター・パン"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787439734,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }
