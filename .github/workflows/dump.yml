@@ -54,5 +54,6 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Auto-update AniList data dump [skip ci]"
+          git pull origin main --rebase
           git push
         fi
