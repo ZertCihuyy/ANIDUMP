@@ -9015,7 +9015,7 @@
     "averageScore": 68,
     "meanScore": 69,
     "popularity": 51340,
-    "trending": 1,
+    "trending": 0,
     "favourites": 402,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9034,7 +9034,13 @@
               "romaji": "Plastic Nee-san",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx55675-TP2W9P2cXuoM.jpg"
+            }
           }
         }
       ]
@@ -9262,7 +9268,14 @@
         }
       ]
     },
-    "updatedAt": 1787349705
+    "updatedAt": 1787364123,
+    "idTmdb": 54310,
+    "idImdb": "tt3462244",
+    "idTvdb": 261390,
+    "idTrakt": 67473,
+    "traktSlug": "plastic-elder-sister",
+    "idSimkl": 38672,
+    "idShikimori": 10711
   },
   "10067": {
     "id": 10067,
@@ -21223,7 +21236,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 10106
   },
   "10379": {
     "id": 10379,

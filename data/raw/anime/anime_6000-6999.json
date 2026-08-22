@@ -3923,7 +3923,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 47317,
-    "trending": 1,
+    "trending": 0,
     "favourites": 948,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3953,7 +3953,13 @@
               "romaji": "So Ra No Wo To OVA",
               "english": "Sound of the Sky OVA"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2010,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx8197-UYNfrJE3QKQO.png"
+            }
           }
         },
         {
@@ -3964,7 +3970,13 @@
               "romaji": "So Ra No Wo To",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/n47513-o78q1gJ0dqi0.png"
+            }
           }
         }
       ]
@@ -4296,7 +4308,14 @@
         }
       ]
     },
-    "updatedAt": 1787349728
+    "updatedAt": 1787364123,
+    "idTmdb": 35461,
+    "idImdb": "tt1568632",
+    "idTvdb": 132771,
+    "idTrakt": 35309,
+    "traktSlug": "sound-of-the-sky",
+    "idSimkl": 37668,
+    "idShikimori": 6802
   },
   "6024": {
     "id": 6024,
@@ -8140,7 +8159,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 102560,
-    "trending": 2,
+    "trending": 0,
     "favourites": 1271,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8279,7 +8298,13 @@
               "romaji": "Kuroshitsuji",
               "english": "Black Butler"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2008,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx4898-mW4gabZvwmLC.jpg"
+            }
           }
         },
         {
@@ -8290,7 +8315,13 @@
               "romaji": "Kuroshitsuji II OVA",
               "english": "Black Butler II OVA"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2010,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx9136-ya8hYWZUmNMW.png"
+            }
           }
         },
         {
@@ -8301,7 +8332,13 @@
               "romaji": "Kuroshitsuji: Book of Circus",
               "english": "Black Butler: Book of Circus"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2014,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx20606-58LzabjtVrwt.jpg"
+            }
           }
         }
       ]
@@ -8624,7 +8661,7 @@
         }
       ]
     },
-    "updatedAt": 1787356975,
+    "updatedAt": 1787364123,
     "idTmdb": 50712,
     "idImdb": "tt1316554",
     "idTvdb": 83996,
@@ -14306,7 +14343,13 @@
               "romaji": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
               "english": "Fullmetal Alchemist: Brotherhood"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2009,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5114-nSWCgQlmOMtj.jpg"
+            }
           }
         },
         {
@@ -14317,7 +14360,13 @@
               "romaji": "Hagane no Renkinjutsushi: 20th ANNIVERSARY BOOK",
               "english": "Fullmetal Alchemist 20th Anniversary Book"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx188032-1UhIZOePcn7c.jpg"
+            }
           }
         }
       ]
@@ -14626,7 +14675,14 @@
         }
       ]
     },
-    "updatedAt": 1787345811
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 6421
   },
   "6413": {
     "id": 6413,
@@ -31544,5 +31600,425 @@
     "traktSlug": "darker-than-black",
     "idSimkl": 41655,
     "idShikimori": 6573
+  },
+  "6381": {
+    "id": 6381,
+    "idMal": 6381,
+    "title": {
+      "romaji": "Strike Witches 2",
+      "english": "Strike Witches 2",
+      "native": "ストライクウィッチーズ 2"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "After discovering that Neuroi are capable of communication with humans and making peace with the nest above Gallia the Witches squads are now on a mission to re-establish communication when a sudden attack vanishes the Neuroi; they now discover a new and massive nest that just appeared covering almost all Europe. Ruthless and without mercy it annihilates allied forces along with Witches. Word of the attack reaches Fuso and a support battalion is deployed to rescue the survivors. Among the rescue team is the former Striker captain Mio Sakamoto and the now civilian Yoshika Miyafuji who want to save their dear friends.\n<br><br>\n(Source: Anime News Network)",
+    "episodes": 12,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2010,
+    "startDate": {
+      "year": 2010,
+      "month": 7,
+      "day": 8
+    },
+    "endDate": {
+      "year": 2010,
+      "month": 9,
+      "day": 23
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6381-57sST6qDyFPD.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx6381-57sST6qDyFPD.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6381-57sST6qDyFPD.jpg",
+      "color": "#1a93d6"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6381-isgcx2drR6TE.jpg",
+    "genres": [
+      "Action",
+      "Ecchi",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "强袭魔女2"
+    ],
+    "averageScore": 71,
+    "meanScore": 71,
+    "popularity": 18696,
+    "trending": 1,
+    "favourites": 204,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "VcadVwGmaeM",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/VcadVwGmaeM/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://s-witch.cute.or.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "http://www.hulu.com/strike-witches",
+        "site": "Hulu",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.crunchyroll.com/Strike-Witches",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 3667,
+            "title": {
+              "romaji": "Strike Witches",
+              "english": "Strike Witches"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2008,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3667-9ftVhhCHTRLs.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 20650,
+            "title": {
+              "romaji": "Strike Witches Operation Victory Arrow",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2014,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20650-oWFEv3nVkXaI.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 355,
+        "name": "Aviation",
+        "rank": 92,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 34,
+        "name": "Military",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 254,
+        "name": "Kemonomimi",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 164,
+        "name": "Tsundere",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 178,
+        "name": "Card Battle",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 83,
+            "name": "AIC Spirits"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 102,
+            "name": "Funimation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 689,
+            "name": "NTT Docomo"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6114,
+            "name": "501st JOINT FIGHTER WING"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 7626,
+            "name": {
+              "full": "Yoshika Miyafuji",
+              "native": "宮藤芳佳"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95207,
+              "name": {
+                "full": "Misato Fukuen",
+                "native": "福圓美里"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 7627,
+            "name": {
+              "full": "Mio Sakamoto",
+              "native": "坂本美緒"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100451,
+              "name": {
+                "full": "Saori Seto",
+                "native": "世戸さおり"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 7628,
+            "name": {
+              "full": "Perrine H. Clostermann",
+              "native": "ぺリーヌ・クロステルマン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95099,
+              "name": {
+                "full": "Miyuki Sawashiro",
+                "native": "沢城みゆき"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 7629,
+            "name": {
+              "full": "Lynette Bishop",
+              "native": "リネット・ビショップ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95078,
+              "name": {
+                "full": "Kaori Nazuka",
+                "native": "名塚佳織"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 7630,
+            "name": {
+              "full": "Charlotte E Yeager",
+              "native": "シャーロット・E・イェーガー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95070,
+              "name": {
+                "full": "Ami Koshimizu",
+                "native": "小清水亜美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 7631,
+            "name": {
+              "full": "Eila Ilmatar Juutilainen",
+              "native": "エイラ・イルマタル・ユーティライネン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100938,
+              "name": {
+                "full": "Ayuru Oohashi",
+                "native": "大橋歩夕"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 7632,
+            "name": {
+              "full": "Francesca Lucchini",
+              "native": "フランチェスカ・ルッキーニ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95061,
+              "name": {
+                "full": "Chiwa Saitou",
+                "native": "斎藤千和"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 14135,
+            "name": {
+              "full": "Minna-Dietlinde Wilcke",
+              "native": "ミーナ・ディートリンデ・ヴィルケ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95060,
+              "name": {
+                "full": "Rie Tanaka",
+                "native": "田中理恵"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 14137,
+            "name": {
+              "full": "Erica Hartmann",
+              "native": "エーリカ・ハルトマン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95204,
+              "name": {
+                "full": "Sakura Nogawa",
+                "native": "野川さくら"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 14138,
+            "name": {
+              "full": "Gertrud Barkhorn",
+              "native": "ゲルトルート・バルクホルン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95602,
+              "name": {
+                "full": "Mie Sonozaki",
+                "native": "園崎未恵"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787364115,
+    "idTmdb": 35464,
+    "idImdb": "tt1300176",
+    "idTvdb": 82484,
+    "idTrakt": 61062,
+    "traktSlug": "strike-witches",
+    "idSimkl": 36181,
+    "idShikimori": 6381
   }
 }

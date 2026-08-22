@@ -3429,7 +3429,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 82662,
-    "trending": 6,
+    "trending": 3,
     "favourites": 1443,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3478,7 +3478,13 @@
               "romaji": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
               "english": "My Status as an Assassin Obviously Exceeds the Hero’s"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx103655-v8Inz6BscNSW.png"
+            }
           }
         },
         {
@@ -3489,7 +3495,13 @@
               "romaji": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
               "english": "My Status as an Assassin Obviously Exceeds the Hero’s"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx104818-o0nVFeVaDDgE.jpg"
+            }
           }
         }
       ]
@@ -3893,7 +3905,7 @@
         }
       ]
     },
-    "updatedAt": 1787357365,
+    "updatedAt": 1787364046,
     "idTmdb": 284644,
     "idImdb": "tt36230718",
     "idTvdb": 460341,
@@ -4794,7 +4806,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787400000,
-      "timeUntilAiring": 34098,
+      "timeUntilAiring": 30301,
       "episode": 9
     },
     "relations": {
@@ -9549,5 +9561,245 @@
     "traktSlug": "fermat-kitchen",
     "idSimkl": 2670996,
     "idShikimori": 60697
+  },
+  "186743": {
+    "id": 186743,
+    "idMal": 61012,
+    "title": {
+      "romaji": "Toaru Kagaku no Railgun 4th Season",
+      "english": null,
+      "native": "とある科学の超電磁砲 第4期"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "The fourth season of <i>Toaru Kagaku no Railgun.</i>",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186743-9PkeVPQRs2b4.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186743-9PkeVPQRs2b4.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b186743-9PkeVPQRs2b4.jpg",
+      "color": "#e45d28"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 8518,
+    "trending": 0,
+    "favourites": 94,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "xWKfJ3AGSQk",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/xWKfJ3AGSQk/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://x.com/toaru_project",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 104462,
+            "title": {
+              "romaji": "Toaru Kagaku no Railgun T",
+              "english": "A Certain Scientific Railgun T"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2020,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx104462-KrVWRvPcR7ci.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 37776,
+            "title": {
+              "romaji": "Toaru Kagaku no Railgun",
+              "english": "A Certain Scientific Railgun"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx37776-4DWOI7BlCEPq.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 64,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 172,
+        "name": "Superhero",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7,
+            "name": "J.C.STAFF"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 705,
+            "name": "Project Railgun"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 13701,
+            "name": {
+              "full": "Mikoto Misaka",
+              "native": "御坂美琴"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95241,
+              "name": {
+                "full": "Rina Satou",
+                "native": "佐藤利奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 17017,
+            "name": {
+              "full": "Kuroko Shirai",
+              "native": "白井黒子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95124,
+              "name": {
+                "full": "Satomi Arai",
+                "native": "新井里美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 20622,
+            "name": {
+              "full": "Kazari Uiharu",
+              "native": "初春飾利"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95599,
+              "name": {
+                "full": "Aki Toyosaki",
+                "native": "豊崎愛生"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 20626,
+            "name": {
+              "full": "Ruiko Saten",
+              "native": "佐天涙子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95762,
+              "name": {
+                "full": "Kanae Itou",
+                "native": "伊藤かな恵"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2716152,
+    "idShikimori": 61012
   }
 }

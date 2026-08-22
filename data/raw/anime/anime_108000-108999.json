@@ -2147,7 +2147,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 151527,
-    "trending": 4,
+    "trending": 1,
     "favourites": 2508,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2275,7 +2275,13 @@
               "romaji": "Gleipnir",
               "english": "Gleipnir"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx86607-0y8AbLc0SYBt.png"
+            }
           }
         }
       ]
@@ -2658,7 +2664,7 @@
         }
       ]
     },
-    "updatedAt": 1787357201,
+    "updatedAt": 1787364115,
     "idTmdb": 96203,
     "idImdb": "tt11988478",
     "idTvdb": 374198,
@@ -5454,7 +5460,13 @@
               "romaji": "Totsukuni no Shoujo",
               "english": "The Girl From the Other Side: Siúil, a Rún"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx86770-vjBM79Z1GVbs.jpg"
+            }
           }
         },
         {
@@ -5465,7 +5477,13 @@
               "romaji": "Totsukuni no Shoujo (2022)",
               "english": "The Girl from the Other Side"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx130550-TNuuHlL1BIMZ.jpg"
+            }
           }
         }
       ]
@@ -5564,7 +5582,7 @@
         }
       ]
     },
-    "updatedAt": 1787353355,
+    "updatedAt": 1787364123,
     "idTmdb": 587873,
     "idImdb": "tt11057238",
     "idTvdb": null,
@@ -10046,7 +10064,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787841000,
-      "timeUntilAiring": 475142,
+      "timeUntilAiring": 471350,
       "episode": 8
     },
     "relations": {

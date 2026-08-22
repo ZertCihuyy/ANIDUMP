@@ -3543,7 +3543,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787959800,
-      "timeUntilAiring": 593942,
+      "timeUntilAiring": 590150,
       "episode": 9
     },
     "relations": {
@@ -3839,5 +3839,166 @@
     "traktSlug": null,
     "idSimkl": 3133004,
     "idShikimori": 64290
+  },
+  "212574": {
+    "id": 212574,
+    "idMal": 64292,
+    "title": {
+      "romaji": "Pure x Holic: Junketsu Otome to Kon’in Kankei!? The Animation",
+      "english": null,
+      "native": "ピュアホリック ～純潔乙女と婚姻カンケイ！？～ The Animation"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "NOT_YET_RELEASED",
+    "description": "Based on the erotic game by Atelier Kaguya Bare & Bunny.",
+    "episodes": 2,
+    "duration": 20,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 8,
+      "day": 28
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 8,
+      "day": 28
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212574-bZsmA6hliehM.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212574-bZsmA6hliehM.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx212574-bZsmA6hliehM.png",
+      "color": "#f1bb50"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Fantasy",
+      "Hentai"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 339,
+    "trending": 0,
+    "favourites": 5,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "VISUAL_NOVEL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": {
+      "airingAt": 1787842800,
+      "timeUntilAiring": 472993,
+      "episode": 1
+    },
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 138411,
+            "title": {
+              "romaji": "Mama x Holic: Miwaku no Mama to Ama Ama Kankei The Animation",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2021,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx138411-32pOSnmsh98G.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 598,
+        "name": "Elf",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 294,
+        "name": "Bisexual",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 137,
+        "name": "Large Breasts",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 259,
+        "name": "Monster Girl",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 830,
+        "name": "Group Sex",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 125,
+        "name": "Nakadashi",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 45,
+            "name": "Pink Pineapple"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 541,
+            "name": "Seven"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 64292
   }
 }

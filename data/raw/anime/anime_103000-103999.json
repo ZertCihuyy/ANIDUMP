@@ -2108,7 +2108,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 152301,
-    "trending": 4,
+    "trending": 1,
     "favourites": 4412,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2312,7 +2312,13 @@
               "romaji": "Kumo desu ga, Nani ka?",
               "english": "So I'm a Spider, So What?"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx86406-S22SQO8s6OOY.jpg"
+            }
           }
         },
         {
@@ -2323,7 +2329,13 @@
               "romaji": "Kumo desu ga, Nani ka?",
               "english": "So I'm a Spider, So What?"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx86952-ah2w3DFY2Uek.jpg"
+            }
           }
         }
       ]
@@ -2706,7 +2718,14 @@
         }
       ]
     },
-    "updatedAt": 1787349701
+    "updatedAt": 1787365283,
+    "idTmdb": 99618,
+    "idImdb": "tt12598008",
+    "idTvdb": 377902,
+    "idTrakt": 158822,
+    "traktSlug": "so-i-m-a-spider-so-what",
+    "idSimkl": 855675,
+    "idShikimori": 37984
   },
   "103874": {
     "id": 103874,
@@ -5105,7 +5124,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787493600,
-      "timeUntilAiring": 127698,
+      "timeUntilAiring": 123901,
       "episode": 8
     },
     "relations": {
@@ -7128,7 +7147,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 54091,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1379,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7537,7 +7556,7 @@
         }
       ]
     },
-    "updatedAt": 1787360550,
+    "updatedAt": 1787365310,
     "idTmdb": 585077,
     "idImdb": "tt9850064",
     "idTvdb": null,

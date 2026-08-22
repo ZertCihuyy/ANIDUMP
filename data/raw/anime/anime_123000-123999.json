@@ -629,7 +629,13 @@
               "romaji": "Machikado Mazoku",
               "english": "The Demon Girl Next Door"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx107462-aNPsVx2SY1tz.jpg"
+            }
           }
         },
         {
@@ -640,7 +646,13 @@
               "romaji": "Machikado Mazoku",
               "english": "The Demon Girl Next Door"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2019,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx107490-OaUP9KSAJQt9.png"
+            }
           }
         },
         {
@@ -651,7 +663,13 @@
               "romaji": "Machikado Mazoku: 2-Choume Mini",
               "english": "The Demon Girl Next Door Minis Season 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145994-UUhBCx21b8OP.png"
+            }
           }
         }
       ]
@@ -1080,7 +1098,7 @@
         }
       ]
     },
-    "updatedAt": 1787353355,
+    "updatedAt": 1787364123,
     "idTmdb": 88806,
     "idImdb": "tt10417572",
     "idTvdb": 363143,

@@ -1813,7 +1813,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787749200,
-      "timeUntilAiring": 384478,
+      "timeUntilAiring": 379323,
       "episode": 8
     },
     "relations": {
@@ -2906,7 +2906,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1790823360,
-      "timeUntilAiring": 3457524,
+      "timeUntilAiring": 3453732,
       "episode": 1
     },
     "relations": {
@@ -3147,7 +3147,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 21291,
-    "trending": 1,
+    "trending": 0,
     "favourites": 202,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3278,7 +3278,7 @@
         }
       ]
     },
-    "updatedAt": 1787364023,
+    "updatedAt": 1787365310,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4199,7 +4199,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787630400,
-      "timeUntilAiring": 264507,
+      "timeUntilAiring": 260710,
       "episode": 19
     },
     "relations": {
@@ -4520,7 +4520,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787935320,
-      "timeUntilAiring": 569466,
+      "timeUntilAiring": 565680,
       "episode": 9
     },
     "relations": {
@@ -5062,7 +5062,13 @@
               "romaji": "Soara to Mamono no Ie",
               "english": "Soara and the House of Monsters"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx140675-syBMn9CaTsmN.jpg"
+            }
           }
         }
       ]
@@ -5146,7 +5152,14 @@
         }
       ]
     },
-    "updatedAt": 1787345811
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 64527
   },
   "213815": {
     "id": 213815,
@@ -6987,7 +7000,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787623200,
-      "timeUntilAiring": 257394,
+      "timeUntilAiring": 253599,
       "episode": 12
     },
     "relations": {
@@ -8861,7 +8874,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1789657200,
-      "timeUntilAiring": 2292593,
+      "timeUntilAiring": 2287455,
       "episode": 1
     },
     "relations": {
@@ -9492,5 +9505,255 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 64555
+  },
+  "213066": {
+    "id": 213066,
+    "idMal": 64404,
+    "title": {
+      "romaji": "Muramata-san no Aijou",
+      "english": null,
+      "native": "村又さんの愛情"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "NOT_YET_RELEASED",
+    "description": "Murakami-san, a boss beloved by everyone, and his subordinate Kaji-kun, have a secret. Murakami-san is clingy and easily moved to tears, and she and her subordinate Kaji-kun are lovers. And she has a split tongue.\n<br><br>\n(Source: Getchu, translated)",
+    "episodes": 3,
+    "duration": 20,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 11
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 13
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213066-6gYdsenxcjWx.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213066-6gYdsenxcjWx.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213066-6gYdsenxcjWx.png",
+      "color": null
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213066-Y3rcsqcukLBm.jpg",
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 355,
+    "trending": 0,
+    "favourites": 11,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": {
+      "airingAt": 1789052400,
+      "timeUntilAiring": 1682663,
+      "episode": 1
+    },
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 177423,
+            "title": {
+              "romaji": "Muramata-san no Aijou",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx177423-XKZVg5KQ4k7E.png"
+            }
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 118656,
+            "title": {
+              "romaji": "Muramata-san no Himitsu",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2020,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118656-Q0oESm5v9J7X.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6093,
+            "name": "Queen Bee"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6098,
+            "name": "Mediabank"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 205600,
+            "name": {
+              "full": "Muramata",
+              "native": "村又"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 205601,
+            "name": {
+              "full": "Kaji",
+              "native": "梶"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 64404
+  },
+  "213732": {
+    "id": 213732,
+    "idMal": 64530,
+    "title": {
+      "romaji": "Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara THE ANIMATION",
+      "english": null,
+      "native": "無自覚な幼馴染と興味本位でヤってみたら THE ANIMATION"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "NOT_YET_RELEASED",
+    "description": "Meiko, a beautiful, quiet, and academically gifted classmate, only shows her relaxed side in front of her childhood friend, Hiroki. Today, she comes to his room to hang out, and Hiroki can't help but glance at her body as she relaxes in light clothing. When she points it out, Hiroki blushes with embarrassment, but Meiko unexpectedly asks, \"Well, do you want to touch me?\" Their curiosity leads them to explore each other's bodies, which eventually escalates to sex...\n<br><br>\n(Source: PinkPineapple, translated)",
+    "episodes": null,
+    "duration": 20,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 9,
+      "day": 25
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213732-pPypc7kubQJ3.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213732-pPypc7kubQJ3.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213732-pPypc7kubQJ3.png",
+      "color": "#d61a43"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 175,
+    "trending": 0,
+    "favourites": 7,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": {
+      "airingAt": 1790262000,
+      "timeUntilAiring": 2892193,
+      "episode": 1
+    },
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 199930,
+            "title": {
+              "romaji": "Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx199930-TC3Wd5514T28.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 45,
+            "name": "Pink Pineapple"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 541,
+            "name": "Seven"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 64530
   }
 }

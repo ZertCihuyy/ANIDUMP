@@ -1295,7 +1295,7 @@
     "averageScore": 64,
     "meanScore": 65,
     "popularity": 21961,
-    "trending": 2,
+    "trending": 0,
     "favourites": 320,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1412,7 +1412,13 @@
               "romaji": "Potion-danomi de Ikinobimasu!",
               "english": "I Shall Survive Using Potions!"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx99104-Lwkm5EFxOp7T.jpg"
+            }
           }
         },
         {
@@ -1423,7 +1429,13 @@
               "romaji": "Potion-danomi de Ikinobimasu!",
               "english": "I Shall Survive Using Potions!"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx101686-y2kONSAptqwn.jpg"
+            }
           }
         }
       ]
@@ -1778,7 +1790,14 @@
         }
       ]
     },
-    "updatedAt": 1787349645
+    "updatedAt": 1787364123,
+    "idTmdb": 221148,
+    "idImdb": "tt29171927",
+    "idTvdb": 431495,
+    "idTrakt": 202785,
+    "traktSlug": "i-shall-survive-using-potions",
+    "idSimkl": 2103874,
+    "idShikimori": 54616
   },
   "161964": {
     "id": 161964,

@@ -1069,7 +1069,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787842800,
-      "timeUntilAiring": 476893,
+      "timeUntilAiring": 473095,
       "episode": 10
     },
     "relations": {
@@ -1585,7 +1585,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787416200,
-      "timeUntilAiring": 50321,
+      "timeUntilAiring": 46523,
       "episode": 8
     },
     "relations": {
@@ -2125,7 +2125,7 @@
     "averageScore": 56,
     "meanScore": 65,
     "popularity": 1310,
-    "trending": 1,
+    "trending": 0,
     "favourites": 32,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -2155,7 +2155,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788105600,
-      "timeUntilAiring": 753632,
+      "timeUntilAiring": 735813,
       "episode": 7
     },
     "relations": {
@@ -2168,7 +2168,13 @@
               "romaji": "Onaji Zemi no Someya-san ga AV Joyuu Datta Hanashi.",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx163473-ZdXjwSc13bYh.png"
+            }
           }
         }
       ]
@@ -2260,7 +2266,14 @@
         }
       ]
     },
-    "updatedAt": 1787345768
+    "updatedAt": 1787364123,
+    "idTmdb": 325473,
+    "idImdb": null,
+    "idTvdb": 474990,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 3174684,
+    "idShikimori": 63619
   },
   "208105": {
     "id": 208105,

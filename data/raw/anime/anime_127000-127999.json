@@ -5227,7 +5227,7 @@
     "averageScore": 86,
     "meanScore": 86,
     "popularity": 24793,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1306,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -5359,7 +5359,13 @@
               "romaji": "Tian Guan Ci Fu Special",
               "english": "Heaven Official's Blessing Special Episode"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx126356-Nt66D91sH3Cu.png"
+            }
           }
         },
         {
@@ -5370,7 +5376,13 @@
               "romaji": "Tian Guan Ci Fu",
               "english": "Heaven Official's Blessing"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx112275-fh0u5cH2qB5b.jpg"
+            }
           }
         },
         {
@@ -5381,7 +5393,13 @@
               "romaji": "Tian Guan Ci Fu Duanpian",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b186837-jFoGG2hbLnlo.jpg"
+            }
           }
         }
       ]
@@ -5666,7 +5684,7 @@
         }
       ]
     },
-    "updatedAt": 1787357254,
+    "updatedAt": 1787364123,
     "idTmdb": 112398,
     "idImdb": "tt13375866",
     "idTvdb": 388672,
@@ -6226,7 +6244,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 53368,
-    "trending": 2,
+    "trending": 0,
     "favourites": 608,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6420,7 +6438,13 @@
               "romaji": "100-man no Inochi no Ue ni Ore wa Tatteiru",
               "english": "I'm Standing on a Million Lives"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx97371-JvypwgTjribn.jpg"
+            }
           }
         },
         {
@@ -6431,7 +6455,13 @@
               "romaji": "100-man no Inochi no Ue ni Ore wa Tatteiru",
               "english": "I'm Standing on a Million Lives"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2020,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx116242-JY81Khmbqysn.jpg"
+            }
           }
         }
       ]
@@ -6795,7 +6825,14 @@
         }
       ]
     },
-    "updatedAt": 1787349660
+    "updatedAt": 1787364123,
+    "idTmdb": 99995,
+    "idImdb": "tt12706854",
+    "idTvdb": 383518,
+    "idTrakt": 162895,
+    "traktSlug": "i-m-standing-on-a-million-lives",
+    "idSimkl": 1505135,
+    "idShikimori": 44881
   },
   "127911": {
     "id": 127911,

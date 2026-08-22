@@ -15107,5 +15107,491 @@
     "traktSlug": "future-card-buddyfight",
     "idSimkl": 45112,
     "idShikimori": 19067
+  },
+  "19581": {
+    "id": 19581,
+    "idMal": 19581,
+    "title": {
+      "romaji": "Houseki no Kuni PV",
+      "english": null,
+      "native": "宝石の国PV"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "The Gems fight against the Lunarians, beings who attack them and use their shattered bodies as decorations. Each Gem is assigned a role, and Phos, the youngest, is assigned to create an encyclopedia of natural history.\n<br><br>\nNote: <em>A promotional video that was released through YouTube in commemoration of the publication of the manga's first volume.</em><br><br>\n(Source: HIDIVE)",
+    "episodes": 1,
+    "duration": 2,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 19
+    },
+    "endDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 19
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19581-AoWPt2UjPwFF.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx19581-AoWPt2UjPwFF.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx19581-AoWPt2UjPwFF.png",
+      "color": "#aee4f1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/19581-p7XsC8BLDtRz.jpg",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "Land of the Lustrous PV"
+    ],
+    "averageScore": 64,
+    "meanScore": 64,
+    "popularity": 8123,
+    "trending": 0,
+    "favourites": 79,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "3pzIQ54cwiA",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/3pzIQ54cwiA/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 98707,
+            "title": {
+              "romaji": "Houseki no Kuni",
+              "english": "Land of the Lustrous"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2017,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98707-25nUKb4XUFgY.png"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 74489,
+            "title": {
+              "romaji": "Houseki no Kuni",
+              "english": "Land of the Lustrous"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx74489-5HtDCFfut8Be.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 341,
+        "name": "No Dialogue",
+        "rank": 88,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 505,
+        "name": "Advertisement",
+        "rank": 87,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 43,
+        "name": "Swordplay",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 334,
+        "name": "Agender",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 191,
+        "name": "Aliens",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 101,
+            "name": "Studio Hibari"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 159,
+            "name": "Kodansha"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 123385,
+            "name": {
+              "full": "Phosphophyllite",
+              "native": "フォスフォフィライト"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 123384,
+            "name": {
+              "full": "Shinsha",
+              "native": "シンシャ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 123390,
+            "name": {
+              "full": "Diamond",
+              "native": "ダイヤモンド"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 123389,
+            "name": {
+              "full": "Bort",
+              "native": "ボルツ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 123395,
+            "name": {
+              "full": "Morganite",
+              "native": "モルガナイト"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 123392,
+            "name": {
+              "full": "Goshenite",
+              "native": "ゴーシェナイト"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 123399,
+            "name": {
+              "full": "Rutile",
+              "native": "ルチル"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 123394,
+            "name": {
+              "full": "Kongou",
+              "native": "金剛"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 123393,
+            "name": {
+              "full": "Jade",
+              "native": "ジュード"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 123391,
+            "name": {
+              "full": "Euclase",
+              "native": "ユークレース"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 43120,
+    "idShikimori": 19581
+  },
+  "19631": {
+    "id": 19631,
+    "idMal": 19631,
+    "title": {
+      "romaji": "Tayu Tayu",
+      "english": null,
+      "native": "たゆたゆ"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "A young man’s adventure starts with a couple of girls who both want his attention. It doesn’t end there as he has yet to meet many other girls from his school! Anime adaptation of an adult manga by Yamatogawa.",
+    "episodes": 4,
+    "duration": 30,
+    "season": "FALL",
+    "seasonYear": 2013,
+    "startDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 27
+    },
+    "endDate": {
+      "year": 2014,
+      "month": 4,
+      "day": 11
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19631.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19631.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/19631.jpg",
+      "color": "#e45da1"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [
+      "Tayutayu"
+    ],
+    "averageScore": 64,
+    "meanScore": 66,
+    "popularity": 2906,
+    "trending": 0,
+    "favourites": 67,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 41811,
+            "title": {
+              "romaji": "Tayu Tayu",
+              "english": "Tayu Tayu"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx41811-ipEU1GbBRhuK.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 132,
+        "name": "Threesome",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 494,
+        "name": "Twins",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 139,
+        "name": "Love Triangle",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 137,
+        "name": "Large Breasts",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 134,
+        "name": "Fellatio",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 830,
+        "name": "Group Sex",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 246,
+        "name": "Bondage",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 136,
+        "name": "Flat Chest",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 128,
+        "name": "Incest",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 135,
+        "name": "Cunnilingus",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 155,
+        "name": "Rape",
+        "rank": 33,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1039,
+        "name": "Scissoring",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 242,
+        "name": "Flash",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6093,
+            "name": "Queen Bee"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 4079,
+            "name": "Studio 9 Maiami"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 19631
   }
 }

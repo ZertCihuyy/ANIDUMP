@@ -1887,7 +1887,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791099000,
-      "timeUntilAiring": 3734349,
+      "timeUntilAiring": 3729154,
       "episode": 1
     },
     "relations": {
@@ -3529,7 +3529,7 @@
     "averageScore": 90,
     "meanScore": 90,
     "popularity": 131943,
-    "trending": 188,
+    "trending": 134,
     "favourites": 6585,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3604,7 +3604,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787749200,
-      "timeUntilAiring": 389302,
+      "timeUntilAiring": 379491,
       "episode": 14
     },
     "relations": {
@@ -3617,7 +3617,13 @@
               "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
               "english": "Re:ZERO -Starting Life in Another World- Season 3"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163134-yieRFbvUOH9a.jpg"
+            }
           }
         },
         {
@@ -3628,7 +3634,13 @@
               "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu",
               "english": "Re:ZERO -Starting Life in Another World-"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx85737-WkWOr5EgwPyo.jpg"
+            }
           }
         },
         {
@@ -3639,7 +3651,13 @@
               "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "SPRING",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210687-H54G1bTwCBpV.jpg"
+            }
           }
         }
       ]
@@ -4066,7 +4084,7 @@
         }
       ]
     },
-    "updatedAt": 1787357369,
+    "updatedAt": 1787365197,
     "idTmdb": 65942,
     "idImdb": "tt5607616",
     "idTvdb": 305089,

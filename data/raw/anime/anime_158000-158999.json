@@ -3723,7 +3723,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787910900,
-      "timeUntilAiring": 545015,
+      "timeUntilAiring": 541218,
       "episode": 147
     },
     "relations": {
@@ -5338,7 +5338,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 49535,
-    "trending": 2,
+    "trending": 0,
     "favourites": 1131,
     "isAdult": false,
     "countryOfOrigin": "KR",
@@ -5367,7 +5367,13 @@
               "romaji": "Oemo Jisangjuui",
               "english": "Lookism"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx86848-4CSItSclJUvi.jpg"
+            }
           }
         }
       ]
@@ -5684,7 +5690,7 @@
         }
       ]
     },
-    "updatedAt": 1787353305,
+    "updatedAt": 1787364123,
     "idTmdb": 210942,
     "idImdb": "tt22297722",
     "idTvdb": 425285,

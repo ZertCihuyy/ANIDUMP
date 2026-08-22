@@ -1136,7 +1136,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 42234,
-    "trending": 1,
+    "trending": 0,
     "favourites": 651,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1263,7 +1263,13 @@
               "romaji": "Sasaki to Pii-chan",
               "english": "Sasaki and Peeps"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx134500-f5TnfjiPZdwa.jpg"
+            }
           }
         },
         {
@@ -1274,7 +1280,13 @@
               "romaji": "Sasaki to Pii-chan",
               "english": "Sasaki & Peeps"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx134499-rbVsRXYAMO63.jpg"
+            }
           }
         },
         {
@@ -1285,7 +1297,13 @@
               "romaji": "Sasaki to Pii-chan Season 2",
               "english": "Sasaki and Peeps Season 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": "FALL",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176314-dvPRzlyafTTZ.jpg"
+            }
           }
         }
       ]
@@ -1690,7 +1708,14 @@
         }
       ]
     },
-    "updatedAt": 1787349685
+    "updatedAt": 1787364123,
+    "idTmdb": 206630,
+    "idImdb": "tt27524116",
+    "idTvdb": 422728,
+    "idTrakt": 207505,
+    "traktSlug": "sasaki-and-peeps",
+    "idSimkl": 1959042,
+    "idShikimori": 52482
   },
   "152677": {
     "id": 152677,
@@ -5041,5 +5066,612 @@
     "traktSlug": "saving-80-000-gold-in-another-world-for-my-retirement",
     "idSimkl": 1957158,
     "idShikimori": 52461
+  },
+  "152122": {
+    "id": 152122,
+    "idMal": 52364,
+    "title": {
+      "romaji": "Hirano to Kagiura",
+      "english": null,
+      "native": "平野と鍵浦"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "<i>Hirano to Kagiura</i> is being adapted as an accompanying animated short with the <i>Sasaki to Miyano: Sotsugyou-hen</i> movie.\n<br><br>\nHirano, a second-year in high school, lives in a dormitory on his campus and has recently become roommates with Kagiura, a first-year. Kagiura is a hard-working student on the basketball team, though he does have difficulty getting up in the morning, leaving Hirano to be his support system in that regard. They get along great, and Hirano is very fond of his earnest, straight-forward roommate. What he doesn’t know? Kagiura is pretty much head over heels in love with him. <br><br>\n<i>Note: This special played before the Sasaki to Miyano: Sotsugyou-hen movie in theaters and as streaming on Crunchyroll.</i>\n",
+    "episodes": 1,
+    "duration": 9,
+    "season": "WINTER",
+    "seasonYear": 2023,
+    "startDate": {
+      "year": 2023,
+      "month": 2,
+      "day": 17
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 2,
+      "day": 17
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152122-3HqUW1ffbsG8.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152122-3HqUW1ffbsG8.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx152122-3HqUW1ffbsG8.jpg",
+      "color": "#e4bb5d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "Hirano and Kagiura",
+      "ฮิราโนะกับคางิอุระ"
+    ],
+    "averageScore": 76,
+    "meanScore": 77,
+    "popularity": 10599,
+    "trending": 0,
+    "favourites": 162,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://sasamiya.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.instagram.com/sasamiya_anime/",
+        "site": "Instagram",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://twitter.com/sasamiya_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.crunchyroll.com/watch/G9DUE5P8P/sasaki-and-miyano-graduation",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 108027,
+            "title": {
+              "romaji": "Hirano to Kagiura",
+              "english": "Hirano and Kagiura"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx108027-le6EQPfpeCmY.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 146743,
+            "title": {
+              "romaji": "Sasaki to Miyano: Sotsugyou-hen",
+              "english": "Sasaki and Miyano: Graduation"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx146743-MQNPLbWH0mI9.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 75,
+        "name": "Boys' Love",
+        "rank": 93,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 53,
+        "name": "Shoujo",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1063,
+        "name": "Cute Boys Doing Cute Things",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 37,
+            "name": "Studio DEEN"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 209018,
+            "name": {
+              "full": "Taiga Hirano",
+              "native": "平野大河"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106817,
+              "name": {
+                "full": "Yoshitsugu Matsuoka",
+                "native": "松岡禎丞"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 209019,
+            "name": {
+              "full": "Akira Kagiura",
+              "native": "鍵浦昭"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105989,
+              "name": {
+                "full": "Nobunaga Shimazaki",
+                "native": "島﨑信長"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 164752,
+            "name": {
+              "full": "Yoshikazu Miyano",
+              "native": "宮野由美"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 113227,
+              "name": {
+                "full": "Souma Saitou",
+                "native": "斉藤壮馬"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 209023,
+            "name": {
+              "full": "Tasuku Kuresawa",
+              "native": "暮沢丞"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 122769,
+              "name": {
+                "full": "Ryouhei Arai",
+                "native": "新井良平"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 209134,
+            "name": {
+              "full": "Juuya Niibashi",
+              "native": "新橋充屋"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 111635,
+              "name": {
+                "full": "Natsuki Hanae",
+                "native": "花江夏樹"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 297288,
+            "name": {
+              "full": "Kyouji Shirahama",
+              "native": "白浜恭司"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 142107,
+              "name": {
+                "full": "Takuya Nakashima",
+                "native": "中島卓也"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 52364
+  },
+  "152292": {
+    "id": 152292,
+    "idMal": 52402,
+    "title": {
+      "romaji": "Boku ni Sefure ga Dekita Riyuu",
+      "english": null,
+      "native": "僕にセフレが出来た理由"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "<b>Episode 1-2</b> - <i>Otonari no Hitozuma Hen</i><br>\nDue to family circumstances, a student and his family moved into an apartment where he developed a sexual attraction to his married neighbor Hitomi Rinmuro. The student couldn't help but jerk off thinking of her countless times and started collecting porn magazines about housewives. The day after he saw Hitomi undress behind the curtains, Hitomi told him that she found out what he was doing and unexpectedly proposed to be sex friends.<br>\n<br>\n<b>Episode 3-5</b> - <i>Beit Saki no JK Hen</i><br>\nSaki, an aggressive blond girl, and Koharu, a timid bobbed girl with huge breasts, are two schoolgirls who come to hang out in the room of their part-time job buddies at the same coffee shop. She is curious about the body of the opposite sex, and seduces her hero and the two start having sex in front of Koharu's eyes. From that day on, a strange relationship begins in which Koharu, who is timid and can't say she wants to have sex, stares at the two of them having sex.<br>\n<br>\n<b>Episode 6</b> - <i>Anzangata Oshiri no Hitozuma Hen</i><br>\nA virgin student who started living alone plucks up some courage and hits on a married woman who always passes by and to his suprise.. he actually succeeds in bringing her home?! However, he couldn't get himself to push down the woman and was fidgeting, so the married woman took matters into her own hands...",
+    "episodes": 6,
+    "duration": 16,
+    "season": "FALL",
+    "seasonYear": 2022,
+    "startDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 7
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 2,
+      "day": 3
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152292-uGklTJ8mKy8h.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx152292-uGklTJ8mKy8h.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx152292-uGklTJ8mKy8h.jpg",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [
+      "Boku ni Sexfriend ga Dekita Riyuu",
+      "Boku ni SeFri ga Dekita Riyuu"
+    ],
+    "averageScore": 69,
+    "meanScore": 71,
+    "popularity": 3291,
+    "trending": 0,
+    "favourites": 186,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 152286,
+            "title": {
+              "romaji": "Boku ni Sefure ga Dekita Riyuu: Otonari no Hitozuma-hen",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx152286-NAs3SXryUoVI.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 152287,
+            "title": {
+              "romaji": "Boku ni Sefure ga Dekita Riyuu: Baito Saki no JK-hen",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx152287-EsgpZcdhamwh.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 152289,
+            "title": {
+              "romaji": "Boku ni Sefure ga Dekita Riyuu: Anzangata Oshiri no Hitozuma-hen",
+              "english": "The Reason I Got A Fuck Buddy: Voluptuous Housewife"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx152289-gj8j7TcaZmax.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 125,
+        "name": "Nakadashi",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 187,
+        "name": "MILF",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 137,
+        "name": "Large Breasts",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 138,
+        "name": "Age Gap",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 294,
+        "name": "Bisexual",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 135,
+        "name": "Cunnilingus",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 309,
+        "name": "Blackmail",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1709,
+        "name": "Cheating",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 134,
+        "name": "Fellatio",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 318,
+        "name": "Voyeur",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 830,
+        "name": "Group Sex",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 129,
+        "name": "Defloration",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6128,
+            "name": "Bunny Walker"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 405,
+            "name": "T-REX"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 282622,
+            "name": {
+              "full": "Hitomi Rinmuro",
+              "native": "燐室ひとみ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 244441,
+              "name": {
+                "full": "Nohana",
+                "native": "乃葉奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 290391,
+            "name": {
+              "full": "Saki",
+              "native": "紗季"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100175,
+              "name": {
+                "full": "Aiko Ookubo",
+                "native": "大久保藍子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 290392,
+            "name": {
+              "full": "Koharu",
+              "native": "小春"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 126430,
+              "name": {
+                "full": "Hana Kuga",
+                "native": "空賀花"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 290393,
+            "name": {
+              "full": "Ai",
+              "native": "あい"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 123916,
+              "name": {
+                "full": "Saki Minase",
+                "native": "水瀬沙季"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 52402
   }
 }

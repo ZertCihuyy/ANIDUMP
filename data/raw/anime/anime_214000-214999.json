@@ -3163,7 +3163,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787965200,
-      "timeUntilAiring": 600559,
+      "timeUntilAiring": 595363,
       "episode": 9
     },
     "relations": {
@@ -3206,5 +3206,254 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 61619
+  },
+  "214855": {
+    "id": 214855,
+    "idMal": 64725,
+    "title": {
+      "romaji": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 4",
+      "english": null,
+      "native": "Fate/Grand Order 藤丸立香はわからない Season4"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "RELEASING",
+    "description": "The fourth season of <i>Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai</i>.",
+    "episodes": null,
+    "duration": 2,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 8,
+      "day": 7
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b214855-PbAsjXJq3NB7.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b214855-PbAsjXJq3NB7.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b214855-PbAsjXJq3NB7.jpg",
+      "color": "#2878fe"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [
+      "Fate/Grand Order: You've Lost Ritsuka Fujimaru Season 4"
+    ],
+    "averageScore": null,
+    "meanScore": 56,
+    "popularity": 134,
+    "trending": 0,
+    "favourites": 2,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://anime.fate-go.jp/nazomaru/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://anime.fate-go.us/lostfujimaru/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://x.com/fgoproject/",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLkybqduWZGqtDqXo4rBp1M0jMfCOaS0cr",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 197094,
+            "title": {
+              "romaji": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 3",
+              "english": "Fate/Grand Order: You've Lost Ritsuka Fujimaru Season 3"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b197094-PrIYsM8fZ3bT.png"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 147108,
+            "title": {
+              "romaji": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b147108-LhVZyGT2iki9.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 276,
+            "name": "DLE"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 120734,
+            "name": {
+              "full": "Ritsuka Fujimaru",
+              "native": "藤丸立香"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105989,
+              "name": {
+                "full": "Nobunaga Shimazaki",
+                "native": "島﨑信長"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 120735,
+            "name": {
+              "full": "Mash Kyrielight",
+              "native": "マシュ・キリエライト"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119331,
+              "name": {
+                "full": "Rie Takahashi",
+                "native": "高橋李依"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 137153,
+            "name": {
+              "full": "Leonardo da Vinci",
+              "native": "レオナルド・ダ・ヴィンチ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95090,
+              "name": {
+                "full": "Maaya Sakamoto",
+                "native": "坂本真綾"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 198020,
+            "name": {
+              "full": "Goredolf  Musik",
+              "native": "ゴルドルフ・ムジーク"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95229,
+              "name": {
+                "full": "Atsushi Imaruoka",
+                "native": "伊丸岡篤"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 3255,
+            "name": {
+              "full": "Sion Eltnam Atlasia",
+              "native": "シオン・エルトナム・アトラシア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 129329,
+              "name": {
+                "full": "Shiki Aoki",
+                "native": "青木志貴"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 210890,
+            "name": {
+              "full": "Jingle Abel Meuniere",
+              "native": "ジングル・アベル・ムニエル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 152907,
+              "name": {
+                "full": "Noriaki Kanze",
+                "native": "観世智顕"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": 219816,
+    "idImdb": "tt33038878",
+    "idTvdb": 474521,
+    "idTrakt": 202898,
+    "traktSlug": "fate-grand-order-you-ve-lost-ritsuka-fujimaru",
+    "idSimkl": null,
+    "idShikimori": 64725
   }
 }

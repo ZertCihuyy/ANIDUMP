@@ -8090,7 +8090,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 192525,
-    "trending": 6,
+    "trending": 0,
     "favourites": 6448,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8202,7 +8202,13 @@
               "romaji": "Danshi Koukousei no Nichijou",
               "english": "The Daily Lives of High School Boys"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx56144-9XxJWQTZFoJW.jpg"
+            }
           }
         },
         {
@@ -8213,7 +8219,13 @@
               "romaji": "Danshi Koukousei no Nichijou Specials",
               "english": "Daily Lives of High School Boys Specials"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2012,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx12893-wmSNdidw29ZJ.png"
+            }
           }
         }
       ]
@@ -8563,7 +8575,7 @@
         }
       ]
     },
-    "updatedAt": 1787357012,
+    "updatedAt": 1787364123,
     "idTmdb": 45859,
     "idImdb": "tt2180883",
     "idTvdb": 254661,
@@ -23589,5 +23601,1004 @@
     "traktSlug": "digimon-fusion",
     "idSimkl": 38312,
     "idShikimori": 11385
+  },
+  "11977": {
+    "id": 11977,
+    "idMal": 11977,
+    "title": {
+      "romaji": "Mahou Shoujo Madoka☆Magica: Hajimari no Monogatari",
+      "english": "Puella Magi Madoka Magica the Movie Part 1: Beginnings",
+      "native": "劇場版 魔法少女まどか☆マギカ 始まりの物語"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "The first movie in the Madoka tetralogy; a recap of the first eight episodes of the series.",
+    "episodes": 1,
+    "duration": 130,
+    "season": "FALL",
+    "seasonYear": 2012,
+    "startDate": {
+      "year": 2012,
+      "month": 10,
+      "day": 6
+    },
+    "endDate": {
+      "year": 2012,
+      "month": 10,
+      "day": 6
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11977-HxMeU4kjzSnE.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11977-HxMeU4kjzSnE.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11977-HxMeU4kjzSnE.png",
+      "color": "#e4ae43"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11977-4giVqDJ3qaHX.jpg",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mahou Shoujo",
+      "Psychological",
+      "Thriller"
+    ],
+    "synonyms": [
+      "Mahou Shoujo Madoka Magika Movie 1",
+      "Magical Girl Madoka Magica Movie 1",
+      "Puella Magi Madoka Magica the Movie Part I: Beginnings"
+    ],
+    "averageScore": 80,
+    "meanScore": 80,
+    "popularity": 53486,
+    "trending": 0,
+    "favourites": 563,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "ZknpyKkHIvw",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/ZknpyKkHIvw/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.madoka-magica.com/zenkouhen/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 11979,
+            "title": {
+              "romaji": "Mahou Shoujo Madoka☆Magica: Eien no Monogatari",
+              "english": "Puella Magi Madoka Magica the Movie Part 2: Eternal"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2012,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11979-oiKvt5UXyREg.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 9756,
+            "title": {
+              "romaji": "Mahou Shoujo Madoka☆Magica",
+              "english": "Puella Magi Madoka Magica"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2011,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx9756-QnUGwlwwnsuN.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 97,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 95,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 94,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 92,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 391,
+        "name": "Philosophy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 143,
+        "name": "Survival",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1596,
+        "name": "Time Loop",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 99,
+        "name": "Henshin",
+        "rank": 77,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 191,
+        "name": "Aliens",
+        "rank": 73,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 179,
+        "name": "Witch",
+        "rank": 71,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 446,
+        "name": "Primarily Child Cast",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1742,
+        "name": "Mixed Media",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 96,
+        "name": "Time Manipulation",
+        "rank": 54,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 17,
+            "name": "Aniplex"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 44,
+            "name": "Shaft"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 143,
+            "name": "Mainichi Broadcasting System"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 166,
+            "name": "Movic"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 459,
+            "name": "Nitroplus"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 627,
+            "name": "Madoka Partners"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 797,
+            "name": "Houbunsha"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 493,
+            "name": "Aniplex of America"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6444,
+            "name": "Manga Entertainment"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 37832,
+            "name": {
+              "full": "Madoka Kaname",
+              "native": "鹿目まどか"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101686,
+              "name": {
+                "full": "Aoi Yuuki",
+                "native": "悠木碧"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 38005,
+            "name": {
+              "full": "Homura Akemi",
+              "native": "暁美ほむら"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95061,
+              "name": {
+                "full": "Chiwa Saitou",
+                "native": "斎藤千和"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 38194,
+            "name": {
+              "full": "Mami Tomoe",
+              "native": "巴マミ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95156,
+              "name": {
+                "full": "Kaori Mizuhashi",
+                "native": "水橋かおり"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 38395,
+            "name": {
+              "full": "Sayaka Miki",
+              "native": "美樹さやか"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95413,
+              "name": {
+                "full": "Eri Kitamura",
+                "native": "喜多村英梨"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 38566,
+            "name": {
+              "full": "Kyuubey",
+              "native": "キュゥべぇ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95052,
+              "name": {
+                "full": "Emiri Katou",
+                "native": "加藤英美里"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 40006,
+            "name": {
+              "full": "Kyouko Sakura",
+              "native": "佐倉杏子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95032,
+              "name": {
+                "full": "Ai Nonaka",
+                "native": "野中藍"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 39584,
+            "name": {
+              "full": "Hitomi Shizuki",
+              "native": "志筑仁美"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95315,
+              "name": {
+                "full": "Ryouko Shintani",
+                "native": "新谷良子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 39742,
+            "name": {
+              "full": "Junko Kaname",
+              "native": "鹿目詢子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95105,
+              "name": {
+                "full": "Yuuko Gotou",
+                "native": "後藤邑子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 39784,
+            "name": {
+              "full": "Tomohisa Kaname",
+              "native": "鹿目知久"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95694,
+              "name": {
+                "full": "Tetsuya Iwanaga",
+                "native": "岩永哲哉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 39785,
+            "name": {
+              "full": "Kazuko Saotome",
+              "native": "早乙女和子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95289,
+              "name": {
+                "full": "Junko Iwao",
+                "native": "岩男潤子"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": 152042,
+    "idImdb": "tt2205948",
+    "idTvdb": null,
+    "idTrakt": 99692,
+    "traktSlug": "puella-magi-madoka-magica-the-movie-part-i-beginnings-2012",
+    "idSimkl": null,
+    "idShikimori": 11977
+  },
+  "11979": {
+    "id": 11979,
+    "idMal": 11979,
+    "title": {
+      "romaji": "Mahou Shoujo Madoka☆Magica: Eien no Monogatari",
+      "english": "Puella Magi Madoka Magica the Movie Part 2: Eternal",
+      "native": "劇場版 魔法少女まどか☆マギカ 永遠の物語"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "The second movie in the Madoka tetralogy. It is a recap of the last four episodes of the series.",
+    "episodes": 1,
+    "duration": 109,
+    "season": "FALL",
+    "seasonYear": 2012,
+    "startDate": {
+      "year": 2012,
+      "month": 10,
+      "day": 13
+    },
+    "endDate": {
+      "year": 2012,
+      "month": 10,
+      "day": 13
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11979-oiKvt5UXyREg.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11979-oiKvt5UXyREg.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11979-oiKvt5UXyREg.jpg",
+      "color": "#210854"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11979-dvw1NNJjvuL7.jpg",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mahou Shoujo",
+      "Psychological",
+      "Thriller"
+    ],
+    "synonyms": [
+      "Mahou Shoujo Madoka Magika Movie 2",
+      "Magical Girl Madoka Magica Movie 2",
+      "Puella Magi Madoka Magica the Movie Part II: Eternal"
+    ],
+    "averageScore": 82,
+    "meanScore": 82,
+    "popularity": 52731,
+    "trending": 1,
+    "favourites": 636,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "ZknpyKkHIvw",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/ZknpyKkHIvw/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.madoka-magica.com/zenkouhen/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 11977,
+            "title": {
+              "romaji": "Mahou Shoujo Madoka☆Magica: Hajimari no Monogatari",
+              "english": "Puella Magi Madoka Magica the Movie Part 1: Beginnings"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2012,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11977-HxMeU4kjzSnE.png"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 11981,
+            "title": {
+              "romaji": "Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari",
+              "english": "Puella Magi Madoka Magica the Movie -Rebellion-"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2013,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b11981-koz1IoISs3eU.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 9756,
+            "title": {
+              "romaji": "Mahou Shoujo Madoka☆Magica",
+              "english": "Puella Magi Madoka Magica"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2011,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx9756-QnUGwlwwnsuN.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 97,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 91,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 96,
+        "name": "Time Manipulation",
+        "rank": 91,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 88,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 391,
+        "name": "Philosophy",
+        "rank": 84,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 82,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 102,
+        "name": "Coming of Age",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 446,
+        "name": "Primarily Child Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 99,
+        "name": "Henshin",
+        "rank": 76,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 636,
+        "name": "Cosmic Horror",
+        "rank": 73,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 179,
+        "name": "Witch",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 191,
+        "name": "Aliens",
+        "rank": 65,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 253,
+        "name": "Gods",
+        "rank": 64,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1742,
+        "name": "Mixed Media",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 46,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 104,
+        "name": "Anti-Hero",
+        "rank": 40,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 17,
+            "name": "Aniplex"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 44,
+            "name": "Shaft"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 143,
+            "name": "Mainichi Broadcasting System"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 166,
+            "name": "Movic"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 459,
+            "name": "Nitroplus"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 627,
+            "name": "Madoka Partners"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 797,
+            "name": "Houbunsha"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 37832,
+            "name": {
+              "full": "Madoka Kaname",
+              "native": "鹿目まどか"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101686,
+              "name": {
+                "full": "Aoi Yuuki",
+                "native": "悠木碧"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 38005,
+            "name": {
+              "full": "Homura Akemi",
+              "native": "暁美ほむら"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95061,
+              "name": {
+                "full": "Chiwa Saitou",
+                "native": "斎藤千和"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 38194,
+            "name": {
+              "full": "Mami Tomoe",
+              "native": "巴マミ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95156,
+              "name": {
+                "full": "Kaori Mizuhashi",
+                "native": "水橋かおり"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 38395,
+            "name": {
+              "full": "Sayaka Miki",
+              "native": "美樹さやか"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95413,
+              "name": {
+                "full": "Eri Kitamura",
+                "native": "喜多村英梨"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 38566,
+            "name": {
+              "full": "Kyuubey",
+              "native": "キュゥべぇ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95052,
+              "name": {
+                "full": "Emiri Katou",
+                "native": "加藤英美里"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 40006,
+            "name": {
+              "full": "Kyouko Sakura",
+              "native": "佐倉杏子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95032,
+              "name": {
+                "full": "Ai Nonaka",
+                "native": "野中藍"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 39584,
+            "name": {
+              "full": "Hitomi Shizuki",
+              "native": "志筑仁美"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95315,
+              "name": {
+                "full": "Ryouko Shintani",
+                "native": "新谷良子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 39742,
+            "name": {
+              "full": "Junko Kaname",
+              "native": "鹿目詢子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95105,
+              "name": {
+                "full": "Yuuko Gotou",
+                "native": "後藤邑子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 39784,
+            "name": {
+              "full": "Tomohisa Kaname",
+              "native": "鹿目知久"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95694,
+              "name": {
+                "full": "Tetsuya Iwanaga",
+                "native": "岩永哲哉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 39785,
+            "name": {
+              "full": "Kazuko Saotome",
+              "native": "早乙女和子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95289,
+              "name": {
+                "full": "Junko Iwao",
+                "native": "岩男潤子"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787364082,
+    "idTmdb": 152044,
+    "idImdb": "tt2194724",
+    "idTvdb": null,
+    "idTrakt": 99694,
+    "traktSlug": "puella-magi-madoka-magica-the-movie-part-ii-eternal-2012",
+    "idSimkl": null,
+    "idShikimori": 11979
   }
 }

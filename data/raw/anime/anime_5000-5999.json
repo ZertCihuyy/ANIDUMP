@@ -7543,7 +7543,7 @@
     "averageScore": 85,
     "meanScore": 85,
     "popularity": 60916,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1561,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7870,7 +7870,7 @@
         }
       ]
     },
-    "updatedAt": 1787364021,
+    "updatedAt": 1787365310,
     "idTmdb": 42705,
     "idImdb": "tt0481256",
     "idTvdb": 79685,
@@ -12224,7 +12224,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 29244,
-    "trending": 1,
+    "trending": 0,
     "favourites": 547,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -12349,7 +12349,13 @@
               "romaji": "Metal Fight Beyblade: Baku",
               "english": "Beyblade: Metal Masters"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2010,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b8410-fXa60HqVggen.png"
+            }
           }
         },
         {
@@ -12360,7 +12366,13 @@
               "romaji": "Metal Fight Beyblade",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx40600-KsAQGSQsDZqQ.jpg"
+            }
           }
         },
         {
@@ -12371,7 +12383,13 @@
               "romaji": "BeyWheelz",
               "english": "BeyWheelz: Powered by Beyblade"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2012,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b136668-VZgOHmlPWZ8l.jpg"
+            }
           }
         },
         {
@@ -12382,7 +12400,13 @@
               "romaji": "Bakuten Shoot Beyblade",
               "english": "Beyblade"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2001,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b288-QLBdXz8n34yP.png"
+            }
           }
         }
       ]
@@ -12688,7 +12712,7 @@
         }
       ]
     },
-    "updatedAt": 1787353340,
+    "updatedAt": 1787364123,
     "idTmdb": 37807,
     "idImdb": "tt1674928",
     "idTvdb": 387655,
@@ -15426,7 +15450,7 @@
     "averageScore": 73,
     "meanScore": 74,
     "popularity": 40477,
-    "trending": 1,
+    "trending": 0,
     "favourites": 718,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -15535,7 +15559,13 @@
               "romaji": "Isekai no Seikishi Monogatari",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/24800.jpg"
+            }
           }
         },
         {
@@ -15546,7 +15576,13 @@
               "romaji": "Isekai no Seikishi Monogatari",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/24834.jpg"
+            }
           }
         },
         {
@@ -15557,7 +15593,13 @@
               "romaji": "Tenchi Muyou!",
               "english": "Tenchi Muyo! Tenchi Universe"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 1995,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx696-q40thYobzxmz.jpg"
+            }
           }
         }
       ]
@@ -15892,7 +15934,14 @@
         }
       ]
     },
-    "updatedAt": 1787345809
+    "updatedAt": 1787365310,
+    "idTmdb": 68639,
+    "idImdb": "tt6603172",
+    "idTvdb": 104741,
+    "idTrakt": 63594,
+    "traktSlug": "tenchi-muyo-war-on-geminar",
+    "idSimkl": 38969,
+    "idShikimori": 5781
   },
   "5671": {
     "id": 5671,
@@ -31726,5 +31775,982 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 5316
+  },
+  "5924": {
+    "id": 5924,
+    "idMal": 5924,
+    "title": {
+      "romaji": "Koushoku Ichidai Otoko",
+      "english": "The Sensualist",
+      "native": "好色一代男"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "The OVA is based on incidents in the novel Koshoku Ichidai Otoko (The Life of an Amorous Man) by Saikaku Ihara (1642-1693).<br><br>\nThe libertine Yonosuke has spent his life in quest of sexual pleasure. Disowned by his father when he is 18, 16 years full of changes and errantry begin for him. At the age of 34 he inherits great wealth after his father dies and forgives his son.<br><br>\nWhen Yunosuke is 57, one of his tailors named Juzo comes to see him before setting out for Edo. Juzo has unwisely made a bet with a rich merchant that he will sleep with Komurasaki, the most renowned courtesan in Edo, at the first meeting. If he succeeds he will win a villa, but if he loses he will lose his manhood. Yunosuke is astounded as he knows how hard the high rank courtesans are to get. The best courtesans, tayu, as well as being beautiful, were highly cultured, being educated in poetry, calligraphy, painting, tea ceremony and other arts. They would sleep with a client only on the third night, the other two nights being taken up with greetings and other social niceties. Humble men, to whom they were 'untouchable' looked up to them with adoration and respect.<br><br>\nIndignant, Yunosuke takes Juzo to Edo and enables him to meet Komurasaki. Juzo is a laughing-stock at the tea-house because of his nervousness, and soon becomes drunk. He clumsily spills wine over the courtesan's kimono. Unperturbed, she goes out and returns wearing a fresh, identical garment.<br><br>\n(Source: AniDB)",
+    "episodes": 1,
+    "duration": 55,
+    "season": "WINTER",
+    "seasonYear": 1991,
+    "startDate": {
+      "year": 1991,
+      "month": 1,
+      "day": 18
+    },
+    "endDate": {
+      "year": 1991,
+      "month": 1,
+      "day": 18
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5924-qz7OEEk1tnmU.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5924-qz7OEEk1tnmU.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b5924-qz7OEEk1tnmU.jpg",
+      "color": "#c95d50"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "synonyms": [
+      "The Life of an Amorous Man",
+      "L'empereur des sens"
+    ],
+    "averageScore": 56,
+    "meanScore": 58,
+    "popularity": 1635,
+    "trending": 0,
+    "favourites": 17,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 25,
+        "name": "Historical",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 227,
+        "name": "Classic Literature",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6305,
+            "name": "Animation Staff Room"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6090,
+            "name": "Aubeck"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 5924
+  },
+  "5460": {
+    "id": 5460,
+    "idMal": 5460,
+    "title": {
+      "romaji": "Meitantei Conan: Shikkoku no Chaser",
+      "english": "Detective Conan: The Raven Chaser",
+      "native": "名探偵コナン漆黒の追跡者(チェイサー)"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "Kudou Shinichi is living his life as Edogawa Conan, but those days seem to might end pretty soon. The Black Syndicate is coming dangerously close to learning the truth about Shinichi having survived. Conan and everybody around him may end up dead if he doesn't manage to find Irish - a member of the Black Organisation who has infiltrated the police forces, currently investigating a big serial murders case.",
+    "episodes": 1,
+    "duration": 111,
+    "season": "SPRING",
+    "seasonYear": 2009,
+    "startDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 18
+    },
+    "endDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 18
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5460-z2qeEVBe01dW.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5460-z2qeEVBe01dW.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5460-z2qeEVBe01dW.jpg",
+      "color": "#e46b43"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ],
+    "synonyms": [
+      "Meitantei Conan Movie 13: Shikkoku no Chaser",
+      "Detective Conan Movie 13",
+      "Detektiv Conan: Der nachtschwarze Jäger",
+      "Detective Conan Movie 13: ...E le stelle stanno a guardare",
+      "Détective Conan : Le Chasseur noir de jais",
+      "Case Closed: The Jet Black Chaser"
+    ],
+    "averageScore": 79,
+    "meanScore": 80,
+    "popularity": 12827,
+    "trending": 0,
+    "favourites": 136,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 6231,
+            "title": {
+              "romaji": "Meitantei Conan Magic File 3: Shinichi to Ran Mahjong Pai to Tanabata no Omoide",
+              "english": "Case Closed Magic File 3: Shinichi and Ran - Memories of Mahjong Tiles and Tanabata"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2009,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/6231.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 235,
+            "title": {
+              "romaji": "Meitantei Conan",
+              "english": "Detective Conan"
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "WINTER",
+            "seasonYear": 1996,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx235-MyYT7K3chBdO.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 488,
+        "name": "Age Regression",
+        "rank": 96,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 694,
+        "name": "Detective",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 40,
+        "name": "Police",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 310,
+        "name": "Espionage",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 117,
+        "name": "Mahjong",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 56,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 62,
+            "name": "Shogakukan-Shueisha Productions"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 65,
+            "name": "Tokyo Movie Shinsha"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 245,
+            "name": "Toho"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 236,
+            "name": "YTV"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 73,
+            "name": "TMS Entertainment"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 1742,
+            "name": {
+              "full": "Conan Edogawa",
+              "native": "江戸川コナン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95024,
+              "name": {
+                "full": "Minami Takayama",
+                "native": "高山みなみ"
+              }
+            },
+            {
+              "id": 95067,
+              "name": {
+                "full": "Kappei Yamaguchi",
+                "native": "山口勝平"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1743,
+            "name": {
+              "full": "Ai Haibara",
+              "native": "灰原哀"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95014,
+              "name": {
+                "full": "Megumi Hayashibara",
+                "native": "林原めぐみ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1745,
+            "name": {
+              "full": "Heiji Hattori",
+              "native": "服部平次"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95518,
+              "name": {
+                "full": "Ryou Horikawa",
+                "native": "堀川りょう"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1746,
+            "name": {
+              "full": "Kogorou Mouri",
+              "native": "毛利小五郎"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95416,
+              "name": {
+                "full": "Akira Kamiya",
+                "native": "神谷明"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1748,
+            "name": {
+              "full": "Ran Mouri",
+              "native": "毛利蘭"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95496,
+              "name": {
+                "full": "Wakana Yamazaki",
+                "native": "山崎和佳奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1749,
+            "name": {
+              "full": "Sonoko Suzuki",
+              "native": "鈴木園子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95516,
+              "name": {
+                "full": "Naoko Matsui",
+                "native": "松井菜桜子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 3198,
+            "name": {
+              "full": "Kazuha Tooyama",
+              "native": "遠山和葉"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95458,
+              "name": {
+                "full": "Yuuko Miyamura",
+                "native": "宮村優子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 4162,
+            "name": {
+              "full": "Hiroshi Agasa",
+              "native": "阿笠博士"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95481,
+              "name": {
+                "full": "Kenichi Ogata",
+                "native": "緒方賢一"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 4228,
+            "name": {
+              "full": "Ayumi Yoshida",
+              "native": "吉田歩美"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95517,
+              "name": {
+                "full": "Yukiko Iwai",
+                "native": "岩居由希子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 4251,
+            "name": {
+              "full": "Genta Kojima",
+              "native": "小嶋元太"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95133,
+              "name": {
+                "full": "Wataru Takagi",
+                "native": "高木渉"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": 28764,
+    "idImdb": "tt1343046",
+    "idTvdb": null,
+    "idTrakt": 18002,
+    "traktSlug": "detective-conan-the-raven-chaser-2009",
+    "idSimkl": 37726,
+    "idShikimori": 5460
+  },
+  "5030": {
+    "id": 5030,
+    "idMal": 5030,
+    "title": {
+      "romaji": "Maria†Holic",
+      "english": "Maria†Holic",
+      "native": "まりあ†ほりっく"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "It’s not easy to find the perfect girl, even when you’re the same sex! Kanako thought attending an all girls school would be the perfect way to meet the girl of her dreams, but after her hot new roommate turns out to be a guy in drag, and catching the eye of the most popular girl in school only brings down the wrath of all the OTHER similarly obsessed girls, she’s not so sure! Complicate things with a cat-eared dorm leader, her roommate’s rude-mannered maid and identical twin sister (who attends an all boys school, of course,) and WAY too many attractive girls of questionable persuasions and the question becomes whether Kanako can die from frustrated nosebleeds! (Life would be SO much easier if guys didn’t literally give her the hives!) Will Kanako ever find a non-polar opposite of a compatible non-opposing polarity?<br>\n<br>\n(Source: Sentai Filmworks)",
+    "episodes": 12,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2009,
+    "startDate": {
+      "year": 2009,
+      "month": 1,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2009,
+      "month": 3,
+      "day": 22
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5030-nDUiCUV0Km64.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5030-nDUiCUV0Km64.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5030-nDUiCUV0Km64.png",
+      "color": "#ffe4a1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n5030-Ye7OxMIy8tmQ.jpg",
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [],
+    "averageScore": 67,
+    "meanScore": 67,
+    "popularity": 39246,
+    "trending": 0,
+    "favourites": 277,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/mariholiANIME",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "http://www.mariaholic.com",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 9712,
+            "title": {
+              "romaji": "Maria†Holic Alive",
+              "english": "Maria†Holic Alive"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2011,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx9712-9mMPdUlf8RZ0.png"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 37342,
+            "title": {
+              "romaji": "Maria†Holic",
+              "english": "Maria Holic"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx37342-lRtmrVsJmYO2.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 39,
+        "name": "Parody",
+        "rank": 95,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 93,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 186,
+        "name": "Crossdressing",
+        "rank": 88,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 780,
+        "name": "Ojou-sama",
+        "rank": 83,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 82,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 249,
+        "name": "Maids",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 171,
+        "name": "Bullying",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1456,
+        "name": "Femboy",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 494,
+        "name": "Twins",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 144,
+        "name": "Meta",
+        "rank": 74,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 74,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 931,
+        "name": "Tomboy",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 164,
+        "name": "Tsundere",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 113,
+        "name": "Nekomimi",
+        "rank": 68,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1091,
+        "name": "Religion",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1489,
+        "name": "Boarding School",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 251,
+        "name": "Archery",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 294,
+        "name": "Bisexual",
+        "rank": 46,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 44,
+            "name": "Shaft"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 61,
+            "name": "Frontier Works"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 79,
+            "name": "Genco"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 108,
+            "name": "Media Factory"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 238,
+            "name": "AT-X"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 313,
+            "name": "Omnibus Japan"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 376,
+            "name": "Sentai Filmworks"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 13869,
+            "name": {
+              "full": "Kanako Miyamae",
+              "native": "宮前かなこ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95126,
+              "name": {
+                "full": "Asami Sanada",
+                "native": "真田アサミ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 13868,
+            "name": {
+              "full": "Mariya Shidou",
+              "native": "祇堂鞠也"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95034,
+              "name": {
+                "full": "Yuu Kobayashi",
+                "native": "小林ゆう"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 13870,
+            "name": {
+              "full": "Matsurika Shinouji",
+              "native": "汐王寺茉莉花"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95158,
+              "name": {
+                "full": "Marina Inoue",
+                "native": "井上麻里奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 13872,
+            "name": {
+              "full": "Yuzuru Inamori",
+              "native": "稲森弓弦"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95211,
+              "name": {
+                "full": "Saori Gotou",
+                "native": "後藤沙緒里"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 13873,
+            "name": {
+              "full": "Sachi Momoi",
+              "native": "桃井サチ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95315,
+              "name": {
+                "full": "Ryouko Shintani",
+                "native": "新谷良子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 13871,
+            "name": {
+              "full": "Nanami Kiri",
+              "native": "桐奈々美"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95239,
+              "name": {
+                "full": "Akemi Kanda",
+                "native": "神田朱未"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 14524,
+            "name": {
+              "full": "Ryuuken Ishima",
+              "native": "石馬隆顕"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95428,
+              "name": {
+                "full": "Yuuko Kaida",
+                "native": "甲斐田裕子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 13874,
+            "name": {
+              "full": "Shizu Shidou",
+              "native": "祇堂静珠"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95004,
+              "name": {
+                "full": "Aya Hirano",
+                "native": "平野綾"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 18735,
+            "name": {
+              "full": "Ryouchou-sensei",
+              "native": "寮長先生"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95099,
+              "name": {
+                "full": "Miyuki Sawashiro",
+                "native": "沢城みゆき"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 52571,
+            "name": {
+              "full": "Yonakuni-san",
+              "native": "与那国さん"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95401,
+              "name": {
+                "full": "Miyu Matsuki",
+                "native": "松来未祐"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": 34667,
+    "idImdb": "tt1346122",
+    "idTvdb": 84591,
+    "idTrakt": 34518,
+    "traktSlug": "maria-holic",
+    "idSimkl": 36930,
+    "idShikimori": 5030
   }
 }

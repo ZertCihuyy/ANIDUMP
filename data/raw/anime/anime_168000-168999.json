@@ -6228,5 +6228,133 @@
     "traktSlug": "sengoku-youko",
     "idSimkl": 2228422,
     "idShikimori": 56242
+  },
+  "168177": {
+    "id": 168177,
+    "idMal": 62117,
+    "title": {
+      "romaji": "Zichuan 2",
+      "english": null,
+      "native": "紫川 第2季"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "RELEASING",
+    "description": "To clear suspicion, words are the weakest defense. True power speaks for itself! General Zichuan Xiu, who once single-handedly executed a traitor of the Zichuan clan within the Demon Clan's stronghold, has risen to command hundreds of thousands of allied troops in the Far East. Supported by the Guardian Elders of the Sacred Temple, this warrior now ascends as the new sovereign of the Eastern lands: The Bright King is crowned! <br>\n<br>\n(Source: WeTV)",
+    "episodes": 52,
+    "duration": 20,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2025,
+      "month": 7,
+      "day": 30
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 6,
+      "day": 16
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168177-BrVpLVEXDiez.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168177-BrVpLVEXDiez.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx168177-BrVpLVEXDiez.png",
+      "color": "#ff501a"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "紫川 光明王者",
+      "Purple River 2"
+    ],
+    "averageScore": null,
+    "meanScore": 80,
+    "popularity": 265,
+    "trending": 0,
+    "favourites": 7,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": {
+      "id": "OeUNimn67E0",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/OeUNimn67E0/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://weibo.com/u/7487985843",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://v.qq.com/x/cover/mzc00200cbdrkxt.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 118201,
+            "title": {
+              "romaji": "Zichuan",
+              "english": "Purple River"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118201-lxq4fZYr6GLo.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6382,
+            "name": "Tencent Penguin Pictures"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6448,
+            "name": "Build Dream"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 62117
   }
 }

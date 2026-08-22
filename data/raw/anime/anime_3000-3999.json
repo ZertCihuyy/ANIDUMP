@@ -3845,7 +3845,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 39446,
-    "trending": 1,
+    "trending": 0,
     "favourites": 469,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3931,7 +3931,13 @@
               "romaji": "Eve no Jikan Movie",
               "english": "Time of Eve: The Movie"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2010,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx7465-gBh82FNppI9h.png"
+            }
           }
         },
         {
@@ -3942,7 +3948,13 @@
               "romaji": "Eve no Jikan",
               "english": "Time of Eve"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx49478-hj7FgPiaWQMK.jpg"
+            }
           }
         },
         {
@@ -3953,7 +3965,13 @@
               "romaji": "Eve no Jikan: Another Act",
               "english": "Time of Eve: Another Act"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx88555-uP7DalEJCRSB.jpg"
+            }
           }
         }
       ]
@@ -4252,7 +4270,14 @@
         }
       ]
     },
-    "updatedAt": 1787349739
+    "updatedAt": 1787364123,
+    "idTmdb": 60937,
+    "idImdb": "tt1506339",
+    "idTvdb": 84709,
+    "idTrakt": 60475,
+    "traktSlug": "time-of-eve",
+    "idSimkl": 40577,
+    "idShikimori": 3167
   },
   "3927": {
     "id": 3927,
@@ -18463,7 +18488,7 @@
     "averageScore": 60,
     "meanScore": 61,
     "popularity": 4500,
-    "trending": 2,
+    "trending": 0,
     "favourites": 35,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -18482,7 +18507,13 @@
               "romaji": "Suna no Bara: Desert Rose",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b88787-SaB43bxwxXkY.png"
+            }
           }
         }
       ]
@@ -18768,7 +18799,7 @@
         }
       ]
     },
-    "updatedAt": 1787356961,
+    "updatedAt": 1787364123,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -33562,5 +33593,510 @@
     "traktSlug": "monochrome-factor",
     "idSimkl": 41125,
     "idShikimori": 3656
+  },
+  "3467": {
+    "id": 3467,
+    "idMal": 3467,
+    "title": {
+      "romaji": "Nogizaka Haruka no Himitsu",
+      "english": "Haruka Nogizaka's Secret",
+      "native": "乃木坂春香の秘密"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "The story centers around Yuuto Ayase and his classmate Haruka Nogizaka. While Yuuto is rather ordinary, Haruka is very attractive, intelligent and rich. Due to this, she is the school's most unattainable girl and is so idolized that her classmates give her the French nicknames \"Nuit &Eacute;toile\" (The Silver Star of the Night) and \"Lumi&egrave;re du Clavier\" (The Shining Princess on the Piano). One day, when Yuuto goes to the school library to return a book, he stumbles across Haruka and her darkest secret&mdash;she is a diehard fan of anime, manga and the otaku culture. Yuuto promises to keep her secret hidden and the two become close friends. Yuuto does his best to help Haruka with her secret hobby while developing his relationship with her. <br><br>\n(Source: Wikipedia)",
+    "episodes": 12,
+    "duration": 25,
+    "season": "SUMMER",
+    "seasonYear": 2008,
+    "startDate": {
+      "year": 2008,
+      "month": 7,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2008,
+      "month": 9,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3467-gOLRgPv8F2BT.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx3467-gOLRgPv8F2BT.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3467-gOLRgPv8F2BT.jpg",
+      "color": null
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3467-nmhOnNrwEA4y.jpg",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "synonyms": [
+      "The secret of Haruka Nogizaka",
+      "ความลับในใจของคุณหนูไอดอล",
+      "Bí mật của Nogizaka Haruka"
+    ],
+    "averageScore": 68,
+    "meanScore": 68,
+    "popularity": 23950,
+    "trending": 0,
+    "favourites": 208,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "LIGHT_NOVEL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "http://www.crunchyroll.com/nogizaka-haruka-no-himitsu",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.retrocrush.tv/series/013078s/haruka-nogisaka's-secret",
+        "site": "RetroCrush",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.bilibili.tv/media/35818",
+        "site": "Bilibili TV",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.nogizaka-haruka.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.ytv.co.jp/nogizaka/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.b-ch.com/titles/1524/",
+        "site": "Bandai Channel",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 1 - It's Over...",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/21675d18e9fa887425604faf7e83b9851254777950_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GY195752R/its-over",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - It’s my first time…",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/b871888c8fb54c8906fb96c8a1ee513b1254774874_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYQ4MZPG6/its-my-first-time",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - “This is it…”",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/1060c2b35f70bba41732eb391df7a0881254775141_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRWEX80ER/this-is-it",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - Is it okay…?",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/4bb07a793fe6cceb55d8231ee082a3dc1254776747_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G609QEM76/is-it-okay",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - When you stare at me like that…",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/6f5e94a48fcbe73828550e450a5b4bb71254777060_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6752NMKR/when-you-stare-at-me-like-that",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - It’s…Natsu-Comic",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/0ba9959c726d01744b54fc49dddff1d51254778853_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYX048EER/itsnatsu-comic",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 7 - …I’m in love!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/7319ebf6e75150d5662c6a767bd7587e1254779385_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR1957VG6/im-in-love",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 8 - …Onii-san",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/4d61821a8d477f8265e646680f57b2771254779574_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYNQ1Z82Y/onii-san",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 9 - I was so happy…",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/21fd0fd395d63427ff308d63fd291e761254781215_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6MG1ZVZ6/i-was-so-happy",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 10 - I want to be with you…",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/91095f362a35f5f7834dff57717df5141254773265_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G63VGXD9Y/i-want-to-be-with-you",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 11 - ...Sorry For The Wait",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/777d8210e6592fd7ae9dc8bfc2cdbf6d1254773318_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR2PW9MJR/sorry-for-the-wait",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 12 - It's a Secret!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/99216ce729ece78e242d647fec4c89051254781153_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRZXQZ98Y/its-a-secret",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 6023,
+            "title": {
+              "romaji": "Nogizaka Haruka no Himitsu: Purezza",
+              "english": "Haruka Nogizaka's Secret: Purezza"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2009,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6023-U6SV5hnnDyBf.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 38847,
+            "title": {
+              "romaji": "Nogizaka Haruka no Himitsu",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx38847-mbD3GfyJQ5dW.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 39072,
+            "title": {
+              "romaji": "Nogizaka Haruka no Himitsu",
+              "english": "Nogizaka Haruka's Secret"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx39072-64gsofrePMn4.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 97,
+        "name": "Otaku Culture",
+        "rank": 84,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 39,
+        "name": "Parody",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 249,
+        "name": "Maids",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 139,
+        "name": "Love Triangle",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 780,
+        "name": "Ojou-sama",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 31,
+            "name": "NBCUniversal Entertainment Japan"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 51,
+            "name": "diomedéa"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 681,
+            "name": "ASCII Media Works"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 719,
+            "name": "Studio Mausu"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 12554,
+            "name": {
+              "full": "Haruka Nogizaka",
+              "native": "乃木坂春香"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95040,
+              "name": {
+                "full": "Mamiko Noto",
+                "native": "能登麻美子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 13761,
+            "name": {
+              "full": "Yuuto Ayase",
+              "native": "綾瀬裕人"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95098,
+              "name": {
+                "full": "Wataru Hatano",
+                "native": "羽多野渉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 14420,
+            "name": {
+              "full": "Shiina Amamiya",
+              "native": "天宮椎菜"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95241,
+              "name": {
+                "full": "Rina Satou",
+                "native": "佐藤利奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 13025,
+            "name": {
+              "full": "Hazuki Sakurazaka",
+              "native": "桜坂葉月"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95169,
+              "name": {
+                "full": "Kaori Shimizu",
+                "native": "清水香里"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 14218,
+            "name": {
+              "full": "Nobunaga Asakura",
+              "native": "朝倉信長"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95429,
+              "name": {
+                "full": "Reiko Takagi",
+                "native": "高木礼子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 14219,
+            "name": {
+              "full": "Ruko Ayase",
+              "native": "綾瀬ルコ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95184,
+              "name": {
+                "full": "Hitomi Nabatame",
+                "native": "生天目仁美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 14220,
+            "name": {
+              "full": "Yukari Kamishiro",
+              "native": "上代由香里"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95401,
+              "name": {
+                "full": "Miyu Matsuki",
+                "native": "松来未祐"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 14354,
+            "name": {
+              "full": "Nanami Nanashiro",
+              "native": "七城那波"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95116,
+              "name": {
+                "full": "Kana Ueda",
+                "native": "植田佳奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 14373,
+            "name": {
+              "full": "Mika Nogizaka",
+              "native": "乃木坂美夏"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100281,
+              "name": {
+                "full": "Mai Gotou",
+                "native": "後藤麻衣"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 15112,
+            "name": {
+              "full": "Gentou Nogizaka",
+              "native": "乃木坂玄冬"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95284,
+              "name": {
+                "full": "Fumihiko Tachiki",
+                "native": "立木文彦"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": 36067,
+    "idImdb": "tt1266617",
+    "idTvdb": 82688,
+    "idTrakt": 61392,
+    "traktSlug": "haruka-nogizaka-s-secret",
+    "idSimkl": 41230,
+    "idShikimori": 3467
   }
 }

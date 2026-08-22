@@ -2026,7 +2026,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788606000,
-      "timeUntilAiring": 1240177,
+      "timeUntilAiring": 1236384,
       "episode": 1
     },
     "relations": {
@@ -3466,7 +3466,13 @@
               "romaji": "Tougen Anki",
               "english": "TOUGEN ANKI"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177474-oHil1yLWldfl.jpg"
+            }
           }
         },
         {
@@ -3477,7 +3483,13 @@
               "romaji": "Tougen Anki",
               "english": "Tougen Anki: Legend of the Cursed Blood"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx119968-dFbxdXwpkZ3s.jpg"
+            }
           }
         }
       ]
@@ -3691,7 +3703,14 @@
         }
       ]
     },
-    "updatedAt": 1787353355
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 63181
   },
   "204656": {
     "id": 204656,
@@ -4016,7 +4035,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787473800,
-      "timeUntilAiring": 107930,
+      "timeUntilAiring": 104133,
       "episode": 8
     },
     "relations": {
@@ -4833,7 +4852,7 @@
     "averageScore": 75,
     "meanScore": 76,
     "popularity": 35357,
-    "trending": 63,
+    "trending": 69,
     "favourites": 588,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4873,7 +4892,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787848080,
-      "timeUntilAiring": 483313,
+      "timeUntilAiring": 478371,
       "episode": 9
     },
     "relations": {
@@ -5292,7 +5311,7 @@
         }
       ]
     },
-    "updatedAt": 1787364013,
+    "updatedAt": 1787365195,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

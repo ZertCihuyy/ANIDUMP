@@ -2425,7 +2425,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1792681200,
-      "timeUntilAiring": 5315330,
+      "timeUntilAiring": 5311533,
       "episode": 1
     },
     "relations": {
@@ -3286,7 +3286,7 @@
     "averageScore": 64,
     "meanScore": 64,
     "popularity": 46041,
-    "trending": 2,
+    "trending": 0,
     "favourites": 778,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3325,7 +3325,13 @@
               "romaji": "Sasayaku You ni Koi wo Utau",
               "english": "Whisper Me a Love Song"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx107987-p5l7uOOecd3I.jpg"
+            }
           }
         }
       ]
@@ -3662,7 +3668,14 @@
         }
       ]
     },
-    "updatedAt": 1787349652
+    "updatedAt": 1787364123,
+    "idTmdb": 218291,
+    "idImdb": "tt30989692",
+    "idTvdb": 429626,
+    "idTrakt": 201627,
+    "traktSlug": "whisper-me-a-love-song",
+    "idSimkl": 2075256,
+    "idShikimori": 54233
   },
   "160088": {
     "id": 160088,
@@ -6234,7 +6247,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787842800,
-      "timeUntilAiring": 476986,
+      "timeUntilAiring": 473192,
       "episode": 4
     },
     "relations": {

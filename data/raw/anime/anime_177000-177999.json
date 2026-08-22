@@ -7448,7 +7448,7 @@
     "averageScore": 87,
     "meanScore": 87,
     "popularity": 49355,
-    "trending": 2,
+    "trending": 1,
     "favourites": 3096,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7487,7 +7487,13 @@
               "romaji": "Ikoku Nikki",
               "english": "Ikoku Nikki"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx106331-C1F1hqpHnJ0U.jpg"
+            }
           }
         }
       ]
@@ -7848,7 +7854,7 @@
         }
       ]
     },
-    "updatedAt": 1787357347,
+    "updatedAt": 1787365274,
     "idTmdb": 253476,
     "idImdb": "tt32336365",
     "idTvdb": 449723,
@@ -7932,7 +7938,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787499000,
-      "timeUntilAiring": 133115,
+      "timeUntilAiring": 129318,
       "episode": 8
     },
     "relations": {
@@ -11719,7 +11725,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 49146,
-    "trending": 44,
+    "trending": 41,
     "favourites": 835,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11769,7 +11775,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787666400,
-      "timeUntilAiring": 301508,
+      "timeUntilAiring": 296691,
       "episode": 8
     },
     "relations": {
@@ -12249,7 +12255,7 @@
         }
       ]
     },
-    "updatedAt": 1787360404,
+    "updatedAt": 1787365195,
     "idTmdb": 255358,
     "idImdb": "tt36517689",
     "idTvdb": 450475,
@@ -12303,7 +12309,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 10501,
-    "trending": 1,
+    "trending": 0,
     "favourites": 163,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -12347,7 +12353,13 @@
               "romaji": "Kakuriyo no Yadomeshi",
               "english": "Kakuriyo -Bed & Breakfast for Spirits-"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2018,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx100500-D1InEy2GriJV.jpg"
+            }
           }
         },
         {
@@ -12358,7 +12370,13 @@
               "romaji": "Kakuriyo no Yadomeshi",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx116778-7JnZzLBFRWLu.jpg"
+            }
           }
         }
       ]
@@ -12700,7 +12718,14 @@
         }
       ]
     },
-    "updatedAt": 1787346104
+    "updatedAt": 1787364123,
+    "idTmdb": 78483,
+    "idImdb": "tt8228732",
+    "idTvdb": 339922,
+    "idTrakt": 126424,
+    "traktSlug": "kakuriyo-bed-breakfast-for-spirits",
+    "idSimkl": 2451970,
+    "idShikimori": 58772
   },
   "177007": {
     "id": 177007,

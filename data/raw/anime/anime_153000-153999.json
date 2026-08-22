@@ -722,7 +722,13 @@
               "romaji": "Pan Long",
               "english": "Coiling Dragon"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx86486-lJjo26or9gSk.jpg"
+            }
           }
         }
       ]
@@ -768,7 +774,14 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 63967
   },
   "153629": {
     "id": 153629,
@@ -9118,7 +9131,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 17453,
-    "trending": 1,
+    "trending": 0,
     "favourites": 142,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9251,7 +9264,7 @@
         }
       ]
     },
-    "updatedAt": 1787364017,
+    "updatedAt": 1787365310,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
