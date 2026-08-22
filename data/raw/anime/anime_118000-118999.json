@@ -47,7 +47,7 @@
     "averageScore": 61,
     "meanScore": 61,
     "popularity": 127198,
-    "trending": 2,
+    "trending": 4,
     "favourites": 1925,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -551,7 +551,7 @@
         }
       ]
     },
-    "updatedAt": 1787382048,
+    "updatedAt": 1787385688,
     "idTmdb": 103157,
     "idImdb": "tt12728856",
     "idTvdb": 388006,
@@ -4013,7 +4013,7 @@
     "averageScore": 55,
     "meanScore": 55,
     "popularity": 77069,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1044,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -4594,7 +4594,7 @@
         }
       ]
     },
-    "updatedAt": 1787374836,
+    "updatedAt": 1787385727,
     "idTmdb": 103409,
     "idImdb": "tt13411814",
     "idTvdb": 388644,
@@ -4646,7 +4646,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 33350,
-    "trending": 0,
+    "trending": 1,
     "favourites": 650,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5163,7 +5163,7 @@
         }
       ]
     },
-    "updatedAt": 1787374914,
+    "updatedAt": 1787385641,
     "idTmdb": 112624,
     "idImdb": "tt12279682",
     "idTvdb": 400015,
@@ -5218,7 +5218,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 95725,
-    "trending": 1,
+    "trending": 3,
     "favourites": 1477,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5767,7 +5767,7 @@
         }
       ]
     },
-    "updatedAt": 1787382035,
+    "updatedAt": 1787385683,
     "idTmdb": 103319,
     "idImdb": "tt12305588",
     "idTvdb": 384757,
@@ -5820,7 +5820,7 @@
     "averageScore": 71,
     "meanScore": 72,
     "popularity": 8914,
-    "trending": 0,
+    "trending": 1,
     "favourites": 417,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -6099,7 +6099,7 @@
         }
       ]
     },
-    "updatedAt": 1787374914,
+    "updatedAt": 1787385708,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6193,7 +6193,13 @@
               "romaji": "Fate/kaleid liner Prisma☆Illya 3rei!!",
               "english": "Fate/kaleid liner Prisma ☆ Illya Drei 3!!"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx66131-w94lTVMjhs6R.png"
+            }
           }
         },
         {
@@ -6204,7 +6210,13 @@
               "romaji": "Fate/kaleid liner Prisma☆Illya: Sekka no Chikai",
               "english": "Fate/kaleid liner Prisma☆Illya: Vow in the Snow"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2017,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b97757-BWFRkX81LpGS.png"
+            }
           }
         },
         {
@@ -6215,7 +6227,13 @@
               "romaji": "Fate/kaleid liner Prisma☆Illya: Licht - Namae no Nai Shoujo Special Mini Anime",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2021,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx138119-Q1BjIcPd3pka.jpg"
+            }
           }
         },
         {
@@ -6226,7 +6244,13 @@
               "romaji": "Fate/kaleid liner Prisma☆Illya: FINALE",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx138511-KkmMugl7jElZ.jpg"
+            }
           }
         },
         {
@@ -6237,7 +6261,13 @@
               "romaji": "Jongtama PV",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b139044-zm8ZuPiPAvF6.png"
+            }
           }
         }
       ]
@@ -6633,7 +6663,7 @@
         }
       ]
     },
-    "updatedAt": 1787353319,
+    "updatedAt": 1787385726,
     "idTmdb": 843243,
     "idImdb": "tt12367916",
     "idTvdb": null,

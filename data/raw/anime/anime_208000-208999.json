@@ -46,7 +46,7 @@
     "averageScore": 61,
     "meanScore": 62,
     "popularity": 3227,
-    "trending": 0,
+    "trending": 1,
     "favourites": 27,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -222,7 +222,7 @@
         }
       ]
     },
-    "updatedAt": 1787378531,
+    "updatedAt": 1787385696,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -272,7 +272,7 @@
     "averageScore": 58,
     "meanScore": 60,
     "popularity": 8118,
-    "trending": 0,
+    "trending": 1,
     "favourites": 96,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -488,7 +488,7 @@
         }
       ]
     },
-    "updatedAt": 1787378531,
+    "updatedAt": 1787385659,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1057,7 +1057,7 @@
     "averageScore": 63,
     "meanScore": 64,
     "popularity": 45731,
-    "trending": 64,
+    "trending": 81,
     "favourites": 687,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1087,7 +1087,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787842800,
-      "timeUntilAiring": 459217,
+      "timeUntilAiring": 456024,
       "episode": 10
     },
     "relations": {
@@ -1510,7 +1510,7 @@
         }
       ]
     },
-    "updatedAt": 1787382009,
+    "updatedAt": 1787385626,
     "idTmdb": 314554,
     "idImdb": "tt40550160",
     "idTvdb": 474303,
@@ -1603,7 +1603,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787416200,
-      "timeUntilAiring": 32649,
+      "timeUntilAiring": 29335,
       "episode": 8
     },
     "relations": {
@@ -2337,7 +2337,7 @@
     "averageScore": 53,
     "meanScore": 63,
     "popularity": 711,
-    "trending": 0,
+    "trending": 1,
     "favourites": 8,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2578,7 +2578,7 @@
         }
       ]
     },
-    "updatedAt": 1787374914,
+    "updatedAt": 1787385701,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3404,5 +3404,409 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 63573
+  },
+  "208831": {
+    "id": 208831,
+    "idMal": 60756,
+    "title": {
+      "romaji": "Copihan Tokubetsu-hen",
+      "english": "Copihan Special Episode",
+      "native": "こぴはん 特別編"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "Run, Omoto, run! Don't let the others distract you! Not by sports cannons, by radio presenters, by pretty girls, by policemen, by office ladies, by puppeteers and especially not by carpenters!",
+    "episodes": 1,
+    "duration": 6,
+    "season": "SUMMER",
+    "seasonYear": 2023,
+    "startDate": {
+      "year": 2023,
+      "month": 6,
+      "day": 27
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 6,
+      "day": 27
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208831-Z6AX7YSYCaHf.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208831-Z6AX7YSYCaHf.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208831-Z6AX7YSYCaHf.png",
+      "color": "#50a1f1"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "Copihan Episode 8",
+      "Kumokiri OMOTA"
+    ],
+    "averageScore": null,
+    "meanScore": 43,
+    "popularity": 58,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.crunchyroll.com/series/G8DHV78N3/copihan",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 10801,
+            "title": {
+              "romaji": "Copihan",
+              "english": "Copihan"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2011,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx10801-Yyh6ryK7x76c.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 3,
+            "name": "GONZO"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 43858,
+            "name": {
+              "full": "Omoto Kumogiri",
+              "native": "雲桐万年青"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 43850,
+            "name": {
+              "full": "Sayu Mihashira",
+              "native": "美柱沙遊"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 43851,
+            "name": {
+              "full": "Saya Mihashira",
+              "native": "美柱沙弥"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 43852,
+            "name": {
+              "full": "Haruhiko Tsugayama",
+              "native": "栂山晴彦"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 43853,
+            "name": {
+              "full": "Yuzuki Tsugayama",
+              "native": "栂山ゆずき"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 43854,
+            "name": {
+              "full": "Asagi Tsugayama",
+              "native": "栂山あさぎ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 43855,
+            "name": {
+              "full": "Hiromi Urino",
+              "native": "瓜野比呂美"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 43856,
+            "name": {
+              "full": "Hotaru Kitoh",
+              "native": "鬼藤蛍"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 43857,
+            "name": {
+              "full": "Yuna Kadokura",
+              "native": "門倉優奈"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787385714,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 60756
+  },
+  "208749": {
+    "id": 208749,
+    "idMal": 63765,
+    "title": {
+      "romaji": "Nuki Nuki ♡ Zupposism",
+      "english": null,
+      "native": "ヌきヌき♡ずっぽしイズム"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "RELEASING",
+    "description": "<b>Episode 1</b><br>\n<br>\n<i>Tonari no Elf Mama (part 1)</i><br>\nIt’s been a few years since the treaty of friendship was signed between the elves and humans… and next door to my apartment live an elf mother and daughter named Sophia and Lilia. After eating a meal prepared by my elven neighbors, I felt a strange, restless sensation and became abnormally aroused. Just then, Sophia came to visit and explained that she had mistakenly used the wrong amount of a herb from her homeland. She said it had a powerful aphrodisiac effect, and if I didn’t ejaculate immediately, I might suffer permanent damage to my reproductive functions. As an apology, Sophia offered to help me relieve myself.<br>\n<br>\n<i>Tonari no Elf Mama (part 2)</i><br>\nWhen I got home, Lilia was waiting for me at the door. As I was soaking in the tub, Lilia walked in completely naked and offered to help me relieve myself. I was taken aback by the sudden turn of events, but Lilia toyed with me, and soon the two of us were writhing in ecstasy, exposing our lewd, lustful forms! Just then, Sophia, who was supposed to be out, came home. It should have turned into a chaotic scene, but instead, mother and daughter were completely absorbed in the human male’s cock!!<br>\n<br>\n<b>Episode 2</b><br>\n<br>\n<i>Tonari no Super Heroine ♡</i><br>\nMy new neighbor, housewife Mari Mayama (Maiden name: Mari Iihoshi), came over to introduce herself, and memories of the past came flooding back in an instant. She was Milkaiser, the “Love Warrior” I’d idolized 13 years ago, who had starred in a minor tokusatsu heroine series. When I told her I was a huge fan, she changed into her costume from back then. Seeing her like that, my overly honest dick reacted, and I was punished by the real Milkaiser—leading to the resurrection of the criminal syndicate Death Geek!!<br>\n<br>\n<i>Boku to Tomo Mama no Sefure Keiyaku</i><br>\nKeita finds any excuse he can to visit his friend’s mom, whom he’s always admired. She has a beautiful, curvy butt and a stunning body with big, alluring breasts!! When she slowly spreads her legs and exposes her panties in the room just the two of them, his cock goes rock hard. As if she knew exactly what was going on, she sits down next to him and gives it a firm squeeze. She takes him step by step, and as he surrenders himself to her every move, he awakens to the pleasure of coming. The two, who are a perfect match, strike a secret arrangement to be each other’s fuck buddies...<br>\n<br>\n(Source: Mediabank, translated)",
+    "episodes": null,
+    "duration": 20,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 6,
+      "day": 12
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208749-8Tw6LuaE6oQF.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208749-8Tw6LuaE6oQF.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx208749-8Tw6LuaE6oQF.png",
+      "color": "#f1c9ae"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [],
+    "averageScore": 55,
+    "meanScore": 63,
+    "popularity": 546,
+    "trending": 1,
+    "favourites": 20,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 204664,
+            "title": {
+              "romaji": "Nuki Nuki ♡ Zupposism",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx204664-qEtrTs9mTxPp.png"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 176568,
+            "title": {
+              "romaji": "Tonari no Elf Mama",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx176568-n8Crw4Q5dv78.png"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 209692,
+            "title": {
+              "romaji": "Tonari no Super Heroine ♡",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx209692-nHvDroniUOLj.png"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 170655,
+            "title": {
+              "romaji": "Boku to Tomo Mama no Sefure Keiyaku",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx170655-bibq4ErJVeLJ.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1937,
+        "name": "Interspecies",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 137,
+        "name": "Large Breasts",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1903,
+        "name": "Oyakodon",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 125,
+        "name": "Nakadashi",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 598,
+        "name": "Elf",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1653,
+        "name": "Mating Press",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 126,
+        "name": "Boobjob",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 134,
+        "name": "Fellatio",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 187,
+        "name": "MILF",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6093,
+            "name": "Queen Bee"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787385706,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 63765
   }
 }

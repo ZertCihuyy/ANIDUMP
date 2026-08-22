@@ -45,7 +45,7 @@
     "averageScore": 73,
     "meanScore": 74,
     "popularity": 28597,
-    "trending": 1,
+    "trending": 2,
     "favourites": 675,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -417,7 +417,7 @@
         }
       ]
     },
-    "updatedAt": 1787382049,
+    "updatedAt": 1787385660,
     "idTmdb": 107255,
     "idImdb": "tt27442011",
     "idTvdb": 423688,
@@ -926,7 +926,7 @@
     "averageScore": 79,
     "meanScore": 80,
     "popularity": 6050,
-    "trending": 0,
+    "trending": 1,
     "favourites": 162,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1034,7 +1034,13 @@
               "romaji": "Wan Sheng Jie",
               "english": "All Saints Street"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx114555-2Srjv4lqeGYA.png"
+            }
           }
         },
         {
@@ -1045,7 +1051,13 @@
               "romaji": "Wan Sheng Jie",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b118367-5MdguwLeurOU.jpg"
+            }
           }
         },
         {
@@ -1056,7 +1068,13 @@
               "romaji": "Fei Ren Zai",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx103350-SBivcMY5Z6l9.jpg"
+            }
           }
         },
         {
@@ -1067,7 +1085,13 @@
               "romaji": "Wan Sheng Jie 3",
               "english": "All Saints Street 3"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137740-x9BeehdeeaZz.jpg"
+            }
           }
         }
       ]
@@ -1362,7 +1386,14 @@
         }
       ]
     },
-    "updatedAt": 1787353355
+    "updatedAt": 1787385671,
+    "idTmdb": 106402,
+    "idImdb": "tt12809744",
+    "idTvdb": 380207,
+    "idTrakt": 160491,
+    "traktSlug": "all-saints-street",
+    "idSimkl": 1506559,
+    "idShikimori": 42640
   },
   "122575": {
     "id": 122575,
@@ -1409,7 +1440,7 @@
     "averageScore": 79,
     "meanScore": 80,
     "popularity": 7703,
-    "trending": 0,
+    "trending": 1,
     "favourites": 182,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1448,7 +1479,13 @@
               "romaji": "STAND BY ME Doraemon",
               "english": "STAND BY ME Doraemon"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2014,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/20515.jpg"
+            }
           }
         },
         {
@@ -1459,7 +1496,13 @@
               "romaji": "Doraemon",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx31032-EnHYnoLVqlWG.jpg"
+            }
           }
         },
         {
@@ -1470,7 +1513,13 @@
               "romaji": "Doraemon (2005)",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "SPRING",
+            "seasonYear": 2005,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b8687-bBnJMGnih4PT.jpg"
+            }
           }
         },
         {
@@ -1481,7 +1530,13 @@
               "romaji": "Doraemon: Obaachan no Omoide",
               "english": "Doraemon: A Grandmother's Recollections"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2000,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/2649.jpg"
+            }
           }
         }
       ]
@@ -1772,7 +1827,7 @@
         }
       ]
     },
-    "updatedAt": 1787353355,
+    "updatedAt": 1787385696,
     "idTmdb": 728754,
     "idImdb": "tt13428402",
     "idTvdb": null,
@@ -4380,7 +4435,7 @@
     "averageScore": 70,
     "meanScore": 71,
     "popularity": 55157,
-    "trending": 2,
+    "trending": 3,
     "favourites": 590,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4831,7 +4886,7 @@
         }
       ]
     },
-    "updatedAt": 1787382013,
+    "updatedAt": 1787385653,
     "idTmdb": 65930,
     "idImdb": null,
     "idTvdb": null,
@@ -6213,7 +6268,7 @@
         }
       ]
     },
-    "updatedAt": 1787365303,
+    "updatedAt": 1787385676,
     "idTmdb": 106480,
     "idImdb": "tt12779780",
     "idTvdb": 386570,
@@ -7201,5 +7256,761 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 34323
+  },
+  "122631": {
+    "id": 122631,
+    "idMal": 49915,
+    "title": {
+      "romaji": "Yi Ren Zhi Xia 4",
+      "english": null,
+      "native": "一人之下 4"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "The fourth season of <i>Yi Ren Zhi Xia</i>.",
+    "episodes": 12,
+    "duration": 23,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2021,
+      "month": 9,
+      "day": 24
+    },
+    "endDate": {
+      "year": 2021,
+      "month": 12,
+      "day": 3
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122631-YLTfCEyYzQa5.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122631-YLTfCEyYzQa5.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx122631-YLTfCEyYzQa5.jpg",
+      "color": "#50c9e4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "Hitori no Shita: The Outcast 4",
+      "一人之下 第四季"
+    ],
+    "averageScore": 66,
+    "meanScore": 68,
+    "popularity": 5718,
+    "trending": 1,
+    "favourites": 75,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "MANGA",
+    "trailer": {
+      "id": "L3AefPpFsnk",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/L3AefPpFsnk/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.weibo.com/u/5927750116",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://v.qq.com/detail/m/mzc00200ni38yk3.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.crunchyroll.com/series/G63VMXEQY/hitori-no-shita---the-outcast",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 105401,
+            "title": {
+              "romaji": "Yi Ren Zhi Xia 3",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx105401-Wwj6ZWHUdOuo.png"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 99402,
+            "title": {
+              "romaji": "Yi Ren Zhi Xia",
+              "english": "The Outcast"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b99402-obFolSToBtHh.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 142298,
+            "title": {
+              "romaji": "Yi Ren Zhi Xia 5",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx142298-7WbiNkaU6gjt.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 303,
+        "name": "Wuxia",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6382,
+            "name": "Tencent Penguin Pictures"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6129,
+            "name": "Tencent Animation & Comics"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6547,
+            "name": "Qiyuan Yinghua"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 126183,
+            "name": {
+              "full": "Baobao Feng",
+              "native": "冯宝宝"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 173574,
+            "name": {
+              "full": "Chulan  Zhang",
+              "native": "张楚岚"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 220990,
+            "name": {
+              "full": "Qing Zhuge",
+              "native": "诸葛青"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 248970,
+            "name": {
+              "full": "Duo Chen",
+              "native": "陈朵"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 173566,
+            "name": {
+              "full": "San Xu",
+              "native": "徐三"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 173570,
+            "name": {
+              "full": "Si Xu",
+              "native": "徐四"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 203963,
+            "name": {
+              "full": "Ye Wang",
+              "native": "王也"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 248971,
+            "name": {
+              "full": "Zizai Xiao",
+              "native": "肖自在"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 248972,
+            "name": {
+              "full": "Hei Guan",
+              "native": "黑管"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 248973,
+            "name": {
+              "full": "Zhenqiu Wang",
+              "native": "王震球"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787385701,
+    "idTmdb": 67063,
+    "idImdb": "tt12882132",
+    "idTvdb": 313488,
+    "idTrakt": 108675,
+    "traktSlug": "hitori-no-shita-the-outcast",
+    "idSimkl": 1732891,
+    "idShikimori": 49915
+  },
+  "122671": {
+    "id": 122671,
+    "idMal": 48941,
+    "title": {
+      "romaji": "Quanzhi Fashi 5",
+      "english": null,
+      "native": "全职法师 第5季"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "The fifth season of <i>Quanzhi Fashi</i>",
+    "episodes": 12,
+    "duration": 20,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2021,
+      "month": 7,
+      "day": 28
+    },
+    "endDate": {
+      "year": 2021,
+      "month": 8,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122671-0ie6U9LGaILt.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122671-0ie6U9LGaILt.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx122671-0ie6U9LGaILt.png",
+      "color": "#5093d6"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Full-Time Magister 5",
+      "全职法师V"
+    ],
+    "averageScore": 71,
+    "meanScore": 71,
+    "popularity": 9895,
+    "trending": 1,
+    "favourites": 171,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://weibo.com/u/5580781966",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://v.qq.com/detail/m/mzc00200dpv18be.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 115800,
+            "title": {
+              "romaji": "Quanzhi Fashi 4",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx115800-IUbsQeRT92YC.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 137726,
+            "title": {
+              "romaji": "Quanzhi Fashi 6",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137726-ZMMDRFLTQWSH.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 88,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 243,
+        "name": "Reincarnation",
+        "rank": 51,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 244,
+        "name": "Isekai",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6162,
+            "name": "Foch"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6382,
+            "name": "Tencent Penguin Pictures"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6469,
+            "name": "China Literature"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 132351,
+            "name": {
+              "full": "Fan Mo",
+              "native": "莫凡"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 210664,
+            "name": {
+              "full": "Yue Tang",
+              "native": "唐月"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 210665,
+            "name": {
+              "full": "Ningxue Mu",
+              "native": "穆宁雪"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 210671,
+            "name": {
+              "full": "Zhankong",
+              "native": "斩空"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 219481,
+            "name": {
+              "full": "Xiaohou Zhang",
+              "native": "张小侯"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 219663,
+            "name": {
+              "full": "Zhouyun Mu",
+              "native": "穆卓云"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 220197,
+            "name": {
+              "full": "Zhong Tang",
+              "native": "唐忠"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 243036,
+            "name": {
+              "full": "Pang Laoban",
+              "native": "胖老板"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 243037,
+            "name": {
+              "full": "Man Li",
+              "native": "离曼"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 243038,
+            "name": {
+              "full": "Xin Qiu",
+              "native": "秋信"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787385693,
+    "idTmdb": 70311,
+    "idImdb": "tt11317074",
+    "idTvdb": 328670,
+    "idTrakt": 119130,
+    "traktSlug": "full-time-magister",
+    "idSimkl": 1717857,
+    "idShikimori": 48941
+  },
+  "122652": {
+    "id": 122652,
+    "idMal": 49386,
+    "title": {
+      "romaji": "Xingchen Bian: Xichen Yao Hai",
+      "english": null,
+      "native": "星辰变 星辰耀海"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "The third season of <i>Xingchen Bian</i>.",
+    "episodes": 12,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2021,
+      "month": 9,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2021,
+      "month": 10,
+      "day": 3
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122652-Ie2VIwDmL34r.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122652-Ie2VIwDmL34r.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx122652-Ie2VIwDmL34r.jpg",
+      "color": "#e4865d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "synonyms": [
+      "星辰变 第三季",
+      "Xingchen Bian 3",
+      "Legend of Immortals 3",
+      "Stellar Transformations 3"
+    ],
+    "averageScore": 70,
+    "meanScore": 75,
+    "popularity": 1257,
+    "trending": 1,
+    "favourites": 52,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.weibo.com/u/1956360870",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://v.qq.com/detail/0/0s8n49g3g1rv1oz.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 119938,
+            "title": {
+              "romaji": "Xingchen Bian: Yuli Canghai",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx119938-2C7bla1mTA6R.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 137738,
+            "title": {
+              "romaji": "Xingchen Bian: Po Tian Mi Ju",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137738-39RLeXSwojl2.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 326,
+        "name": "Cultivation",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 43,
+        "name": "Swordplay",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 30,
+        "name": "Martial Arts",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 15,
+        "name": "Demons",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 224,
+        "name": "Dragons",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6382,
+            "name": "Tencent Penguin Pictures"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6162,
+            "name": "Foch"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6469,
+            "name": "China Literature"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787385660,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 1721821,
+    "idShikimori": 49386
   }
 }

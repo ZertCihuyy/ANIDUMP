@@ -908,7 +908,7 @@
     "averageScore": 61,
     "meanScore": 61,
     "popularity": 81525,
-    "trending": 2,
+    "trending": 1,
     "favourites": 671,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1359,7 +1359,7 @@
         }
       ]
     },
-    "updatedAt": 1787382021,
+    "updatedAt": 1787385712,
     "idTmdb": 46025,
     "idImdb": "tt1929675",
     "idTvdb": 219131,
@@ -2585,7 +2585,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 63708,
-    "trending": 3,
+    "trending": 1,
     "favourites": 1578,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3046,7 +3046,7 @@
         }
       ]
     },
-    "updatedAt": 1787382036,
+    "updatedAt": 1787385656,
     "idTmdb": 70072,
     "idImdb": "tt2942224",
     "idTvdb": 272369,
@@ -3574,7 +3574,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 76679,
-    "trending": 1,
+    "trending": 0,
     "favourites": 713,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3873,7 +3873,7 @@
         }
       ]
     },
-    "updatedAt": 1787374816,
+    "updatedAt": 1787385727,
     "idTmdb": 65676,
     "idImdb": null,
     "idTvdb": null,
@@ -4998,7 +4998,7 @@
     "averageScore": 78,
     "meanScore": 79,
     "popularity": 25020,
-    "trending": 1,
+    "trending": 2,
     "favourites": 343,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5136,7 +5136,7 @@
         }
       ]
     },
-    "updatedAt": 1787371274,
+    "updatedAt": 1787385644,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6732,7 +6732,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 182414,
-    "trending": 3,
+    "trending": 1,
     "favourites": 2718,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7263,7 +7263,7 @@
         }
       ]
     },
-    "updatedAt": 1787382049,
+    "updatedAt": 1787385705,
     "idTmdb": 45501,
     "idImdb": "tt2321542",
     "idTvdb": 261862,
@@ -7767,7 +7767,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 278594,
-    "trending": 2,
+    "trending": 4,
     "favourites": 6588,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8284,7 +8284,7 @@
         }
       ]
     },
-    "updatedAt": 1787382028,
+    "updatedAt": 1787385619,
     "idTmdb": 61695,
     "idImdb": "tt3114376",
     "idTvdb": 272697,
@@ -8338,7 +8338,7 @@
     "averageScore": 79,
     "meanScore": 79,
     "popularity": 412493,
-    "trending": 5,
+    "trending": 7,
     "favourites": 17645,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9113,7 +9113,7 @@
         }
       ]
     },
-    "updatedAt": 1787382009,
+    "updatedAt": 1787385629,
     "idTmdb": 60728,
     "idImdb": "tt3114390",
     "idTvdb": 272074,
@@ -9167,7 +9167,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 266494,
-    "trending": 6,
+    "trending": 2,
     "favourites": 5592,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9729,7 +9729,7 @@
         }
       ]
     },
-    "updatedAt": 1787382053,
+    "updatedAt": 1787385685,
     "idTmdb": 62640,
     "idImdb": "tt3115338",
     "idTvdb": 275670,
@@ -10929,7 +10929,7 @@
     "averageScore": 59,
     "meanScore": 59,
     "popularity": 38707,
-    "trending": 0,
+    "trending": 1,
     "favourites": 226,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10948,7 +10948,13 @@
               "romaji": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai.",
               "english": "Oreimo 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2013,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx13659-dKbA53HH9vwR.png"
+            }
           }
         },
         {
@@ -10959,7 +10965,13 @@
               "romaji": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx43667-GB6leA3WTeAK.jpg"
+            }
           }
         },
         {
@@ -10970,7 +10982,13 @@
               "romaji": "Ore no Imouto ga Konna ni Kawaii Wake ga Nai. Gal Game Animation",
               "english": "Oreimo 2: My Little Sister Can't Be This Eroge"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2014,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/20892.jpg"
+            }
           }
         }
       ]
@@ -11267,7 +11285,7 @@
         }
       ]
     },
-    "updatedAt": 1787353355,
+    "updatedAt": 1787385726,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -12545,7 +12563,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 182621,
-    "trending": 1,
+    "trending": 0,
     "favourites": 3977,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13087,7 +13105,7 @@
         }
       ]
     },
-    "updatedAt": 1787378510,
+    "updatedAt": 1787385727,
     "idTmdb": 61456,
     "idImdb": "tt2904418",
     "idTvdb": 270065,
@@ -14513,7 +14531,7 @@
     "averageScore": 48,
     "meanScore": 49,
     "popularity": 2310,
-    "trending": 1,
+    "trending": 0,
     "favourites": 24,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -14789,7 +14807,7 @@
         }
       ]
     },
-    "updatedAt": 1787382044,
+    "updatedAt": 1787385727,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -16178,7 +16196,7 @@
     "averageScore": 72,
     "meanScore": 73,
     "popularity": 14003,
-    "trending": 0,
+    "trending": 1,
     "favourites": 128,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -16647,7 +16665,7 @@
         }
       ]
     },
-    "updatedAt": 1787371321,
+    "updatedAt": 1787385693,
     "idTmdb": 34708,
     "idImdb": "tt0473578",
     "idTvdb": 78919,

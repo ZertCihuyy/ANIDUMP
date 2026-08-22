@@ -42,7 +42,7 @@
     "averageScore": 74,
     "meanScore": 75,
     "popularity": 51586,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1250,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -586,7 +586,7 @@
         }
       ]
     },
-    "updatedAt": 1787382097,
+    "updatedAt": 1787385716,
     "idTmdb": 96451,
     "idImdb": "tt11443824",
     "idTvdb": 392925,
@@ -642,7 +642,7 @@
     "averageScore": 69,
     "meanScore": 69,
     "popularity": 48665,
-    "trending": 1,
+    "trending": 0,
     "favourites": 591,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1174,7 +1174,7 @@
         }
       ]
     },
-    "updatedAt": 1787382040,
+    "updatedAt": 1787385727,
     "idTmdb": 113042,
     "idImdb": "tt13457122",
     "idTvdb": 399147,
@@ -1689,7 +1689,7 @@
     "averageScore": 83,
     "meanScore": 83,
     "popularity": 61956,
-    "trending": 1,
+    "trending": 0,
     "favourites": 4541,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -2223,7 +2223,7 @@
         }
       ]
     },
-    "updatedAt": 1787374894,
+    "updatedAt": 1787382097,
     "idTmdb": 112398,
     "idImdb": "tt13375866",
     "idTvdb": 388672,
@@ -3075,7 +3075,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 32681,
-    "trending": 0,
+    "trending": 1,
     "favourites": 955,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3856,7 +3856,7 @@
         }
       ]
     },
-    "updatedAt": 1787378531,
+    "updatedAt": 1787385688,
     "idTmdb": 103511,
     "idImdb": "tt12792684",
     "idTvdb": 388317,
@@ -4422,7 +4422,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 306993,
-    "trending": 3,
+    "trending": 4,
     "favourites": 6869,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4978,7 +4978,7 @@
         }
       ]
     },
-    "updatedAt": 1787382034,
+    "updatedAt": 1787385667,
     "idTmdb": 96316,
     "idImdb": "tt11448214",
     "idTvdb": 380654,
@@ -6208,7 +6208,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 18688,
-    "trending": 0,
+    "trending": 1,
     "favourites": 148,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6488,7 +6488,13 @@
               "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 3-bu - Ryouchi ni Hon wo Hirogeyou!",
               "english": "Ascendance of a Bookworm ~I'll do anything to become a librarian!~ Part 3 Let's spread books through the duchy!"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx110805-ezAnlE1UWQjm.jpg"
+            }
           }
         },
         {
@@ -6499,7 +6505,13 @@
               "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 1-bu - Hon ga Nai nara Tsukureba Ii!",
               "english": "Ascendance of a Bookworm ~I'll do anything to become a librarian!~ Part 1 If there aren't any books, I'll just have make some!"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx96775-TFnKzz3A3Cnu.jpg"
+            }
           }
         },
         {
@@ -6510,7 +6522,13 @@
               "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 3-bu - Ryoushu no Youjo",
               "english": "Ascendance of a Bookworm: Part 3"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx110801-P0va1ehMlNcL.jpg"
+            }
           }
         },
         {
@@ -6521,7 +6539,13 @@
               "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
               "english": "Ascendance of a Bookworm"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2019,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx108268-Dtt82uOi3vq5.jpg"
+            }
           }
         },
         {
@@ -6532,7 +6556,13 @@
               "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season",
               "english": "Ascendance of a Bookworm Part 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2020,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113693-3tHbslFxD47R.jpg"
+            }
           }
         },
         {
@@ -6543,7 +6573,13 @@
               "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen Dai 1-bu - Heishi no Musume",
               "english": "Ascendance of a Bookworm: Part 1"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx87383-0pZpv5P19QsX.jpg"
+            }
           }
         }
       ]
@@ -6809,7 +6845,14 @@
         }
       ]
     },
-    "updatedAt": 1787353355
+    "updatedAt": 1787385702,
+    "idTmdb": 91768,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 1223565,
+    "idShikimori": 40841
   },
   "113311": {
     "id": 113311,
@@ -7387,7 +7430,7 @@
         }
       ]
     },
-    "updatedAt": 1787371279,
+    "updatedAt": 1787385717,
     "idTmdb": 95433,
     "idImdb": "tt11299538",
     "idTvdb": 372833,
@@ -8859,7 +8902,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 333040,
-    "trending": 3,
+    "trending": 9,
     "favourites": 8183,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9413,7 +9456,7 @@
         }
       ]
     },
-    "updatedAt": 1787382026,
+    "updatedAt": 1787385637,
     "idTmdb": 86031,
     "idImdb": "tt9679542",
     "idTvdb": 355774,
@@ -9715,7 +9758,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 31254,
-    "trending": 0,
+    "trending": 2,
     "favourites": 890,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -9994,7 +10037,7 @@
         }
       ]
     },
-    "updatedAt": 1787382097,
+    "updatedAt": 1787385673,
     "idTmdb": 79141,
     "idImdb": "tt10384610",
     "idTvdb": 358612,
@@ -10761,7 +10804,7 @@
     "averageScore": 79,
     "meanScore": 81,
     "popularity": 8159,
-    "trending": 0,
+    "trending": 1,
     "favourites": 144,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11104,7 +11147,7 @@
         }
       ]
     },
-    "updatedAt": 1787382097,
+    "updatedAt": 1787385717,
     "idTmdb": 910850,
     "idImdb": "tt32915652",
     "idTvdb": null,
@@ -11650,7 +11693,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 963093,
-    "trending": 13,
+    "trending": 17,
     "favourites": 69959,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -12358,7 +12401,7 @@
         }
       ]
     },
-    "updatedAt": 1787382006,
+    "updatedAt": 1787385622,
     "idTmdb": 95479,
     "idImdb": "tt12343534",
     "idTvdb": 377543,
@@ -12413,7 +12456,7 @@
     "averageScore": 85,
     "meanScore": 85,
     "popularity": 253474,
-    "trending": 1,
+    "trending": 3,
     "favourites": 8378,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -12811,7 +12854,7 @@
         }
       ]
     },
-    "updatedAt": 1787382031,
+    "updatedAt": 1787385677,
     "idTmdb": 60863,
     "idImdb": "tt3398540",
     "idTvdb": 278157,
@@ -12867,7 +12910,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 36875,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1081,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -13106,7 +13149,7 @@
         }
       ]
     },
-    "updatedAt": 1787382030,
+    "updatedAt": 1787385727,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -13496,7 +13539,7 @@
     "averageScore": 79,
     "meanScore": 79,
     "popularity": 74703,
-    "trending": 1,
+    "trending": 4,
     "favourites": 1499,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -14284,7 +14327,7 @@
         }
       ]
     },
-    "updatedAt": 1787382046,
+    "updatedAt": 1787385672,
     "idTmdb": 91768,
     "idImdb": "tt10885406",
     "idTvdb": 366263,
@@ -14340,7 +14383,7 @@
     "averageScore": 62,
     "meanScore": 62,
     "popularity": 66952,
-    "trending": 1,
+    "trending": 0,
     "favourites": 945,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -14825,7 +14868,7 @@
         }
       ]
     },
-    "updatedAt": 1787382048,
+    "updatedAt": 1787385727,
     "idTmdb": 98685,
     "idImdb": "tt12312004",
     "idTvdb": 380655,
@@ -16478,7 +16521,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 47864,
-    "trending": 0,
+    "trending": 3,
     "favourites": 1272,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -16916,7 +16959,7 @@
         }
       ]
     },
-    "updatedAt": 1787382097,
+    "updatedAt": 1787385680,
     "idTmdb": 95631,
     "idImdb": "tt12285778",
     "idTvdb": 395315,
@@ -16965,7 +17008,7 @@
     "averageScore": 66,
     "meanScore": 67,
     "popularity": 4147,
-    "trending": 1,
+    "trending": 0,
     "favourites": 267,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -17368,7 +17411,7 @@
         }
       ]
     },
-    "updatedAt": 1787382034,
+    "updatedAt": 1787385727,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -17626,7 +17669,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 32596,
-    "trending": 1,
+    "trending": 2,
     "favourites": 386,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -18140,7 +18183,7 @@
         }
       ]
     },
-    "updatedAt": 1787378501,
+    "updatedAt": 1787385688,
     "idTmdb": 655431,
     "idImdb": "tt11433874",
     "idTvdb": null,
@@ -18594,7 +18637,7 @@
         }
       ]
     },
-    "updatedAt": 1787364052,
+    "updatedAt": 1787385697,
     "idTmdb": 80729,
     "idImdb": "tt11834788",
     "idTvdb": 349497,
@@ -18645,7 +18688,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 26009,
-    "trending": 0,
+    "trending": 1,
     "favourites": 360,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -18952,7 +18995,7 @@
         }
       ]
     },
-    "updatedAt": 1787365310,
+    "updatedAt": 1787385636,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -19004,7 +19047,7 @@
     "averageScore": 58,
     "meanScore": 68,
     "popularity": 3373,
-    "trending": 1,
+    "trending": 0,
     "favourites": 22,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -19347,7 +19390,7 @@
         }
       ]
     },
-    "updatedAt": 1787378522,
+    "updatedAt": 1787382097,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -19698,5 +19741,419 @@
     "traktSlug": "shachibato-president-it-s-time-for-battle",
     "idSimkl": 1218339,
     "idShikimori": 40783
+  },
+  "113669": {
+    "id": 113669,
+    "idMal": 40044,
+    "title": {
+      "romaji": "Doraemon: Nobita no Shin Kyoryuu",
+      "english": null,
+      "native": "映画ドラえもん のび太の新恐竜"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 1,
+    "duration": 110,
+    "season": "SUMMER",
+    "seasonYear": 2020,
+    "startDate": {
+      "year": 2020,
+      "month": 8,
+      "day": 7
+    },
+    "endDate": {
+      "year": 2020,
+      "month": 8,
+      "day": 7
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113669-HwhNxy2BQmqR.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113669-HwhNxy2BQmqR.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113669-HwhNxy2BQmqR.jpg",
+      "color": "#f1e450"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "Doraemon the Movie: Nobita's New Dinosaur",
+      "Doraemon Movie 40: Nobita no Shin Kyouryuu",
+      "Doraemon the Movie 2020: Nobita's New Dinosaur",
+      "Eiga Doraemon: Nobita no Shin Kyouryuu",
+      "โดราเอมอน: ไดโนเสาร์ตัวใหม่ของโนบิตะ ",
+      "Doraemon: El nuevo dinosaurio de Nobita"
+    ],
+    "averageScore": 74,
+    "meanScore": 76,
+    "popularity": 2466,
+    "trending": 1,
+    "favourites": 52,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "PbINQ0HV158",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/PbINQ0HV158/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://doraeiga.com/2020/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 8687,
+            "title": {
+              "romaji": "Doraemon (2005)",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "SPRING",
+            "seasonYear": 2005,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b8687-bBnJMGnih4PT.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 111634,
+            "title": {
+              "romaji": "Eiga Doraemon Nobita no Shin Kyoryuu: Futago no Kyuu to Myuu",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx111634-EfI2Q7Q8fTWE.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 704,
+        "name": "Dinosaurs",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 96,
+        "name": "Time Manipulation",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1771,
+        "name": "Creature Taming",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 433,
+        "name": "Animals",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 28,
+        "name": "Kids",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 90,
+        "name": "CGI",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 247,
+            "name": "Shin-Ei Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 4303,
+            "name": {
+              "full": "Nobita Nobi",
+              "native": "野比のび太"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 111907,
+              "name": {
+                "full": "Megumi Oohara",
+                "native": "大原めぐみ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 4304,
+            "name": {
+              "full": "Doraemon",
+              "native": "ドラえもん"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101567,
+              "name": {
+                "full": "Wasabi Mizuta",
+                "native": "水田わさび"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 8260,
+            "name": {
+              "full": "Shizuka Minamoto",
+              "native": "源静香"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95298,
+              "name": {
+                "full": "Yumi Kakazu",
+                "native": "かかずゆみ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 8261,
+            "name": {
+              "full": "Suneo Honekawa",
+              "native": "骨川スネ夫"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95001,
+              "name": {
+                "full": "Tomokazu Seki",
+                "native": "関智一"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 8262,
+            "name": {
+              "full": "Takeshi Gouda",
+              "native": "剛田武"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107480,
+              "name": {
+                "full": "Subaru Kimura",
+                "native": "木村昴"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787385702,
+    "idTmdb": 682153,
+    "idImdb": "tt10588750",
+    "idTvdb": null,
+    "idTrakt": 527156,
+    "traktSlug": "doraemon-nobita-s-new-dinosaur-2020",
+    "idSimkl": 1122139,
+    "idShikimori": 40044
+  },
+  "113158": {
+    "id": 113158,
+    "idMal": 38986,
+    "title": {
+      "romaji": "Kimi ga Inakucha!",
+      "english": "I Need You!",
+      "native": "キミがいなくちゃっ！"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video from the Bang Dream franchise, for Hello Happy World's \"Kimi ga Inakucha!\"\n\n",
+    "episodes": 1,
+    "duration": 2,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2018,
+      "month": 10,
+      "day": 18
+    },
+    "endDate": {
+      "year": 2018,
+      "month": 10,
+      "day": 18
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113158-tiGHFa4assf0.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113158-tiGHFa4assf0.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113158-tiGHFa4assf0.png",
+      "color": "#e4bb5d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113158-gB0ekvyloD9G.jpg",
+    "genres": [],
+    "synonyms": [],
+    "averageScore": 61,
+    "meanScore": 64,
+    "popularity": 695,
+    "trending": 1,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "ZuPa85P19rw",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/ZuPa85P19rw/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 101633,
+            "title": {
+              "romaji": "BanG Dream! 2nd Season",
+              "english": "BanG Dream! 2nd Season"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2019,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx101633-kRp4u7VmRb5h.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 110,
+        "name": "Band",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 127272,
+            "name": {
+              "full": "Kokoro Tsurumaki",
+              "native": "弦巻こころ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 127436,
+            "name": {
+              "full": "Kaoru Seta",
+              "native": "瀬田薫"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 128157,
+            "name": {
+              "full": "Hagumi Kitazawa",
+              "native": "北沢はぐみ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 128158,
+            "name": {
+              "full": "Kanon Matsubara",
+              "native": "松原花音"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 128159,
+            "name": {
+              "full": "Misaki Okusawa",
+              "native": "奥沢美咲"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787385663,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 38986
   }
 }
