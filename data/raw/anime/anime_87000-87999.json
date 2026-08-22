@@ -81,7 +81,13 @@
               "romaji": "Hitorijime My Hero",
               "english": "Hitorijime My Hero"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx74111-0J0zBVCiJQOe.png"
+            }
           }
         },
         {
@@ -92,7 +98,13 @@
               "romaji": "Hitorijime Boyfriend",
               "english": "Hitorijime Boyfriend"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx73889-HoLy2yBpIpSE.png"
+            }
           }
         }
       ]
@@ -372,7 +384,7 @@
         }
       ]
     },
-    "updatedAt": 1787357110,
+    "updatedAt": 1787403795,
     "idTmdb": 72526,
     "idImdb": "tt6994582",
     "idTvdb": 329313,
@@ -1035,7 +1047,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 39915,
-    "trending": 2,
+    "trending": 1,
     "favourites": 743,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1785,7 +1797,7 @@
         }
       ]
     },
-    "updatedAt": 1787374819,
+    "updatedAt": 1787403725,
     "idTmdb": 69236,
     "idImdb": "tt6460600",
     "idTvdb": 320002,
@@ -4551,7 +4563,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 66768,
-    "trending": 0,
+    "trending": 5,
     "favourites": 685,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4904,7 +4916,7 @@
         }
       ]
     },
-    "updatedAt": 1787396492,
+    "updatedAt": 1787404590,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7163,5 +7175,335 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 33456
+  },
+  "87533": {
+    "id": 87533,
+    "idMal": 33308,
+    "title": {
+      "romaji": "Tantei Opera Milky Holmes: Fun Fun Party Night♪ - Ken to Janet no Okurimono",
+      "english": "Tantei Opera Milky Holmes: Fun Fun Party Night♪ - Ken to Janet no Okurimono",
+      "native": "探偵オペラミルキィホームズファンファンパーリーナイト♪～ケンとジャネットの贈り物～"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "Brand-new animation announced at \"Live Milky Holmes Full Colour Festival.\"",
+    "episodes": 1,
+    "duration": 23,
+    "season": "FALL",
+    "seasonYear": 2016,
+    "startDate": {
+      "year": 2016,
+      "month": 12,
+      "day": 31
+    },
+    "endDate": {
+      "year": 2016,
+      "month": 12,
+      "day": 31
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/87533-UX6RAeX9AH2g.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/87533-UX6RAeX9AH2g.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/87533-UX6RAeX9AH2g.jpg",
+      "color": "#e4a15d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "synonyms": [],
+    "averageScore": 62,
+    "meanScore": 65,
+    "popularity": 1247,
+    "trending": 1,
+    "favourites": 6,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/milkyholmes",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 7768,
+            "title": {
+              "romaji": "Tantei Opera Milky Holmes",
+              "english": "Detective Opera Milky Holmes"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2010,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/7768.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 694,
+        "name": "Detective",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 39,
+        "name": "Parody",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 92,
+        "name": "Cute Girls Doing Cute Things",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7,
+            "name": "J.C.STAFF"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 32892,
+            "name": {
+              "full": "Nero Yuzurizaki",
+              "native": "譲崎ネロ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106361,
+              "name": {
+                "full": "Sora Tokui",
+                "native": "徳井青空"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 35949,
+            "name": {
+              "full": "Sherlock Shellingford",
+              "native": "シャーロック・シェリンフォード"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106359,
+              "name": {
+                "full": "Suzuko Mimori",
+                "native": "三森すずこ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 35950,
+            "name": {
+              "full": "Hercule Barton",
+              "native": "エルキュール・バートン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106360,
+              "name": {
+                "full": "Mikoi Sasaki",
+                "native": "佐々木未来"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 35951,
+            "name": {
+              "full": "Cordelia Glauca",
+              "native": "コーデリア・グラウカ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102899,
+              "name": {
+                "full": "Izumi Kitta",
+                "native": "橘田いずみ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 38121,
+            "name": {
+              "full": "Henriette Mystere",
+              "native": "アンリエット・ミステール"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95723,
+              "name": {
+                "full": "Satomi Akesaka",
+                "native": "明坂聡美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 37629,
+            "name": {
+              "full": "Kai Nijuuri",
+              "native": "二十里海"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95440,
+              "name": {
+                "full": "Daisuke Kishio",
+                "native": "岸尾だいすけ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 37733,
+            "name": {
+              "full": "Kokoro Akechi",
+              "native": "明智小衣"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96592,
+              "name": {
+                "full": "Yoshino Nanjou",
+                "native": "南條愛乃"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 37734,
+            "name": {
+              "full": "Tsugiko Zenigata",
+              "native": "銭形次子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95099,
+              "name": {
+                "full": "Miyuki Sawashiro",
+                "native": "沢城みゆき"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 37735,
+            "name": {
+              "full": "Hirano Hasegawa",
+              "native": "長谷川平乃"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95315,
+              "name": {
+                "full": "Ryouko Shintani",
+                "native": "新谷良子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 38118,
+            "name": {
+              "full": "Souseki Ishinagare",
+              "native": "石流漱石"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95494,
+              "name": {
+                "full": "Takuma Terashima",
+                "native": "寺島拓篤"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787403830,
+    "idTmdb": 415286,
+    "idImdb": "tt16579438",
+    "idTvdb": null,
+    "idTrakt": 260285,
+    "traktSlug": "tantei-opera-milky-holmes-fun-fun-party-night-ken-to-janet-no-okurimono-2016",
+    "idSimkl": 585339,
+    "idShikimori": 33308
   }
 }

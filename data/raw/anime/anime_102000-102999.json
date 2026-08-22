@@ -1696,7 +1696,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 240832,
-    "trending": 4,
+    "trending": 1,
     "favourites": 6445,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2217,7 +2217,7 @@
         }
       ]
     },
-    "updatedAt": 1787400062,
+    "updatedAt": 1787404644,
     "idTmdb": 532067,
     "idImdb": "tt9239552",
     "idTvdb": null,
@@ -2267,7 +2267,7 @@
     "averageScore": 64,
     "meanScore": 64,
     "popularity": 23345,
-    "trending": 0,
+    "trending": 1,
     "favourites": 262,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2666,7 +2666,7 @@
         }
       ]
     },
-    "updatedAt": 1787400106,
+    "updatedAt": 1787403791,
     "idTmdb": 85935,
     "idImdb": "tt10022916",
     "idTvdb": 358331,
@@ -4238,7 +4238,7 @@
         }
       ]
     },
-    "updatedAt": 1787400105,
+    "updatedAt": 1787404656,
     "idTmdb": 77529,
     "idImdb": "tt7944664",
     "idTvdb": 339353,
@@ -4291,7 +4291,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 235786,
-    "trending": 5,
+    "trending": 1,
     "favourites": 3666,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4782,7 +4782,7 @@
         }
       ]
     },
-    "updatedAt": 1787400063,
+    "updatedAt": 1787404611,
     "idTmdb": 61374,
     "idImdb": "tt3741634",
     "idTvdb": 281249,
@@ -4841,7 +4841,7 @@
     "averageScore": 85,
     "meanScore": 85,
     "popularity": 297762,
-    "trending": 11,
+    "trending": 15,
     "favourites": 20404,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5559,7 +5559,7 @@
         }
       ]
     },
-    "updatedAt": 1787400043,
+    "updatedAt": 1787404568,
     "idTmdb": 45790,
     "idImdb": "tt2359704",
     "idTvdb": 262954,
@@ -7673,7 +7673,13 @@
               "romaji": "Nakanohito Genome [Jikkyouchuu]",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx100174-sB1AQoIDsHEz.jpg"
+            }
           }
         },
         {
@@ -7684,7 +7690,13 @@
               "romaji": "Naka no Hito Genome [Jikkyouchuu]: KNOTS OF MEMORIES",
               "english": "The Ones Within OVA"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2020,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx112177-dzPKFocyvP53.png"
+            }
           }
         }
       ]
@@ -7962,7 +7974,7 @@
         }
       ]
     },
-    "updatedAt": 1787353340,
+    "updatedAt": 1787403833,
     "idTmdb": 88048,
     "idImdb": "tt10452436",
     "idTvdb": 361713,
@@ -8419,7 +8431,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 49555,
-    "trending": 1,
+    "trending": 2,
     "favourites": 1117,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8704,7 +8716,7 @@
         }
       ]
     },
-    "updatedAt": 1787400061,
+    "updatedAt": 1787404625,
     "idTmdb": 77721,
     "idImdb": "tt7112156",
     "idTvdb": 342010,
@@ -10179,7 +10191,7 @@
         }
       ]
     },
-    "updatedAt": 1787392922,
+    "updatedAt": 1787403864,
     "idTmdb": 80020,
     "idImdb": "tt8433216",
     "idTvdb": 347734,
@@ -17773,5 +17785,115 @@
     "traktSlug": null,
     "idSimkl": 662939,
     "idShikimori": null
+  },
+  "102639": {
+    "id": 102639,
+    "idMal": 20871,
+    "title": {
+      "romaji": "Nissan SERENA x One Piece: Sennyuu Sauzando Sanii-gou",
+      "english": null,
+      "native": "日産SERENA×ワンピース 潜入サウザンド・サニー号"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "Brook introduces the Thousand Sunny's while Luffy searches for his straw hat.<br>\n<br>\nThis was a special included in a limited edition DVD that was released in Nissan stores across Japan. The DVD also included the making of One Piece 3D: Straw Hat Chase.\n",
+    "episodes": 1,
+    "duration": 12,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2011,
+      "month": 3,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2011,
+      "month": 3,
+      "day": 5
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102639-AjxqMLkusd2Y.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx102639-AjxqMLkusd2Y.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx102639-AjxqMLkusd2Y.jpg",
+      "color": "#d6ae78"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n102639-XXAO6eBYPBmw.jpg",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Nissan Serena x One Piece 3D: Mugiwara Chase - Sennyuu!! Sauzando Sanii-gou"
+    ],
+    "averageScore": 55,
+    "meanScore": 56,
+    "popularity": 2267,
+    "trending": 1,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 21,
+            "title": {
+              "romaji": "ONE PIECE",
+              "english": "ONE PIECE"
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "FALL",
+            "seasonYear": 1999,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21-ELSYx3yMPcKM.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 505,
+        "name": "Advertisement",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 18,
+            "name": "Toei Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787403776,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 20871
   }
 }

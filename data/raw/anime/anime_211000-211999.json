@@ -39,7 +39,7 @@
     "averageScore": null,
     "meanScore": 76,
     "popularity": 1271,
-    "trending": 1,
+    "trending": 2,
     "favourites": 14,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -100,7 +100,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787389494,
+    "updatedAt": 1787404654,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -153,7 +153,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 27352,
-    "trending": 1,
+    "trending": 3,
     "favourites": 521,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -418,7 +418,7 @@
         }
       ]
     },
-    "updatedAt": 1787400054,
+    "updatedAt": 1787404584,
     "idTmdb": 320905,
     "idImdb": "tt42171190",
     "idTvdb": 457476,
@@ -471,7 +471,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 723,
-    "trending": 1,
+    "trending": 0,
     "favourites": 8,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -619,7 +619,7 @@
         }
       ]
     },
-    "updatedAt": 1787396492,
+    "updatedAt": 1787403874,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -762,7 +762,7 @@
         }
       ]
     },
-    "updatedAt": 1787396492,
+    "updatedAt": 1787404670,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -816,7 +816,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 16171,
-    "trending": 5,
+    "trending": 6,
     "favourites": 228,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1129,7 +1129,7 @@
         }
       ]
     },
-    "updatedAt": 1787400022,
+    "updatedAt": 1787404563,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1366,7 +1366,7 @@
     "averageScore": 66,
     "meanScore": 67,
     "popularity": 14696,
-    "trending": 4,
+    "trending": 5,
     "favourites": 161,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1750,7 +1750,7 @@
         }
       ]
     },
-    "updatedAt": 1787392852,
+    "updatedAt": 1787404570,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1803,7 +1803,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3547,
-    "trending": 1,
+    "trending": 3,
     "favourites": 56,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1953,7 +1953,7 @@
         }
       ]
     },
-    "updatedAt": 1787396470,
+    "updatedAt": 1787403834,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4654,5 +4654,85 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 64102
+  },
+  "211328": {
+    "id": 211328,
+    "idMal": 59231,
+    "title": {
+      "romaji": "First Line",
+      "english": null,
+      "native": "ファーストライン"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "Young animator Mito feels trapped between the demands of a difficult sequence, a tight deadline, debilitating self-doubt, and a seemingly deranged director. Sometimes the only way to get to the other side is to charge right through.<br><br>\n(Source: Fantasia International Film Festival)\n<br><br>\n<i>Note: Originally released on June 28, 2024 as a part of \"Gemnibus Vol. 1\" anthology, however was also simultaneously selected to screen, and then later premiered at Fantasia International Film Festival.</i>",
+    "episodes": 1,
+    "duration": 8,
+    "season": "SUMMER",
+    "seasonYear": 2024,
+    "startDate": {
+      "year": 2024,
+      "month": 7,
+      "day": 20
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 7,
+      "day": 20
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211328-iaJOg7W0JeTO.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211328-iaJOg7W0JeTO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx211328-iaJOg7W0JeTO.jpg",
+      "color": "#e4a11a"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Drama"
+    ],
+    "synonyms": [],
+    "averageScore": 62,
+    "meanScore": 75,
+    "popularity": 287,
+    "trending": 1,
+    "favourites": 5,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "DQaSSLBb58Q",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/DQaSSLBb58Q/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7368,
+            "name": "TOHO animation STUDIO"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787403841,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2997916,
+    "idShikimori": 59231
   }
 }
