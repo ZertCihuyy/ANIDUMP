@@ -94,6 +94,11 @@ Contributions are highly welcome! Since this is an open-source project aimed at 
 - Want to add new filtering features to the CF Worker? We'd love to see it.
 - Feel free to fork and modify it for your own needs.
 
+## 💖 Acknowledgements & Sources
+This project is made possible thanks to the hard work of the following communities and platforms. Please support them!
+- [**AniList**](https://anilist.co/): For providing the core GraphQL API, synopses, schedules, and extremely rich anime metadata.
+- [**nattadasu/animeApi**](https://github.com/nattadasu/animeApi): For the incredible cross-platform ID mapping database (injecting TMDB, IMDB, and Trakt IDs seamlessly).
+
 ## 📄 License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 *Data is sourced from AniList. Please respect their API guidelines if modifying the scraper.*
