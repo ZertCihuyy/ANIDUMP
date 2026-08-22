@@ -457,7 +457,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 21397,
-    "trending": 1,
+    "trending": 0,
     "favourites": 303,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -591,7 +591,7 @@
         }
       ]
     },
-    "updatedAt": 1787385630,
+    "updatedAt": 1787392936,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3556,7 +3556,7 @@
     "averageScore": 69,
     "meanScore": 69,
     "popularity": 14768,
-    "trending": 0,
+    "trending": 1,
     "favourites": 191,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3575,7 +3575,13 @@
               "romaji": "Saiki Kusuo no Ψ-nan",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx67755-pP4eYGRHFzaM.jpg"
+            }
           }
         },
         {
@@ -3586,7 +3592,13 @@
               "romaji": "Saiki Kusuo no Ψ-nan",
               "english": "The Disastrous Life of Saiki K."
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2016,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21804-As6tDLAvEvNY.jpg"
+            }
           }
         }
       ]
@@ -3758,7 +3770,7 @@
         }
       ]
     },
-    "updatedAt": 1787353355,
+    "updatedAt": 1787392923,
     "idTmdb": 67676,
     "idImdb": null,
     "idTvdb": null,
@@ -4470,7 +4482,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 52403,
-    "trending": 2,
+    "trending": 0,
     "favourites": 1112,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4951,7 +4963,7 @@
         }
       ]
     },
-    "updatedAt": 1787382054,
+    "updatedAt": 1787392936,
     "idTmdb": 60572,
     "idImdb": "tt0168366",
     "idTvdb": 76703,
@@ -8569,7 +8581,7 @@
     "averageScore": 69,
     "meanScore": 69,
     "popularity": 147543,
-    "trending": 1,
+    "trending": 3,
     "favourites": 2100,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9113,7 +9125,7 @@
         }
       ]
     },
-    "updatedAt": 1787385719,
+    "updatedAt": 1787392805,
     "idTmdb": 46004,
     "idImdb": "tt2575684",
     "idTvdb": 264663,
@@ -9165,7 +9177,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 33622,
-    "trending": 0,
+    "trending": 1,
     "favourites": 340,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9455,7 +9467,7 @@
         }
       ]
     },
-    "updatedAt": 1787378531,
+    "updatedAt": 1787392878,
     "idTmdb": 214553,
     "idImdb": "tt3203996",
     "idTvdb": null,
@@ -11811,7 +11823,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 48539,
-    "trending": 0,
+    "trending": 2,
     "favourites": 646,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -12320,7 +12332,7 @@
         }
       ]
     },
-    "updatedAt": 1787378531,
+    "updatedAt": 1787392842,
     "idTmdb": 60831,
     "idImdb": "tt3398976",
     "idTvdb": 278154,
@@ -12381,7 +12393,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 538050,
-    "trending": 6,
+    "trending": 4,
     "favourites": 20167,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -12986,7 +12998,7 @@
         }
       ]
     },
-    "updatedAt": 1787385663,
+    "updatedAt": 1787392810,
     "idTmdb": 60808,
     "idImdb": "tt3431758",
     "idTvdb": 278155,
@@ -13678,7 +13690,7 @@
     "averageScore": 27,
     "meanScore": 27,
     "popularity": 44483,
-    "trending": 2,
+    "trending": 0,
     "favourites": 160,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13978,7 +13990,7 @@
         }
       ]
     },
-    "updatedAt": 1787385689,
+    "updatedAt": 1787392936,
     "idTmdb": 71307,
     "idImdb": "tt3185682",
     "idTvdb": 272130,
@@ -17076,5 +17088,427 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 19857
+  },
+  "19629": {
+    "id": 19629,
+    "idMal": 19629,
+    "title": {
+      "romaji": "Zecchou Rocket",
+      "english": null,
+      "native": "絶頂ロケット"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "",
+    "episodes": 2,
+    "duration": 23,
+    "season": "FALL",
+    "seasonYear": 2013,
+    "startDate": {
+      "year": 2013,
+      "month": 10,
+      "day": 18
+    },
+    "endDate": {
+      "year": 2013,
+      "month": 12,
+      "day": 13
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19629.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19629.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/19629.jpg",
+      "color": "#e4c91a"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [
+      "Orgasm Rocket"
+    ],
+    "averageScore": 55,
+    "meanScore": 57,
+    "popularity": 1017,
+    "trending": 1,
+    "favourites": 18,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 62613,
+            "title": {
+              "romaji": "Waisetsu Missile",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/32613.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 185,
+        "name": "Anal Sex",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 133,
+        "name": "Sex Toys",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 189,
+        "name": "Tentacles",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 125,
+        "name": "Nakadashi",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 4079,
+            "name": "Studio 9 Maiami"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787392850,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 19629
+  },
+  "19619": {
+    "id": 19619,
+    "idMal": 19619,
+    "title": {
+      "romaji": "Jewelpet Twinkle☆: Hohoemi no Niji ni Dokki☆Doki!",
+      "english": null,
+      "native": "ジュエルペット てぃんくる☆ ほほえみの虹にドッキ☆ドキ！"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "Special episode included with the Blu-ray box set of the original Jewelpet Tinkle anime series.",
+    "episodes": 1,
+    "duration": 28,
+    "season": "SUMMER",
+    "seasonYear": 2013,
+    "startDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 22
+    },
+    "endDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 22
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n19619-AMhryvDwI9V7.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n19619-AMhryvDwI9V7.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/n19619-AMhryvDwI9V7.png",
+      "color": "#f1f15d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Jewelpet Tinkle Special-hen",
+      " Jewelpet Twinkle: A Rainbow of Smiles Doki Doki!"
+    ],
+    "averageScore": 63,
+    "meanScore": 68,
+    "popularity": 772,
+    "trending": 1,
+    "favourites": 10,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 8217,
+            "title": {
+              "romaji": "Jewelpet Twinkle☆",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2010,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx8217-0AdC5k7zWMwu.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 126,
+            "name": "Studio Comet"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 32803,
+            "name": {
+              "full": "Akari Sakura",
+              "native": "桜あかり"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106659,
+              "name": {
+                "full": "Natsumi Takamori",
+                "native": "高森奈津美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 36816,
+            "name": {
+              "full": "Alma Jinnai",
+              "native": "神内アルマ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95046,
+              "name": {
+                "full": "Megumi Takamoto",
+                "native": "高本めぐみ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 20499,
+            "name": {
+              "full": "Ruby",
+              "native": "ルビー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95222,
+              "name": {
+                "full": "Ayaka Saitou",
+                "native": "齋藤彩夏"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 20502,
+            "name": {
+              "full": "Garnet",
+              "native": "ガーネット"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95004,
+              "name": {
+                "full": "Aya Hirano",
+                "native": "平野綾"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 20504,
+            "name": {
+              "full": "Sapphie",
+              "native": "サフィー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95580,
+              "name": {
+                "full": "Nozomi Sasaki",
+                "native": "ささきのぞみ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 27772,
+            "name": {
+              "full": "Diana",
+              "native": "ダイアナ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95709,
+              "name": {
+                "full": "Rumi Shishido",
+                "native": "宍戸留美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 32928,
+            "name": {
+              "full": "Miria Mackenzie",
+              "native": "ミリア・マリーゴールド・マッケンジー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101996,
+              "name": {
+                "full": "Ayana Taketatsu",
+                "native": "竹達彩奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 33647,
+            "name": {
+              "full": "Labra",
+              "native": "ラブラ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95099,
+              "name": {
+                "full": "Miyuki Sawashiro",
+                "native": "沢城みゆき"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 33649,
+            "name": {
+              "full": "Sango",
+              "native": "サンゴ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95072,
+              "name": {
+                "full": "Ai Shimizu",
+                "native": "清水愛"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 33650,
+            "name": {
+              "full": "Sara",
+              "native": "沙羅"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96121,
+              "name": {
+                "full": "Azusa Enoki",
+                "native": "榎あづさ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787392828,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 19619
   }
 }

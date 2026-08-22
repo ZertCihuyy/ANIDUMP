@@ -42,8 +42,8 @@
     ],
     "averageScore": 66,
     "meanScore": 66,
-    "popularity": 11805,
-    "trending": 1,
+    "popularity": 11810,
+    "trending": 0,
     "favourites": 123,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -350,7 +350,7 @@
         }
       ]
     },
-    "updatedAt": 1787385684,
+    "updatedAt": 1787392936,
     "idTmdb": 283935,
     "idImdb": "tt35955429",
     "idTvdb": 460608,
@@ -404,7 +404,7 @@
     ],
     "averageScore": 69,
     "meanScore": 69,
-    "popularity": 14086,
+    "popularity": 14090,
     "trending": 0,
     "favourites": 220,
     "isAdult": false,
@@ -861,7 +861,7 @@
         }
       ]
     },
-    "updatedAt": 1787385727,
+    "updatedAt": 1787391284,
     "idTmdb": 289217,
     "idImdb": "tt37532849",
     "idTvdb": 459058,
@@ -914,7 +914,7 @@
     ],
     "averageScore": 69,
     "meanScore": 69,
-    "popularity": 16749,
+    "popularity": 16773,
     "trending": 1,
     "favourites": 257,
     "isAdult": false,
@@ -1299,7 +1299,7 @@
         }
       ]
     },
-    "updatedAt": 1787378510,
+    "updatedAt": 1787392855,
     "idTmdb": 284568,
     "idImdb": "tt40546998",
     "idTvdb": 460313,
@@ -1352,8 +1352,8 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 1221,
-    "trending": 1,
+    "popularity": 1223,
+    "trending": 0,
     "favourites": 12,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1387,7 +1387,13 @@
               "romaji": "Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183384-ecrP3DzrDvhM.jpg"
+            }
           }
         }
       ]
@@ -1555,7 +1561,14 @@
         }
       ]
     },
-    "updatedAt": 1787349758
+    "updatedAt": 1787391250,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 60160
   },
   "186837": {
     "id": 186837,
@@ -1604,7 +1617,7 @@
     ],
     "averageScore": 82,
     "meanScore": 87,
-    "popularity": 2760,
+    "popularity": 2762,
     "trending": 0,
     "favourites": 81,
     "isAdult": false,
@@ -1749,7 +1762,7 @@
         }
       ]
     },
-    "updatedAt": 1787374914,
+    "updatedAt": 1787391227,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1801,8 +1814,8 @@
     ],
     "averageScore": 53,
     "meanScore": 53,
-    "popularity": 9384,
-    "trending": 1,
+    "popularity": 9392,
+    "trending": 0,
     "favourites": 137,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -2229,7 +2242,7 @@
         }
       ]
     },
-    "updatedAt": 1787378466,
+    "updatedAt": 1787392936,
     "idTmdb": 283884,
     "idImdb": "tt37419888",
     "idTvdb": 460340,
@@ -2280,8 +2293,8 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 4325,
-    "trending": 1,
+    "popularity": 4334,
+    "trending": 0,
     "favourites": 35,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2306,7 +2319,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791559800,
-      "timeUntilAiring": 4206539,
+      "timeUntilAiring": 4166029,
       "episode": 1
     },
     "relations": {
@@ -2319,7 +2332,13 @@
               "romaji": "Toaru Anbu no ITEM",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx162615-yeFyAgx4thii.jpg"
+            }
           }
         },
         {
@@ -2330,7 +2349,13 @@
               "romaji": "Toaru Anbu no ITEM",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx159459-wTOSTzcrdEFI.png"
+            }
           }
         },
         {
@@ -2341,7 +2366,13 @@
               "romaji": "Toaru Majutsu no Index",
               "english": "A Certain Magical Index"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2008,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4654-ba44icsxDQZd.jpg"
+            }
           }
         }
       ]
@@ -2482,7 +2513,14 @@
         }
       ]
     },
-    "updatedAt": 1787349736
+    "updatedAt": 1787391236,
+    "idTmdb": 284580,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2716148,
+    "idShikimori": 61014
   },
   "186822": {
     "id": 186822,
@@ -2529,8 +2567,8 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 18664,
-    "trending": 3,
+    "popularity": 18704,
+    "trending": 2,
     "favourites": 323,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2714,7 +2752,7 @@
         }
       ]
     },
-    "updatedAt": 1787382019,
+    "updatedAt": 1787392871,
     "idTmdb": 284751,
     "idImdb": "tt37421046",
     "idTvdb": 460416,
@@ -2761,10 +2799,10 @@
       "Fantasy"
     ],
     "synonyms": [],
-    "averageScore": 59,
+    "averageScore": 58,
     "meanScore": 62,
-    "popularity": 3046,
-    "trending": 1,
+    "popularity": 3051,
+    "trending": 0,
     "favourites": 32,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3121,7 +3159,7 @@
         }
       ]
     },
-    "updatedAt": 1787385718,
+    "updatedAt": 1787392936,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3173,7 +3211,7 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 39078,
+    "popularity": 39113,
     "trending": 0,
     "favourites": 463,
     "isAdult": false,
@@ -3387,7 +3425,7 @@
         }
       ]
     },
-    "updatedAt": 1787382097,
+    "updatedAt": 1787391241,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3441,8 +3479,8 @@
     ],
     "averageScore": 66,
     "meanScore": 66,
-    "popularity": 82662,
-    "trending": 4,
+    "popularity": 82728,
+    "trending": 5,
     "favourites": 1443,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3918,7 +3956,7 @@
         }
       ]
     },
-    "updatedAt": 1787385702,
+    "updatedAt": 1787392874,
     "idTmdb": 284644,
     "idImdb": "tt36230718",
     "idTvdb": 460341,
@@ -3970,7 +4008,7 @@
     ],
     "averageScore": 64,
     "meanScore": 64,
-    "popularity": 23435,
+    "popularity": 23449,
     "trending": 0,
     "favourites": 306,
     "isAdult": false,
@@ -4280,7 +4318,7 @@
         }
       ]
     },
-    "updatedAt": 1787378531,
+    "updatedAt": 1787391254,
     "idTmdb": 283705,
     "idImdb": "tt35677101",
     "idTvdb": 459970,
@@ -4336,8 +4374,8 @@
     ],
     "averageScore": 83,
     "meanScore": 84,
-    "popularity": 5574,
-    "trending": 1,
+    "popularity": 5585,
+    "trending": 2,
     "favourites": 237,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -4538,7 +4576,7 @@
         }
       ]
     },
-    "updatedAt": 1787374913,
+    "updatedAt": 1787392863,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4592,7 +4630,7 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 3838,
+    "popularity": 3855,
     "trending": 0,
     "favourites": 40,
     "isAdult": false,
@@ -4729,7 +4767,7 @@
         }
       ]
     },
-    "updatedAt": 1787374914,
+    "updatedAt": 1787391237,
     "idTmdb": 284563,
     "idImdb": null,
     "idTvdb": null,
@@ -4778,8 +4816,8 @@
     "synonyms": [],
     "averageScore": 77,
     "meanScore": 78,
-    "popularity": 21541,
-    "trending": 6,
+    "popularity": 21598,
+    "trending": 14,
     "favourites": 348,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4819,7 +4857,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787400000,
-      "timeUntilAiring": 9566,
+      "timeUntilAiring": 6258,
       "episode": 9
     },
     "relations": {
@@ -5270,7 +5308,7 @@
         }
       ]
     },
-    "updatedAt": 1787385652,
+    "updatedAt": 1787392812,
     "idTmdb": 284029,
     "idImdb": "tt41278620",
     "idTvdb": 460501,
@@ -5320,8 +5358,8 @@
     "synonyms": [],
     "averageScore": 69,
     "meanScore": 70,
-    "popularity": 15503,
-    "trending": 0,
+    "popularity": 15512,
+    "trending": 1,
     "favourites": 305,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5695,7 +5733,7 @@
         }
       ]
     },
-    "updatedAt": 1787378531,
+    "updatedAt": 1787392918,
     "idTmdb": 282662,
     "idImdb": "tt36221414",
     "idTvdb": 458960,
@@ -5746,7 +5784,7 @@
     ],
     "averageScore": 78,
     "meanScore": 79,
-    "popularity": 5006,
+    "popularity": 5011,
     "trending": 0,
     "favourites": 155,
     "isAdult": false,
@@ -6099,7 +6137,7 @@
         }
       ]
     },
-    "updatedAt": 1787382097,
+    "updatedAt": 1787391296,
     "idTmdb": 281512,
     "idImdb": "tt35323313",
     "idTvdb": 458692,
@@ -6147,8 +6185,8 @@
     "synonyms": [],
     "averageScore": 71,
     "meanScore": 75,
-    "popularity": 1793,
-    "trending": 1,
+    "popularity": 1794,
+    "trending": 0,
     "favourites": 97,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -6167,7 +6205,13 @@
               "romaji": "Fuuki Iin to Fuuzoku Katsudou",
               "english": "The Hall Monitor on S.L.U.T. Duty"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx132836-ParjG8MlVkQo.png"
+            }
           }
         }
       ]
@@ -6293,7 +6337,14 @@
         }
       ]
     },
-    "updatedAt": 1787345804
+    "updatedAt": 1787391228,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 61232
   },
   "186524": {
     "id": 186524,
@@ -6338,8 +6389,8 @@
     ],
     "averageScore": 68,
     "meanScore": 68,
-    "popularity": 19321,
-    "trending": 0,
+    "popularity": 19332,
+    "trending": 1,
     "favourites": 279,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6749,7 +6800,7 @@
         }
       ]
     },
-    "updatedAt": 1787385727,
+    "updatedAt": 1787392879,
     "idTmdb": 283689,
     "idImdb": "tt38412257",
     "idTvdb": 466129,
@@ -6801,8 +6852,8 @@
     ],
     "averageScore": 65,
     "meanScore": 65,
-    "popularity": 36046,
-    "trending": 1,
+    "popularity": 36069,
+    "trending": 4,
     "favourites": 484,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7220,7 +7271,7 @@
         }
       ]
     },
-    "updatedAt": 1787385709,
+    "updatedAt": 1787392822,
     "idTmdb": 282946,
     "idImdb": "tt38646949",
     "idTvdb": 459339,
@@ -7270,8 +7321,8 @@
     "synonyms": [],
     "averageScore": 70,
     "meanScore": 70,
-    "popularity": 92193,
-    "trending": 5,
+    "popularity": 92268,
+    "trending": 3,
     "favourites": 1848,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7775,7 +7826,7 @@
         }
       ]
     },
-    "updatedAt": 1787385660,
+    "updatedAt": 1787392809,
     "idTmdb": 281615,
     "idImdb": "tt36592736",
     "idTvdb": 456435,
@@ -7830,8 +7881,8 @@
     ],
     "averageScore": 83,
     "meanScore": 83,
-    "popularity": 73217,
-    "trending": 17,
+    "popularity": 73390,
+    "trending": 13,
     "favourites": 2908,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8217,7 +8268,7 @@
         }
       ]
     },
-    "updatedAt": 1787385654,
+    "updatedAt": 1787392806,
     "idTmdb": 283428,
     "idImdb": "tt39123061",
     "idTvdb": 459627,
@@ -8266,8 +8317,8 @@
     "synonyms": [],
     "averageScore": 58,
     "meanScore": 61,
-    "popularity": 1137,
-    "trending": 1,
+    "popularity": 1141,
+    "trending": 0,
     "favourites": 14,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8296,7 +8347,13 @@
               "romaji": "Kaijuu 8-gou",
               "english": "Kaiju No. 8"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx153288-25FBfFJzEQ5O.jpg"
+            }
           }
         }
       ]
@@ -8423,7 +8480,7 @@
         }
       ]
     },
-    "updatedAt": 1787353303,
+    "updatedAt": 1787391276,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -8478,8 +8535,8 @@
     ],
     "averageScore": 71,
     "meanScore": 72,
-    "popularity": 19318,
-    "trending": 2,
+    "popularity": 19331,
+    "trending": 1,
     "favourites": 324,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8815,7 +8872,7 @@
         }
       ]
     },
-    "updatedAt": 1787385662,
+    "updatedAt": 1787392846,
     "idTmdb": 283818,
     "idImdb": "tt36987681",
     "idTvdb": 460096,
@@ -8871,8 +8928,8 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 5335,
-    "trending": 0,
+    "popularity": 5358,
+    "trending": 2,
     "favourites": 82,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9088,7 +9145,7 @@
         }
       ]
     },
-    "updatedAt": 1787364123,
+    "updatedAt": 1787392838,
     "idTmdb": 283692,
     "idImdb": "tt41298100",
     "idTvdb": 459942,
@@ -9136,8 +9193,8 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": 55,
-    "popularity": 255,
-    "trending": 1,
+    "popularity": 256,
+    "trending": 0,
     "favourites": 9,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -9213,7 +9270,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787364122
+    "updatedAt": 1787391249
   },
   "186003": {
     "id": 186003,
@@ -9584,7 +9641,7 @@
         }
       ]
     },
-    "updatedAt": 1787365310,
+    "updatedAt": 1787391301,
     "idTmdb": 283704,
     "idImdb": "tt36131958",
     "idTvdb": 458232,
@@ -9630,7 +9687,7 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 8518,
+    "popularity": 8521,
     "trending": 0,
     "favourites": 94,
     "isAdult": false,
@@ -9824,7 +9881,7 @@
         }
       ]
     },
-    "updatedAt": 1787374914,
+    "updatedAt": 1787391236,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9877,7 +9934,7 @@
     ],
     "averageScore": 71,
     "meanScore": 75,
-    "popularity": 3241,
+    "popularity": 3243,
     "trending": 0,
     "favourites": 30,
     "isAdult": false,
@@ -10248,7 +10305,7 @@
         }
       ]
     },
-    "updatedAt": 1787374914,
+    "updatedAt": 1787391238,
     "idTmdb": 1438229,
     "idImdb": "tt35720302",
     "idTvdb": null,
@@ -10298,7 +10355,7 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": 73,
-    "popularity": 360,
+    "popularity": 363,
     "trending": 2,
     "favourites": 7,
     "isAdult": false,
@@ -10390,7 +10447,7 @@
         }
       ]
     },
-    "updatedAt": 1787385687,
+    "updatedAt": 1787391227,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -10436,8 +10493,8 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 1254,
-    "trending": 1,
+    "popularity": 1256,
+    "trending": 0,
     "favourites": 17,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10545,7 +10602,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787374872,
+    "updatedAt": 1787391273,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -10597,8 +10654,8 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 603,
-    "trending": 1,
+    "popularity": 604,
+    "trending": 0,
     "favourites": 6,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -10762,7 +10819,7 @@
         }
       ]
     },
-    "updatedAt": 1787382067,
+    "updatedAt": 1787391235,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -10814,8 +10871,8 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 1651,
-    "trending": 1,
+    "popularity": 1653,
+    "trending": 0,
     "favourites": 29,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10918,7 +10975,7 @@
         }
       ]
     },
-    "updatedAt": 1787385698,
+    "updatedAt": 1787392936,
     "idTmdb": 283703,
     "idImdb": null,
     "idTvdb": null,
@@ -10926,5 +10983,3968 @@
     "traktSlug": null,
     "idSimkl": 2682274,
     "idShikimori": 60739
+  },
+  "186007": {
+    "id": 186007,
+    "idMal": 60714,
+    "title": {
+      "romaji": "Ghost of Tsushima: Legends",
+      "english": "Ghost of Tsushima: Legends",
+      "native": null
+    },
+    "type": "ANIME",
+    "format": null,
+    "status": "NOT_YET_RELEASED",
+    "description": "Ghost of Tsushima Legends follows one of the last remaining samurai as he defends his homeland of Tsushima against the Mongol Empire.<br><br>\n(Source: Crunchyroll)",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186007-AJr1cDt7FxWB.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186007-AJr1cDt7FxWB.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186007-AJr1cDt7FxWB.png",
+      "color": "#bbd6f1"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "synonyms": [
+      "ゴースト・オブ・ツシマ 冥人奇譚",
+      "Ghost of Tsushima: Kuroudo Kitan"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 3237,
+    "trending": 0,
+    "favourites": 20,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": {
+      "id": "uU8slMpqDXU",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/uU8slMpqDXU/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://crunchyroll.com",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 291,
+        "name": "Samurai",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 322,
+        "name": "Assassins",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 25,
+        "name": "Historical",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 437,
+            "name": "Kamikaze Douga"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6421,
+            "name": "Crunchyroll"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 17,
+            "name": "Aniplex"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7744,
+            "name": "HAYATE"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 403379,
+            "name": {
+              "full": "Shikaku",
+              "native": "刺客"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 403380,
+            "name": {
+              "full": "Yumitori",
+              "native": "弓取"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 403381,
+            "name": {
+              "full": "Rounin",
+              "native": "牢人"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787391300,
+    "idTmdb": 281334,
+    "idImdb": "tt35304571",
+    "idTvdb": 458625,
+    "idTrakt": 272348,
+    "traktSlug": "ghost-of-tsushima-legends",
+    "idSimkl": 2679340,
+    "idShikimori": 60714
+  },
+  "186084": {
+    "id": 186084,
+    "idMal": 60617,
+    "title": {
+      "romaji": "Sayonara End Roll",
+      "english": "Sayonara End Roll",
+      "native": "さよならエンドロール"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video animated by Marie Yasui for the song <i>Sayonara End Roll</i> by Eve.",
+    "episodes": 1,
+    "duration": 4,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2024,
+      "month": 12,
+      "day": 24
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 12,
+      "day": 24
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186084-0eWG2C3cQkkX.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186084-0eWG2C3cQkkX.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b186084-0eWG2C3cQkkX.png",
+      "color": "#356b1a"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186084-U5YzKM1Jkbde.jpg",
+    "genres": [
+      "Psychological",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "synonyms": [],
+    "averageScore": 71,
+    "meanScore": 78,
+    "popularity": 502,
+    "trending": 0,
+    "favourites": 36,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "VOChndxKi6U",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/VOChndxKi6U/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=VOChndxKi6U",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 176908,
+            "title": {
+              "romaji": "Insomnia",
+              "english": "Insomnia"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176908-tW5N302IojYV.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 207031,
+            "title": {
+              "romaji": "Sayonara End Roll (Short Douga)",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207031-JIarjrtzKSwy.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1790,
+        "name": "Vertical Video",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 122,
+        "name": "Trains",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1046,
+        "name": "Suicide",
+        "rank": 50,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 337615,
+            "name": {
+              "full": "Sunao Fuchi",
+              "native": "淵素直"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 190453,
+            "name": {
+              "full": "Tobi Otogiri",
+              "native": "弟切飛"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787391292,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 60617
+  },
+  "186148": {
+    "id": 186148,
+    "idMal": 60749,
+    "title": {
+      "romaji": "Maomao no Hitorigoto 2nd Season",
+      "english": null,
+      "native": "猫猫のひとりごと 第2期"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Chibi shorts to <i>Kusuriya no Hitorigoto 2nd Season</i> released on the TOHO animation YouTube channel.",
+    "episodes": 24,
+    "duration": 2,
+    "season": "WINTER",
+    "seasonYear": 2025,
+    "startDate": {
+      "year": 2025,
+      "month": 1,
+      "day": 13
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 7,
+      "day": 7
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186148-Tx8InzoohmXs.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186148-Tx8InzoohmXs.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b186148-Tx8InzoohmXs.png",
+      "color": "#e4bba1"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [
+      "Kusuriya no Hitorigoto 2nd Season Mini Anime",
+      "The Apothecary Diaries Season 2 Mini Anime",
+      "薬屋のひとりごと 第2期 ミニアニメ"
+    ],
+    "averageScore": 67,
+    "meanScore": 70,
+    "popularity": 2437,
+    "trending": 0,
+    "favourites": 37,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "LIGHT_NOVEL",
+    "trailer": {
+      "id": "NjaNa4lO6a4",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/NjaNa4lO6a4/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLtdSPZNWT1AtlB6oZ-OLqZKXwMdMnIDiC",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://x.com/kusuriya_PR",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 176301,
+            "title": {
+              "romaji": "Kusuriya no Hitorigoto 2nd Season",
+              "english": "The Apothecary Diaries Season 2"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176301-TIGmldLffQGX.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 170508,
+            "title": {
+              "romaji": "Maomao no Hitorigoto",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170508-72GLTka7NHeF.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 206349,
+            "title": {
+              "romaji": "Maomao no Hitorigoto: USJ wo Chousa Seyo!",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206349-RzDGDKhWPiMN.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 324,
+        "name": "Chibi",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 659,
+        "name": "Medicine",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 245,
+            "name": "Toho"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 126824,
+            "name": {
+              "full": "Maomao",
+              "native": "猫猫"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101686,
+              "name": {
+                "full": "Aoi Yuuki",
+                "native": "悠木碧"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 127278,
+            "name": {
+              "full": "Jinshi",
+              "native": "壬氏"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 128426,
+              "name": {
+                "full": "Takeo Ootsuka",
+                "native": "大塚剛央"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 244317,
+            "name": {
+              "full": "Gaoshun",
+              "native": "高順"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 244995,
+            "name": {
+              "full": "Rouran",
+              "native": "楼蘭"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 274186,
+            "name": {
+              "full": "Xiaolan",
+              "native": "小蘭"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 274194,
+            "name": {
+              "full": "Suirei",
+              "native": "翠苓"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787391287,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 60749
+  },
+  "186169": {
+    "id": 186169,
+    "idMal": 60774,
+    "title": {
+      "romaji": "ChaO",
+      "english": "ChaO",
+      "native": "ChaO"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "In a futuristic world where humans and mermaids coexist, <i>ChaO</i> follows Stephan, a mild-mannered office worker at a shipbuilding company, whose life is upended when he is suddenly proposed to by Chao — a princess from the mermaid kingdom. With no time to make sense of what’s happening, Stephan soon finds himself living with the unpredictable, wholehearted Chao. As her sincere love begins to break down his emotional barriers, an unexpected and touching romance begins to unfold.<br><br>\n(Source: GKIDS)",
+    "episodes": 1,
+    "duration": 90,
+    "season": "SUMMER",
+    "seasonYear": 2025,
+    "startDate": {
+      "year": 2025,
+      "month": 8,
+      "day": 15
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 8,
+      "day": 15
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186169-QRx9StczXhsR.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186169-QRx9StczXhsR.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186169-QRx9StczXhsR.jpg",
+      "color": "#e4bb43"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186169-LiKdEGKyGkQj.jpg",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "synonyms": [
+      "เจา คนเล็กผจญเงือกใหญ่"
+    ],
+    "averageScore": 68,
+    "meanScore": 72,
+    "popularity": 3262,
+    "trending": 0,
+    "favourites": 20,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "JsFxeXfxEkQ",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/JsFxeXfxEkQ/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://x.com/chaomovie",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://chao-movie.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.instagram.com/ChaOmovie",
+        "site": "Instagram",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.netflix.com/watch/82770654",
+        "site": "Netflix",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.hulu.jp/watch/100246242",
+        "site": "Hulu",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 558,
+        "name": "Mermaid",
+        "rank": 88,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1433,
+        "name": "Marriage",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 227,
+        "name": "Classic Literature",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 400,
+        "name": "Fairy Tale",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 305,
+        "name": "Ships",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 175,
+        "name": "Robots",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 772,
+        "name": "Shapeshifting",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 13,
+            "name": "Studio 4°C"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7285,
+            "name": "Toei"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 359578,
+            "name": {
+              "full": "Stephan",
+              "native": "ステファン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 359579,
+              "name": {
+                "full": "Ouji Suzuka",
+                "native": "鈴鹿央土"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 359580,
+            "name": {
+              "full": "Chao",
+              "native": "チャオ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 359581,
+              "name": {
+                "full": "Anna Yamada",
+                "native": "山田杏奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 362769,
+            "name": {
+              "full": "Sea Shachou",
+              "native": "シー社長"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 140679,
+              "name": {
+                "full": "Ryouta Yamasato",
+                "native": "山里亮太"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 362771,
+            "name": {
+              "full": "Mybae",
+              "native": "マイベイ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 362772,
+              "name": {
+                "full": "Kavka Shishido",
+                "native": "宍戸佑名"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 362773,
+            "name": {
+              "full": "Robelt",
+              "native": "ロベルタ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118908,
+              "name": {
+                "full": "Yuuichirou Umehara",
+                "native": "梅原裕一郎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 362774,
+            "name": {
+              "full": "Neptune Kokuou",
+              "native": "ネプトゥーヌス国王"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95720,
+              "name": {
+                "full": "Kenta Miyake",
+                "native": "三宅健太"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 362775,
+            "name": {
+              "full": "Juneau",
+              "native": "ジュノー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 362776,
+              "name": {
+                "full": "Shunsei Ota",
+                "native": "太田駿静"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 362777,
+            "name": {
+              "full": "Henshuu-chou",
+              "native": "編集長"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100376,
+              "name": {
+                "full": "Anna Tsuchiya",
+                "native": "土屋アンナ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 362778,
+            "name": {
+              "full": "Omede Taishi",
+              "native": "オメデ大使"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 181409,
+              "name": {
+                "full": "Kukkii!",
+                "native": "くっきー！"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787391285,
+    "idTmdb": 1419053,
+    "idImdb": "tt36592916",
+    "idTvdb": null,
+    "idTrakt": 1160934,
+    "traktSlug": "chao-2025",
+    "idSimkl": 2687252,
+    "idShikimori": 60774
+  },
+  "186307": {
+    "id": 186307,
+    "idMal": 60857,
+    "title": {
+      "romaji": "Notto Sexaroid Eurie!",
+      "english": null,
+      "native": "のっと・せくさろいど・エウリィ！"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "Based on the erotic doujin game by Moguhachi (もぐハチ).",
+    "episodes": 2,
+    "duration": 15,
+    "season": "SPRING",
+    "seasonYear": 2025,
+    "startDate": {
+      "year": 2025,
+      "month": 4,
+      "day": 25
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 7,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186307-gFvI6OyQpql0.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186307-gFvI6OyQpql0.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186307-gFvI6OyQpql0.png",
+      "color": "#d6781a"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [],
+    "averageScore": 52,
+    "meanScore": 58,
+    "popularity": 556,
+    "trending": 0,
+    "favourites": 15,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 517,
+        "name": "Artificial Intelligence",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 155,
+        "name": "Rape",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 185,
+        "name": "Anal Sex",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1511,
+        "name": "Double Penetration",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6242,
+            "name": "Majin petit"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 354468,
+            "name": {
+              "full": "Eurie",
+              "native": "エウリィ"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787391275,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 60857
+  },
+  "186346": {
+    "id": 186346,
+    "idMal": 60831,
+    "title": {
+      "romaji": "IDOLiSH7: First BEAT! Gekijou Soushuuhen - Zenpen",
+      "english": null,
+      "native": "アイドリッシュセブン First BEAT! 劇場総集編 前編"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "The first film in a duology compiling the first season of <i>IDOLiSH7</i>.",
+    "episodes": 1,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 3
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186346-t6ynK5g4Pxdg.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186346-t6ynK5g4Pxdg.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186346-t6ynK5g4Pxdg.png",
+      "color": "#e46b5d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "IDOLiSH7 Recap Movie 1 part 1",
+      "IDOLiSH7 1-Ki Gekijou Soushuuhen"
+    ],
+    "averageScore": null,
+    "meanScore": 77,
+    "popularity": 524,
+    "trending": 0,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": {
+      "id": "9_5sYKvVWQw",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/9_5sYKvVWQw/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://x.com/ID7_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://idolish7.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 87495,
+            "title": {
+              "romaji": "IDOLiSH7",
+              "english": "IDOLiSH7"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2018,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx87495-DH0xWBYac5sw.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 191893,
+            "title": {
+              "romaji": "IDOLiSH7: First BEAT! Gekijou Soushuuhen - Kouhen",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191893-Dsa12MWNr3Aj.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 115,
+        "name": "Idol",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 50,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6068,
+            "name": "TROYCA"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6402,
+            "name": "Bandai Namco Entertainment"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7137,
+            "name": "Bandai Namco Filmworks"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 125894,
+            "name": {
+              "full": "Mitsuki Izumi",
+              "native": "和泉三月"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95556,
+              "name": {
+                "full": "Tsubasa Yonaga",
+                "native": "代永翼"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 126095,
+            "name": {
+              "full": "Tamaki Yotsuba",
+              "native": "四葉環"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95857,
+              "name": {
+                "full": "KENN",
+                "native": "KENN"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 126106,
+            "name": {
+              "full": "Yamato Nikaidou",
+              "native": "二階堂大和"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 114641,
+              "name": {
+                "full": "Yuusuke Shirai",
+                "native": "白井悠介"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 126159,
+            "name": {
+              "full": "Iori Izumi",
+              "native": "和泉一織"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107017,
+              "name": {
+                "full": "Toshiki Masuda",
+                "native": "増田俊樹"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 126246,
+            "name": {
+              "full": "Riku Nanase",
+              "native": "七瀬陸"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95819,
+              "name": {
+                "full": "Kenshou Ono",
+                "native": "小野賢章"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 126247,
+            "name": {
+              "full": "Sougo Osaka",
+              "native": "逢坂壮五"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95991,
+              "name": {
+                "full": "Atsushi Abe",
+                "native": "阿部敦"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 126248,
+            "name": {
+              "full": "Nagi Rokuya",
+              "native": "六弥ナギ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102695,
+              "name": {
+                "full": "Takuya Eguchi",
+                "native": "江口拓也"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 127081,
+            "name": {
+              "full": "Tsumugi Takanashi",
+              "native": "小鳥遊紡"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101560,
+              "name": {
+                "full": "Satomi Satou",
+                "native": "佐藤聡美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 89894,
+            "name": {
+              "full": "Tenn Kujo",
+              "native": "九条天"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 113227,
+              "name": {
+                "full": "Souma Saitou",
+                "native": "斉藤壮馬"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 126249,
+            "name": {
+              "full": "Ryuunosuke Tsunashi",
+              "native": "十龍之介"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 104580,
+              "name": {
+                "full": "Takuya Satou",
+                "native": "佐藤拓也"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787391271,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 60831
+  },
+  "186495": {
+    "id": 186495,
+    "idMal": null,
+    "title": {
+      "romaji": "MILGRAM Third Season",
+      "english": "MILGRAM The Third Trial",
+      "native": "ミルグラム 第三審"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "RELEASING",
+    "description": "Third season of the interactive collaborative multimedia music project between DECO*27 and Takuya Yamanaka.<br><br>\n\nThe list of released videos included in this entry are as follows:<br>\n1) <b>Yuno - Life </b> (ユノ - ライフ), June 18, 2025.<br>\n2) <b> Futa - The Appare March </b> (フータ - 天晴行進曲), Aug 20, 2025.<br>\n3) <b> Muu - Pain </b> (ムウ - ペイン), Oct 22, 2025.<br>\n4) <b> Kazui - Camouflage </b> (カズイ - カモフラージュ), Mar 18, 2026.<br>\n5) <b> Amane - Non-Demonium </b> (アマネ - なんでもにうむ), May 20, 2026.<br>\n6) <b> Mikoto - Requiem </b> (ミコト - レクイエム), July 15, 2026.<br>",
+    "episodes": null,
+    "duration": 3,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2025,
+      "month": 6,
+      "day": 18
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186495-D8i7Ru1kCxwL.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186495-D8i7Ru1kCxwL.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186495-D8i7Ru1kCxwL.jpg",
+      "color": null
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186495-qQn7yJEHtztj.jpg",
+    "genres": [
+      "Mystery",
+      "Psychological"
+    ],
+    "synonyms": [
+      "MILGRAM Daisanshin"
+    ],
+    "averageScore": 65,
+    "meanScore": 72,
+    "popularity": 969,
+    "trending": 0,
+    "favourites": 34,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "EInOy5U9S08",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/EInOy5U9S08/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://x.com/MILGRAM_info/",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.youtube.com/@MilgramOfficial/",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://milgram.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL_B2PkT0YPnXlnJWgj9QSTPXHdNDTJwAf",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 154020,
+            "title": {
+              "romaji": "MILGRAM Second Season",
+              "english": "MILGRAM The Second Trial"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154020-dx2GbM7qwwBH.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1427,
+        "name": "Prison",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 391,
+        "name": "Philosophy",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 66,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 265,
+        "name": "Musical Theater",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 648,
+        "name": "Crime",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 240,
+        "name": "Amnesia",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6714,
+            "name": "OTOIRO"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 205418,
+            "name": {
+              "full": "Jackalope",
+              "native": "ジャッカロープ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95086,
+              "name": {
+                "full": "Jun Fukuyama",
+                "native": "福山潤"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 205419,
+            "name": {
+              "full": "Yuno Kashiki",
+              "native": "樫木優乃"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118478,
+              "name": {
+                "full": "Yuuka Aisaka",
+                "native": "相坂優歌"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 205420,
+            "name": {
+              "full": "Muu Kusunoki",
+              "native": "楠夢羽"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 127020,
+              "name": {
+                "full": "Arisa Kouri",
+                "native": "香里有佐"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 205421,
+            "name": {
+              "full": "Haruka Sakurai",
+              "native": "櫻井遙"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119869,
+              "name": {
+                "full": "Shun Horie",
+                "native": "堀江瞬"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 205422,
+            "name": {
+              "full": "Es",
+              "native": "エス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 162030,
+              "name": {
+                "full": "Yurina Amami",
+                "native": "天海由梨奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 205423,
+            "name": {
+              "full": "Amane Momose",
+              "native": "桃瀬遍"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118473,
+              "name": {
+                "full": "Minami Tanaka",
+                "native": "田中美海"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 205424,
+            "name": {
+              "full": "Kazui Mukuhara",
+              "native": "椋原一威"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107615,
+              "name": {
+                "full": "Ryouta Takeuchi",
+                "native": "竹内良太"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 205425,
+            "name": {
+              "full": "Kotoko Yuzuriha",
+              "native": "杠琴子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 109519,
+              "name": {
+                "full": "Aimi",
+                "native": "愛美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 205426,
+            "name": {
+              "full": "Mikoto Kayano",
+              "native": "櫃野尊"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 111635,
+              "name": {
+                "full": "Natsuki Hanae",
+                "native": "花江夏樹"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 205427,
+            "name": {
+              "full": "Shidou Kirisaki",
+              "native": "桐崎獅童"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 123626,
+              "name": {
+                "full": "Shuugo Nakamura",
+                "native": "仲村宗悟"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787391261,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
+  },
+  "186540": {
+    "id": 186540,
+    "idMal": 55527,
+    "title": {
+      "romaji": "Tengoku Daimakyou PV",
+      "english": null,
+      "native": "天国大魔境PV"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "A promotional video that was released through YouTube in commemoration of the publication of the manga's first volume.\n",
+    "episodes": 1,
+    "duration": 1,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2018,
+      "month": 7,
+      "day": 23
+    },
+    "endDate": {
+      "year": 2018,
+      "month": 7,
+      "day": 23
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186540-faTkvpsBqeFN.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186540-faTkvpsBqeFN.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186540-faTkvpsBqeFN.png",
+      "color": "#e4c9ae"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186540-V6LMsZcKZG1h.jpg",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "synonyms": [
+      "Heavenly Delusion PV"
+    ],
+    "averageScore": 62,
+    "meanScore": 68,
+    "popularity": 1069,
+    "trending": 0,
+    "favourites": 13,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "b34p204HQO0",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/b34p204HQO0/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=b34p204HQO0",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 101942,
+            "title": {
+              "romaji": "Tengoku Daimakyou",
+              "english": "Heavenly Delusion"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx101942-yjslDpT6XcpK.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 155783,
+            "title": {
+              "romaji": "Tengoku Daimakyou",
+              "english": "Tengoku Daimakyo"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx155783-YosKbsmZzuDE.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 505,
+        "name": "Advertisement",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 93,
+        "name": "Post-Apocalyptic",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 217,
+        "name": "Dystopian",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1310,
+        "name": "Travel",
+        "rank": 50,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6227,
+            "name": "Minakata Laboratory"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 159,
+            "name": "Kodansha"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6413,
+            "name": "DMM.futureworks"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 289824,
+            "name": {
+              "full": "Maru",
+              "native": "マル"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 289828,
+            "name": {
+              "full": "Kiruko",
+              "native": "キルコ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 289848,
+            "name": {
+              "full": "Kona",
+              "native": "コナ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 289858,
+            "name": {
+              "full": "Taka",
+              "native": "タカ"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787391256,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 55527
+  },
+  "186559": {
+    "id": 186559,
+    "idMal": 60946,
+    "title": {
+      "romaji": "Kairyuu to Yuubinya-san",
+      "english": "Pokémon: Dragonite and the Special Delivery",
+      "native": "カイリューとゆうびんやさん"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Special animation made to commemorate <i>Pokemon Day 2025.</i> <br><br>\n\nHana dreams of becoming an ace mail carrier, just like her hero, Dragonite. Upon finding a letter with no address, she journeys with her partner Pokémon, Fuecoco, to locate the sender. Will Hana and Fuecoco find the mystery sender and get the letter to its destination?<br><br>\n\n(Source: The Official Pokémon YouTube channel, edited)",
+    "episodes": 1,
+    "duration": 14,
+    "season": "WINTER",
+    "seasonYear": 2025,
+    "startDate": {
+      "year": 2025,
+      "month": 2,
+      "day": 27
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 2,
+      "day": 27
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186559-yoHyJ6ROfrxT.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186559-yoHyJ6ROfrxT.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186559-yoHyJ6ROfrxT.jpg",
+      "color": "#50bbe4"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186559-ykFMsI4zGZ0k.jpg",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "Dragonite and the Postman",
+      "Pokémon: Dragonite e a Entrega Especial"
+    ],
+    "averageScore": 75,
+    "meanScore": 77,
+    "popularity": 2465,
+    "trending": 0,
+    "favourites": 37,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": {
+      "id": "5WsxM6u4-Vg",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/5WsxM6u4-Vg/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=oHgcVr_CRQs",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=nBbAoKK7_AM",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 158871,
+            "title": {
+              "romaji": "Pocket Monsters (2023)",
+              "english": "Pokémon Horizons: The Series"
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "SPRING",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158871-GBM9AMDfDRSu.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1771,
+        "name": "Creature Taming",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 145,
+        "name": "Work",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1310,
+        "name": "Travel",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 433,
+        "name": "Animals",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 224,
+        "name": "Dragons",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 291,
+            "name": "CoMix Wave"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 355988,
+            "name": {
+              "full": "Hana",
+              "native": "ハナ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 137510,
+              "name": {
+                "full": "Riko Fukumoto",
+                "native": "福本莉子"
+              }
+            },
+            {
+              "id": 119416,
+              "name": {
+                "full": "Kaede Hondo",
+                "native": "本渡楓"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 142475,
+            "name": {
+              "full": "Kairyu",
+              "native": "カイリュー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105148,
+              "name": {
+                "full": "Shinya Takahashi",
+                "native": "高橋伸也"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 305061,
+            "name": {
+              "full": "Hogator",
+              "native": "ホゲータ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 227375,
+              "name": {
+                "full": "Mirei Kumagai",
+                "native": "熊谷海麗"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 357913,
+            "name": {
+              "full": "Rio no Haha",
+              "native": "リオの母"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95241,
+              "name": {
+                "full": "Rina Satou",
+                "native": "佐藤利奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 357915,
+            "name": {
+              "full": "Rio",
+              "native": "リオ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119740,
+              "name": {
+                "full": "Natsumi Fujiwara",
+                "native": "藤原夏海"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 357916,
+            "name": {
+              "full": "Rio no Chichi",
+              "native": "リオの父"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95183,
+              "name": {
+                "full": "Daisuke Hirakawa",
+                "native": "平川大輔"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 357917,
+            "name": {
+              "full": "Yuubinkyoku-chou",
+              "native": "郵便局長"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96174,
+              "name": {
+                "full": "Hiroshi Naka",
+                "native": "中博史"
+              }
+            }
+          ]
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 147268,
+            "name": {
+              "full": "Latias",
+              "native": "ラティアス"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 147269,
+            "name": {
+              "full": "Latios",
+              "native": "ラティオス"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 152903,
+            "name": {
+              "full": "Wanpachi",
+              "native": "ワンパチ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 210729,
+              "name": {
+                "full": "Minami Kurisaka",
+                "native": "栗坂南美"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787391254,
+    "idTmdb": 1430394,
+    "idImdb": "tt35966163",
+    "idTvdb": null,
+    "idTrakt": 1170039,
+    "traktSlug": "pokemon-dragonite-and-the-special-delivery-2025",
+    "idSimkl": 2725714,
+    "idShikimori": 60946
+  },
+  "186620": {
+    "id": 186620,
+    "idMal": null,
+    "title": {
+      "romaji": "Benghuai: Xingqiong Tiedao - Ciyu Dianya",
+      "english": "Honkai: Star Rail — Bonajade Exchange",
+      "native": "崩坏：星穹铁道 慈玉典押"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Wealth is the recipe to happiness. Giving it to those who desire happiness is making the best use of it.<br>\nAnyone can receive this blessing... They only have to pay an equivalent price.\n<br><br>\n(Source: Honkai Star Rail Youtube Channel)",
+    "episodes": 1,
+    "duration": 1,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2024,
+      "month": 7,
+      "day": 9
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 7,
+      "day": 9
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186620-4xy4gvFc46Ok.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186620-4xy4gvFc46Ok.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186620-4xy4gvFc46Ok.png",
+      "color": "#e4935d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186620-4DeyaGt7PtCC.jpg",
+    "genres": [
+      "Psychological"
+    ],
+    "synonyms": [
+      "崩壊：スターレイル ポーンショップヒスイ",
+      "Houkai: Star Rail Pawnshop Hisui",
+      "붕괴: 스타레일 보나제이드 전당포",
+      "Bunggoe: Star Rail - Bonajade Jeondangpo",
+      "A Moment Among the Stars",
+      "星旅一瞬",
+      "Xing Lu Yishun",
+      "刹那の星旅",
+      "Setsuna no Hoshitabi",
+      "별을 누빈 순간",
+      "Byeoleul Nubin Sungan"
+    ],
+    "averageScore": 60,
+    "meanScore": 66,
+    "popularity": 555,
+    "trending": 0,
+    "favourites": 5,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "VIDEO_GAME",
+    "trailer": {
+      "id": "zXFNm1DoXes",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/zXFNm1DoXes/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=zXFNm1DoXes",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=2gxPAn5vkiI",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=8DcjSY9hp3I",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=ZpOT4elC9Iw",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 184766,
+            "title": {
+              "romaji": "Benghuai: Xingqiong Tiedao - Huahuo Baxi",
+              "english": "Honkai: Star Rail — Sparkling Tricks"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184766-KbJwoY3VpQTj.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 187376,
+            "title": {
+              "romaji": "Benghuai: Xingqiong Tiedao - Fei Ling He Boyi",
+              "english": "Honkai: Star Rail — Non-Zero-Sum Game"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187376-RsO7Ygpq5gUm.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 188367,
+            "title": {
+              "romaji": "Benghuai: Xingqiong Tiedao - Ni... Nihao, Wo Jiao Huohuo",
+              "english": "Honkai: Star Rail — H-Hello, I'm Huohuo."
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188367-9viDztRhhcQQ.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 206290,
+            "title": {
+              "romaji": "Benghuai: Xingqiong Tiedao - Yilun Zhaoyang de Mingyun",
+              "english": "Honkai: Star Rail  — The Destiny of Each New Dawn"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206290-iXvhfXiy4W9H.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 161,
+        "name": "Bar",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 505,
+        "name": "Advertisement",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6729,
+            "name": "miHoYo Anime"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 355046,
+            "name": {
+              "full": "Feicui",
+              "native": "翡翠"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95009,
+              "name": {
+                "full": "Kotono Mitsuishi",
+                "native": "三石琴乃"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787391249,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
+  },
+  "186618": {
+    "id": 186618,
+    "idMal": null,
+    "title": {
+      "romaji": "Juequling: Chengwei Yingxiong de Lucheng",
+      "english": "Zenless Zone Zero: The Path to Becoming a Hero",
+      "native": "绝区零 成为英雄的旅程"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "—\"Oh? Does my little Miyabi know what it really means to be a hero?\"<br>\n—\"To destroy all the bad guys!\"<br>\n—\"Heroes aren't born to destroy, Miyabi. They're born to protect.\"<br><br>\n\n(Source: Zenless Zone Zero YouTube Channel)",
+    "episodes": 1,
+    "duration": 5,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2024,
+      "month": 12,
+      "day": 14
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 12,
+      "day": 14
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186618-cALWui5wroJ4.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186618-cALWui5wroJ4.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186618-cALWui5wroJ4.jpg",
+      "color": "#c9a143"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186618-UmsaJ8OxlwEW.jpg",
+    "genres": [
+      "Action"
+    ],
+    "synonyms": [
+      "ゼンレスゾーンゼロ 英雄の旅路",
+      "Zenless Zone Zero: Eiyuu no Tabiji",
+      "젠레스 존 제로 영웅으로 거듭나는 여정",
+      "星見雅動畫短片",
+      "Ya Xingjian Donghua Duanpian",
+      "星見雅ショートアニメ",
+      "Hoshimi Miyabi Short Anime",
+      "호시미 미야비 애니메이션 단편",
+      "Hoshimi Miyabi Animation Danpyeon"
+    ],
+    "averageScore": 75,
+    "meanScore": 82,
+    "popularity": 792,
+    "trending": 0,
+    "favourites": 20,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "VIDEO_GAME",
+    "trailer": {
+      "id": "hYOkS-uR6_U",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/hYOkS-uR6_U/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=MSncQJ-pRbM",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=vWfsu3_cZn4",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=hYOkS-uR6_U",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Nbpp_rdnWdQ",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 213642,
+            "title": {
+              "romaji": "Juequling: Ruo Neng Huazuo Guangmang",
+              "english": "Zenless Zone Zero: If I Could Become Light"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213642-FdurCG5kBpRq.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 204407,
+            "title": {
+              "romaji": "Juequling: Jinghun Wuye",
+              "english": "Zenless Zone Zero: A Frightful Night"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204407-mBoLy8DRtTX0.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 254,
+        "name": "Kemonomimi",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 43,
+        "name": "Swordplay",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1501,
+        "name": "Natural Disaster",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 93,
+        "name": "Post-Apocalyptic",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 505,
+        "name": "Advertisement",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 70,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7111,
+            "name": "Fantasier Animation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6731,
+            "name": "miHoYo"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 355044,
+            "name": {
+              "full": "Ya Xingjian",
+              "native": "星见雅"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95070,
+              "name": {
+                "full": "Ami Koshimizu",
+                "native": "小清水亜美"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787391249,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
+  },
+  "186715": {
+    "id": 186715,
+    "idMal": 55883,
+    "title": {
+      "romaji": "Shiori (2023)",
+      "english": null,
+      "native": "栞 (2023)"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video directed by Taku Kimura for the song <i>Shiori</i> by MyGO!!!!!",
+    "episodes": 1,
+    "duration": 4,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2023,
+      "month": 6,
+      "day": 30
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 6,
+      "day": 30
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186715-4cYDwzhhPp4a.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186715-4cYDwzhhPp4a.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186715-4cYDwzhhPp4a.jpg",
+      "color": "#f1c993"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Psychological"
+    ],
+    "synonyms": [],
+    "averageScore": 66,
+    "meanScore": 75,
+    "popularity": 442,
+    "trending": 0,
+    "favourites": 7,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "wuUZjdiUCj0",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/wuUZjdiUCj0/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=wuUZjdiUCj0",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 163571,
+            "title": {
+              "romaji": "BanG Dream! It's MyGO!!!!!",
+              "english": "BanG Dream! It's MyGO!!!!!"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163571-Atkvuzh1A1Ip.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 302095,
+            "name": {
+              "full": "Tomori Takamatsu",
+              "native": "高松燈"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 302091,
+            "name": {
+              "full": "Taki Shiina",
+              "native": "椎名立希"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 302092,
+            "name": {
+              "full": "Raana Kaname",
+              "native": "要楽奈"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 302093,
+            "name": {
+              "full": "Soyo Nagasaki",
+              "native": "長崎そよ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 302094,
+            "name": {
+              "full": "Anon Chihaya",
+              "native": "千早愛音"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787391238,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 55883
+  },
+  "186829": {
+    "id": 186829,
+    "idMal": 61790,
+    "title": {
+      "romaji": "Kakurenbo THE ANIMATION",
+      "english": null,
+      "native": "かくれんぼ THE ANIMATION"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "<i>Kakurenbo</i><br>\nOn the night of the school trip, Ryou sneaks into the girls' room alone, planning to have his first kiss with his girlfriend, Hina. However, everyone returns to their rooms and the kiss goes awry. The two decide to hide in the closet on the spur of the moment...<br>\n<br>\n<i>Motto Kakurenbo</i><br>\nSince their first time on the school trip, Hina and Ryou have maintained a good relationship as lovers. However, there is one problem: Ryou wants to have sex inside the school. One day during club activities, Hina is suddenly called by Ryou to the gym storage room, where he asks her for a favor...<br>\n<br>\n(Source: PinkPineapple, translated)",
+    "episodes": 1,
+    "duration": 30,
+    "season": "SUMMER",
+    "seasonYear": 2025,
+    "startDate": {
+      "year": 2025,
+      "month": 9,
+      "day": 26
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 9,
+      "day": 26
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186829-iV3BnA5KRgvu.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186829-iV3BnA5KRgvu.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186829-iV3BnA5KRgvu.png",
+      "color": "#e4ae50"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [
+      "Hide & Seek"
+    ],
+    "averageScore": 69,
+    "meanScore": 73,
+    "popularity": 1915,
+    "trending": 0,
+    "favourites": 67,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 110327,
+            "title": {
+              "romaji": "Kakurenbo",
+              "english": "Hide & Seek"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx110327-omxxtuisgaCx.png"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 186828,
+            "title": {
+              "romaji": "Motto Kakurenbo",
+              "english": "More Hide & Seek"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx186828-EWtzjVsSY4QP.png"
+            }
+          }
+        },
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 135513,
+            "title": {
+              "romaji": "Kaede to Suzu THE ANIMATION",
+              "english": "Love Me: Kaede and Suzu THE ANIMATION"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx135513-YJgeWHaPXfS8.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 110336,
+            "title": {
+              "romaji": "Lovely ♡",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2019,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx110336-71hlUTOKvukp.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 135,
+        "name": "Cunnilingus",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 134,
+        "name": "Fellatio",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1807,
+        "name": "Fingering",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 137,
+        "name": "Large Breasts",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 45,
+            "name": "Pink Pineapple"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6852,
+            "name": "Studio 1st"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 299472,
+            "name": {
+              "full": "Ryou",
+              "native": null
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 299473,
+            "name": {
+              "full": "Hina",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 144517,
+              "name": {
+                "full": "Mako Ayane",
+                "native": "綾音まこ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 147207,
+            "name": {
+              "full": "Aina Endou",
+              "native": "遠藤愛奈"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 123662,
+              "name": {
+                "full": "Mashiro Kazahana",
+                "native": "風花ましろ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 259888,
+            "name": {
+              "full": "Kaede",
+              "native": "楓"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 259891,
+              "name": {
+                "full": "Yuka Hinata",
+                "native": "陽向葵ゅか"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787391228,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 61790
+  },
+  "186834": {
+    "id": 186834,
+    "idMal": 62911,
+    "title": {
+      "romaji": "Yong Sheng 5",
+      "english": null,
+      "native": "永生之太元仙府"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "The fifth season of <i>Yong Sheng</i>.",
+    "episodes": 26,
+    "duration": 20,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 20
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 5,
+      "day": 30
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186834-wXazIOGl0lw2.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186834-wXazIOGl0lw2.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186834-wXazIOGl0lw2.png",
+      "color": "#f1ae5d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Immortality 5th Season"
+    ],
+    "averageScore": 59,
+    "meanScore": 74,
+    "popularity": 361,
+    "trending": 0,
+    "favourites": 12,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": {
+      "id": "PajBUHw8aqY",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/PajBUHw8aqY/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://bangumi.tv/subject/487853",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.bilibili.com/bangumi/media/md28230735",
+        "site": "Bilibili",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 179844,
+            "title": {
+              "romaji": "Yong Sheng 4",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b179844-pXBSGdBxKymZ.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 30,
+        "name": "Martial Arts",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 303,
+        "name": "Wuxia",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6476,
+            "name": "Oriental Creative Color"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 261382,
+            "name": {
+              "full": "Han Fang",
+              "native": "方寒"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787391227,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 62911
+  },
+  "186914": {
+    "id": 186914,
+    "idMal": 61067,
+    "title": {
+      "romaji": "Ninja to Gokudou",
+      "english": "Ninja Vs. Gokudo",
+      "native": "忍者と極道"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "The ninja banish evil from the shadows. The gokudo gather lonely outcasts and commit crimes. The grudge they forged centuries ago is rekindled in the present day. The ninja Shinoha meets Kiwami, a gokudo with the face of a businessman. Unknowing of the other's identity, they bond over anime, but the war between ninja and gokudo intensifies. Who will survive and who will perish, ninja or gokudo?\n<br><br>\n(Source: Amazon Prime Video)",
+    "episodes": 12,
+    "duration": 23,
+    "season": "FALL",
+    "seasonYear": 2025,
+    "startDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 8
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 24
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186914-8fVK9eu1ZOKa.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186914-8fVK9eu1ZOKa.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186914-8fVK9eu1ZOKa.jpg",
+      "color": "#28a1e4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "synonyms": [
+      "Ninja and Gokudo",
+      "Ninja kontra yakuza"
+    ],
+    "averageScore": 61,
+    "meanScore": 61,
+    "popularity": 7242,
+    "trending": 0,
+    "favourites": 88,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "CQgWUYsmbrE",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/CQgWUYsmbrE/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://x.com/ningoku_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.ningoku-anime.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.amazon.com/dp/B0FNV7LF55",
+        "site": "Amazon Prime Video",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 124112,
+            "title": {
+              "romaji": "Ninja to Gokudou",
+              "english": "Ninja vs. Gokudo"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx124112-DxuTmsWqUxef.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 255,
+        "name": "Ninja",
+        "rank": 84,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 199,
+        "name": "Yakuza",
+        "rank": 84,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 94,
+        "name": "Gore",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1277,
+        "name": "Found Family",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 37,
+            "name": "Studio DEEN"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 159,
+            "name": "Kodansha"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6740,
+            "name": "Good Smile Film"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6620,
+            "name": "Nippon Television Network"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7677,
+            "name": "NK Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 356057,
+            "name": {
+              "full": "Shinoha Tanaka",
+              "native": "多仲忍者"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 133507,
+              "name": {
+                "full": "Chiaki Kobayashi",
+                "native": "小林千晃"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 356058,
+            "name": {
+              "full": "Kiwami Kimura",
+              "native": "輝村極道"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95020,
+              "name": {
+                "full": "Katsuyuki Konishi",
+                "native": "小西克幸"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 364054,
+            "name": {
+              "full": "Gamute",
+              "native": "ガムテ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 109441,
+              "name": {
+                "full": "Sumire Uesaka",
+                "native": "上坂すみれ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 374318,
+            "name": {
+              "full": "Zanzou Kasai",
+              "native": "神賽惨蔵"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95006,
+              "name": {
+                "full": "Toshiyuki Morikawa",
+                "native": "森川智之"
+              }
+            },
+            {
+              "id": 95819,
+              "name": {
+                "full": "Kenshou Ono",
+                "native": "小野賢章"
+              }
+            },
+            {
+              "id": 108507,
+              "name": {
+                "full": "Mariko Higashiuchi",
+                "native": "東内マリ子"
+              }
+            },
+            {
+              "id": 128197,
+              "name": {
+                "full": "Yuuki Sanpei",
+                "native": "三瓶雄樹"
+              }
+            },
+            {
+              "id": 196136,
+              "name": {
+                "full": "Serina Machiyama",
+                "native": "町山芹菜"
+              }
+            },
+            {
+              "id": 131173,
+              "name": {
+                "full": "Volcano Oota",
+                "native": "ボルケーノ太田"
+              }
+            },
+            {
+              "id": 103555,
+              "name": {
+                "full": "Hisako Kanemoto",
+                "native": "金元寿子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 374319,
+            "name": {
+              "full": "Akiba Kaiza",
+              "native": "璃刃壊左"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95337,
+              "name": {
+                "full": "Houchuu Ootsuka",
+                "native": "大塚芳忠"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 374321,
+            "name": {
+              "full": "Nodoka Matsumoto",
+              "native": "祭下陽日"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119617,
+              "name": {
+                "full": "Yuuma Uchida",
+                "native": "内田雄馬"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 374322,
+            "name": {
+              "full": "Shiki Yamada",
+              "native": "病田色"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95185,
+              "name": {
+                "full": "Kana Hanazawa",
+                "native": "花澤香菜"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 374329,
+            "name": {
+              "full": "Sako Hasegawa",
+              "native": "覇世川左虎"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 112635,
+              "name": {
+                "full": "Makoto Furukawa",
+                "native": "古川慎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 374330,
+            "name": {
+              "full": "Uryuu Yagi",
+              "native": "邪樹右龍"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95025,
+              "name": {
+                "full": "Hiroki Yasumoto",
+                "native": "安元洋貴"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 374331,
+            "name": {
+              "full": "Tome Odaka",
+              "native": "雄鷹斗女"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95885,
+              "name": {
+                "full": "Yuka Iguchi",
+                "native": "井口裕香"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787391222,
+    "idTmdb": 285070,
+    "idImdb": "tt37038619",
+    "idTvdb": 460607,
+    "idTrakt": 277583,
+    "traktSlug": "ninja-vs-gokudo",
+    "idSimkl": 2723912,
+    "idShikimori": 61067
+  },
+  "186928": {
+    "id": 186928,
+    "idMal": null,
+    "title": {
+      "romaji": "Utahime Dream",
+      "english": null,
+      "native": "ウタヒメドリーム"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": null,
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186928-xKLEdxa6b2wD.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186928-xKLEdxa6b2wD.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186928-xKLEdxa6b2wD.jpg",
+      "color": "#5d86e4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Music"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 180,
+    "trending": 0,
+    "favourites": 3,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "UM700PMxF24",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/UM700PMxF24/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://x.com/utadoriofficial",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.utadori.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 196776,
+            "title": {
+              "romaji": "Utahime Dream",
+              "english": "Utahime Dream"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx196776-4hBlJe2DQjuV.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787391221,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2723914,
+    "idShikimori": 61073
+  },
+  "186935": {
+    "id": 186935,
+    "idMal": 61077,
+    "title": {
+      "romaji": "Dragon Heart: Reikai Tanbouki",
+      "english": null,
+      "native": "ドラゴン・ハート―霊界探訪記―"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 1,
+    "duration": 119,
+    "season": "SPRING",
+    "seasonYear": 2025,
+    "startDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 23
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 23
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186935-WPDw5KNiCSGb.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186935-WPDw5KNiCSGb.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186935-WPDw5KNiCSGb.png",
+      "color": "#f1bb5d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Fantasy",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "Dragon Heart - Adventures Beyond This World"
+    ],
+    "averageScore": null,
+    "meanScore": 49,
+    "popularity": 456,
+    "trending": 0,
+    "favourites": 3,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "Y8gFzZDNjLM",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/Y8gFzZDNjLM/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://hs-movies.jp/dragon-heart/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://dragonheart-movie.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7615,
+            "name": "HS PICTURES"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787391221,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 61077
   }
 }

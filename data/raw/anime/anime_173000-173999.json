@@ -40,7 +40,7 @@
     "synonyms": [],
     "averageScore": 54,
     "meanScore": 54,
-    "popularity": 6545,
+    "popularity": 6546,
     "trending": 0,
     "favourites": 100,
     "isAdult": false,
@@ -116,7 +116,13 @@
               "romaji": "Dennou",
               "english": "Cyberbrains"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx136128-owivWjBw83qq.png"
+            }
           }
         },
         {
@@ -127,7 +133,13 @@
               "romaji": "Kamitsubaki-shi Kensetsuchuu. NOVELIZED",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx200922-V92TT8WbH1wL.png"
+            }
           }
         }
       ]
@@ -433,7 +445,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787392401,
+    "idTmdb": 261392,
+    "idImdb": "tt36469273",
+    "idTvdb": 444728,
+    "idTrakt": 251673,
+    "traktSlug": "kamitsubaki-city-under-construction",
+    "idSimkl": 2347542,
+    "idShikimori": 57820
   },
   "173692": {
     "id": 173692,
@@ -482,8 +501,8 @@
     ],
     "averageScore": 66,
     "meanScore": 66,
-    "popularity": 28519,
-    "trending": 0,
+    "popularity": 28529,
+    "trending": 1,
     "favourites": 395,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -829,7 +848,7 @@
         }
       ]
     },
-    "updatedAt": 1787385727,
+    "updatedAt": 1787392919,
     "idTmdb": 280048,
     "idImdb": "tt32777700",
     "idTvdb": 444999,
@@ -883,7 +902,7 @@
     ],
     "averageScore": 77,
     "meanScore": 82,
-    "popularity": 2453,
+    "popularity": 2456,
     "trending": 0,
     "favourites": 33,
     "isAdult": false,
@@ -923,7 +942,13 @@
               "romaji": "BanG Dream! It's MyGO!!!!!",
               "english": "BanG Dream! It's MyGO!!!!!"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163571-Atkvuzh1A1Ip.png"
+            }
           }
         },
         {
@@ -934,7 +959,13 @@
               "romaji": "BanG Dream! It's MyGO!!!!!: Utau, Bokura ni Nareru Uta & FILM LIVE",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182241-0CqKdLrXSh1E.png"
+            }
           }
         }
       ]
@@ -1099,7 +1130,7 @@
         }
       ]
     },
-    "updatedAt": 1787353355,
+    "updatedAt": 1787392419,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1155,8 +1186,8 @@
     ],
     "averageScore": 83,
     "meanScore": 84,
-    "popularity": 43210,
-    "trending": 2,
+    "popularity": 43243,
+    "trending": 3,
     "favourites": 1295,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1602,7 +1633,7 @@
         }
       ]
     },
-    "updatedAt": 1787378481,
+    "updatedAt": 1787392825,
     "idTmdb": 94404,
     "idImdb": "tt11147852",
     "idTvdb": 370761,
@@ -1652,8 +1683,8 @@
     "synonyms": [],
     "averageScore": 65,
     "meanScore": 65,
-    "popularity": 65416,
-    "trending": 4,
+    "popularity": 65476,
+    "trending": 3,
     "favourites": 1212,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2115,7 +2146,7 @@
         }
       ]
     },
-    "updatedAt": 1787382027,
+    "updatedAt": 1787392872,
     "idTmdb": 259558,
     "idImdb": "tt32512773",
     "idTvdb": 445009,
@@ -2170,8 +2201,8 @@
     ],
     "averageScore": 86,
     "meanScore": 86,
-    "popularity": 41784,
-    "trending": 1,
+    "popularity": 41795,
+    "trending": 3,
     "favourites": 1189,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2751,7 +2782,7 @@
         }
       ]
     },
-    "updatedAt": 1787382086,
+    "updatedAt": 1787392870,
     "idTmdb": 46195,
     "idImdb": "tt1480925",
     "idTvdb": 102261,
@@ -2801,7 +2832,7 @@
     "synonyms": [],
     "averageScore": 70,
     "meanScore": 70,
-    "popularity": 72358,
+    "popularity": 72416,
     "trending": 2,
     "favourites": 1097,
     "isAdult": false,
@@ -3375,7 +3406,7 @@
         }
       ]
     },
-    "updatedAt": 1787382046,
+    "updatedAt": 1787392365,
     "idTmdb": 83095,
     "idImdb": "tt9529546",
     "idTvdb": 353712,
@@ -3428,8 +3459,8 @@
     ],
     "averageScore": 73,
     "meanScore": 73,
-    "popularity": 13896,
-    "trending": 1,
+    "popularity": 13903,
+    "trending": 0,
     "favourites": 233,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3884,7 +3915,7 @@
         }
       ]
     },
-    "updatedAt": 1787374805,
+    "updatedAt": 1787392386,
     "idTmdb": 284388,
     "idImdb": "tt36593047",
     "idTvdb": 444810,
@@ -3942,7 +3973,7 @@
     ],
     "averageScore": 52,
     "meanScore": 52,
-    "popularity": 20946,
+    "popularity": 20955,
     "trending": 0,
     "favourites": 300,
     "isAdult": false,
@@ -4418,7 +4449,7 @@
         }
       ]
     },
-    "updatedAt": 1787385727,
+    "updatedAt": 1787392396,
     "idTmdb": 243743,
     "idImdb": "tt32291998",
     "idTvdb": 444726,
@@ -4469,7 +4500,7 @@
     ],
     "averageScore": 74,
     "meanScore": 74,
-    "popularity": 62035,
+    "popularity": 62054,
     "trending": 1,
     "favourites": 1372,
     "isAdult": false,
@@ -5028,7 +5059,7 @@
         }
       ]
     },
-    "updatedAt": 1787385624,
+    "updatedAt": 1787392406,
     "idTmdb": 243501,
     "idImdb": "tt30844357",
     "idTvdb": 444609,
@@ -5082,7 +5113,7 @@
     ],
     "averageScore": 64,
     "meanScore": 64,
-    "popularity": 93752,
+    "popularity": 93808,
     "trending": 4,
     "favourites": 2026,
     "isAdult": false,
@@ -5597,7 +5628,7 @@
         }
       ]
     },
-    "updatedAt": 1787385653,
+    "updatedAt": 1787392372,
     "idTmdb": 245285,
     "idImdb": "tt32469108",
     "idTvdb": 445011,
@@ -5650,7 +5681,7 @@
     ],
     "averageScore": 63,
     "meanScore": 63,
-    "popularity": 57240,
+    "popularity": 57263,
     "trending": 0,
     "favourites": 762,
     "isAdult": false,
@@ -6111,7 +6142,7 @@
         }
       ]
     },
-    "updatedAt": 1787385727,
+    "updatedAt": 1787392381,
     "idTmdb": 248951,
     "idImdb": "tt32333026",
     "idTvdb": 444916,
@@ -6166,7 +6197,7 @@
     ],
     "averageScore": 63,
     "meanScore": 65,
-    "popularity": 2756,
+    "popularity": 2761,
     "trending": 0,
     "favourites": 117,
     "isAdult": true,
@@ -6376,7 +6407,7 @@
         }
       ]
     },
-    "updatedAt": 1787371321,
+    "updatedAt": 1787392388,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6426,8 +6457,8 @@
       "Un instante de emoción"
     ],
     "averageScore": 71,
-    "meanScore": 74,
-    "popularity": 6370,
+    "meanScore": 73,
+    "popularity": 6372,
     "trending": 0,
     "favourites": 73,
     "isAdult": false,
@@ -6744,7 +6775,7 @@
         }
       ]
     },
-    "updatedAt": 1787364123,
+    "updatedAt": 1787392353,
     "idTmdb": 1235451,
     "idImdb": "tt33796769",
     "idTvdb": null,
@@ -6800,8 +6831,8 @@
     ],
     "averageScore": 55,
     "meanScore": 56,
-    "popularity": 2165,
-    "trending": 1,
+    "popularity": 2167,
+    "trending": 0,
     "favourites": 33,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -7084,7 +7115,7 @@
         }
       ]
     },
-    "updatedAt": 1787385709,
+    "updatedAt": 1787392936,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7092,5 +7123,583 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 57789
+  },
+  "173263": {
+    "id": 173263,
+    "idMal": 57796,
+    "title": {
+      "romaji": "Touhai: Ura Rate Mahjong Touhai Roku",
+      "english": "Tohai - Ura Rate Mahjong Tohai Roku",
+      "native": "凍牌～裏レート麻雀闘牌録～"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "Money, women, organs. Kei, a high school boy, frequents the underground mahjong parlor teeming with desires, earning him the moniker 'K of Ice' in the underworld due to his cold-hearted strategy and stylish gameplay. Rumors also circulate that he keeps a girl at his home.<br><br>\n(Source: Pony Canyon)",
+    "episodes": 25,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2024,
+    "startDate": {
+      "year": 2024,
+      "month": 10,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 4,
+      "day": 5
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173263-c3geIX7XVEcH.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173263-c3geIX7XVEcH.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173263-c3geIX7XVEcH.jpg",
+      "color": "#50a1c9"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Sports"
+    ],
+    "synonyms": [],
+    "averageScore": 61,
+    "meanScore": 62,
+    "popularity": 9196,
+    "trending": 0,
+    "favourites": 106,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "NZewbQawPD8",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/NZewbQawPD8/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://tohai-anime.com",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/tohai_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLqsbZFKYYjHTyX2kBLhal_q_u9-XLbFp5",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://oceanveil.net/anime_titles/270",
+        "site": "OceanVeil",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 65591,
+            "title": {
+              "romaji": "Touhai",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx65591-RTMHM6h55HM5.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 117,
+        "name": "Mahjong",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 199,
+        "name": "Yakuza",
+        "rank": 95,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 91,
+        "name": "Gambling",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1589,
+        "name": "Criminal Organization",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 106,
+        "name": "Gangs",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 226,
+        "name": "Fugitive",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1492,
+        "name": "Board Game",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 648,
+        "name": "Crime",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 615,
+        "name": "Death Game",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1121,
+        "name": "Torture",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 94,
+        "name": "Gore",
+        "rank": 50,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 247,
+        "name": "Slavery",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 171,
+        "name": "Bullying",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 395,
+        "name": "Delinquents",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 489,
+        "name": "Drugs",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1219,
+        "name": "Disability",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6634,
+            "name": "East Fish Studio"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 144,
+            "name": "Pony Canyon"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6559,
+            "name": "Akita Shoten"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 64,
+            "name": "Sotsu"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 143,
+            "name": "Mainichi Broadcasting System"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 339718,
+            "name": {
+              "full": "Kei",
+              "native": "ケイ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 198640,
+              "name": {
+                "full": "Kousuke Tanabe",
+                "native": "田邊幸輔"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 339719,
+            "name": {
+              "full": "Doujima",
+              "native": "堂嶋"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119185,
+              "name": {
+                "full": "Shunsuke Takeuchi",
+                "native": "武内駿輔"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 339720,
+            "name": {
+              "full": "Amina",
+              "native": "アミナ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 133625,
+              "name": {
+                "full": "Fairouz Ai",
+                "native": "ファイルーズあい"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 340860,
+            "name": {
+              "full": "Noriyuki Takatsu",
+              "native": "高津則之"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95285,
+              "name": {
+                "full": "Tsuyoshi Koyama",
+                "native": "小山剛志"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 340861,
+            "name": {
+              "full": "Yuu Katsuragi",
+              "native": "桂木優"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107652,
+              "name": {
+                "full": "Chinatsu Akasaki",
+                "native": "赤﨑千夏"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 345665,
+            "name": {
+              "full": "Hideharu Seki",
+              "native": "関ひではる"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95129,
+              "name": {
+                "full": "Toshihiko Seki",
+                "native": "関俊彦"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 345666,
+            "name": {
+              "full": "Hatakeyama",
+              "native": "畑山"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95160,
+              "name": {
+                "full": "Takehito Koyasu",
+                "native": "子安武人"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 345667,
+            "name": {
+              "full": "Ai",
+              "native": "アイ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102263,
+              "name": {
+                "full": "Youko Hikasa",
+                "native": "日笠陽子"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787392409,
+    "idTmdb": 243452,
+    "idImdb": "tt32832433",
+    "idTvdb": 444559,
+    "idTrakt": 244365,
+    "traktSlug": "frozen-mahjong-tiles-underground-mahjong-battle-record",
+    "idSimkl": 2345644,
+    "idShikimori": 57796
+  },
+  "173807": {
+    "id": 173807,
+    "idMal": 57949,
+    "title": {
+      "romaji": "Chocolat Cadabra",
+      "english": null,
+      "native": "ショコラカタブラ"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "A short film directed by You Yoshinari created for Lotte's chocolate business' 60th anniversary.<br><br>\n\nThe spell to make chocolate delicious: <i>\"Chocolat Cadabra\"</i><br><br>\nSet in a late-night chocolate factory, three girls go on a grand adventure as they traverse the worlds of science, magic, and reality.\nChocolate has and will continue to add excitement to our lives. Tonight, somewhere in a chocolate factory, someone is surely chanting a \"spell to make chocolate delicious.'' <i> Chocolat Cadabra!</i> <br><br>\n\n(Source: Official Site, translated)<br><br>\n<i>Note: This entry is for the longer \"Full Version\" shown on the official website and Ado's YouTube channel on Jan 31, 2024. A 30-second \"Short\" and 60-second \"Long\" version were released on Jan 21, 2024 and Jan 22, 2024 respectively.</i> <br>",
+    "episodes": 1,
+    "duration": 3,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2024,
+      "month": 1,
+      "day": 31
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 1,
+      "day": 31
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173807-YSeFEo3iZxuP.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx173807-YSeFEo3iZxuP.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173807-YSeFEo3iZxuP.jpg",
+      "color": "#ff435d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173807-M4Sl8KV7QNJc.jpg",
+    "genres": [
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "ショコラ・カタブラ",
+      "ロッテ×Ado",
+      "Lotte×Ado"
+    ],
+    "averageScore": 71,
+    "meanScore": 73,
+    "popularity": 1834,
+    "trending": 0,
+    "favourites": 27,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "c5j7lpWprro",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/c5j7lpWprro/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.lotte.co.jp/entertainment/chocolatcadabra/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=c5j7lpWprro",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 142,
+        "name": "Food",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 505,
+        "name": "Advertisement",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 179,
+        "name": "Witch",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 772,
+        "name": "Shapeshifting",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 803,
+            "name": "TRIGGER"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 325758,
+            "name": {
+              "full": "Cacao",
+              "native": "カカオ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 325759,
+            "name": {
+              "full": "Sugar",
+              "native": "シュガー"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 325760,
+            "name": {
+              "full": "Cocoa",
+              "native": "ココア"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787392362,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 57949
   }
 }

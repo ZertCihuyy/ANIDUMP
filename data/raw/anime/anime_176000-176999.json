@@ -39,7 +39,7 @@
     "synonyms": [],
     "averageScore": 73,
     "meanScore": 78,
-    "popularity": 886,
+    "popularity": 889,
     "trending": 0,
     "favourites": 50,
     "isAdult": false,
@@ -69,7 +69,13 @@
               "romaji": "Sayonara End Roll",
               "english": "Sayonara End Roll"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b186084-0eWG2C3cQkkX.png"
+            }
           }
         }
       ]
@@ -147,7 +153,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787392072,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 59030
   },
   "176396": {
     "id": 176396,
@@ -229,7 +242,14 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787392115,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 58891
   },
   "176273": {
     "id": 176273,
@@ -274,8 +294,8 @@
     ],
     "averageScore": 73,
     "meanScore": 74,
-    "popularity": 72535,
-    "trending": 1,
+    "popularity": 72574,
+    "trending": 3,
     "favourites": 1637,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -845,7 +865,7 @@
         }
       ]
     },
-    "updatedAt": 1787385619,
+    "updatedAt": 1787392808,
     "idTmdb": 249882,
     "idImdb": "tt31863730",
     "idTvdb": 447955,
@@ -897,7 +917,7 @@
     ],
     "averageScore": 60,
     "meanScore": 60,
-    "popularity": 39862,
+    "popularity": 39879,
     "trending": 2,
     "favourites": 584,
     "isAdult": false,
@@ -1431,7 +1451,7 @@
         }
       ]
     },
-    "updatedAt": 1787374830,
+    "updatedAt": 1787392164,
     "idTmdb": 261301,
     "idImdb": "tt32524468",
     "idTvdb": 447573,
@@ -1486,7 +1506,7 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 8293,
+    "popularity": 8312,
     "trending": 1,
     "favourites": 80,
     "isAdult": false,
@@ -1809,7 +1829,7 @@
         }
       ]
     },
-    "updatedAt": 1787385641,
+    "updatedAt": 1787392123,
     "idTmdb": 206630,
     "idImdb": "tt27524116",
     "idTvdb": 422728,
@@ -1862,7 +1882,7 @@
     ],
     "averageScore": 58,
     "meanScore": 63,
-    "popularity": 949,
+    "popularity": 951,
     "trending": 0,
     "favourites": 10,
     "isAdult": false,
@@ -1907,7 +1927,13 @@
               "romaji": "Yozakura-san Chi no Daisakusen",
               "english": "Mission: Yozakura Family"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158898-O3egiBNkxLQO.png"
+            }
           }
         }
       ]
@@ -2119,7 +2145,7 @@
         }
       ]
     },
-    "updatedAt": 1787353355,
+    "updatedAt": 1787392071,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2176,8 +2202,8 @@
     ],
     "averageScore": 84,
     "meanScore": 84,
-    "popularity": 304265,
-    "trending": 10,
+    "popularity": 304470,
+    "trending": 12,
     "favourites": 13986,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2767,7 +2793,7 @@
         }
       ]
     },
-    "updatedAt": 1787385631,
+    "updatedAt": 1787392821,
     "idTmdb": 127532,
     "idImdb": "tt21209876",
     "idTvdb": 389597,
@@ -2826,8 +2852,8 @@
     ],
     "averageScore": 74,
     "meanScore": 74,
-    "popularity": 50742,
-    "trending": 1,
+    "popularity": 50781,
+    "trending": 2,
     "favourites": 1219,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3262,7 +3288,7 @@
         }
       ]
     },
-    "updatedAt": 1787385700,
+    "updatedAt": 1787392806,
     "idTmdb": 139060,
     "idImdb": "tt16156736",
     "idTvdb": 412656,
@@ -3318,8 +3344,8 @@
     ],
     "averageScore": 88,
     "meanScore": 88,
-    "popularity": 199698,
-    "trending": 19,
+    "popularity": 199897,
+    "trending": 34,
     "favourites": 10293,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4036,7 +4062,7 @@
         }
       ]
     },
-    "updatedAt": 1787385624,
+    "updatedAt": 1787392824,
     "idTmdb": 220542,
     "idImdb": "tt26743760",
     "idTvdb": 431162,
@@ -4094,8 +4120,8 @@
     ],
     "averageScore": 82,
     "meanScore": 82,
-    "popularity": 111311,
-    "trending": 5,
+    "popularity": 111389,
+    "trending": 6,
     "favourites": 3042,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4748,7 +4774,7 @@
         }
       ]
     },
-    "updatedAt": 1787385648,
+    "updatedAt": 1787392867,
     "idTmdb": 205050,
     "idImdb": "tt28776190",
     "idTvdb": 421855,
@@ -4805,8 +4831,8 @@
     ],
     "averageScore": 56,
     "meanScore": 56,
-    "popularity": 33939,
-    "trending": 2,
+    "popularity": 33951,
+    "trending": 0,
     "favourites": 540,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5304,7 +5330,7 @@
         }
       ]
     },
-    "updatedAt": 1787385638,
+    "updatedAt": 1787392936,
     "idTmdb": 249545,
     "idImdb": "tt32856718",
     "idTvdb": 447749,
@@ -5358,7 +5384,7 @@
     ],
     "averageScore": 68,
     "meanScore": 69,
-    "popularity": 5671,
+    "popularity": 5674,
     "trending": 0,
     "favourites": 70,
     "isAdult": false,
@@ -5535,7 +5561,7 @@
         }
       ]
     },
-    "updatedAt": 1787357345,
+    "updatedAt": 1787392122,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -5588,7 +5614,7 @@
     ],
     "averageScore": 69,
     "meanScore": 69,
-    "popularity": 40781,
+    "popularity": 40789,
     "trending": 0,
     "favourites": 541,
     "isAdult": false,
@@ -6043,7 +6069,7 @@
         }
       ]
     },
-    "updatedAt": 1787378531,
+    "updatedAt": 1787392090,
     "idTmdb": 250994,
     "idImdb": "tt33384314",
     "idTvdb": 448477,
@@ -6602,8 +6628,8 @@
     ],
     "averageScore": 75,
     "meanScore": 75,
-    "popularity": 15499,
-    "trending": 1,
+    "popularity": 15524,
+    "trending": 2,
     "favourites": 233,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6960,7 +6986,7 @@
         }
       ]
     },
-    "updatedAt": 1787385720,
+    "updatedAt": 1787392868,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7587,7 +7613,13 @@
               "romaji": "Ganbatte Ikimasshoi",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx182775-McHrpPOAkZAA.jpg"
+            }
           }
         }
       ]
@@ -7859,7 +7891,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787392142,
+    "idTmdb": 1262549,
+    "idImdb": "tt33311726",
+    "idTvdb": null,
+    "idTrakt": 1024328,
+    "traktSlug": "give-it-all-2024",
+    "idSimkl": 2411668,
+    "idShikimori": 58491
   },
   "176246": {
     "id": 176246,
@@ -7903,8 +7942,8 @@
     ],
     "averageScore": 76,
     "meanScore": 76,
-    "popularity": 26871,
-    "trending": 1,
+    "popularity": 26880,
+    "trending": 0,
     "favourites": 647,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8402,7 +8441,7 @@
         }
       ]
     },
-    "updatedAt": 1787385690,
+    "updatedAt": 1787392936,
     "idTmdb": 249854,
     "idImdb": "tt35436997",
     "idTvdb": 447925,
@@ -8452,8 +8491,8 @@
     "synonyms": [],
     "averageScore": 70,
     "meanScore": 71,
-    "popularity": 18073,
-    "trending": 0,
+    "popularity": 18090,
+    "trending": 3,
     "favourites": 288,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8895,7 +8934,7 @@
         }
       ]
     },
-    "updatedAt": 1787382097,
+    "updatedAt": 1787392882,
     "idTmdb": 220286,
     "idImdb": "tt26713948",
     "idTvdb": 431014,
@@ -8945,8 +8984,8 @@
     "synonyms": [],
     "averageScore": 62,
     "meanScore": 62,
-    "popularity": 37832,
-    "trending": 0,
+    "popularity": 37844,
+    "trending": 1,
     "favourites": 547,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9441,7 +9480,7 @@
         }
       ]
     },
-    "updatedAt": 1787378531,
+    "updatedAt": 1787392935,
     "idTmdb": 259786,
     "idImdb": "tt32832435",
     "idTvdb": 447609,
@@ -9492,7 +9531,7 @@
     ],
     "averageScore": 73,
     "meanScore": 75,
-    "popularity": 2619,
+    "popularity": 2621,
     "trending": 0,
     "favourites": 37,
     "isAdult": false,
@@ -9787,7 +9826,7 @@
         }
       ]
     },
-    "updatedAt": 1787360559,
+    "updatedAt": 1787392088,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9835,7 +9874,7 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": 57,
-    "popularity": 1601,
+    "popularity": 1618,
     "trending": 1,
     "favourites": 8,
     "isAdult": false,
@@ -9931,7 +9970,7 @@
         }
       ]
     },
-    "updatedAt": 1787378528,
+    "updatedAt": 1787392925,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9982,7 +10021,7 @@
     ],
     "averageScore": 62,
     "meanScore": 65,
-    "popularity": 1265,
+    "popularity": 1266,
     "trending": 0,
     "favourites": 41,
     "isAdult": true,
@@ -10035,7 +10074,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787357345,
+    "updatedAt": 1787392120,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -10090,8 +10129,8 @@
     ],
     "averageScore": 65,
     "meanScore": 65,
-    "popularity": 15403,
-    "trending": 1,
+    "popularity": 15415,
+    "trending": 0,
     "favourites": 184,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10450,7 +10489,7 @@
         }
       ]
     },
-    "updatedAt": 1787374882,
+    "updatedAt": 1787392132,
     "idTmdb": 1263421,
     "idImdb": "tt31869664",
     "idTvdb": null,
@@ -10502,8 +10541,8 @@
     ],
     "averageScore": 74,
     "meanScore": 74,
-    "popularity": 17552,
-    "trending": 1,
+    "popularity": 17574,
+    "trending": 0,
     "favourites": 267,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10923,7 +10962,7 @@
         }
       ]
     },
-    "updatedAt": 1787382066,
+    "updatedAt": 1787392131,
     "idTmdb": 218843,
     "idImdb": "tt20228550",
     "idTvdb": 420018,
@@ -10976,8 +11015,8 @@
     ],
     "averageScore": 70,
     "meanScore": 75,
-    "popularity": 5157,
-    "trending": 0,
+    "popularity": 5158,
+    "trending": 1,
     "favourites": 55,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11174,7 +11213,7 @@
         }
       ]
     },
-    "updatedAt": 1787357344,
+    "updatedAt": 1787392873,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -11225,7 +11264,7 @@
     ],
     "averageScore": 69,
     "meanScore": 72,
-    "popularity": 1918,
+    "popularity": 1923,
     "trending": 0,
     "favourites": 94,
     "isAdult": true,
@@ -11507,7 +11546,7 @@
         }
       ]
     },
-    "updatedAt": 1787364123,
+    "updatedAt": 1787392086,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -11561,7 +11600,7 @@
     ],
     "averageScore": 79,
     "meanScore": 79,
-    "popularity": 9670,
+    "popularity": 9685,
     "trending": 0,
     "favourites": 167,
     "isAdult": false,
@@ -11879,7 +11918,7 @@
         }
       ]
     },
-    "updatedAt": 1787385727,
+    "updatedAt": 1787392129,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -11932,7 +11971,7 @@
     ],
     "averageScore": 76,
     "meanScore": 77,
-    "popularity": 12960,
+    "popularity": 12965,
     "trending": 0,
     "favourites": 252,
     "isAdult": false,
@@ -12356,7 +12395,7 @@
         }
       ]
     },
-    "updatedAt": 1787385727,
+    "updatedAt": 1787392117,
     "idTmdb": 229443,
     "idImdb": "tt30643998",
     "idTvdb": 436603,
@@ -12545,7 +12584,7 @@
     ],
     "averageScore": 67,
     "meanScore": 73,
-    "popularity": 4081,
+    "popularity": 4085,
     "trending": 0,
     "favourites": 40,
     "isAdult": false,
@@ -12681,7 +12720,7 @@
         }
       ]
     },
-    "updatedAt": 1787364123,
+    "updatedAt": 1787392107,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -12732,7 +12771,7 @@
     ],
     "averageScore": 67,
     "meanScore": 67,
-    "popularity": 17224,
+    "popularity": 17229,
     "trending": 0,
     "favourites": 256,
     "isAdult": false,
@@ -13198,7 +13237,7 @@
         }
       ]
     },
-    "updatedAt": 1787385727,
+    "updatedAt": 1787392086,
     "idTmdb": 256109,
     "idImdb": "tt32514593",
     "idTvdb": 448537,
@@ -13206,5 +13245,1815 @@
     "traktSlug": "teogonia",
     "idSimkl": 2424538,
     "idShikimori": 58614
+  },
+  "176226": {
+    "id": 176226,
+    "idMal": 58526,
+    "title": {
+      "romaji": "pipapo☆pipipu",
+      "english": "pipapo☆pipipu",
+      "native": "ピパポ☆ピピプ"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Animated music video directed by Norainu for the song <i>pipapo☆pipipu</i> by BABACORN (Houshou Marine and Shirakami Fubuki).<br><br>\n<i>Note: The music video initially premiered on the Hololive YouTube channel on March 20, 2024 but was re-uploaded again on March 22, 2024 with corrected audio. </i>",
+    "episodes": 1,
+    "duration": 3,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2024,
+      "month": 3,
+      "day": 20
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 3,
+      "day": 20
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176226-mM8pS9EDjzM4.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176226-mM8pS9EDjzM4.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176226-mM8pS9EDjzM4.png",
+      "color": "#e450ae"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [],
+    "averageScore": 58,
+    "meanScore": 65,
+    "popularity": 342,
+    "trending": 0,
+    "favourites": 4,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "3evlcnHqiJ0",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/3evlcnHqiJ0/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=3evlcnHqiJ0",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 118123,
+            "title": {
+              "romaji": "Holo no Graffiti",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "SPRING",
+            "seasonYear": 2019,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118123-xqn5fYsjKXJU.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1047,
+        "name": "VTuber",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 169486,
+            "name": {
+              "full": "Fubuki Shirakami",
+              "native": "白上フブキ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 204454,
+              "name": {
+                "full": "Fubuki Shirakami",
+                "native": "白上フブキ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 169489,
+            "name": {
+              "full": "Marine Houshou",
+              "native": "宝鐘マリン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 197904,
+              "name": {
+                "full": "Marine Houshou",
+                "native": "宝鐘マリン"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787392144,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 58526
+  },
+  "176300": {
+    "id": 176300,
+    "idMal": 58535,
+    "title": {
+      "romaji": "Ojamajo Doremi 1620's",
+      "english": null,
+      "native": "おジャ魔女どれみ1620's"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "Short animations commemorating the 25th anniversary of the <i>Ojamajo Doremi</i> anime, which made its debut at AnimeJapan 2024.",
+    "episodes": 2,
+    "duration": 2,
+    "season": "SPRING",
+    "seasonYear": 2024,
+    "startDate": {
+      "year": 2024,
+      "month": 3,
+      "day": 23
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 7,
+      "day": 31
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176300-Gj0QdWs3AaFW.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176300-Gj0QdWs3AaFW.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176300-Gj0QdWs3AaFW.png",
+      "color": "#35bbf1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176300-9wM7FAMSN9H6.jpg",
+    "genres": [
+      "Mahou Shoujo",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "おジャ魔女カーニバル!!",
+      "Ojamajo Carnival!!",
+      "おジャ魔女どれみ新作映像",
+      "Ojamajo Doremi Shinsaku Eizou",
+      "わたしのつばさ",
+      "Watashi no Tsubasa"
+    ],
+    "averageScore": 75,
+    "meanScore": 79,
+    "popularity": 1477,
+    "trending": 0,
+    "favourites": 36,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "LIGHT_NOVEL",
+    "trailer": {
+      "id": "i3mzMFy3dBg",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/i3mzMFy3dBg/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=i3mzMFy3dBg",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://twitter.com/Doremi_staff",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.doremi-anniv.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=4AMf-7R7B0k",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 350,
+            "title": {
+              "romaji": "Ojamajo Doremi",
+              "english": "Magical DoReMi"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 1999,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx350-iRi1NOntsTnG.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 59283,
+            "title": {
+              "romaji": "Ojamajo Doremi 16",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx59283-cn2zUFrNirZ9.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 132003,
+            "title": {
+              "romaji": "Ojamajo Doremi 20's",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx132003-RaLGwsrqJh8q.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 209,
+        "name": "Dancing",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 99,
+        "name": "Henshin",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 18,
+            "name": "Toei Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 4683,
+            "name": {
+              "full": "Doremi Harukaze",
+              "native": "春風どれみ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 5753,
+            "name": {
+              "full": "Hazuki Fujiwara",
+              "native": "藤原はづき"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 5754,
+            "name": {
+              "full": "Aiko Senoo",
+              "native": "妹尾あいこ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 5767,
+            "name": {
+              "full": "Onpu Segawa",
+              "native": "瀬川おんぷ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 5768,
+            "name": {
+              "full": "Momoko Asuka",
+              "native": "飛鳥ももこ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 5805,
+            "name": {
+              "full": "Hana Makihatayama",
+              "native": "巻機山花"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787392129,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 58535
+  },
+  "176395": {
+    "id": 176395,
+    "idMal": 58890,
+    "title": {
+      "romaji": "Yarakashi",
+      "english": null,
+      "native": "やらかし"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 2,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2024,
+    "startDate": {
+      "year": 2024,
+      "month": 6,
+      "day": 28
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 10,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176395-xqKh8N2LTiph.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176395-xqKh8N2LTiph.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176395-xqKh8N2LTiph.png",
+      "color": "#a1c9e4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [],
+    "averageScore": 55,
+    "meanScore": 60,
+    "popularity": 816,
+    "trending": 0,
+    "favourites": 36,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6284,
+            "name": "Nur"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787392115,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 58890
+  },
+  "176431": {
+    "id": 176431,
+    "idMal": null,
+    "title": {
+      "romaji": "BIBBIDIBA",
+      "english": "Bibbidiba",
+      "native": "ビビデバ"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video for the song <i>BIBBIDIBA</i> by Hoshimachi Suisei. Mixed in with the animation is a hybrid mish-mash of live-action segments filmed through a 360 degree camera.",
+    "episodes": 1,
+    "duration": 3,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2024,
+      "month": 3,
+      "day": 22
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 3,
+      "day": 22
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176431-rLV01OZYsRid.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176431-rLV01OZYsRid.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176431-rLV01OZYsRid.jpg",
+      "color": null
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176431-I1h0ZaN0Cyir.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "synonyms": [],
+    "averageScore": 76,
+    "meanScore": 81,
+    "popularity": 954,
+    "trending": 0,
+    "favourites": 31,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "8ZP5eqm4JqM",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/8ZP5eqm4JqM/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=8ZP5eqm4JqM",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 118123,
+            "title": {
+              "romaji": "Holo no Graffiti",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "SPRING",
+            "seasonYear": 2019,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118123-xqn5fYsjKXJU.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 184644,
+            "title": {
+              "romaji": "AWAKE (Music)",
+              "english": "AWAKE"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b184644-tzPTkqmRn1aq.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 188122,
+            "title": {
+              "romaji": "Tirori Mix (2025)",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188122-5LSmSNRTYvEL.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1047,
+        "name": "VTuber",
+        "rank": 84,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 683,
+        "name": "Rotoscoping",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 209,
+        "name": "Dancing",
+        "rank": 50,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 169504,
+            "name": {
+              "full": "Suisei Hoshimachi",
+              "native": "星街すいせい"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787392110,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
+  },
+  "176495": {
+    "id": 176495,
+    "idMal": 58248,
+    "title": {
+      "romaji": "Pokémon Masters EX 4.5 Shuunen Kinen",
+      "english": "Pokémon Masters EX: 4.5 Year Celebration!",
+      "native": "ポケモンマスターズ EX 4.5周年記念"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Animated Pokémon Masters EX  4.5th Anniversary commercial directed by Toshitaka Shinoda.",
+    "episodes": 1,
+    "duration": 2,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2024,
+      "month": 2,
+      "day": 27
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 2,
+      "day": 27
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176495-pxeY6vKQXTK5.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176495-pxeY6vKQXTK5.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176495-pxeY6vKQXTK5.png",
+      "color": "#4393f1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176495-YEBuj29g8lLP.jpg",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Pokémon Masters EX 4.5th Anniversary",
+      " ポケモンマスターズ EX 4.5周年を記念したバディーズが登場！"
+    ],
+    "averageScore": 52,
+    "meanScore": 57,
+    "popularity": 375,
+    "trending": 0,
+    "favourites": 2,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": {
+      "id": "NJBNwLGNkgY",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/NJBNwLGNkgY/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=t0BycSRu5MM",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=NJBNwLGNkgY",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 158871,
+            "title": {
+              "romaji": "Pocket Monsters (2023)",
+              "english": "Pokémon Horizons: The Series"
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "SPRING",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158871-GBM9AMDfDRSu.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 505,
+        "name": "Advertisement",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6410,
+            "name": "Liberty Animation Studio"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7319,
+            "name": "Ijigen TOKYO"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 7073,
+            "name": {
+              "full": "Silver",
+              "native": "シルバー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96154,
+              "name": {
+                "full": "Yuuki Ono",
+                "native": "小野友樹"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 7042,
+            "name": {
+              "full": "Wataru",
+              "native": "ワタル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95006,
+              "name": {
+                "full": "Toshiyuki Morikawa",
+                "native": "森川智之"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 331469,
+            "name": {
+              "full": "Omodaka",
+              "native": "オモダカ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 151342,
+              "name": {
+                "full": "Hiroki Nanami",
+                "native": "七海ひろき"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787392105,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 58248
+  },
+  "176489": {
+    "id": 176489,
+    "idMal": 58563,
+    "title": {
+      "romaji": "Natsu ga Owaru made: Natsu no Owari The Animation",
+      "english": null,
+      "native": "夏が終わるまで 夏の終わり The Animation"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 2,
+    "duration": 20,
+    "season": "SPRING",
+    "seasonYear": 2024,
+    "startDate": {
+      "year": 2024,
+      "month": 6,
+      "day": 28
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 7,
+      "day": 26
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176489-2wIdUbCoEzFC.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176489-2wIdUbCoEzFC.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176489-2wIdUbCoEzFC.png",
+      "color": "#e4785d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176489-H1BmaPRXDmK4.jpg",
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [],
+    "averageScore": 59,
+    "meanScore": 62,
+    "popularity": 1273,
+    "trending": 0,
+    "favourites": 55,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 117761,
+            "title": {
+              "romaji": "Natsu ga Owaru made The Animation",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2020,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx117761-YAouR3GBX33o.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 117759,
+            "title": {
+              "romaji": "Natsu ga Owaru made",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx117759-7qdjTxeH6BRh.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 138,
+        "name": "Age Gap",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 185,
+        "name": "Anal Sex",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 124,
+        "name": "Netorare",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 135,
+        "name": "Cunnilingus",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 845,
+        "name": "Rimjob",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 133,
+        "name": "Sex Toys",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6153,
+            "name": "Show-Ten"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 183338,
+            "name": {
+              "full": "Yui Tachibana",
+              "native": "橘由比"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787392105,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 58563
+  },
+  "176660": {
+    "id": 176660,
+    "idMal": 58488,
+    "title": {
+      "romaji": "Sengoku Youko: Senma Konton-hen",
+      "english": "Sengoku Youko: The Thousandfold Chaos Arc",
+      "native": "戦国妖狐 千魔混沌編"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "The second and third cours of <i>Sengoku Youko</i>, adapting the \"Thousandfold Chaos\" arc.\n<br><br>\nThe chaotic aftermath of a confrontation between Jinka Yamato and Yazen results in the power dynamics between the magically gifted katawara and humans being turned upside down. As the news of the downfall of dangaishu—the katawara-hunting monks led by Yazen—spreads across the country, rogue groups of katawara start to form, worsening the already-fragile relationship between them and humanity.\n<br><br>\nAn alcoholic Shinsuke Hyoudou now finds himself in the company of Senya, a former enemy of his who controls one thousand katawara within his body. Suffering from amnesia and unaware of his past life, Senya soon makes friends with a local village girl, Tsukiko. After a sudden surprise attack from a local god gone mad, this unlikely trio begin a new journey! Meanwhile, Tama Youko continues her search for the nine-tailed fox who now has the power to destroy the world: Jinka.<br><br>\n\n(Source: MAL Rewrite, edited)",
+    "episodes": 22,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2024,
+    "startDate": {
+      "year": 2024,
+      "month": 7,
+      "day": 18
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 12,
+      "day": 26
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176660-4sDfmx2fOZRJ.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176660-4sDfmx2fOZRJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176660-4sDfmx2fOZRJ.jpg",
+      "color": "#5086f1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176660-HWgnUDrsiMac.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "戦国妖狐 2クール",
+      "Sengoku Youko Part 2"
+    ],
+    "averageScore": 74,
+    "meanScore": 75,
+    "popularity": 11860,
+    "trending": 0,
+    "favourites": 226,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "3FrczvAlrpk",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/3FrczvAlrpk/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://sengoku-youko.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/sengoku_youko?s=21&t=eee2_Gyj6BoYytPnyhDVag",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.crunchyroll.com/series/G3KHEVD57/sengoku-youko",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 35 - The Poem of Time's Colors in Bloom",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/c576950e66f6f623ec1bc575689ad7d61735137272_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GZ7UDQJEN/the-poem-of-times-colors-in-bloom",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 34 - Tama & Jinka",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/2e367ca048ca685c53dec04e5b8bd3851734535453_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G8WU73E1K/tama-jinka",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 33 - The One Who Is with Many",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/a345d7128f5c99fc63a9ba1c3806f2c11733930520_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G2XUNXJGP/the-one-who-is-with-many",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 32 - Dawn",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/9c391d2d42b267c0d08028ef78ba93cd1733325303_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GPWU8NEVM/dawn",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 31 - Above the Clouds",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/d044459bddb842abc090c013486d4aad1732721291_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G31UVKQ4V/above-the-clouds",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 30 - Feast of the Uncanny",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/66bbbf355091df7e12eb10c37d7b630b1732118111_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GVWU8NJ70/feast-of-the-uncanny",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 29 - Dousuke & Kumozou",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/3703cd63b317259a5425c41f379e61701731509441_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GMKUE9WP3/dousuke-kumozou",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 28 - Banshou-oh Descends",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/a554a6c00a63a2af0a3b647aeb81b4981730906897_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GK9UGVQK2/banshou-oh-descends",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 27 - Awakening",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/fc1f4721226a9b4d0f8bd1bcf1817b1d1730300482_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GN7UNXG1X/awakening",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 26 - A Renewed Encounter",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/7bb7dc07a56def0c86bc54af724566911729689243_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GJWUQN89W/a-renewed-encounter",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 25 - To the Final Battleground",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/8bd2a83c5e6c889e23cca0a40288c5911729082643_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G14UVQ291/to-the-final-battleground",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 24 - Regarding the Thousandfold Chaotic Menagerie",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/0614a11ee5537677871bdda325e2af221728454610_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G4VUQ523D/regarding-the-thousandfold-chaotic-menagerie",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "The Thousandfold Chaos Arc Part 1 in 24 Minutes",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/c135bac07540c7aa5684204c709c90131727277869_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GX9UQE0D3/the-thousandfold-chaos-arc-part-1-in-24-minutes",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 23 - Senya's Eight Years",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/e1489dabfebcaf7b88ad1ce1b996b03c1726672572_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G9DUE03XE/senyas-eight-years",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 22 - Senya & Jinun",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/2e46b6f5525215f08a6a349fbf10f5451726069173_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G7PU4795D/senya-jinun",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 21 - Furuon",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/fefb1e18e0510250b553b646345b37b01725462646_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GEVUZ7EP3/furuon",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 20 - End of a Journey",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/b1b09bda1505fe3d063fc34e911ed7721724856983_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G0DUN283G/end-of-a-journey",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 19 - Above the Clouds",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/c1ccc8aeedd917e9557935980c0732b41724253879_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GG1U2JG7J/above-the-clouds",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 18 - When the Time Comes ",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/829679b8f3bdc1e1a55b9766572c1a8d1723642504_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GWDU82DNJ/when-the-time-comes-",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 17 - Senya & Tsukiko",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/0cd0274f7677c1c13dcfeb6fc15ccba21723035337_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G50UZ05JX/senya-tsukiko",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 16 - Mad God of the Wild City",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/6112373f706cbf7c81dee3de2ec23d511722439283_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GQJUG524Q/mad-god-of-the-wild-city",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 15 - Black Dragon",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/228c544c21446e98c69b0fdfb859959f1721834300_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GD9UVMX4X/black-dragon",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 14 - Thousand Demon Night March",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/9f62d5186b243afc368049b9ab9a39e91721225559_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GZ7UVG4NZ/thousand-demon-night-march",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "The Reformer Siblings Arc in 24 minutes",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/cec2be2acfd42c03007151672e5b46ae1720017085_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G31UXNQNX/the-reformer-siblings-arc-in-24-minutes",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 13 - Godbeast",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/c1ea5c8e063b47e623039f724fcc578c1712149485_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GZ7UVE594/godbeast",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 12 - Jinka & Douren, Takekichi & Barry",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/40797201cda6e9f49e6d274bafcd53ad1711549172_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G8WUN1Q5Z/jinka-douren-takekichi-barry",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 11 - The Strongest of the Dangaisyuu",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/fcbe3d3b352e10f353152e56b563ccfd1710941800_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G2XU0GP9K/the-strongest-of-the-dangaisyuu",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 10 - The Mountain Goddess (Part 2)",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/76d18dbcf2879609e35b7aead69416621710313144_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GPWUKV2M4/the-mountain-goddess-part-2",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 9 - The Mountain Goddess (Part 1)",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/f46c27a0eafb97e4573afc0a4bc477201709740632_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G31UX4J80/the-mountain-goddess-part-1",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 8 - Mystic Swordsman",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/7a1658cc1232e7cfdc12a5812a01b5741709136779_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GVWU07G1J/mystic-swordsman",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 7 - Kagan & Shakuyaku",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/ffc3f30f31dc0eeb426e2b72b072bc901708529449_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GMKUXPD04/kagan-shakuyaku",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - Fukou",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/6e26c430d335dce8ddc96b69d6b6f2b81707918989_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GK9U3KPW8/fukou",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - Higan",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/9becac5abf75a5a2f975897bf47bce6c1707312175_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GN7UD130Z/higan",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - Jinka and Humans",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/61dc99e015a8ebd6bfc00872061c86fb1706708788_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GJWU20DK4/jinka-and-humans",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - Year Seven of the Eiroku Period",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/c7cc4192798bd332944ad97d413be89d1706113635_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G14U41Z5K/year-seven-of-the-eiroku-period",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - Shakugan",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/7a20373bedac4389b36714826a914d681705502362_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G4VUQV4D4/shakugan",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1 - We Are Those Who Lament This Barbaric Age",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/e5d57f912c734f48783a6ebff3b443211704895611_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GX9UQW822/we-are-those-who-lament-this-barbaric-age",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 38070,
+            "title": {
+              "romaji": "Sengoku Youko",
+              "english": "Sengoku Youko"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx38070-B4idVk9AU7tx.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 168194,
+            "title": {
+              "romaji": "Sengoku Youko",
+              "english": "Sengoku Youko"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx168194-I7O79icUs0ou.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 233,
+        "name": "Youkai",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 253,
+        "name": "Gods",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 153,
+        "name": "Time Skip",
+        "rank": 70,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 64,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 240,
+        "name": "Amnesia",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 224,
+        "name": "Dragons",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 25,
+        "name": "Historical",
+        "rank": 30,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 291,
+        "name": "Samurai",
+        "rank": 30,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 326,
+        "name": "Cultivation",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 254,
+        "name": "Kemonomimi",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1277,
+        "name": "Found Family",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 314,
+            "name": "WHITE FOX"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6377,
+            "name": "ABC Animation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7203,
+            "name": "Mixer"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6421,
+            "name": "Crunchyroll"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7166,
+            "name": "NetEase Games"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6796,
+            "name": "BS Asahi"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7138,
+            "name": "Bandai Namco Music Live"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6622,
+            "name": "Nagoya TV Housou"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6612,
+            "name": "FuRyu"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 22,
+            "name": "Nippon Animation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7183,
+            "name": "ABC Frontier"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 146191,
+            "name": {
+              "full": "Senya",
+              "native": "千夜"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 151342,
+              "name": {
+                "full": "Hiroki Nanami",
+                "native": "七海ひろき"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 146192,
+            "name": {
+              "full": "Tsukiko",
+              "native": "月湖"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 108639,
+              "name": {
+                "full": "Maaya Uchida",
+                "native": "内田真礼"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 146618,
+            "name": {
+              "full": "Nau",
+              "native": "なう"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95599,
+              "name": {
+                "full": "Aki Toyosaki",
+                "native": "豊崎愛生"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 27282,
+            "name": {
+              "full": "Shinsuke Hyoudou",
+              "native": "真介"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96762,
+              "name": {
+                "full": "Ryouhei Kimura",
+                "native": "木村良平"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 27283,
+            "name": {
+              "full": "Tama Youko",
+              "native": "たま"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119154,
+              "name": {
+                "full": "Yuuki Takada",
+                "native": "高田憂希"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 146283,
+            "name": {
+              "full": "Jinun",
+              "native": "神雲"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95299,
+              "name": {
+                "full": "Kenji Nomura",
+                "native": "乃村健次"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 146617,
+            "name": {
+              "full": "Mudo",
+              "native": "ムド"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106817,
+              "name": {
+                "full": "Yoshitsugu Matsuoka",
+                "native": "松岡禎丞"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 146814,
+            "name": {
+              "full": "Yoshiteru Ashikaga",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95098,
+              "name": {
+                "full": "Wataru Hatano",
+                "native": "羽多野渉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 146952,
+            "name": {
+              "full": "Hanatora",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95093,
+              "name": {
+                "full": "Shizuka Itou",
+                "native": "伊藤静"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787392089,
+    "idTmdb": 234995,
+    "idImdb": "tt30325850",
+    "idTvdb": 438151,
+    "idTrakt": 209612,
+    "traktSlug": "sengoku-youko",
+    "idSimkl": 2410750,
+    "idShikimori": 58488
+  },
+  "176865": {
+    "id": 176865,
+    "idMal": 59245,
+    "title": {
+      "romaji": "Cang Yuan Tu: Dongning Fu Fanwai Pian",
+      "english": null,
+      "native": "沧元图 东宁府番外篇"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Sequel of Cang Yuan Tu",
+    "episodes": 4,
+    "duration": 20,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2024,
+      "month": 7,
+      "day": 13
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 8,
+      "day": 3
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176865-vjwxAddTRzTC.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176865-vjwxAddTRzTC.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176865-vjwxAddTRzTC.jpg",
+      "color": "#0086ff"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "The Demon Hunter: Dongning Mansion Special"
+    ],
+    "averageScore": 69,
+    "meanScore": 77,
+    "popularity": 737,
+    "trending": 0,
+    "favourites": 28,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://v.youku.com/v_show/id_XNTk3MzA5NzgzMg==.html?s=adaec02f09f9469ab8d8",
+        "site": "Youku",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://weibo.com/u/7767139041",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://bangumi.tv/subject/469416",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 155244,
+            "title": {
+              "romaji": "Cang Yuan Tu",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx155244-KYJeyWcDD073.png"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 126834,
+            "title": {
+              "romaji": "Cang Yuan Tu",
+              "english": "Azure Legacy"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b126834-fp5tIXzFmnYc.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 185719,
+            "title": {
+              "romaji": "Cang Yuan Tu 2",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b185719-WYjFlJ2BKtEy.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6490,
+            "name": "China South Angel"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6530,
+            "name": "Youku"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7116,
+            "name": "Shenman Entertainment"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787392074,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2518294,
+    "idShikimori": 59245
   }
 }
