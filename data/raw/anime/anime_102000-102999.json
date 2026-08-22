@@ -14558,7 +14558,7 @@
     "averageScore": 73,
     "meanScore": 74,
     "popularity": 8009,
-    "trending": 1,
+    "trending": 0,
     "favourites": 47,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -15010,7 +15010,7 @@
         }
       ]
     },
-    "updatedAt": 1787382042,
+    "updatedAt": 1787385727,
     "idTmdb": 448969,
     "idImdb": "tt6449216",
     "idTvdb": null,
@@ -15061,7 +15061,7 @@
     "averageScore": 73,
     "meanScore": 74,
     "popularity": 7943,
-    "trending": 1,
+    "trending": 0,
     "favourites": 44,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -15530,7 +15530,7 @@
         }
       ]
     },
-    "updatedAt": 1787382042,
+    "updatedAt": 1787385727,
     "idTmdb": 448967,
     "idImdb": "tt6779296",
     "idTvdb": null,
@@ -16653,5 +16653,167 @@
     "traktSlug": null,
     "idSimkl": 769063,
     "idShikimori": 36491
+  },
+  "102827": {
+    "id": 102827,
+    "idMal": 36922,
+    "title": {
+      "romaji": "Egao no Orchestra!",
+      "english": "Egao no Orchestra!",
+      "native": "えがおのオーケストラっ！"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video of the project band Hello, Happy World!",
+    "episodes": 1,
+    "duration": 2,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2017,
+      "month": 3,
+      "day": 2
+    },
+    "endDate": {
+      "year": 2017,
+      "month": 3,
+      "day": 2
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102827-hcq60ACgl6jq.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102827-hcq60ACgl6jq.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/102827-hcq60ACgl6jq.jpg",
+      "color": "#f1bb50"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [
+      "Hello Happy World!",
+      "BanG Dream!: Egao no Orchestra!",
+      "Bandori",
+      "Orchestra of Smiles!"
+    ],
+    "averageScore": 59,
+    "meanScore": 60,
+    "popularity": 1446,
+    "trending": 1,
+    "favourites": 6,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "DmCPqYHyLos",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/DmCPqYHyLos/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 101633,
+            "title": {
+              "romaji": "BanG Dream! 2nd Season",
+              "english": "BanG Dream! 2nd Season"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2019,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx101633-kRp4u7VmRb5h.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 110,
+        "name": "Band",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 127272,
+            "name": {
+              "full": "Kokoro Tsurumaki",
+              "native": "弦巻こころ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 127436,
+            "name": {
+              "full": "Kaoru Seta",
+              "native": "瀬田薫"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 128157,
+            "name": {
+              "full": "Hagumi Kitazawa",
+              "native": "北沢はぐみ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 128158,
+            "name": {
+              "full": "Kanon Matsubara",
+              "native": "松原花音"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 128159,
+            "name": {
+              "full": "Misaki Okusawa",
+              "native": "奥沢美咲"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787385659,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 36922
   }
 }

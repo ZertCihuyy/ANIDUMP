@@ -2438,7 +2438,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787747400,
-      "timeUntilAiring": 360624,
+      "timeUntilAiring": 356923,
       "episode": 8
     },
     "relations": {
@@ -5562,5 +5562,180 @@
     "traktSlug": "mr-osomatsu-the-soulful-takoyaki-party-and-the-legendary-sleepover-2023",
     "idSimkl": 1865528,
     "idShikimori": 49120
+  },
+  "135889": {
+    "id": 135889,
+    "idMal": 48772,
+    "title": {
+      "romaji": "niconiconnect!",
+      "english": null,
+      "native": "にこにこねくと！"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Animated music video included with the limited edition Blu-ray of Hello, Happy World! 1st album, <i>niconicoconnect!</i>",
+    "episodes": 1,
+    "duration": 2,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2021,
+      "month": 2,
+      "day": 17
+    },
+    "endDate": {
+      "year": 2021,
+      "month": 2,
+      "day": 17
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135889-TEpahhPCsIeY.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135889-TEpahhPCsIeY.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx135889-TEpahhPCsIeY.png",
+      "color": "#ff8643"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [
+      "Nico Niconnect!",
+      "Smile Connection!"
+    ],
+    "averageScore": 58,
+    "meanScore": 63,
+    "popularity": 498,
+    "trending": 1,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "o-6ayj49R3M",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/o-6ayj49R3M/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 101633,
+            "title": {
+              "romaji": "BanG Dream! 2nd Season",
+              "english": "BanG Dream! 2nd Season"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2019,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx101633-kRp4u7VmRb5h.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 110,
+        "name": "Band",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 92,
+        "name": "Cute Girls Doing Cute Things",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 537,
+            "name": "SANZIGEN"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6608,
+            "name": "Bushiroad Music"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 127272,
+            "name": {
+              "full": "Kokoro Tsurumaki",
+              "native": "弦巻こころ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 127436,
+            "name": {
+              "full": "Kaoru Seta",
+              "native": "瀬田薫"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 128157,
+            "name": {
+              "full": "Hagumi Kitazawa",
+              "native": "北沢はぐみ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 128158,
+            "name": {
+              "full": "Kanon Matsubara",
+              "native": "松原花音"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 128159,
+            "name": {
+              "full": "Misaki Okusawa",
+              "native": "奥沢美咲"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787385665,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 48772
   }
 }

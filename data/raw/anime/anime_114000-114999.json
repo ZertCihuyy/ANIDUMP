@@ -1337,7 +1337,7 @@
     "averageScore": 61,
     "meanScore": 61,
     "popularity": 51170,
-    "trending": 1,
+    "trending": 0,
     "favourites": 615,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1800,7 +1800,7 @@
         }
       ]
     },
-    "updatedAt": 1787378472,
+    "updatedAt": 1787385727,
     "idTmdb": 103944,
     "idImdb": "tt12390384",
     "idTvdb": 402094,
@@ -11443,7 +11443,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 126074,
-    "trending": 1,
+    "trending": 0,
     "favourites": 2365,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11965,7 +11965,7 @@
         }
       ]
     },
-    "updatedAt": 1787382074,
+    "updatedAt": 1787385727,
     "idTmdb": 100022,
     "idImdb": "tt13186542",
     "idTvdb": 390382,
@@ -12018,7 +12018,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 24414,
-    "trending": 1,
+    "trending": 0,
     "favourites": 243,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -12062,7 +12062,13 @@
               "romaji": "Dorohedoro",
               "english": "Dorohedoro"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2020,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx105228-I4xr84QS9Pvk.jpg"
+            }
           }
         },
         {
@@ -12073,7 +12079,13 @@
               "romaji": "Dorohedoro",
               "english": "Dorohedoro"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx31133-Jx6map3Oidz1.png"
+            }
           }
         }
       ]
@@ -12357,7 +12369,7 @@
         }
       ]
     },
-    "updatedAt": 1787357229,
+    "updatedAt": 1787385727,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

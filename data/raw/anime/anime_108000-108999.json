@@ -10095,7 +10095,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787841000,
-      "timeUntilAiring": 454263,
+      "timeUntilAiring": 450567,
       "episode": 8
     },
     "relations": {
@@ -23709,7 +23709,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 29882,
-    "trending": 2,
+    "trending": 0,
     "favourites": 438,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -24180,7 +24180,7 @@
         }
       ]
     },
-    "updatedAt": 1787382066,
+    "updatedAt": 1787385727,
     "idTmdb": 71000,
     "idImdb": "tt8372010",
     "idTvdb": 321532,
@@ -26968,5 +26968,407 @@
     "traktSlug": "asteroid-in-love",
     "idSimkl": 1050901,
     "idShikimori": 39388
+  },
+  "108981": {
+    "id": 108981,
+    "idMal": 40080,
+    "title": {
+      "romaji": "Quanzhi Gaoshou: Dianfeng Rongyao",
+      "english": "The King's Avatar: For the Glory",
+      "native": "全职高手之巅峰荣耀"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "Prequel movie of Quan Zhi Gao Shou (The King's Avatar), dealing with Ye Xiu's original entry into the pro gaming world of Glory, and the first Pro League series tournament.",
+    "episodes": 1,
+    "duration": 98,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2019,
+      "month": 8,
+      "day": 16
+    },
+    "endDate": {
+      "year": 2019,
+      "month": 8,
+      "day": 16
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108981-NLg2V6l0Eb2H.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx108981-NLg2V6l0Eb2H.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx108981-NLg2V6l0Eb2H.jpg",
+      "color": "#d61a35"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "synonyms": [
+      "Quan Zhi Gao Shou: FOR THE GLORY",
+      "全职高手 FOR THE GLORY"
+    ],
+    "averageScore": 78,
+    "meanScore": 78,
+    "popularity": 16412,
+    "trending": 1,
+    "favourites": 348,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": {
+      "id": "D9F3xOkgoVk",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/D9F3xOkgoVk/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.bilibili.com/bangumi/media/md28221062",
+        "site": "Bilibili",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://v.qq.com/x/cover/hzgtowvz90ucvkj.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://weibo.com/u/5505501446",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://tubitv.com/movies/581872/the-king-s-avatar-for-the-glory-dubbed",
+        "site": "Tubi TV",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://twitter.com/forthegloryjp",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "http://chuka-eiga.com/for_the_glory_jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 98861,
+            "title": {
+              "romaji": "Quanzhi Gaoshou",
+              "english": "The King's Avatar"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98861-MMwQxW1S8WkF.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 308,
+        "name": "Video Games",
+        "rank": 86,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 792,
+        "name": "E-Sports",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 75,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 112,
+        "name": "Virtual World",
+        "rank": 53,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6321,
+            "name": "Colored Pencil Animation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6389,
+            "name": "bilibili"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6469,
+            "name": "China Literature"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6487,
+            "name": "Wanda Film"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6488,
+            "name": "Sunac Pictures"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6867,
+            "name": "Colored Pencil Animation Japan"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 124093,
+            "name": {
+              "full": "Xiu Ye",
+              "native": "叶修"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95513,
+              "name": {
+                "full": "Yuuichi Nakamura",
+                "native": "中村悠一"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 124364,
+            "name": {
+              "full": "Mucheng Su",
+              "native": "苏沐橙"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95040,
+              "name": {
+                "full": "Mamiko Noto",
+                "native": "能登麻美子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 220838,
+            "name": {
+              "full": "Muqiu Su",
+              "native": "苏沐秋"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119617,
+              "name": {
+                "full": "Yuuma Uchida",
+                "native": "内田雄馬"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 130032,
+            "name": {
+              "full": "Wenqing Han ",
+              "native": "韩文清"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 133604,
+              "name": {
+                "full": "Shinichirou Kamio",
+                "native": "神尾晋一郎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 220841,
+            "name": {
+              "full": "Xuefeng Wu",
+              "native": "吴雪峰"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95025,
+              "name": {
+                "full": "Hiroki Yasumoto",
+                "native": "安元洋貴"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 220845,
+            "name": {
+              "full": "Mingkai Xue",
+              "native": "薛明凯"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 276780,
+              "name": {
+                "full": "Haru Kaida",
+                "native": "甲斐田晴"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 220848,
+            "name": {
+              "full": "Ming Xia",
+              "native": "夏茗"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95092,
+              "name": {
+                "full": "Sayaka Oohara",
+                "native": "大原さやか"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 220850,
+            "name": {
+              "full": "Liang Lü",
+              "native": "吕良"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95002,
+              "name": {
+                "full": "Tomokazu Sugita",
+                "native": "杉田智和"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 220854,
+            "name": {
+              "full": "Xuan Tao",
+              "native": "陶轩"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95022,
+              "name": {
+                "full": "Shinichirou Miki",
+                "native": "三木眞一郎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 220857,
+            "name": {
+              "full": "Xiong Yin",
+              "native": "殷雄"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95183,
+              "name": {
+                "full": "Daisuke Hirakawa",
+                "native": "平川大輔"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787385692,
+    "idTmdb": 613200,
+    "idImdb": "tt10736726",
+    "idTvdb": null,
+    "idTrakt": 456794,
+    "traktSlug": "the-king-s-avatar-for-the-glory-2019",
+    "idSimkl": 1202097,
+    "idShikimori": 40080
   }
 }

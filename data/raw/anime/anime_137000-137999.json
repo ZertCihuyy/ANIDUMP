@@ -878,7 +878,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787968800,
-      "timeUntilAiring": 582043,
+      "timeUntilAiring": 578342,
       "episode": 168
     },
     "relations": {
@@ -1665,7 +1665,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787536800,
-      "timeUntilAiring": 150037,
+      "timeUntilAiring": 146337,
       "episode": 155
     },
     "relations": {
@@ -9917,5 +9917,182 @@
     "traktSlug": "the-king-s-avatar",
     "idSimkl": 2480746,
     "idShikimori": 49559
+  },
+  "137726": {
+    "id": 137726,
+    "idMal": 49572,
+    "title": {
+      "romaji": "Quanzhi Fashi 6",
+      "english": null,
+      "native": "全职法师 第6季"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "The sixth season of <i>Quanzhi Fashi</i>.",
+    "episodes": 12,
+    "duration": 18,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2023,
+      "month": 6,
+      "day": 2
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 8,
+      "day": 11
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137726-ZMMDRFLTQWSH.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137726-ZMMDRFLTQWSH.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137726-ZMMDRFLTQWSH.png",
+      "color": "#e4a143"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Full-Time Magister 6",
+      "全职法师 第六季",
+      "Full-Time Magister Ⅵ"
+    ],
+    "averageScore": 69,
+    "meanScore": 71,
+    "popularity": 7102,
+    "trending": 1,
+    "favourites": 148,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://weibo.com/u/5580781966",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://v.qq.com/detail/t/mzc00200syigvst.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 122671,
+            "title": {
+              "romaji": "Quanzhi Fashi 5",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx122671-0ie6U9LGaILt.png"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 168081,
+            "title": {
+              "romaji": "Quanzhi Fashi Special: Shenmi Weituo",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx168081-yZkXsywUPWNX.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 206354,
+            "title": {
+              "romaji": "Quanzhi Fashi 7",
+              "english": "Versatile Mage Season 7"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206354-JDkdtdhrd6mD.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 244,
+        "name": "Isekai",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 243,
+        "name": "Reincarnation",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6382,
+            "name": "Tencent Penguin Pictures"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6162,
+            "name": "Foch"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6991,
+            "name": "Yuewen Animation & Comics"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787385698,
+    "idTmdb": 70311,
+    "idImdb": "tt11317074",
+    "idTvdb": 328670,
+    "idTrakt": 119130,
+    "traktSlug": "full-time-magister",
+    "idSimkl": 1721823,
+    "idShikimori": 49572
   }
 }

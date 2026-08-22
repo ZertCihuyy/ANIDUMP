@@ -22872,7 +22872,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 31317,
-    "trending": 1,
+    "trending": 0,
     "favourites": 935,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -23169,7 +23169,7 @@
         }
       ]
     },
-    "updatedAt": 1787378460,
+    "updatedAt": 1787385727,
     "idTmdb": 678458,
     "idImdb": "tt12439248",
     "idTvdb": null,
@@ -29554,5 +29554,259 @@
     "traktSlug": null,
     "idSimkl": 694481,
     "idShikimori": null
+  },
+  "99548": {
+    "id": 99548,
+    "idMal": 34602,
+    "title": {
+      "romaji": "Guomin Laogong Dai Huijia",
+      "english": "National Husband Bring Home SS1",
+      "native": "国民老公带回家"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Lu Jin Nian and Qiao An Hao were not married by choice. On the first day of their wedding night, Qiao An Hao made three rules regarding their marriage. One, you are not allowed to touch me. Two, you are not allowed to announce publicly that I'm your wife. Three, you are not allowed to say that we are living together.\n",
+    "episodes": 12,
+    "duration": 11,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2016,
+      "month": 10,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2016,
+      "month": 12,
+      "day": 12
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99548-FOMotH0dTHJX.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx99548-FOMotH0dTHJX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx99548-FOMotH0dTHJX.jpg",
+      "color": "#d60043"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "synonyms": [
+      "How Steal 55 Kisses"
+    ],
+    "averageScore": 55,
+    "meanScore": 56,
+    "popularity": 4850,
+    "trending": 1,
+    "favourites": 40,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": {
+      "id": "trIcwSYMeKE",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/trIcwSYMeKE/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://v.qq.com/detail/s/sdp0010051x9l2b.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://wetv.vip/play/4gsm36fjaj38ilc",
+        "site": "WeTV",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 103022,
+            "title": {
+              "romaji": "Guomin Laogong Dai Huijia 2",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx103022-1KgwJV0nHiCz.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 97828,
+            "title": {
+              "romaji": "Guomin Laogong Dai Huijia: Tou Wen 55 Ci",
+              "english": "Bringing The National Husband Home"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/97828-hXH63Owm3WTY.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6130,
+            "name": "G.CMay Animation & Film"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6469,
+            "name": "China Literature"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 243015,
+            "name": {
+              "full": "Jinnian Lu",
+              "native": "陆瑾年"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 243016,
+            "name": {
+              "full": "Anhao Qiao",
+              "native": "乔安好"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 243017,
+            "name": {
+              "full": "Anxia Qiao",
+              "native": "乔安夏"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 243018,
+            "name": {
+              "full": "Jiamu Xu",
+              "native": "许嘉木"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 243019,
+            "name": {
+              "full": "Ruchu Han",
+              "native": "韩如初"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 243021,
+            "name": {
+              "full": "Meng Zhao",
+              "native": "赵萌"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 243023,
+            "name": {
+              "full": "Yang Cheng",
+              "native": "程漾"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 243024,
+            "name": {
+              "full": "Ji Zhou",
+              "native": "周佶"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 243026,
+            "name": {
+              "full": "Lei Liu",
+              "native": "刘磊"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 243028,
+            "name": {
+              "full": "Qin Liu",
+              "native": "刘钦"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787385719,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 734097,
+    "idShikimori": 34602
   }
 }
