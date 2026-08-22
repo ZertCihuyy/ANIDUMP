@@ -1039,7 +1039,7 @@
     "averageScore": 63,
     "meanScore": 64,
     "popularity": 45731,
-    "trending": 94,
+    "trending": 83,
     "favourites": 687,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1069,7 +1069,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787842800,
-      "timeUntilAiring": 477908,
+      "timeUntilAiring": 476893,
       "episode": 10
     },
     "relations": {
@@ -1492,7 +1492,7 @@
         }
       ]
     },
-    "updatedAt": 1787360420,
+    "updatedAt": 1787365201,
     "idTmdb": 314554,
     "idImdb": "tt40550160",
     "idTvdb": 474303,
@@ -1545,7 +1545,7 @@
     "averageScore": 64,
     "meanScore": 66,
     "popularity": 10968,
-    "trending": 10,
+    "trending": 12,
     "favourites": 121,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1585,7 +1585,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787416200,
-      "timeUntilAiring": 51452,
+      "timeUntilAiring": 50321,
       "episode": 8
     },
     "relations": {
@@ -1935,7 +1935,7 @@
         }
       ]
     },
-    "updatedAt": 1787364028,
+    "updatedAt": 1787365223,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1988,7 +1988,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 8230,
-    "trending": 0,
+    "trending": 1,
     "favourites": 58,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2072,7 +2072,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787357405,
+    "updatedAt": 1787365279,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2958,5 +2958,103 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 63582
+  },
+  "208835": {
+    "id": 208835,
+    "idMal": 63488,
+    "title": {
+      "romaji": "METAL BLADE HIGH-SCHOOL",
+      "english": null,
+      "native": "METAL BLADE HIGH-SCHOOL"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 1,
+    "duration": 11,
+    "season": "SPRING",
+    "seasonYear": 2011,
+    "startDate": {
+      "year": 2011,
+      "month": 4,
+      "day": 13
+    },
+    "endDate": {
+      "year": 2011,
+      "month": 4,
+      "day": 13
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208835-EJqbs37CXiWf.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208835-EJqbs37CXiWf.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208835-EJqbs37CXiWf.png",
+      "color": "#ffe400"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Music"
+    ],
+    "synonyms": [
+      "FLOWMAN'S SHOW METAL BLADE HIGH-SCHOOL"
+    ],
+    "averageScore": null,
+    "meanScore": 52,
+    "popularity": 40,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.sonymusic.co.jp/artist/Flow/discography/KSCL-1761",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 242,
+        "name": "Flash",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 79,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7796,
+            "name": "SEAGULL"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787365285,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 63488
   }
 }

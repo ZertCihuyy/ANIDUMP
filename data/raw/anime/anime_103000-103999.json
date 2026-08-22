@@ -1534,7 +1534,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 130420,
-    "trending": 2,
+    "trending": 1,
     "favourites": 2247,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1652,7 +1652,13 @@
               "romaji": "Bokutachi wa Benkyou ga Dekinai",
               "english": "We Never Learn"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx98235-V6yBxNIrsOp0.jpg"
+            }
           }
         },
         {
@@ -1663,7 +1669,13 @@
               "romaji": "Bokutachi wa Benkyou ga Dekinai!",
               "english": "We Never Learn!: BOKUBEN Season 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2019,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx110229-uBjHp2cbXYVL.jpg"
+            }
           }
         },
         {
@@ -1674,7 +1686,13 @@
               "romaji": "Bokutachi wa Benkyou ga Dekinai OVAs",
               "english": "We Never Learn OVAs"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2019,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx109492-DphM0bHcV0LD.jpg"
+            }
           }
         }
       ]
@@ -2032,7 +2050,7 @@
         }
       ]
     },
-    "updatedAt": 1787357177,
+    "updatedAt": 1787365278,
     "idTmdb": 87432,
     "idImdb": "tt9883676",
     "idTvdb": 359095,
@@ -2734,7 +2752,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 58023,
-    "trending": 1,
+    "trending": 2,
     "favourites": 1328,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3235,7 +3253,7 @@
         }
       ]
     },
-    "updatedAt": 1787364082,
+    "updatedAt": 1787365216,
     "idTmdb": 84660,
     "idImdb": "tt9522316",
     "idTvdb": 355968,
@@ -3291,7 +3309,7 @@
     "averageScore": 87,
     "meanScore": 87,
     "popularity": 199303,
-    "trending": 1,
+    "trending": 2,
     "favourites": 8419,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3720,7 +3738,7 @@
         }
       ]
     },
-    "updatedAt": 1787360536,
+    "updatedAt": 1787365253,
     "idTmdb": 533514,
     "idImdb": "tt8652818",
     "idTvdb": null,
@@ -5022,7 +5040,7 @@
     "averageScore": 75,
     "meanScore": 76,
     "popularity": 51846,
-    "trending": 41,
+    "trending": 28,
     "favourites": 568,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5087,7 +5105,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787493600,
-      "timeUntilAiring": 133647,
+      "timeUntilAiring": 127698,
       "episode": 8
     },
     "relations": {
@@ -5100,7 +5118,13 @@
               "romaji": "Kyoto Animation:  Meiji-hen",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b157175-hthvVQjMgXig.png"
+            }
           }
         }
       ]
@@ -5438,7 +5462,7 @@
         }
       ]
     },
-    "updatedAt": 1787357170,
+    "updatedAt": 1787365205,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6132,7 +6156,7 @@
     "averageScore": 64,
     "meanScore": 64,
     "popularity": 221499,
-    "trending": 4,
+    "trending": 5,
     "favourites": 5032,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6593,7 +6617,7 @@
         }
       ]
     },
-    "updatedAt": 1787364082,
+    "updatedAt": 1787365215,
     "idTmdb": 83103,
     "idImdb": "tt9817980",
     "idTvdb": 354170,
@@ -9322,7 +9346,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 154061,
-    "trending": 1,
+    "trending": 2,
     "favourites": 3369,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9947,7 +9971,7 @@
         }
       ]
     },
-    "updatedAt": 1787364095,
+    "updatedAt": 1787365237,
     "idTmdb": 82822,
     "idImdb": "tt9054354",
     "idTvdb": 351953,
@@ -13171,5 +13195,387 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 38030
+  },
+  "103119": {
+    "id": 103119,
+    "idMal": 38005,
+    "title": {
+      "romaji": "Strike Witches: Dai-501 Tougou Sentou Koukuudan ROAD to BERLIN",
+      "english": "Strike Witches: Road to Berlin",
+      "native": "第501統合戦闘航空団 ストライクウィッチーズ ROAD to BERLIN"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "They’re back! And with Shizuka Hattori, a dutiful new member of the 501st Fighter Wing girls in tow, the Strike Witches have never been more ready to win the war on Neuroi once and for all.\n<br><br>\nWill the girls prevail in the epic battle to reclaim Berlin, or is humanity doomed? Get ready for a battle that will knock your socks (or pants) right off! \n<br><br>\n(Source: Funimation)",
+    "episodes": 12,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2020,
+    "startDate": {
+      "year": 2020,
+      "month": 10,
+      "day": 8
+    },
+    "endDate": {
+      "year": 2020,
+      "month": 12,
+      "day": 24
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103119-5x83l4nwlloI.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx103119-5x83l4nwlloI.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx103119-5x83l4nwlloI.jpg",
+      "color": "#0d4378"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103119-bQBBSGjctLLO.jpg",
+    "genres": [
+      "Action",
+      "Ecchi",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "Strike Witches 3 "
+    ],
+    "averageScore": 72,
+    "meanScore": 73,
+    "popularity": 10070,
+    "trending": 1,
+    "favourites": 173,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "SfWwKwgsizo",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/SfWwKwgsizo/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://w-witch.jp/strike_witches-rtb/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/RtbWitch",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.crunchyroll.com/strike-witches",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 9751,
+            "title": {
+              "romaji": "Strike Witches Movie",
+              "english": "Strike Witches: The Movie"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2012,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx9751-HZPD9Jz8pK12.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 34,
+        "name": "Military",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 355,
+        "name": "Aviation",
+        "rank": 87,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 84,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 90,
+        "name": "CGI",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 254,
+        "name": "Kemonomimi",
+        "rank": 56,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 179,
+        "name": "Witch",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 46,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 164,
+        "name": "Tsundere",
+        "rank": 46,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 658,
+        "name": "Dullahan",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 287,
+            "name": "david production"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 7626,
+            "name": {
+              "full": "Yoshika Miyafuji",
+              "native": "宮藤芳佳"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95207,
+              "name": {
+                "full": "Misato Fukuen",
+                "native": "福圓美里"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 7628,
+            "name": {
+              "full": "Perrine H. Clostermann",
+              "native": "ぺリーヌ・クロステルマン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95099,
+              "name": {
+                "full": "Miyuki Sawashiro",
+                "native": "沢城みゆき"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 7629,
+            "name": {
+              "full": "Lynette Bishop",
+              "native": "リネット・ビショップ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95078,
+              "name": {
+                "full": "Kaori Nazuka",
+                "native": "名塚佳織"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 7630,
+            "name": {
+              "full": "Charlotte E Yeager",
+              "native": "シャーロット・E・イェーガー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95070,
+              "name": {
+                "full": "Ami Koshimizu",
+                "native": "小清水亜美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 7631,
+            "name": {
+              "full": "Eila Ilmatar Juutilainen",
+              "native": "エイラ・イルマタル・ユーティライネン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100938,
+              "name": {
+                "full": "Ayuru Oohashi",
+                "native": "大橋歩夕"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 7632,
+            "name": {
+              "full": "Francesca Lucchini",
+              "native": "フランチェスカ・ルッキーニ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95061,
+              "name": {
+                "full": "Chiwa Saitou",
+                "native": "斎藤千和"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 14135,
+            "name": {
+              "full": "Minna-Dietlinde Wilcke",
+              "native": "ミーナ・ディートリンデ・ヴィルケ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95060,
+              "name": {
+                "full": "Rie Tanaka",
+                "native": "田中理恵"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 14137,
+            "name": {
+              "full": "Erica Hartmann",
+              "native": "エーリカ・ハルトマン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95204,
+              "name": {
+                "full": "Sakura Nogawa",
+                "native": "野川さくら"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 14138,
+            "name": {
+              "full": "Gertrud Barkhorn",
+              "native": "ゲルトルート・バルクホルン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95602,
+              "name": {
+                "full": "Mie Sonozaki",
+                "native": "園崎未恵"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 14139,
+            "name": {
+              "full": "Sanya V. Litvyak",
+              "native": "サーニャ・V・リトヴャク"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95117,
+              "name": {
+                "full": "Mai Kadowaki",
+                "native": "門脇舞以"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787365281,
+    "idTmdb": 67153,
+    "idImdb": "tt8086086",
+    "idTvdb": 313534,
+    "idTrakt": 108699,
+    "traktSlug": "tsukiuta-the-animation",
+    "idSimkl": 856903,
+    "idShikimori": 38005
   }
 }

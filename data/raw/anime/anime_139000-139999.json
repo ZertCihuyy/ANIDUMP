@@ -379,7 +379,7 @@
     "averageScore": 73,
     "meanScore": 74,
     "popularity": 53991,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1331,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -886,7 +886,7 @@
         }
       ]
     },
-    "updatedAt": 1787364048,
+    "updatedAt": 1787365310,
     "idTmdb": 135335,
     "idImdb": "tt15538376",
     "idTvdb": 415138,
@@ -944,7 +944,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 73028,
-    "trending": 2,
+    "trending": 1,
     "favourites": 2483,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1496,7 +1496,7 @@
         }
       ]
     },
-    "updatedAt": 1787364016,
+    "updatedAt": 1787365262,
     "idTmdb": 196400,
     "idImdb": "tt15433166",
     "idTvdb": 418364,
@@ -2554,7 +2554,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 113013,
-    "trending": 2,
+    "trending": 4,
     "favourites": 3036,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3009,7 +3009,7 @@
         }
       ]
     },
-    "updatedAt": 1787364041,
+    "updatedAt": 1787365240,
     "idTmdb": 134667,
     "idImdb": "tt15483602",
     "idTvdb": 410378,
@@ -4752,7 +4752,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 267079,
-    "trending": 7,
+    "trending": 8,
     "favourites": 6643,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5268,7 +5268,7 @@
         }
       ]
     },
-    "updatedAt": 1787364018,
+    "updatedAt": 1787365227,
     "idTmdb": 65930,
     "idImdb": "tt5626028",
     "idTvdb": 305074,
@@ -7699,7 +7699,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 32137,
-    "trending": 3,
+    "trending": 4,
     "favourites": 578,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8255,7 +8255,7 @@
         }
       ]
     },
-    "updatedAt": 1787364043,
+    "updatedAt": 1787365260,
     "idTmdb": 117992,
     "idImdb": "tt13971512",
     "idTvdb": 398555,
@@ -12287,7 +12287,13 @@
               "romaji": "Tensei Shitara Slime Datta Ken 2nd Season Part 2",
               "english": "That Time I Got Reincarnated as a Slime Season 2 Part 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2021,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx116742-jn0dW23ftehq.jpg"
+            }
           }
         },
         {
@@ -12298,7 +12304,13 @@
               "romaji": "Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx176083-1cxL2aK6Fp2N.jpg"
+            }
           }
         },
         {
@@ -12309,7 +12321,13 @@
               "romaji": "Tensei Shitara Slime Datta Ken: Soukai no Namida-hen",
               "english": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182206-LcitQfDLsdnC.png"
+            }
           }
         }
       ]
@@ -12656,7 +12674,7 @@
         }
       ]
     },
-    "updatedAt": 1787357287,
+    "updatedAt": 1787365305,
     "idTmdb": 876792,
     "idImdb": "tt15467380",
     "idTvdb": null,

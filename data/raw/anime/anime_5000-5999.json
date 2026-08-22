@@ -3644,7 +3644,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 53674,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1566,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3959,7 +3959,7 @@
         }
       ]
     },
-    "updatedAt": 1787364123,
+    "updatedAt": 1787365286,
     "idTmdb": 22366,
     "idImdb": "tt1411815",
     "idTvdb": 84616,
@@ -5249,7 +5249,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 61555,
-    "trending": 1,
+    "trending": 2,
     "favourites": 3153,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5822,7 +5822,7 @@
         }
       ]
     },
-    "updatedAt": 1787364099,
+    "updatedAt": 1787365242,
     "idTmdb": 42912,
     "idImdb": "tt2189248",
     "idTvdb": 146401,
@@ -5878,7 +5878,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 114619,
-    "trending": 2,
+    "trending": 3,
     "favourites": 2496,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6352,7 +6352,7 @@
         }
       ]
     },
-    "updatedAt": 1787364112,
+    "updatedAt": 1787365263,
     "idTmdb": 28874,
     "idImdb": "tt1474276",
     "idTvdb": null,
@@ -6411,7 +6411,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 339974,
-    "trending": 8,
+    "trending": 7,
     "favourites": 18953,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7113,7 +7113,7 @@
         }
       ]
     },
-    "updatedAt": 1787364018,
+    "updatedAt": 1787365199,
     "idTmdb": 46195,
     "idImdb": "tt1480925",
     "idTvdb": 102261,
@@ -9515,7 +9515,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 276972,
-    "trending": 1,
+    "trending": 3,
     "favourites": 13038,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10057,7 +10057,7 @@
         }
       ]
     },
-    "updatedAt": 1787364108,
+    "updatedAt": 1787365254,
     "idTmdb": 42253,
     "idImdb": "tt1410218",
     "idTvdb": 87501,
@@ -10121,7 +10121,7 @@
     "averageScore": 90,
     "meanScore": 90,
     "popularity": 722787,
-    "trending": 23,
+    "trending": 17,
     "favourites": 72324,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11197,7 +11197,7 @@
         }
       ]
     },
-    "updatedAt": 1787364019,
+    "updatedAt": 1787365205,
     "idTmdb": 31911,
     "idImdb": "tt1355642",
     "idTvdb": 85249,
@@ -13406,7 +13406,7 @@
     "averageScore": 83,
     "meanScore": 83,
     "popularity": 13596,
-    "trending": 0,
+    "trending": 1,
     "favourites": 355,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13425,7 +13425,13 @@
               "romaji": "Major S6",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2010,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx7655-HRR4NF39Vo3W.png"
+            }
           }
         },
         {
@@ -13436,7 +13442,13 @@
               "romaji": "Major",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx40978-Po9kFRHLoIe4.png"
+            }
           }
         },
         {
@@ -13447,7 +13459,13 @@
               "romaji": "Major: Yuujou no Ikkyuu",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2008,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5029-zonyG2k3coLq.png"
+            }
           }
         }
       ]
@@ -13721,7 +13739,14 @@
         }
       ]
     },
-    "updatedAt": 1787346106
+    "updatedAt": 1787365274,
+    "idTmdb": 29602,
+    "idImdb": "tt1693435",
+    "idTvdb": 76013,
+    "idTrakt": 61997,
+    "traktSlug": "major",
+    "idSimkl": 41406,
+    "idShikimori": 5028
   },
   "5341": {
     "id": 5341,
@@ -13769,7 +13794,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 97226,
-    "trending": 2,
+    "trending": 1,
     "favourites": 2069,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13882,7 +13907,13 @@
               "romaji": "Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu",
               "english": "Spice and Wolf II: Wolf and the Amber Melancholy"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2009,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6007-jg9Jtl8Opqy2.jpg"
+            }
           }
         },
         {
@@ -13893,7 +13924,13 @@
               "romaji": "Ookami to Koushinryou",
               "english": "Spice & Wolf"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx39115-2uLgBuM30i1b.jpg"
+            }
           }
         },
         {
@@ -13904,7 +13941,13 @@
               "romaji": "Ookami to Koushinryou II Specials",
               "english": "Spice and Wolf II Specials"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2009,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/6884.jpg"
+            }
           }
         }
       ]
@@ -14221,7 +14264,14 @@
         }
       ]
     },
-    "updatedAt": 1787346091
+    "updatedAt": 1787365307,
+    "idTmdb": 26707,
+    "idImdb": "tt1158671",
+    "idTvdb": 81178,
+    "idTrakt": 26590,
+    "traktSlug": "spice-and-wolf",
+    "idSimkl": 39615,
+    "idShikimori": 5341
   },
   "5391": {
     "id": 5391,
@@ -18052,7 +18102,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 93774,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1395,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -18627,7 +18677,7 @@
         }
       ]
     },
-    "updatedAt": 1787360538,
+    "updatedAt": 1787365310,
     "idTmdb": 37437,
     "idImdb": "tt1528567",
     "idTvdb": 118101,
@@ -18678,7 +18728,7 @@
     "averageScore": 57,
     "meanScore": 59,
     "popularity": 1314,
-    "trending": 0,
+    "trending": 1,
     "favourites": 25,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -18697,7 +18747,13 @@
               "romaji": "Saimin Jutsu ZERO",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2013,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/18151.jpg"
+            }
           }
         }
       ]
@@ -18980,7 +19036,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787365275,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 5455
   },
   "5177": {
     "id": 5177,
@@ -21110,7 +21173,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 74804,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1307,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -21664,7 +21727,7 @@
         }
       ]
     },
-    "updatedAt": 1787360559,
+    "updatedAt": 1787365299,
     "idTmdb": 35971,
     "idImdb": "tt1343645",
     "idTvdb": 87861,
@@ -30133,5 +30196,1535 @@
     "traktSlug": "eden-of-the-east",
     "idSimkl": 41207,
     "idShikimori": 5630
+  },
+  "5914": {
+    "id": 5914,
+    "idMal": 5914,
+    "title": {
+      "romaji": "Kanamemo",
+      "english": "Kanamemo",
+      "native": "かなめも"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "Nakamachi Kana is a junior high school girl. Her grandmother passed away and she was left all alone. She finds a newspaper carrier station and starts working as a live-in carrier. Her room has a hole on the wall. Other female workers living next door comes in through the hole and start a wild merrymaking.",
+    "episodes": 13,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2009,
+    "startDate": {
+      "year": 2009,
+      "month": 7,
+      "day": 6
+    },
+    "endDate": {
+      "year": 2009,
+      "month": 9,
+      "day": 28
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5914-kZZDtnta3yRP.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5914-kZZDtnta3yRP.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5914-kZZDtnta3yRP.png",
+      "color": "#43a1e4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Slice of Life"
+    ],
+    "synonyms": [],
+    "averageScore": 65,
+    "meanScore": 65,
+    "popularity": 9520,
+    "trending": 1,
+    "favourites": 57,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "http://www.crunchyroll.com/kanamemo",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 1 - Solitude, For the First Time",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/72d51d30432289a5a89b611e00d729421246489849_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRZXJQGGY/solitude-for-the-first-time",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - My First Paper Delivery",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/f540a667ecbc5c8c76170a3549f8b8cd1247094281_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6Q4WM2ZR/my-first-paper-delivery",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - The First Smile",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/eeb1addcc7746c30503085585e437aee1247632791_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYWE4XQJY/the-first-smile",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - My First Time at the Pool",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/eda90f388bee8f15e2c03c22408a43071248457290_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR09XQ24R/my-first-time-at-the-pool",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - My First Time at the Bath with Everyone",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/e2a74ca6458d766d5e9ea18408dd34361248826036_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR7592Z0Y/my-first-time-at-the-bath-with-everyone",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - My First Scary Story",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/ed51763db37303cbe4288643d3865aa81249439988_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6X0J4Z7Y/my-first-scary-story",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 7 - My First Welcome",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/3807c9ca804f929191234734f99669e71250106449_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GY19X589R/my-first-welcome",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 8 - My First Talk About Memories",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/7a8d57d7cef54e38a984fc886f3527b31250657907_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G6NQV1EJ6/my-first-talk-about-memories",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 9 - My First Diet?",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/be508bbdc3c3026899ceafd4e7b567421251150169_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRMGE10PR/my-first-diet",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 10 - My First Feelings",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/eca024ec420e39658002a5f01e3a29a51251854739_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GR3VKG8D6/my-first-feelings",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 11 - My First Time Nursing",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/c1fe4d8f8379f41fa7cb1bc540e96d931252726003_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GY2P4WZ0Y/my-first-time-nursing",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 12 - The First Person",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/6ddb00032170e3dc98f8a17e8fb7d8771253047638_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GYZXJQPG6/the-first-person",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 13 - And the first...",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/38928b65d4040bb541426e0c2a58c7531253922838_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GRQ4WMXZY/and-the-first",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 42242,
+            "title": {
+              "romaji": "Kanamemo",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx42242-IH9GsivTx43l.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 97,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 92,
+        "name": "Cute Girls Doing Cute Things",
+        "rank": 95,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 81,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 145,
+        "name": "Work",
+        "rank": 71,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 91,
+            "name": "feel."
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 92,
+            "name": "Starchild Records"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 717,
+            "name": "TV Tokyo Music"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 21354,
+            "name": {
+              "full": "Kana Nakamachi",
+              "native": "中町かな"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95599,
+              "name": {
+                "full": "Aki Toyosaki",
+                "native": "豊崎愛生"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 22743,
+            "name": {
+              "full": "Saki Amano",
+              "native": "天野咲妃"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95579,
+              "name": {
+                "full": "Kaoru Mizuhara",
+                "native": "水原薫"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 22744,
+            "name": {
+              "full": "Yume Kitaoka",
+              "native": "北岡ゆめ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95111,
+              "name": {
+                "full": "Ryou Hirohashi",
+                "native": "広橋涼"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 22745,
+            "name": {
+              "full": "Yuuki Minami",
+              "native": "南ゆうき"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95054,
+              "name": {
+                "full": "Aya Endou",
+                "native": "遠藤綾"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 22746,
+            "name": {
+              "full": "Hinata Azuma",
+              "native": "東ひなた"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95413,
+              "name": {
+                "full": "Eri Kitamura",
+                "native": "喜多村英梨"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 22747,
+            "name": {
+              "full": "Haruka Nishida",
+              "native": "西田はるか"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95028,
+              "name": {
+                "full": "Yui Horie",
+                "native": "堀江由衣"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 22748,
+            "name": {
+              "full": "Mika Kujiin",
+              "native": "久地院美華"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95008,
+              "name": {
+                "full": "Rie Kugimiya",
+                "native": "釘宮理恵"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 26398,
+            "name": {
+              "full": "Nao-chan",
+              "native": "直ちゃん"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95988,
+              "name": {
+                "full": "Momoko Ohara",
+                "native": "大原桃子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 36379,
+            "name": {
+              "full": "Marimo",
+              "native": "まりも"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95132,
+              "name": {
+                "full": "Mikako Takahashi",
+                "native": "高橋美佳子"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787365303,
+    "idTmdb": 73396,
+    "idImdb": "tt1464406",
+    "idTvdb": 107301,
+    "idTrakt": 61116,
+    "traktSlug": "kanamemo",
+    "idSimkl": 38786,
+    "idShikimori": 5914
+  },
+  "5993": {
+    "id": 5993,
+    "idMal": 5993,
+    "title": {
+      "romaji": "Samayou Midara na Lunatics",
+      "english": null,
+      "native": "彷徨う淫らなルナティクス"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "Eifa loves her brother, Alois, but due to their status as royalty they are unable to express their love. One day Eifa was tricked and cursed by a witch seeking to become the new queen. Due to the curse Eifa can only exist at night and when it is day, her body is replaced by Alois. Their incestuous love is also exposed, and together they are banished from the kingdom.<br><br>\nIn desperation to break the curse, Alois decides to seek the help of another witch, named Yorandel.<br><br>\n(Source: VNDB)",
+    "episodes": 2,
+    "duration": 30,
+    "season": "WINTER",
+    "seasonYear": 2009,
+    "startDate": {
+      "year": 2009,
+      "month": 1,
+      "day": 24
+    },
+    "endDate": {
+      "year": 2009,
+      "month": 12,
+      "day": 19
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5993.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5993.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5993.jpg",
+      "color": "#0d4378"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [],
+    "averageScore": 56,
+    "meanScore": 59,
+    "popularity": 886,
+    "trending": 1,
+    "favourites": 13,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "VISUAL_NOVEL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1327,
+        "name": "Royal Affairs",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 128,
+        "name": "Incest",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 132,
+        "name": "Threesome",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 179,
+        "name": "Witch",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 188,
+        "name": "Futanari",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 189,
+        "name": "Tentacles",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 125,
+        "name": "Nakadashi",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 134,
+        "name": "Fellatio",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 360,
+        "name": "Sumata",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 130,
+        "name": "Facial",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 195,
+            "name": "Pixy"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 4079,
+            "name": "Studio 9 Maiami"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7455,
+            "name": "Anime Antenna Iinkai"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 36103,
+            "name": {
+              "full": "Lihtel",
+              "native": "リヒテリ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96581,
+              "name": {
+                "full": "Asako Dodo",
+                "native": "百々麻子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 36104,
+            "name": {
+              "full": "Eefa",
+              "native": "エーファ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 36105,
+            "name": {
+              "full": "Alois",
+              "native": "アロイス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95356,
+              "name": {
+                "full": "Hiro Shimono",
+                "native": "下野紘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787365275,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 5993
+  },
+  "5424": {
+    "id": 5424,
+    "idMal": 5424,
+    "title": {
+      "romaji": "OPPAI Life",
+      "english": "Booby Life",
+      "native": "OPPAI ライフ"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "Naoto is a university student. One day, he meets Ayane, his old friend, by chance after an interval of several years. Also, Chika, his old friend as well, suddenly appears in front of him. She tells him to become her tutor and they start living together but will Naoto resist the temptation of those delicious big boobs?",
+    "episodes": 2,
+    "duration": 30,
+    "season": "FALL",
+    "seasonYear": 2008,
+    "startDate": {
+      "year": 2008,
+      "month": 10,
+      "day": 10
+    },
+    "endDate": {
+      "year": 2009,
+      "month": 1,
+      "day": 9
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5424.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5424.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5424.jpg",
+      "color": "#d61a1a"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [],
+    "averageScore": 59,
+    "meanScore": 61,
+    "popularity": 1768,
+    "trending": 1,
+    "favourites": 41,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "VISUAL_NOVEL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 92111,
+            "title": {
+              "romaji": "Oppai Life: Ohayou kara Oyasumi made Momisui Seikatsu",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/92111-lSdmnW2DLf3j.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 137,
+        "name": "Large Breasts",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 139,
+        "name": "Love Triangle",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 404,
+        "name": "College",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 132,
+        "name": "Threesome",
+        "rank": 40,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 239,
+            "name": "Y.O.U.C"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 321,
+            "name": "Kitty Media"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 26652,
+            "name": {
+              "full": "Chika Hayakawa",
+              "native": "早川千花"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 26653,
+            "name": {
+              "full": "Ayane Yukishiro",
+              "native": "雪代綾音"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787365275,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 5424
+  },
+  "5959": {
+    "id": 5959,
+    "idMal": 5959,
+    "title": {
+      "romaji": "Mizugi Kanojo: THE ANIMATION",
+      "english": null,
+      "native": "水着彼女～THE ANIMATION～"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "The story begins with a pair of young lovers, the busty Mizuho-chan, and the well endowed Hiro-kun. One night Hiro suggests that Mizuho should try swimming to get in shape. He even offers to coach her after hours at the pool where he works since she can't swim very well. Mizuho's new workout plan turns out to be much more exciting than expected...<br><br>\nMeanwhile Takuya-kun finds himself in a compromising situation with his clumsy but beautiful neighbor Sayaka-chan...<br><br>\nEach episode features couples enjoying various sexual escapades involving plenty of water, wet bodies, &amp; extremely revealing mizugi (swimsuits).",
+    "episodes": 4,
+    "duration": 30,
+    "season": "WINTER",
+    "seasonYear": 2009,
+    "startDate": {
+      "year": 2009,
+      "month": 1,
+      "day": 23
+    },
+    "endDate": {
+      "year": 2009,
+      "month": 11,
+      "day": 27
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5959.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5959.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/5959.jpg",
+      "color": "#fff143"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [
+      "Mizuho! Ekusasaizu!"
+    ],
+    "averageScore": 67,
+    "meanScore": 68,
+    "popularity": 3879,
+    "trending": 1,
+    "favourites": 86,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 42932,
+            "title": {
+              "romaji": "Mizugi Kanojo",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx42932-HhQxS4o0Il8c.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 127,
+        "name": "Public Sex",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 150,
+        "name": "Swimming",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 630,
+        "name": "Sweat",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 137,
+        "name": "Large Breasts",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 255,
+        "name": "Ninja",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 279,
+        "name": "Ahegao",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 126,
+        "name": "Boobjob",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 125,
+        "name": "Nakadashi",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 185,
+        "name": "Anal Sex",
+        "rank": 55,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 134,
+        "name": "Fellatio",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 360,
+        "name": "Sumata",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 133,
+        "name": "Sex Toys",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 132,
+        "name": "Threesome",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 246,
+        "name": "Bondage",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 180,
+        "name": "Watersports",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 135,
+        "name": "Cunnilingus",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 99,
+        "name": "Henshin",
+        "rank": 40,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 830,
+        "name": "Group Sex",
+        "rank": 30,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 189,
+        "name": "Tentacles",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1039,
+        "name": "Scissoring",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 25,
+            "name": "Milky Animation Label"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 45,
+            "name": "Pink Pineapple"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 405,
+            "name": "T-REX"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 71993,
+            "name": {
+              "full": "Kuu",
+              "native": null
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 182766,
+            "name": {
+              "full": "Mizuho",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 103983,
+              "name": {
+                "full": "Eriko Nakamura",
+                "native": "中村繪里子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 182768,
+            "name": {
+              "full": "Sayaka",
+              "native": null
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787365275,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 5959
+  },
+  "5316": {
+    "id": 5316,
+    "idMal": 5316,
+    "title": {
+      "romaji": "Rape! Rape! Rape!",
+      "english": null,
+      "native": "レイプ！レイプ！レイプ！"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "Based off the eroge by Valkyria.<br>\n<br>\nYour childhood friend, girl who you have feelings for, elder sister, mom, police officer, nurse, twin sisters, class president, pregnant woman, bad girl, bride, camera nerd, homeless woman, a member of rhythmic gymnastics club, female teacher, blind girl........! Rape them all! It is your mission!!!.<br>\n<br>\n(Source: DLsite English)",
+    "episodes": 3,
+    "duration": 30,
+    "season": "FALL",
+    "seasonYear": 2008,
+    "startDate": {
+      "year": 2008,
+      "month": 10,
+      "day": 17
+    },
+    "endDate": {
+      "year": 2009,
+      "month": 7,
+      "day": 10
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5316-KWi8BhqjYC7p.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx5316-KWi8BhqjYC7p.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5316-KWi8BhqjYC7p.png",
+      "color": "#43aef1"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [
+      "reipu! reipu! reipu!"
+    ],
+    "averageScore": 51,
+    "meanScore": 52,
+    "popularity": 2276,
+    "trending": 1,
+    "favourites": 37,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "VISUAL_NOVEL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 169693,
+            "title": {
+              "romaji": "Rape! Rape! Rape! DVD-Box Special",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2010,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b169693-mmteUnxNfTa9.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 155,
+        "name": "Rape",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 129,
+        "name": "Defloration",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 125,
+        "name": "Nakadashi",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 127,
+        "name": "Public Sex",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 137,
+        "name": "Large Breasts",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 128,
+        "name": "Incest",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 246,
+        "name": "Bondage",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 136,
+        "name": "Flat Chest",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 187,
+        "name": "MILF",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 165,
+        "name": "Teacher",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 359,
+        "name": "Irrumatio",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 135,
+        "name": "Cunnilingus",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 185,
+        "name": "Anal Sex",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 317,
+        "name": "Handjob",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 126,
+        "name": "Boobjob",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 133,
+        "name": "Sex Toys",
+        "rank": 30,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 397,
+        "name": "Pregnancy",
+        "rank": 30,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 650,
+        "name": "Lactation",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 180,
+        "name": "Watersports",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 265,
+            "name": "Valkyria"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7455,
+            "name": "Anime Antenna Iinkai"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 7454,
+            "name": "Anime Antenna Group"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 40493,
+            "name": {
+              "full": "Touka Hoshino",
+              "native": "星野桃香"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96133,
+              "name": {
+                "full": "Harumi Sakurai",
+                "native": "櫻井浩美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 40494,
+            "name": {
+              "full": "Ayaka Haruse",
+              "native": "春瀬綾香"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100983,
+              "name": {
+                "full": "Hiroka Nishizawa",
+                "native": "西沢広香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 40495,
+            "name": {
+              "full": "Haruna Aizawa",
+              "native": "相沢春菜"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105348,
+              "name": {
+                "full": "Sahomi Koyama",
+                "native": "小山さほみ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 40496,
+            "name": {
+              "full": "Mashiro Asakura",
+              "native": "亜桜 真白"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105475,
+              "name": {
+                "full": "Miyu Inoue",
+                "native": "井上みゆ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 40497,
+            "name": {
+              "full": "Usagi Sakurai",
+              "native": "桜井うさぎ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96548,
+              "name": {
+                "full": "Oma Ichimura",
+                "native": "壱智村小真"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 40498,
+            "name": {
+              "full": "Miruku Amatsuka",
+              "native": "天使みるく"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101509,
+              "name": {
+                "full": "Maki Kobayashi",
+                "native": "小林眞紀"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 40499,
+            "name": {
+              "full": "Yuri Igawa",
+              "native": "伊川 佑里"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 104550,
+              "name": {
+                "full": "Miyabi Shion",
+                "native": "紫苑みやび"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 40500,
+            "name": {
+              "full": "Sakiran Hinatuki",
+              "native": "雛月 咲蘭"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 104550,
+              "name": {
+                "full": "Miyabi Shion",
+                "native": "紫苑みやび"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 61453,
+            "name": {
+              "full": "Chisa Mizuhara",
+              "native": "水原 智佐"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787365275,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 5316
   }
 }

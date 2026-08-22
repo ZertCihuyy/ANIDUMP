@@ -1361,7 +1361,7 @@
     "averageScore": 80,
     "meanScore": 81,
     "popularity": 16933,
-    "trending": 2,
+    "trending": 1,
     "favourites": 496,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1581,7 +1581,7 @@
         }
       ]
     },
-    "updatedAt": 1787364037,
+    "updatedAt": 1787365254,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1635,7 +1635,7 @@
     "averageScore": 82,
     "meanScore": 85,
     "popularity": 6017,
-    "trending": 1,
+    "trending": 2,
     "favourites": 411,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1665,7 +1665,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787536800,
-      "timeUntilAiring": 172077,
+      "timeUntilAiring": 170964,
       "episode": 155
     },
     "relations": {
@@ -1843,7 +1843,7 @@
         }
       ]
     },
-    "updatedAt": 1787364042,
+    "updatedAt": 1787365274,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1897,7 +1897,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 321857,
-    "trending": 10,
+    "trending": 8,
     "favourites": 13112,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2368,7 +2368,7 @@
         }
       ]
     },
-    "updatedAt": 1787364028,
+    "updatedAt": 1787365235,
     "idTmdb": 131041,
     "idImdb": "tt15222080",
     "idTvdb": 408629,
@@ -2422,7 +2422,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 126749,
-    "trending": 3,
+    "trending": 2,
     "favourites": 2409,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2932,7 +2932,7 @@
         }
       ]
     },
-    "updatedAt": 1787364032,
+    "updatedAt": 1787365260,
     "idTmdb": 130237,
     "idImdb": "tt16341212",
     "idTvdb": 407833,
@@ -5035,7 +5035,7 @@
     "averageScore": 66,
     "meanScore": 67,
     "popularity": 8973,
-    "trending": 0,
+    "trending": 1,
     "favourites": 185,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5074,7 +5074,13 @@
               "romaji": "Digimon Adventure",
               "english": "Digimon: Digital Monsters"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 1999,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx552-zad0ts5hylQJ.jpg"
+            }
           }
         },
         {
@@ -5085,7 +5091,13 @@
               "romaji": "Monster Disco",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx159052-Lha5HZbiqSXi.jpg"
+            }
           }
         },
         {
@@ -5096,7 +5108,13 @@
               "romaji": "Datte Kyou made Koiwazurai",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165978-KT6xHG71G0i3.jpg"
+            }
           }
         }
       ]
@@ -5472,7 +5490,14 @@
         }
       ]
     },
-    "updatedAt": 1787346106
+    "updatedAt": 1787365306,
+    "idTmdb": 134843,
+    "idImdb": "tt15400650",
+    "idTvdb": 407850,
+    "idTrakt": 185123,
+    "traktSlug": "digimon-ghost-game",
+    "idSimkl": 1697663,
+    "idShikimori": 49515
   },
   "137728": {
     "id": 137728,
@@ -5716,7 +5741,7 @@
     "averageScore": 63,
     "meanScore": 64,
     "popularity": 43455,
-    "trending": 1,
+    "trending": 0,
     "favourites": 467,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6021,7 +6046,7 @@
         }
       ]
     },
-    "updatedAt": 1787364054,
+    "updatedAt": 1787365310,
     "idTmdb": 131168,
     "idImdb": "tt15379212",
     "idTvdb": 408734,
@@ -6638,7 +6663,7 @@
     "averageScore": 79,
     "meanScore": 82,
     "popularity": 2652,
-    "trending": 1,
+    "trending": 0,
     "favourites": 102,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -6829,7 +6854,7 @@
         }
       ]
     },
-    "updatedAt": 1787364033,
+    "updatedAt": 1787365310,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -8508,5 +8533,462 @@
     "traktSlug": "ningen-fushin-adventurers-who-don-t-believe-in-humanity-will-save-the-world",
     "idSimkl": 1709005,
     "idShikimori": 49612
+  },
+  "137310": {
+    "id": 137310,
+    "idMal": 49523,
+    "title": {
+      "romaji": "Digimon Adventure 02 THE BEGINNING",
+      "english": "Digimon Adventure 02 The Beginning",
+      "native": "デジモンアドベンチャー02 THE BEGINNING"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "It’s 2012, and ten years have passed since the adventure in the Digital World. Daisuke Motomiya is now twenty, and he and the rest of the DigiDestined seem to be changing bit by bit in terms of appearance and lifestyle. Then one day, a giant Digitama suddenly appears in the sky over Tokyo Tower. Daisuke and the others encounter a mysterious young man named Lui Ohwada, who informs them that he’s the first ever DigiDestined in the world… <br><br>\n\n(Source: Toei Animation)\n",
+    "episodes": 1,
+    "duration": 80,
+    "season": "FALL",
+    "seasonYear": 2023,
+    "startDate": {
+      "year": 2023,
+      "month": 10,
+      "day": 27
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 10,
+      "day": 27
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137310-vs8V9IrCHIZ2.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx137310-vs8V9IrCHIZ2.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137310-vs8V9IrCHIZ2.jpg",
+      "color": "#e47850"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "Digimon Adventure 02: Începutul"
+    ],
+    "averageScore": 67,
+    "meanScore": 68,
+    "popularity": 5391,
+    "trending": 1,
+    "favourites": 74,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "geoltwC6vBg",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/geoltwC6vBg/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.toei-anim.co.jp/movie/digimon-adventure/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 1313,
+            "title": {
+              "romaji": "Digimon Adventure 02",
+              "english": "Digimon: Digital Monsters 02"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2000,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx1313-oCvzzU6fiCZB.png"
+            }
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 108260,
+            "title": {
+              "romaji": "Digimon Adventure: LAST EVOLUTION Kizuna",
+              "english": "Digimon Adventure: Last Evolution Kizuna"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2020,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx108260-2TAbERdThOZR.png"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 204482,
+            "title": {
+              "romaji": "Digimon Adventure: BEYOND",
+              "english": "Digimon Adventure-BEYOND-"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204482-AOKjfPKZeUqf.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 102,
+        "name": "Coming of Age",
+        "rank": 95,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1304,
+        "name": "Anthropomorphism",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 96,
+        "name": "Time Manipulation",
+        "rank": 76,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 87,
+        "name": "Family Life",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 639,
+        "name": "Body Horror",
+        "rank": 68,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1616,
+        "name": "Snowscape",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 94,
+        "name": "Gore",
+        "rank": 46,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 636,
+        "name": "Cosmic Horror",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1899,
+        "name": "Brainwashing",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 365,
+        "name": "Memory Manipulation",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1490,
+        "name": "Proxy Battle",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 224,
+        "name": "Dragons",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1564,
+        "name": "Estranged Family",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 654,
+        "name": "Denpa",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 18,
+            "name": "Toei Animation"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 96,
+            "name": "Yumeta Company"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 1960,
+            "name": {
+              "full": "Daisuke Motomiya",
+              "native": "本宮大輔"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118706,
+              "name": {
+                "full": "Fukujurou Katayama",
+                "native": "片山福十郎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 16295,
+            "name": {
+              "full": "V-Mon",
+              "native": "ブイモン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95277,
+              "name": {
+                "full": "Junko Noda",
+                "native": "野田順子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 284384,
+            "name": {
+              "full": "Rui Oowada",
+              "native": "大和田ルイ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95287,
+              "name": {
+                "full": "Megumi Ogata",
+                "native": "緒方恵美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 284385,
+            "name": {
+              "full": "Ukkomon",
+              "native": "ウッコモン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95008,
+              "name": {
+                "full": "Rie Kugimiya",
+                "native": "釘宮理恵"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1961,
+            "name": {
+              "full": "Takeru Takaishi",
+              "native": "高石タケル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119319,
+              "name": {
+                "full": "Junya Enoki",
+                "native": "榎木淳弥"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1962,
+            "name": {
+              "full": "Ken Ichijouji",
+              "native": "一乗寺賢"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119407,
+              "name": {
+                "full": "Arthur Lounsbery",
+                "native": "ランズベリー・アーサー"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1963,
+            "name": {
+              "full": "Hikari Yagami",
+              "native": "八神ヒカリ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118510,
+              "name": {
+                "full": "Mao Ichimichi",
+                "native": "市道真央"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 4165,
+            "name": {
+              "full": "Miyako Inoue",
+              "native": "井ノ上京"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118939,
+              "name": {
+                "full": "Ayaka Asai",
+                "native": "朝井彩加"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 4166,
+            "name": {
+              "full": "Iori Hida",
+              "native": "火田伊織"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118591,
+              "name": {
+                "full": "Yoshitaka Yamaya",
+                "native": "山谷祥生"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 6680,
+            "name": {
+              "full": "Wormmon",
+              "native": "ワームモン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95047,
+              "name": {
+                "full": "Naozumi Takahashi",
+                "native": "高橋直純"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787365307,
+    "idTmdb": 872976,
+    "idImdb": "tt22474136",
+    "idTvdb": null,
+    "idTrakt": 698593,
+    "traktSlug": "digimon-adventure-02-the-beginning-2023",
+    "idSimkl": 1699255,
+    "idShikimori": 49523
   }
 }

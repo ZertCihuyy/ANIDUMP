@@ -1631,7 +1631,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 10646,
-    "trending": 0,
+    "trending": 1,
     "favourites": 211,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2541,7 +2541,7 @@
         }
       ]
     },
-    "updatedAt": 1787364123,
+    "updatedAt": 1787365277,
     "idTmdb": 75086,
     "idImdb": "tt4621212",
     "idTvdb": 266581,
@@ -5459,7 +5459,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 181718,
-    "trending": 4,
+    "trending": 1,
     "favourites": 3386,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6119,7 +6119,7 @@
         }
       ]
     },
-    "updatedAt": 1787364020,
+    "updatedAt": 1787365284,
     "idTmdb": 45783,
     "idImdb": "tt2348803",
     "idTvdb": 257765,
@@ -12298,7 +12298,7 @@
     "averageScore": 85,
     "meanScore": 85,
     "popularity": 1045274,
-    "trending": 15,
+    "trending": 19,
     "favourites": 86320,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13107,7 +13107,7 @@
         }
       ]
     },
-    "updatedAt": 1787364030,
+    "updatedAt": 1787365212,
     "idTmdb": 1429,
     "idImdb": "tt2560140",
     "idTvdb": 267440,
@@ -17647,7 +17647,7 @@
     "averageScore": 75,
     "meanScore": 75,
     "popularity": 246253,
-    "trending": 1,
+    "trending": 3,
     "favourites": 5530,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -17976,7 +17976,7 @@
         }
       ]
     },
-    "updatedAt": 1787364078,
+    "updatedAt": 1787365207,
     "idTmdb": 198375,
     "idImdb": "tt2591814",
     "idTvdb": null,
@@ -20193,5 +20193,402 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 16602
+  },
+  "16241": {
+    "id": 16241,
+    "idMal": 16241,
+    "title": {
+      "romaji": "Yondemasu yo, Azazel-san. Z",
+      "english": "You're Being Summoned, Azazel Z",
+      "native": "よんでますよ、アザゼルさん。Z"
+    },
+    "type": "ANIME",
+    "format": "TV_SHORT",
+    "status": "FINISHED",
+    "description": "The second season of Yondemasu yo, Azazel-san.",
+    "episodes": 13,
+    "duration": 12,
+    "season": "SPRING",
+    "seasonYear": 2013,
+    "startDate": {
+      "year": 2013,
+      "month": 4,
+      "day": 7
+    },
+    "endDate": {
+      "year": 2013,
+      "month": 6,
+      "day": 30
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16241.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16241.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/16241.jpg",
+      "color": "#d6861a"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "Yondemasu yo",
+      "Azazel-san. 2nd Season"
+    ],
+    "averageScore": 73,
+    "meanScore": 74,
+    "popularity": 8503,
+    "trending": 1,
+    "favourites": 66,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 10216,
+            "title": {
+              "romaji": "Yondemasu yo, Azazel-san. (TV)",
+              "english": "You're Being Summoned, Azazel"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2011,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/10216.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 52114,
+            "title": {
+              "romaji": "Yondemasu yo, Azazel-san.",
+              "english": "You're Being Summoned"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/22114.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 15,
+        "name": "Demons",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1367,
+        "name": "Hypersexuality",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 83,
+        "name": "Slapstick",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 94,
+        "name": "Gore",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 80,
+        "name": "Satire",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 558,
+        "name": "Mermaid",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 870,
+        "name": "Cannibalism",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 144,
+        "name": "Meta",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1709,
+        "name": "Cheating",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 155,
+        "name": "Rape",
+        "rank": 10,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 10,
+            "name": "Production I.G"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 33171,
+            "name": {
+              "full": "Azazel",
+              "native": "アザゼル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95173,
+              "name": {
+                "full": "Masaya Onosaka",
+                "native": "小野坂昌也"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 33172,
+            "name": {
+              "full": "Rinko Sakuma",
+              "native": "佐隈リん子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95241,
+              "name": {
+                "full": "Rina Satou",
+                "native": "佐藤利奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 33173,
+            "name": {
+              "full": "Akutabe",
+              "native": "芥辺"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95087,
+              "name": {
+                "full": "Daisuke Namikawa",
+                "native": "浪川大輔"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 40848,
+            "name": {
+              "full": "Beelzebub",
+              "native": "ベルゼブブ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95118,
+              "name": {
+                "full": "Hiroshi Kamiya",
+                "native": "神谷浩史"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 40849,
+            "name": {
+              "full": "Salamander",
+              "native": "サラマンダー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95123,
+              "name": {
+                "full": "Kazuya Nakai",
+                "native": "中井和哉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 40850,
+            "name": {
+              "full": "Undine",
+              "native": "アンダイン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95034,
+              "name": {
+                "full": "Yuu Kobayashi",
+                "native": "小林ゆう"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 41886,
+            "name": {
+              "full": "Kiyoko",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95008,
+              "name": {
+                "full": "Rie Kugimiya",
+                "native": "釘宮理恵"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 42780,
+            "name": {
+              "full": "Sariel",
+              "native": "サリエル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95134,
+              "name": {
+                "full": "Takeshi Kusao",
+                "native": "草尾毅"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 42857,
+            "name": {
+              "full": "Koutarou Douchin",
+              "native": "堂珍光太郎"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95348,
+              "name": {
+                "full": "Ryouko Shiraishi",
+                "native": "白石涼子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 43909,
+            "name": {
+              "full": "God",
+              "native": "神"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95237,
+              "name": {
+                "full": "Juurouta Kosugi",
+                "native": "小杉十郎太"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787365295,
+    "idTmdb": 49294,
+    "idImdb": "tt8869838",
+    "idTvdb": 247911,
+    "idTrakt": 63582,
+    "traktSlug": "you-re-being-summoned-azazel-san",
+    "idSimkl": 643273,
+    "idShikimori": 16241
   }
 }

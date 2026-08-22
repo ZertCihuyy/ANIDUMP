@@ -45,7 +45,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 13271,
-    "trending": 0,
+    "trending": 2,
     "favourites": 426,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -372,7 +372,7 @@
         }
       ]
     },
-    "updatedAt": 1787357343,
+    "updatedAt": 1787365287,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1203,7 +1203,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 101045,
-    "trending": 11,
+    "trending": 10,
     "favourites": 3147,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1700,7 +1700,7 @@
         }
       ]
     },
-    "updatedAt": 1787364032,
+    "updatedAt": 1787365235,
     "idTmdb": 138357,
     "idImdb": "tt15975122",
     "idTvdb": 412374,
@@ -1756,7 +1756,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 74333,
-    "trending": 3,
+    "trending": 2,
     "favourites": 1410,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2305,7 +2305,7 @@
         }
       ]
     },
-    "updatedAt": 1787364035,
+    "updatedAt": 1787365281,
     "idTmdb": 276253,
     "idImdb": "tt32524709",
     "idTvdb": 447246,
@@ -6251,5 +6251,179 @@
     "traktSlug": "babanba-banban-vampire",
     "idSimkl": 2390672,
     "idShikimori": 58265
+  },
+  "175052": {
+    "id": 175052,
+    "idMal": 58143,
+    "title": {
+      "romaji": "Aishang Ta de Liyou Extra",
+      "english": "The Girl Downstairs SP",
+      "native": "爱上她的理由 番外"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 1,
+    "duration": 10,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2024,
+      "month": 2,
+      "day": 13
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 2,
+      "day": 13
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175052-GsqkZ8XxuNHc.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx175052-GsqkZ8XxuNHc.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175052-GsqkZ8XxuNHc.png",
+      "color": "#f1c9f1"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "synonyms": [
+      "The Girl Downstairs Extra"
+    ],
+    "averageScore": 76,
+    "meanScore": 78,
+    "popularity": 3815,
+    "trending": 1,
+    "favourites": 81,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.bilibili.tv/en/play/2080306/13161821",
+        "site": "Bilibili TV",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 113328,
+            "title": {
+              "romaji": "Lee Du-Na!",
+              "english": "The Girl Downstairs"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx113328-oFbeeqHFXNxr.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 156111,
+            "title": {
+              "romaji": "Aishang Ta De Liyou",
+              "english": "The Girl Downstairs"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx156111-ZABTgci6m9sN.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1433,
+        "name": "Marriage",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 87,
+        "name": "Family Life",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7050,
+            "name": "Red Dog Culture House"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 187917,
+            "name": {
+              "full": "Du-Na Lee",
+              "native": "이두나"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 187918,
+            "name": {
+              "full": "Won-Jun Lee",
+              "native": "이원준"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787365282,
+    "idTmdb": 223515,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2478182,
+    "idShikimori": 58143
   }
 }

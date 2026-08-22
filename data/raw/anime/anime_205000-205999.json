@@ -966,7 +966,7 @@
     "averageScore": 76,
     "meanScore": 85,
     "popularity": 1032,
-    "trending": 0,
+    "trending": 1,
     "favourites": 59,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1069,7 +1069,7 @@
         }
       ]
     },
-    "updatedAt": 1787360559,
+    "updatedAt": 1787365278,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1119,7 +1119,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 14044,
-    "trending": 3,
+    "trending": 4,
     "favourites": 182,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1149,7 +1149,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791556200,
-      "timeUntilAiring": 4191308,
+      "timeUntilAiring": 4190315,
       "episode": 1
     },
     "relations": {
@@ -1339,7 +1339,7 @@
         }
       ]
     },
-    "updatedAt": 1787357394,
+    "updatedAt": 1787365219,
     "idTmdb": 320909,
     "idImdb": "tt39394153",
     "idTvdb": 472641,
@@ -2119,7 +2119,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1863,
-    "trending": 0,
+    "trending": 1,
     "favourites": 25,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -2236,7 +2236,7 @@
         }
       ]
     },
-    "updatedAt": 1787357393,
+    "updatedAt": 1787365309,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2244,5 +2244,347 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 63235
+  },
+  "205054": {
+    "id": 205054,
+    "idMal": 63266,
+    "title": {
+      "romaji": "Tensei Akujo no Kuro Rekishi OVA",
+      "english": "The Dark History of the Reincarnated Villainess: Yomi, Jealousy, and a Birthday / Iana and Sol's Feverish Day",
+      "native": "転生悪女の黒歴史 OVA"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "Blu-ray bundled with a special edition of the 18th volume of the manga adapting the <i>Yomi to Shittou to Tanjoubi</i> and <i>Iana to Sol Netsuppoi Tsuitachi</i> stories.",
+    "episodes": 1,
+    "duration": 24,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 4,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 4,
+      "day": 3
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205054-yDlMfYNpj3M1.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205054-yDlMfYNpj3M1.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205054-yDlMfYNpj3M1.jpg",
+      "color": "#fff143"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "synonyms": [
+      "The Dark History of the Reincarnated Villainess OVA",
+      "TenKuro OVA",
+      "The Dark History of the Reincarnated Villainess Episode 13"
+    ],
+    "averageScore": 69,
+    "meanScore": 71,
+    "popularity": 2370,
+    "trending": 1,
+    "favourites": 35,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://x.com/tenkuro_PR",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://tenkuro-pr.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.crunchyroll.com/series/GG5H5XQZQ/",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 117662,
+            "title": {
+              "romaji": "Tensei Akujo no Kuro Rekishi",
+              "english": "The Dark History of the Reincarnated Villainess"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx117662-kwZbHouWQANg.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 174914,
+            "title": {
+              "romaji": "Tensei Akujo no Kuro Rekishi",
+              "english": "The Dark History of the Reincarnated Villainess"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174914-RfPIqbrapByY.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 53,
+        "name": "Shoujo",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 488,
+        "name": "Age Regression",
+        "rank": 50,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 244,
+        "name": "Isekai",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 243,
+        "name": "Reincarnation",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 857,
+        "name": "Villainess",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 39,
+        "name": "Parody",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 37,
+            "name": "Studio DEEN"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 327283,
+            "name": {
+              "full": "Iana Magnolia",
+              "native": "イアナ・マグノリア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118475,
+              "name": {
+                "full": "Yoshino Aoyama",
+                "native": "青山吉能"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 350719,
+            "name": {
+              "full": "Konoha Magnolia",
+              "native": "コノハ・マグノリア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118510,
+              "name": {
+                "full": "Mao Ichimichi",
+                "native": "市道真央"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 350720,
+            "name": {
+              "full": "Sol Nemophila",
+              "native": "ソル・ネモフィラ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 123613,
+              "name": {
+                "full": "Shouhei Komatsu",
+                "native": "小松昌平"
+              }
+            },
+            {
+              "id": 249674,
+              "name": {
+                "full": "Saki Kobari",
+                "native": "小針彩希"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 350721,
+            "name": {
+              "full": "Ginoford Dandelion",
+              "native": "ギノフォード・ダンデライオン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 112635,
+              "name": {
+                "full": "Makoto Furukawa",
+                "native": "古川慎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 367221,
+            "name": {
+              "full": "Yomi Blacksarana",
+              "native": "ヨミ・ブラックサレナ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 123971,
+              "name": {
+                "full": "Shunichi Toki",
+                "native": "土岐隼一"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 379659,
+            "name": {
+              "full": "Satou Konoha no Haha",
+              "native": "佐藤コノハの母"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106162,
+              "name": {
+                "full": "Yukiyo Fujii",
+                "native": "藤井ゆきよ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 384847,
+            "name": {
+              "full": "Yatori Ranunculus",
+              "native": "ヤトリ・ラナンキュラス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95087,
+              "name": {
+                "full": "Daisuke Namikawa",
+                "native": "浪川大輔"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 384848,
+            "name": {
+              "full": "Ognis",
+              "native": "オーグニース"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95735,
+              "name": {
+                "full": "Tatsuhisa Suzuki",
+                "native": "鈴木達央"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787365275,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 63266
   }
 }

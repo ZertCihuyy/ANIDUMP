@@ -1596,7 +1596,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 22588,
-    "trending": 0,
+    "trending": 1,
     "favourites": 176,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1630,7 +1630,13 @@
               "romaji": "Make Heroine ga Oosugiru! @comic",
               "english": "Too Many Losing Heroines!"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx147664-k48ADp7MMEyl.jpg"
+            }
           }
         },
         {
@@ -1641,7 +1647,13 @@
               "romaji": "Make Heroine ga Oosugiru!",
               "english": "Makeine: Too Many Losing Heroines!"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171457-nmMIk0gNiWsm.jpg"
+            }
           }
         },
         {
@@ -1652,7 +1664,13 @@
               "romaji": "Make Heroine ga Oosugiru!",
               "english": "Too Many Losing Heroines!"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx135276-BGRuVuGlHIQY.jpg"
+            }
           }
         }
       ]
@@ -1785,7 +1803,14 @@
         }
       ]
     },
-    "updatedAt": 1787353355
+    "updatedAt": 1787365306,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2747954,
+    "idShikimori": 61398
   },
   "189123": {
     "id": 189123,
@@ -2207,7 +2232,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 36965,
-    "trending": 4,
+    "trending": 7,
     "favourites": 815,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2666,7 +2691,7 @@
         }
       ]
     },
-    "updatedAt": 1787364095,
+    "updatedAt": 1787365237,
     "idTmdb": 288551,
     "idImdb": "tt39443960",
     "idTvdb": 462400,
@@ -4096,7 +4121,7 @@
     "averageScore": 85,
     "meanScore": 85,
     "popularity": 86044,
-    "trending": 6,
+    "trending": 7,
     "favourites": 1980,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4669,7 +4694,7 @@
         }
       ]
     },
-    "updatedAt": 1787364067,
+    "updatedAt": 1787365208,
     "idTmdb": 86031,
     "idImdb": "tt9679542",
     "idTvdb": 355774,

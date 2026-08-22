@@ -950,7 +950,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 40200,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1000,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1062,7 +1062,13 @@
               "romaji": "Shiro Seijo to Kuro Bokushi",
               "english": "Saint Cecilia and Pastor Lawrence"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx107112-KSuEkdir6dng.png"
+            }
           }
         },
         {
@@ -1073,7 +1079,13 @@
               "romaji": "Tokosiesta",
               "english": "tokosiesta"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167647-sxBkwjptzLlf.png"
+            }
           }
         }
       ]
@@ -1414,7 +1426,7 @@
         }
       ]
     },
-    "updatedAt": 1787357308,
+    "updatedAt": 1787365301,
     "idTmdb": 204148,
     "idImdb": "tt22297732",
     "idTvdb": 421283,
@@ -1479,7 +1491,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 325930,
-    "trending": 8,
+    "trending": 10,
     "favourites": 18693,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2062,7 +2074,7 @@
         }
       ]
     },
-    "updatedAt": 1787364037,
+    "updatedAt": 1787365224,
     "idTmdb": 203737,
     "idImdb": "tt21030032",
     "idTvdb": 421069,
@@ -2672,7 +2684,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 122315,
-    "trending": 4,
+    "trending": 3,
     "favourites": 2036,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3124,7 +3136,7 @@
         }
       ]
     },
-    "updatedAt": 1787364027,
+    "updatedAt": 1787365234,
     "idTmdb": 203040,
     "idImdb": "tt27329086",
     "idTvdb": 420657,
@@ -5130,5 +5142,399 @@
     "traktSlug": null,
     "idSimkl": 2037600,
     "idShikimori": 52949
+  },
+  "150930": {
+    "id": 150930,
+    "idMal": 52080,
+    "title": {
+      "romaji": "Murai no Koi",
+      "english": "Murai In Love",
+      "native": "村井の恋"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "The slightly strange high school student Murai confessed love to his teacher and otome-game fanatic Tanaka-sensei. She refused by telling him she's not interested in (real-life) long, black-haired boys. The next day, Murai came back with short blonde hair, which made him look just like Tanaka-sensei's favorite game character! A non-stop romantic comedy between a stubborn high school boy and his favorite teacher!",
+    "episodes": 12,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2024,
+    "startDate": {
+      "year": 2024,
+      "month": 9,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 11,
+      "day": 20
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150930-1GEK1mYfVNca.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150930-1GEK1mYfVNca.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx150930-1GEK1mYfVNca.jpg",
+      "color": "#50bbe4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "synonyms": [
+      "村井之戀",
+      "Zakochany Murai"
+    ],
+    "averageScore": 70,
+    "meanScore": 70,
+    "popularity": 9518,
+    "trending": 1,
+    "favourites": 179,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "QqoKgfLYrPU",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/QqoKgfLYrPU/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/murai_in_love",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.disneyplus.com/series/murai-in-love/5j3KdttxP8Z6",
+        "site": "Disney Plus",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://murainokoi-anime.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.hulu.com/series/murai-in-love-cd0d005f-85d3-4d8c-bfc7-a46be3f9a2ce",
+        "site": "Hulu",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.hulu.com/series/72290252-174e-45f3-87f2-0ad7968f1bf7",
+        "site": "Hulu",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 130256,
+            "title": {
+              "romaji": "Murai no Koi",
+              "english": "Murai in Love"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx130256-UYTHvIGIwa3R.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 53,
+        "name": "Shoujo",
+        "rank": 85,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 102,
+        "name": "Coming of Age",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 83,
+        "name": "Slapstick",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 138,
+        "name": "Age Gap",
+        "rank": 76,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 165,
+        "name": "Teacher",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 97,
+        "name": "Otaku Culture",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7,
+            "name": "J.C.STAFF"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 53,
+            "name": "Dentsu"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7,
+            "name": "J.C.STAFF"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 326845,
+            "name": {
+              "full": "Chisato Murai",
+              "native": "村井千里"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 110477,
+              "name": {
+                "full": "Kengo Takanashi",
+                "native": "高梨謙吾"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 326844,
+            "name": {
+              "full": "Ayano Tanaka",
+              "native": "田中彩乃"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102263,
+              "name": {
+                "full": "Youko Hikasa",
+                "native": "日笠陽子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 326846,
+            "name": {
+              "full": "Hitotose",
+              "native": "春夏秋冬"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105989,
+              "name": {
+                "full": "Nobunaga Shimazaki",
+                "native": "島﨑信長"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 339770,
+            "name": {
+              "full": "Kiriyama",
+              "native": "桐山"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119871,
+              "name": {
+                "full": "Kouhei Amasaki",
+                "native": "天崎滉平"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 339771,
+            "name": {
+              "full": "Hirai",
+              "native": "平井"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119200,
+              "name": {
+                "full": "Haruki Ishiya",
+                "native": "石谷春貴"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 339772,
+            "name": {
+              "full": "Yamakado",
+              "native": "山門"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95042,
+              "name": {
+                "full": "Masaya Matsukaze",
+                "native": "松風雅也"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 376707,
+            "name": {
+              "full": "Hitomi Nifuji",
+              "native": "西藤仁美"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 225570,
+              "name": {
+                "full": "Riko",
+                "native": "莉子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 376708,
+            "name": {
+              "full": "Yuuka Nifuji",
+              "native": "西藤悠加"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 182243,
+              "name": {
+                "full": "Noa Tsurushima",
+                "native": "鶴嶋乃愛"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 376709,
+            "name": {
+              "full": "Yayoi Fukunaga",
+              "native": "福永弥生"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 281127,
+              "name": {
+                "full": "Nanoka Hara",
+                "native": "原菜乃華"
+              }
+            }
+          ]
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 36309,
+            "name": {
+              "full": "Narrator",
+              "native": "ナレーター"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95337,
+              "name": {
+                "full": "Houchuu Ootsuka",
+                "native": "大塚芳忠"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787365281,
+    "idTmdb": 204098,
+    "idImdb": "tt31308294",
+    "idTvdb": 427822,
+    "idTrakt": 226294,
+    "traktSlug": "murai-in-love-2024",
+    "idSimkl": 1932644,
+    "idShikimori": 52080
   }
 }

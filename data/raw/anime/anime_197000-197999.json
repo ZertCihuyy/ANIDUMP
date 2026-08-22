@@ -209,7 +209,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 15020,
-    "trending": 1,
+    "trending": 0,
     "favourites": 206,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -497,7 +497,7 @@
         }
       ]
     },
-    "updatedAt": 1787364056,
+    "updatedAt": 1787365310,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1165,7 +1165,7 @@
     "averageScore": 61,
     "meanScore": 62,
     "popularity": 41276,
-    "trending": 21,
+    "trending": 19,
     "favourites": 475,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1205,7 +1205,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787583600,
-      "timeUntilAiring": 218833,
+      "timeUntilAiring": 217715,
       "episode": 21
     },
     "relations": {
@@ -1515,7 +1515,7 @@
         }
       ]
     },
-    "updatedAt": 1787364013,
+    "updatedAt": 1787365219,
     "idTmdb": 300126,
     "idImdb": "tt39229633",
     "idTvdb": 467209,
@@ -1567,7 +1567,7 @@
     "averageScore": 61,
     "meanScore": 61,
     "popularity": 34546,
-    "trending": 32,
+    "trending": 30,
     "favourites": 453,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1597,7 +1597,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787756400,
-      "timeUntilAiring": 391628,
+      "timeUntilAiring": 390493,
       "episode": 10
     },
     "relations": {
@@ -1972,7 +1972,7 @@
         }
       ]
     },
-    "updatedAt": 1787364009,
+    "updatedAt": 1787365199,
     "idTmdb": 298994,
     "idImdb": "tt38262097",
     "idTvdb": 467127,
@@ -2022,7 +2022,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 50617,
-    "trending": 9,
+    "trending": 8,
     "favourites": 1118,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2505,7 +2505,7 @@
         }
       ]
     },
-    "updatedAt": 1787364047,
+    "updatedAt": 1787365200,
     "idTmdb": 196285,
     "idImdb": "tt19223420",
     "idTvdb": 418367,
@@ -2557,7 +2557,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 11445,
-    "trending": 0,
+    "trending": 1,
     "favourites": 146,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2606,7 +2606,13 @@
               "romaji": "Goumon Baito-kun no Nichijou",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx173242-HwcZ4etdUOEl.jpg"
+            }
           }
         }
       ]
@@ -2933,7 +2939,7 @@
         }
       ]
     },
-    "updatedAt": 1787353355,
+    "updatedAt": 1787365277,
     "idTmdb": 305163,
     "idImdb": "tt38976904",
     "idTvdb": 464977,

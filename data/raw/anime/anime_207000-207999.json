@@ -422,7 +422,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 4472,
-    "trending": 1,
+    "trending": 0,
     "favourites": 44,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -581,7 +581,7 @@
         }
       ]
     },
-    "updatedAt": 1787357404,
+    "updatedAt": 1787365310,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1623,7 +1623,7 @@
     "averageScore": 67,
     "meanScore": 68,
     "popularity": 66410,
-    "trending": 122,
+    "trending": 123,
     "favourites": 1151,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1673,7 +1673,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788449400,
-      "timeUntilAiring": 1084628,
+      "timeUntilAiring": 1083493,
       "episode": 9
     },
     "relations": {
@@ -2081,7 +2081,7 @@
         }
       ]
     },
-    "updatedAt": 1787364007,
+    "updatedAt": 1787365198,
     "idTmdb": 312949,
     "idImdb": "tt39551330",
     "idTvdb": 473423,
@@ -2601,7 +2601,7 @@
     "averageScore": 52,
     "meanScore": 56,
     "popularity": 1918,
-    "trending": 3,
+    "trending": 1,
     "favourites": 17,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2636,7 +2636,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787759040,
-      "timeUntilAiring": 404413,
+      "timeUntilAiring": 393230,
       "episode": 8
     },
     "relations": {
@@ -2649,7 +2649,13 @@
               "romaji": "Thunder 3",
               "english": "Thunder 3"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx148439-leEc2ZjulAgn.jpg"
+            }
           }
         }
       ]
@@ -3021,7 +3027,14 @@
         }
       ]
     },
-    "updatedAt": 1787353290
+    "updatedAt": 1787365302,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 3012816,
+    "idShikimori": 63418
   },
   "207327": {
     "id": 207327,

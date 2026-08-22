@@ -242,7 +242,7 @@
     "averageScore": 69,
     "meanScore": 73,
     "popularity": 2172,
-    "trending": 1,
+    "trending": 0,
     "favourites": 25,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -521,7 +521,7 @@
         }
       ]
     },
-    "updatedAt": 1787364058,
+    "updatedAt": 1787365310,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2262,7 +2262,7 @@
     "averageScore": null,
     "meanScore": 82,
     "popularity": 416,
-    "trending": 0,
+    "trending": 1,
     "favourites": 17,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -2287,7 +2287,13 @@
               "romaji": "Cang Yuan Tu",
               "english": "Azure Legacy"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b126834-fp5tIXzFmnYc.jpg"
+            }
           }
         },
         {
@@ -2298,7 +2304,13 @@
               "romaji": "Cang Yuan Tu Qianzhuan: Dongning Fu de Xiatian",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213663-97K7V8EpIlcA.jpg"
+            }
           }
         }
       ]
@@ -2325,7 +2337,14 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787353355
+    "updatedAt": 1787365288,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 62651
   },
   "206814": {
     "id": 206814,
@@ -2391,7 +2410,13 @@
               "romaji": "Dragon Ball Z: Kami to Kami",
               "english": "Dragon Ball Z: Battle of Gods"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2013,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/14837.jpg"
+            }
           }
         },
         {
@@ -2402,7 +2427,13 @@
               "romaji": "Dragon Ball Super",
               "english": "Dragon Ball Super"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2015,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21175-EH06qlfF8TnB.jpg"
+            }
           }
         },
         {
@@ -2413,7 +2444,13 @@
               "romaji": "Dragon Ball Z",
               "english": "Dragon Ball Z"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 1989,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx813-ZhnFNOeCU5dQ.png"
+            }
           }
         },
         {
@@ -2424,7 +2461,13 @@
               "romaji": "Dragon Ball Kai (2014)",
               "english": "Dragon Ball Z Kai: The Final Chapters"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2014,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20635-gUYy4KZfYRb0.jpg"
+            }
           }
         }
       ]
@@ -2605,7 +2648,7 @@
         }
       ]
     },
-    "updatedAt": 1787353308,
+    "updatedAt": 1787365304,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2663,7 +2706,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 55787,
-    "trending": 4,
+    "trending": 2,
     "favourites": 1841,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3057,7 +3100,7 @@
         }
       ]
     },
-    "updatedAt": 1787364033,
+    "updatedAt": 1787365261,
     "idTmdb": 312474,
     "idImdb": "tt40548519",
     "idTvdb": 473228,
@@ -5767,7 +5810,7 @@
     "averageScore": null,
     "meanScore": 74,
     "popularity": 290,
-    "trending": 1,
+    "trending": 0,
     "favourites": 6,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -5866,7 +5909,7 @@
         }
       ]
     },
-    "updatedAt": 1787364048,
+    "updatedAt": 1787365310,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -5874,5 +5917,233 @@
     "traktSlug": null,
     "idSimkl": 3038252,
     "idShikimori": 62280
+  },
+  "206812": {
+    "id": 206812,
+    "idMal": 63368,
+    "title": {
+      "romaji": "Dragon Ball Super: Ginga Patrol",
+      "english": null,
+      "native": "ドラゴンボール超 銀河パトロール"
+    },
+    "type": "ANIME",
+    "format": null,
+    "status": "NOT_YET_RELEASED",
+    "description": "The main character, Son Goku, and Vegeta, work together with the members of the Galactic Patrol, the peacekeepers of the galaxy, to begin a SUPER scale battle against a new enemy, “Planet-Eater” Moro!\n<br><br>\n(Source: Dragon Ball Official Site)",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206812-XMuteotGcnU8.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206812-XMuteotGcnU8.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206812-XMuteotGcnU8.jpg",
+      "color": "#f1a135"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "synonyms": [
+      "Dragon Ball Super: The Galactic Patrol"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 9581,
+    "trending": 1,
+    "favourites": 174,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 86508,
+            "title": {
+              "romaji": "Dragon Ball Super",
+              "english": "Dragon Ball Super"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx86508-QSahE7mTFEXl.png"
+            }
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 101302,
+            "title": {
+              "romaji": "Dragon Ball Super: Broly",
+              "english": "Dragon Ball Super: Broly"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2018,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx101302-7L0lcwYeFQQM.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 133898,
+            "title": {
+              "romaji": "Dragon Ball Super: Super Hero",
+              "english": "Dragon Ball Super: SUPER HERO"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx133898-KdQ7fWTG06n4.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 30,
+        "name": "Martial Arts",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 99,
+        "name": "Henshin",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 191,
+        "name": "Aliens",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 63,
+        "name": "Space",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1068,
+        "name": "Angels",
+        "rank": 50,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6570,
+            "name": "Shueisha"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 18,
+            "name": "Toei Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 246,
+            "name": {
+              "full": "Gokuu Son",
+              "native": "孫悟空"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 913,
+            "name": {
+              "full": "Vegeta",
+              "native": "ベジータ"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787365304,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 3004092,
+    "idShikimori": 63368
   }
 }

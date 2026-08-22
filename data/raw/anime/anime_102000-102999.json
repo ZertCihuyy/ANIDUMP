@@ -1659,7 +1659,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 240832,
-    "trending": 2,
+    "trending": 1,
     "favourites": 6445,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2180,7 +2180,7 @@
         }
       ]
     },
-    "updatedAt": 1787360512,
+    "updatedAt": 1787365264,
     "idTmdb": 532067,
     "idImdb": "tt9239552",
     "idTvdb": null,
@@ -2672,7 +2672,7 @@
     "averageScore": 77,
     "meanScore": 78,
     "popularity": 16446,
-    "trending": 0,
+    "trending": 1,
     "favourites": 221,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2707,7 +2707,13 @@
               "romaji": "Gakuen Babysitters",
               "english": "School Babysitters"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2018,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98503-oUCGDkv2osNK.jpg"
+            }
           }
         },
         {
@@ -2718,7 +2724,13 @@
               "romaji": "Gakuen Babysitters",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx46922-tdLvDn26ha2n.jpg"
+            }
           }
         }
       ]
@@ -2972,7 +2984,14 @@
         }
       ]
     },
-    "updatedAt": 1787353355
+    "updatedAt": 1787365281,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 37959
   },
   "102977": {
     "id": 102977,
@@ -3018,7 +3037,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 64783,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1388,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3779,7 +3798,7 @@
         }
       ]
     },
-    "updatedAt": 1787360539,
+    "updatedAt": 1787365310,
     "idTmdb": 76757,
     "idImdb": "tt8225204",
     "idTvdb": 338455,
@@ -7178,7 +7197,7 @@
     "averageScore": 59,
     "meanScore": 61,
     "popularity": 2946,
-    "trending": 1,
+    "trending": 0,
     "favourites": 36,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -7367,7 +7386,7 @@
         }
       ]
     },
-    "updatedAt": 1787364060,
+    "updatedAt": 1787365310,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7893,7 +7912,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 31734,
-    "trending": 0,
+    "trending": 1,
     "favourites": 625,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -8243,7 +8262,7 @@
         }
       ]
     },
-    "updatedAt": 1787360559,
+    "updatedAt": 1787365278,
     "idTmdb": 71194,
     "idImdb": "tt6859260",
     "idTvdb": 326270,
@@ -10545,7 +10564,7 @@
     "averageScore": 67,
     "meanScore": 68,
     "popularity": 3359,
-    "trending": 1,
+    "trending": 0,
     "favourites": 38,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10626,7 +10645,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787364061,
+    "updatedAt": 1787365310,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -10679,7 +10698,7 @@
     "averageScore": 64,
     "meanScore": 67,
     "popularity": 1181,
-    "trending": 1,
+    "trending": 0,
     "favourites": 21,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -10777,7 +10796,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787364050,
+    "updatedAt": 1787365310,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -10833,7 +10852,7 @@
     "averageScore": 64,
     "meanScore": 68,
     "popularity": 1062,
-    "trending": 1,
+    "trending": 0,
     "favourites": 17,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -10883,7 +10902,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787364050,
+    "updatedAt": 1787365310,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

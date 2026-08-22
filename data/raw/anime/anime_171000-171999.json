@@ -41,7 +41,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 24769,
-    "trending": 0,
+    "trending": 1,
     "favourites": 389,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -344,7 +344,7 @@
         }
       ]
     },
-    "updatedAt": 1787360559,
+    "updatedAt": 1787365273,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1380,7 +1380,7 @@
     "averageScore": 76,
     "meanScore": 77,
     "popularity": 5690,
-    "trending": 1,
+    "trending": 0,
     "favourites": 282,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2546,7 +2546,7 @@
         }
       ]
     },
-    "updatedAt": 1787364024,
+    "updatedAt": 1787365310,
     "idTmdb": 243216,
     "idImdb": "tt30608459",
     "idTvdb": 442938,
@@ -2598,7 +2598,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 23714,
-    "trending": 0,
+    "trending": 1,
     "favourites": 460,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3146,7 +3146,7 @@
         }
       ]
     },
-    "updatedAt": 1787360559,
+    "updatedAt": 1787365307,
     "idTmdb": 210879,
     "idImdb": "tt22249034",
     "idTvdb": 413578,
@@ -3575,7 +3575,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 47304,
-    "trending": 1,
+    "trending": 2,
     "favourites": 760,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3609,7 +3609,13 @@
               "romaji": "Kage no Jitsuryokusha ni Naritakute! 2nd season",
               "english": "The Eminence in Shadow Season 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx161964-JpkEbHI8ivaP.jpg"
+            }
           }
         },
         {
@@ -3620,7 +3626,13 @@
               "romaji": "Kage no Jitsuryokusha ni Naritakute!",
               "english": "The Eminence in Shadow"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx108428-wTg20rSpvkU9.jpg"
+            }
           }
         },
         {
@@ -3631,7 +3643,13 @@
               "romaji": "Kage no Jitsuryokusha ni Naritakute!",
               "english": "The Eminence in Shadow"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx106758-jtXpQYQqyNJv.jpg"
+            }
           }
         }
       ]
@@ -3803,7 +3821,14 @@
         }
       ]
     },
-    "updatedAt": 1787349721
+    "updatedAt": 1787365234,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2328152,
+    "idShikimori": 57584
   },
   "171545": {
     "id": 171545,
@@ -4565,7 +4590,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 87490,
-    "trending": 5,
+    "trending": 3,
     "favourites": 1993,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5107,7 +5132,7 @@
         }
       ]
     },
-    "updatedAt": 1787364029,
+    "updatedAt": 1787365220,
     "idTmdb": 82739,
     "idImdb": "tt8993398",
     "idTvdb": 345596,
@@ -5164,7 +5189,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 129792,
-    "trending": 6,
+    "trending": 7,
     "favourites": 5098,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5714,7 +5739,7 @@
         }
       ]
     },
-    "updatedAt": 1787364068,
+    "updatedAt": 1787365241,
     "idTmdb": 241535,
     "idImdb": "tt32332831",
     "idTvdb": 443377,
@@ -5769,7 +5794,7 @@
     "averageScore": 76,
     "meanScore": 77,
     "popularity": 37462,
-    "trending": 17,
+    "trending": 14,
     "favourites": 641,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5799,7 +5824,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787387400,
-      "timeUntilAiring": 22637,
+      "timeUntilAiring": 21493,
       "episode": 19
     },
     "relations": {
@@ -6252,7 +6277,7 @@
         }
       ]
     },
-    "updatedAt": 1787364017,
+    "updatedAt": 1787365201,
     "idTmdb": 91768,
     "idImdb": "tt10885406",
     "idTvdb": 366263,
@@ -8446,7 +8471,7 @@
     "averageScore": 83,
     "meanScore": 83,
     "popularity": 379574,
-    "trending": 6,
+    "trending": 5,
     "favourites": 18976,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9007,7 +9032,7 @@
         }
       ]
     },
-    "updatedAt": 1787364025,
+    "updatedAt": 1787365207,
     "idTmdb": 240411,
     "idImdb": "tt30217403",
     "idTvdb": 432832,
