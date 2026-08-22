@@ -1696,7 +1696,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 240832,
-    "trending": 6,
+    "trending": 4,
     "favourites": 6445,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2217,7 +2217,7 @@
         }
       ]
     },
-    "updatedAt": 1787396426,
+    "updatedAt": 1787400062,
     "idTmdb": 532067,
     "idImdb": "tt9239552",
     "idTvdb": null,
@@ -2267,7 +2267,7 @@
     "averageScore": 64,
     "meanScore": 64,
     "popularity": 23345,
-    "trending": 1,
+    "trending": 0,
     "favourites": 262,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2666,7 +2666,7 @@
         }
       ]
     },
-    "updatedAt": 1787396414,
+    "updatedAt": 1787400106,
     "idTmdb": 85935,
     "idImdb": "tt10022916",
     "idTvdb": 358331,
@@ -2721,7 +2721,7 @@
     "averageScore": 77,
     "meanScore": 78,
     "popularity": 16446,
-    "trending": 1,
+    "trending": 0,
     "favourites": 221,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3033,7 +3033,7 @@
         }
       ]
     },
-    "updatedAt": 1787396436,
+    "updatedAt": 1787400106,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3086,7 +3086,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 64783,
-    "trending": 2,
+    "trending": 3,
     "favourites": 1388,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3847,7 +3847,7 @@
         }
       ]
     },
-    "updatedAt": 1787392916,
+    "updatedAt": 1787400055,
     "idTmdb": 76757,
     "idImdb": "tt8225204",
     "idTvdb": 338455,
@@ -3903,7 +3903,7 @@
     "averageScore": 61,
     "meanScore": 61,
     "popularity": 28582,
-    "trending": 0,
+    "trending": 1,
     "favourites": 188,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3942,7 +3942,13 @@
               "romaji": "B: The Beginning",
               "english": "B: The Beginning"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2018,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx21665-QnenQOaxzhpf.jpg"
+            }
           }
         }
       ]
@@ -4232,7 +4238,14 @@
         }
       ]
     },
-    "updatedAt": 1787353355
+    "updatedAt": 1787400105,
+    "idTmdb": 77529,
+    "idImdb": "tt7944664",
+    "idTvdb": 339353,
+    "idTrakt": 126125,
+    "traktSlug": "b-the-beginning",
+    "idSimkl": 841007,
+    "idShikimori": 37994
   },
   "102351": {
     "id": 102351,
@@ -4278,7 +4291,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 235786,
-    "trending": 0,
+    "trending": 5,
     "favourites": 3666,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4769,7 +4782,7 @@
         }
       ]
     },
-    "updatedAt": 1787396492,
+    "updatedAt": 1787400063,
     "idTmdb": 61374,
     "idImdb": "tt3741634",
     "idTvdb": 281249,
@@ -4828,7 +4841,7 @@
     "averageScore": 85,
     "meanScore": 85,
     "popularity": 297762,
-    "trending": 4,
+    "trending": 11,
     "favourites": 20404,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5546,7 +5559,7 @@
         }
       ]
     },
-    "updatedAt": 1787396419,
+    "updatedAt": 1787400043,
     "idTmdb": 45790,
     "idImdb": "tt2359704",
     "idTvdb": 262954,
@@ -6273,7 +6286,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 64596,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1055,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6768,7 +6781,7 @@
         }
       ]
     },
-    "updatedAt": 1787396474,
+    "updatedAt": 1787400106,
     "idTmdb": 84666,
     "idImdb": "tt9622614",
     "idTvdb": 355969,
@@ -8436,7 +8449,13 @@
               "romaji": "3D Kanojo: Real Girl",
               "english": "Real Girl"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2018,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx100526-Hw6U34Hw2TDb.jpg"
+            }
           }
         },
         {
@@ -8447,7 +8466,13 @@
               "romaji": "3D Kanojo: Real Girl",
               "english": "Real Girl"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx80767-U74GsMO3XpQe.jpg"
+            }
           }
         }
       ]
@@ -8679,7 +8704,7 @@
         }
       ]
     },
-    "updatedAt": 1787357169,
+    "updatedAt": 1787400061,
     "idTmdb": 77721,
     "idImdb": "tt7112156",
     "idTvdb": 342010,
@@ -17321,7 +17346,7 @@
     "averageScore": 39,
     "meanScore": 39,
     "popularity": 1654,
-    "trending": 1,
+    "trending": 0,
     "favourites": 11,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -17480,7 +17505,7 @@
         }
       ]
     },
-    "updatedAt": 1787396446,
+    "updatedAt": 1787400106,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -17534,7 +17559,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 534,
-    "trending": 1,
+    "trending": 0,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -17610,7 +17635,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787396444,
+    "updatedAt": 1787400106,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -17664,7 +17689,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 675,
-    "trending": 1,
+    "trending": 0,
     "favourites": 7,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -17740,7 +17765,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787396444,
+    "updatedAt": 1787400106,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
