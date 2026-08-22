@@ -43,7 +43,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 65873,
-    "trending": 5,
+    "trending": 1,
     "favourites": 2675,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -852,7 +852,7 @@
         }
       ]
     },
-    "updatedAt": 1787364057,
+    "updatedAt": 1787371304,
     "idTmdb": 60761,
     "idImdb": "tt3105422",
     "idTvdb": 273005,
@@ -1763,7 +1763,7 @@
         }
       ]
     },
-    "updatedAt": 1787360527,
+    "updatedAt": 1787371317,
     "idTmdb": 71441,
     "idImdb": "tt3196524",
     "idTvdb": 273002,
@@ -2050,7 +2050,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 45458,
-    "trending": 2,
+    "trending": 0,
     "favourites": 638,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2530,7 +2530,7 @@
         }
       ]
     },
-    "updatedAt": 1787364093,
+    "updatedAt": 1787371321,
     "idTmdb": 61527,
     "idImdb": "tt2959370",
     "idTvdb": 269873,
@@ -2585,7 +2585,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 63708,
-    "trending": 2,
+    "trending": 1,
     "favourites": 1578,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3046,7 +3046,7 @@
         }
       ]
     },
-    "updatedAt": 1787365263,
+    "updatedAt": 1787371299,
     "idTmdb": 70072,
     "idImdb": "tt2942224",
     "idTvdb": 272369,
@@ -3221,7 +3221,13 @@
               "romaji": "Servant x Service",
               "english": "Servant x Service"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx79097-qrNPeR38h3s2.png"
+            }
           }
         }
       ]
@@ -3514,7 +3520,14 @@
         }
       ]
     },
-    "updatedAt": 1787349754
+    "updatedAt": 1787371317,
+    "idTmdb": 75986,
+    "idImdb": "tt2904596",
+    "idTvdb": 269682,
+    "idTrakt": 70681,
+    "traktSlug": "servant-x-service",
+    "idSimkl": 43082,
+    "idShikimori": 18119
   },
   "18753": {
     "id": 18753,
@@ -3561,7 +3574,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 76679,
-    "trending": 1,
+    "trending": 0,
     "favourites": 713,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3860,7 +3873,7 @@
         }
       ]
     },
-    "updatedAt": 1787365232,
+    "updatedAt": 1787371321,
     "idTmdb": 65676,
     "idImdb": null,
     "idTvdb": null,
@@ -3917,7 +3930,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 130492,
-    "trending": 1,
+    "trending": 2,
     "favourites": 1457,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4480,7 +4493,7 @@
         }
       ]
     },
-    "updatedAt": 1787364115,
+    "updatedAt": 1787371303,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4985,7 +4998,7 @@
     "averageScore": 78,
     "meanScore": 79,
     "popularity": 25020,
-    "trending": 0,
+    "trending": 1,
     "favourites": 343,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5004,7 +5017,13 @@
               "romaji": "Kamisama Hajimemashita",
               "english": "Kamisama Kiss"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx38157-CCtYXzoNb2bc.jpg"
+            }
           }
         },
         {
@@ -5015,7 +5034,13 @@
               "romaji": "Kamisama Hajimemashita",
               "english": "Kamisama Kiss"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2012,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx14713-RyZ7bA7CdvGw.jpg"
+            }
           }
         }
       ]
@@ -5111,7 +5136,7 @@
         }
       ]
     },
-    "updatedAt": 1787353355,
+    "updatedAt": 1787371274,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6080,7 +6105,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 127390,
-    "trending": 2,
+    "trending": 1,
     "favourites": 1438,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6266,7 +6291,13 @@
               "romaji": "Strike the Blood: Valkyria no Oukoku-hen",
               "english": "Strike the Blood: Kingdom of the Valkyria"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2015,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/21098-XZzuZzKVnnLN.jpg"
+            }
           }
         },
         {
@@ -6277,7 +6308,13 @@
               "romaji": "Strike the Blood II",
               "english": "Strike the Blood Second"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2016,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21815-q8Jm7tx70N0H.jpg"
+            }
           }
         },
         {
@@ -6288,7 +6325,13 @@
               "romaji": "Strike the Blood",
               "english": "Strike the Blood"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx71021-TDuV51qcZj1m.jpg"
+            }
           }
         }
       ]
@@ -6634,7 +6677,7 @@
         }
       ]
     },
-    "updatedAt": 1787353288,
+    "updatedAt": 1787371239,
     "idTmdb": 61440,
     "idImdb": "tt2789238",
     "idTvdb": 272129,
@@ -6689,7 +6732,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 182414,
-    "trending": 4,
+    "trending": 2,
     "favourites": 2718,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7220,7 +7263,7 @@
         }
       ]
     },
-    "updatedAt": 1787364058,
+    "updatedAt": 1787371281,
     "idTmdb": 45501,
     "idImdb": "tt2321542",
     "idTvdb": 261862,
@@ -7724,7 +7767,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 278594,
-    "trending": 2,
+    "trending": 3,
     "favourites": 6588,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8241,7 +8284,7 @@
         }
       ]
     },
-    "updatedAt": 1787365259,
+    "updatedAt": 1787371252,
     "idTmdb": 61695,
     "idImdb": "tt3114376",
     "idTvdb": 272697,
@@ -9124,7 +9167,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 266494,
-    "trending": 2,
+    "trending": 8,
     "favourites": 5592,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9686,7 +9729,7 @@
         }
       ]
     },
-    "updatedAt": 1787365284,
+    "updatedAt": 1787371213,
     "idTmdb": 62640,
     "idImdb": "tt3115338",
     "idTvdb": 275670,
@@ -10187,7 +10230,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 167960,
-    "trending": 3,
+    "trending": 4,
     "favourites": 4250,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10807,7 +10850,7 @@
         }
       ]
     },
-    "updatedAt": 1787364066,
+    "updatedAt": 1787371237,
     "idTmdb": 60654,
     "idImdb": "tt2425098",
     "idTvdb": 262094,
@@ -11253,7 +11296,7 @@
     "averageScore": 64,
     "meanScore": 64,
     "popularity": 49356,
-    "trending": 2,
+    "trending": 1,
     "favourites": 349,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11646,7 +11689,7 @@
         }
       ]
     },
-    "updatedAt": 1787365244,
+    "updatedAt": 1787371314,
     "idTmdb": 60733,
     "idImdb": "tt3199286",
     "idTvdb": 275579,
@@ -11718,7 +11761,13 @@
               "romaji": "Yozakura Quartet: Yoza-Quar!",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2014,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20523-vBKAjW2zzd7N.png"
+            }
           }
         },
         {
@@ -11729,7 +11778,13 @@
               "romaji": "Yozakura Quartet",
               "english": "Yozakura Quartet"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/2060.jpg"
+            }
           }
         },
         {
@@ -11740,7 +11795,13 @@
               "romaji": "Yozakura Quartet: Tsuki ni Naku",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2013,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/18499.jpg"
+            }
           }
         },
         {
@@ -11751,7 +11812,13 @@
               "romaji": "Yozakura Quartet",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2008,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b4548-MscKClt97d7N.jpg"
+            }
           }
         },
         {
@@ -11762,7 +11829,13 @@
               "romaji": "Yozakura Quartet: Hoshi no Umi",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2010,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b8457-HLjTiI3nOFZs.png"
+            }
           }
         }
       ]
@@ -12046,7 +12119,7 @@
         }
       ]
     },
-    "updatedAt": 1787353340,
+    "updatedAt": 1787371264,
     "idTmdb": 80500,
     "idImdb": "tt3169640",
     "idTvdb": 273009,
@@ -12448,7 +12521,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 182621,
-    "trending": 2,
+    "trending": 1,
     "favourites": 3977,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -12570,7 +12643,13 @@
               "romaji": "Free!: Eternal Summer",
               "english": "Free! -Eternal Summer-"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2014,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20614-Dr962gTXZzMs.png"
+            }
           }
         },
         {
@@ -12581,7 +12660,13 @@
               "romaji": "FrFr!: Free! short movie",
               "english": "FrFr! ~Free! short movie~"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2013,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx19671-UTBAhj1bTxtj.jpg"
+            }
           }
         },
         {
@@ -12592,7 +12677,13 @@
               "romaji": "Kyoto Animation: Suiei-hen",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/17819.jpg"
+            }
           }
         },
         {
@@ -12603,7 +12694,13 @@
               "romaji": "High☆Speed!: Free! Starting Days",
               "english": "High Speed! -Free! Starting Days-"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2015,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21158-nxTuJeAoN2GI.jpg"
+            }
           }
         },
         {
@@ -12614,7 +12711,13 @@
               "romaji": "Free!: Timeless Medley - Kizuna",
               "english": "Free! -Timeless Medley- The Bond"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2017,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx98495-4mzOXo8Dj3pY.jpg"
+            }
           }
         }
       ]
@@ -12960,7 +13063,7 @@
         }
       ]
     },
-    "updatedAt": 1787357037,
+    "updatedAt": 1787371232,
     "idTmdb": 61456,
     "idImdb": "tt2904418",
     "idTvdb": 270065,
@@ -13900,7 +14003,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 51780,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1100,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -14337,7 +14440,7 @@
         }
       ]
     },
-    "updatedAt": 1787364103,
+    "updatedAt": 1787371321,
     "idTmdb": 61441,
     "idImdb": "tt2942228",
     "idTvdb": 272309,
@@ -14386,7 +14489,7 @@
     "averageScore": 48,
     "meanScore": 49,
     "popularity": 2310,
-    "trending": 0,
+    "trending": 1,
     "favourites": 24,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -14662,7 +14765,7 @@
         }
       ]
     },
-    "updatedAt": 1787364123,
+    "updatedAt": 1787371271,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -16051,7 +16154,7 @@
     "averageScore": 72,
     "meanScore": 73,
     "popularity": 14003,
-    "trending": 1,
+    "trending": 0,
     "favourites": 128,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -16520,7 +16623,7 @@
         }
       ]
     },
-    "updatedAt": 1787365295,
+    "updatedAt": 1787371321,
     "idTmdb": 34708,
     "idImdb": "tt0473578",
     "idTvdb": 78919,
@@ -16681,5 +16784,840 @@
     "traktSlug": null,
     "idSimkl": 43331,
     "idShikimori": 18845
+  },
+  "18041": {
+    "id": 18041,
+    "idMal": 18041,
+    "title": {
+      "romaji": "Rozen Maiden (2013)",
+      "english": "Rozen Maiden: Zurückspulen",
+      "native": "ローゼンメイデン (2013)"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "Each decision we make in life leads us down a different path. Have you ever wondered what would be if the path not chosen weren't lost to the chaos of the universe? For Jun Sakurada, just such an opportunity is presented to him in his darkest hour: a chance to communicate with a future version of himself who did not win the key and bring forth the Rozen Maidens, and a chance to fix the shattered remains of his own world.<br>\n<br>\nFor Jun-who-did-not-win, the messages from his younger self represent a beacon of light in his mediocre and disappointing existence. When the adult Jun discovers a box with parts and building instructions for a familiar red-dressed doll, the goal becomes clear: revive Shinku in his world to save both worlds from succumbing to the evils of Kirakisho, the seventh Rozen Maiden in a desperate search for a body and master. The Alice Game will become a war of dimensions as two worlds hang by the threads of fate.<br>\n<br>\n(Source: Sentai Filmworks)",
+    "episodes": 13,
+    "duration": 24,
+    "season": "SUMMER",
+    "seasonYear": 2013,
+    "startDate": {
+      "year": 2013,
+      "month": 7,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 27
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18041-GLl6gGymRszJ.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx18041-GLl6gGymRszJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx18041-GLl6gGymRszJ.jpg",
+      "color": "#6b281a"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/18041-oglVd4aPy9zF.jpg",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "synonyms": [],
+    "averageScore": 71,
+    "meanScore": 71,
+    "popularity": 16787,
+    "trending": 1,
+    "favourites": 185,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "EtBxEYU1GFQ",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/EtBxEYU1GFQ/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://www.tbs.co.jp/anime/rozen/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.hidive.com/season/19861",
+        "site": "HIDIVE",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://twitter.com/rozen_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 1 - Tale 1",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/56389e6b31fc8fd93b4a6c4ed51959591372877656_full.jpg",
+        "url": "http://www.crunchyroll.com/rozen-maiden-zurckspulen/episode-1-tale-1-628351",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - Tale 2",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/dd297c729946ae7b6ec48a25a3499a201373409231_full.jpg",
+        "url": "http://www.crunchyroll.com/rozen-maiden-zurckspulen/episode-2-tale-2-628353",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - Tale 3",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/76b5fd97e6397b8748a31916c03ec9cb1373907895_full.jpg",
+        "url": "http://www.crunchyroll.com/rozen-maiden-zurckspulen/episode-3-tale-3-628355",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - Tale 4",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/38eb7ac2e8417c36e0987c9ea82ae9351374521214_full.jpg",
+        "url": "http://www.crunchyroll.com/rozen-maiden-zurckspulen/episode-4-tale-4-628357",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - Tale 5",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/9916afbc1501b9b151af04e565e52c5b1375141704_full.jpg",
+        "url": "http://www.crunchyroll.com/rozen-maiden-zurckspulen/episode-5-tale-5-628359",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - Tale 6",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/7194afd67df8f573e8149cca0098d7d51375480892_full.jpg",
+        "url": "http://www.crunchyroll.com/rozen-maiden-zurckspulen/episode-6-tale-6-628361",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 7 - Tale 7",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/a4d9ed78607e6eeb720a25ee2101ead41376432156_full.jpg",
+        "url": "http://www.crunchyroll.com/rozen-maiden-zurckspulen/episode-7-tale-7-628363",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 8 - Tale 8",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/fdcdc2001e1b3e8234fff7467c4a98fe1376946652_full.jpg",
+        "url": "http://www.crunchyroll.com/rozen-maiden-zurckspulen/episode-8-tale-8-628365",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 9 - Tale 9",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/58e02683bbe6d3cb4096b2c3b431033d1377553081_full.jpg",
+        "url": "http://www.crunchyroll.com/rozen-maiden-zurckspulen/episode-9-tale-9-628367",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 10 - Tale 10",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/bc3248aad5508fb84da7e6dede18282e1378184714_full.jpg",
+        "url": "http://www.crunchyroll.com/rozen-maiden-zurckspulen/episode-10-tale-10-628369",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 11 - Tale 11",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/2093f8bc2dcdd221307d193f9d02f5871378772917_full.jpg",
+        "url": "http://www.crunchyroll.com/rozen-maiden-zurckspulen/episode-11-tale-11-628371",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 12 - Tale 12",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/d682e08e05d83b8c5700e07b2e5c42c61379464669_full.jpg",
+        "url": "http://www.crunchyroll.com/rozen-maiden-zurckspulen/episode-12-tale-12-628373",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 13 - Tale 13",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/0b41d3062cbc18fa35f0f51ab55123831380069313_full.jpg",
+        "url": "http://www.crunchyroll.com/rozen-maiden-zurckspulen/episode-13-tale-13-644237",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 37728,
+            "title": {
+              "romaji": "Rozen Maiden",
+              "english": "Rozen Maiden"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b37728-Dgh8MjYLJYTk.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 64,
+            "title": {
+              "romaji": "Rozen Maiden",
+              "english": "Rozen Maiden"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2004,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx64-JsxXAcf3ZKo1.png"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 65,
+            "title": {
+              "romaji": "Rozen Maiden: Träumend",
+              "english": "Rozen Maiden: Dreaming"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2005,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx65-SnVu0Txb00nV.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 101,
+        "name": "Battle Royale",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 146,
+        "name": "Alternate Universe",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1304,
+        "name": "Anthropomorphism",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 780,
+        "name": "Ojou-sama",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 404,
+        "name": "College",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 153,
+        "name": "Time Skip",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 282,
+        "name": "Hikikomori",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 311,
+        "name": "Rehabilitation",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 164,
+        "name": "Tsundere",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 37,
+            "name": "Studio DEEN"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 145,
+            "name": "TBS"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 376,
+            "name": "Sentai Filmworks"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 1072,
+            "name": {
+              "full": "Suigintou",
+              "native": "水銀燈"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95060,
+              "name": {
+                "full": "Rie Tanaka",
+                "native": "田中理恵"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 1073,
+            "name": {
+              "full": "Shinku",
+              "native": "真紅"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95099,
+              "name": {
+                "full": "Miyuki Sawashiro",
+                "native": "沢城みゆき"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 1105,
+            "name": {
+              "full": "Suiseiseki",
+              "native": "翠星石"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95136,
+              "name": {
+                "full": "Natsuko Kuwatani",
+                "native": "桑谷夏子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 1106,
+            "name": {
+              "full": "Kanaria",
+              "native": "金糸雀"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95166,
+              "name": {
+                "full": "Yumi Shimura",
+                "native": "志村由美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 1107,
+            "name": {
+              "full": "Souseiseki",
+              "native": "蒼星石"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95210,
+              "name": {
+                "full": "Rika Morinaga",
+                "native": "理科森永"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 1108,
+            "name": {
+              "full": "Hina Ichigo",
+              "native": "雛苺"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95204,
+              "name": {
+                "full": "Sakura Nogawa",
+                "native": "野川さくら"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 3317,
+            "name": {
+              "full": "Kirakishou",
+              "native": "雪華綺晶"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95795,
+              "name": {
+                "full": "Chiemi Chiba",
+                "native": "千葉千恵巳"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 5618,
+            "name": {
+              "full": "Jun Sakurada",
+              "native": "桜田ジュン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95126,
+              "name": {
+                "full": "Asami Sanada",
+                "native": "真田アサミ"
+              }
+            },
+            {
+              "id": 110743,
+              "name": {
+                "full": "Ryouta Oosaka",
+                "native": "逢坂良太"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1074,
+            "name": {
+              "full": "Laplace no Ma",
+              "native": "ラプラスの魔"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118511,
+              "name": {
+                "full": "Satoshi Mikami",
+                "native": "三上哲"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 5619,
+            "name": {
+              "full": "Nori Sakurada",
+              "native": "桜田のり"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95883,
+              "name": {
+                "full": "Noriko Rikimaru",
+                "native": "力丸乃りこ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787371314,
+    "idTmdb": 68963,
+    "idImdb": "tt3124820",
+    "idTvdb": 271440,
+    "idTrakt": 71748,
+    "traktSlug": "rozen-maiden-zuruckspulen",
+    "idSimkl": 43085,
+    "idShikimori": 18041
+  },
+  "18499": {
+    "id": 18499,
+    "idMal": 18499,
+    "title": {
+      "romaji": "Yozakura Quartet: Tsuki ni Naku",
+      "english": null,
+      "native": "夜桜四重奏 ツキニナク"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "\"Tsuki ni Naku\" will take the story content from volume 11 of the manga, which features a visit to an onsen by the members of the Hiizumi Life Councelling Office, while the town's police force have to deal with a new youkai-hunter threat.\nThis OVA is bundled with the limited edition of the manga (14th, 15th, and 16th).",
+    "episodes": 3,
+    "duration": 28,
+    "season": "FALL",
+    "seasonYear": 2013,
+    "startDate": {
+      "year": 2013,
+      "month": 9,
+      "day": 9
+    },
+    "endDate": {
+      "year": 2014,
+      "month": 11,
+      "day": 7
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18499.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18499.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/18499.jpg",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Supernatural"
+    ],
+    "synonyms": [],
+    "averageScore": 72,
+    "meanScore": 73,
+    "popularity": 9180,
+    "trending": 1,
+    "favourites": 50,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "http://yozakura-anime.jp/staff.html",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 32060,
+            "title": {
+              "romaji": "Yozakura Quartet",
+              "english": "Yozakura Quartet"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/2060.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 18497,
+            "title": {
+              "romaji": "Yozakura Quartet: Hana no Uta",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2013,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx18497-LT4KeTvilo8u.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 254,
+        "name": "Kemonomimi",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 233,
+        "name": "Youkai",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 103,
+            "name": "Tatsunoko Production"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6291,
+            "name": "Studio Guts"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 14942,
+            "name": {
+              "full": "Akina Hiizumi",
+              "native": "比泉秋名"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95672,
+              "name": {
+                "full": "Yuuki Kaji",
+                "native": "梶裕貴"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 14944,
+            "name": {
+              "full": "Hime Yarizakura",
+              "native": "槍桜ヒメ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95207,
+              "name": {
+                "full": "Misato Fukuen",
+                "native": "福圓美里"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 14945,
+            "name": {
+              "full": "Ao Nanami",
+              "native": "七海アオ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95504,
+              "name": {
+                "full": "Saki Fujita",
+                "native": "藤田咲"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 14946,
+            "name": {
+              "full": "Kotoha Isone",
+              "native": "五十音ことは"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95099,
+              "name": {
+                "full": "Miyuki Sawashiro",
+                "native": "沢城みゆき"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 14947,
+            "name": {
+              "full": "Kyousuke Kishi",
+              "native": "岸恭助"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95212,
+              "name": {
+                "full": "Daisuke Ono",
+                "native": "小野大輔"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 14949,
+            "name": {
+              "full": "Touka Kishi",
+              "native": "岸桃華"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95890,
+              "name": {
+                "full": "Haruka Tomatsu",
+                "native": "戸松遥"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787371266,
+    "idTmdb": 80500,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 41266,
+    "idShikimori": 18499
   }
 }

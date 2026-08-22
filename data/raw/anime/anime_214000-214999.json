@@ -41,7 +41,7 @@
     "averageScore": 76,
     "meanScore": 78,
     "popularity": 8105,
-    "trending": 1,
+    "trending": 0,
     "favourites": 70,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -262,7 +262,7 @@
         }
       ]
     },
-    "updatedAt": 1787365275,
+    "updatedAt": 1787371321,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -837,7 +837,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 464,
-    "trending": 0,
+    "trending": 1,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -867,7 +867,13 @@
               "romaji": "Shin no Seijo de aru Watashi wa Tsuihou Saremashita. Dakara Kono Kuni wa Mou Owari desu",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx129101-usJnpji2PjGQ.jpg"
+            }
           }
         },
         {
@@ -878,7 +884,13 @@
               "romaji": "Shin no Seijo de Aru Watashi wa Tsuihou saremashita. Dakara Kono Kuni wa Mou Owari desu",
               "english": "Because I, the True Saint, was Banished, that Country is Done For!"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b184563-mUuSxggOkCdN.jpg"
+            }
           }
         }
       ]
@@ -937,7 +949,14 @@
         }
       ]
     },
-    "updatedAt": 1787353355
+    "updatedAt": 1787371295,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 64665
   },
   "214484": {
     "id": 214484,
@@ -1300,7 +1319,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 601,
-    "trending": 1,
+    "trending": 0,
     "favourites": 9,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1421,7 +1440,7 @@
         }
       ]
     },
-    "updatedAt": 1787365306,
+    "updatedAt": 1787371321,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1475,7 +1494,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 5193,
-    "trending": 0,
+    "trending": 1,
     "favourites": 56,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1509,7 +1528,13 @@
               "romaji": "Mato Seihei no Slave",
               "english": "Chained Soldier"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx106064-WBMhTOo7UQ20.png"
+            }
           }
         },
         {
@@ -1520,7 +1545,13 @@
               "romaji": "Mato Seihei no Slave 2",
               "english": "Chained Soldier Season 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176276-rtF8mYd2OWw2.png"
+            }
           }
         }
       ]
@@ -1620,7 +1651,7 @@
         }
       ]
     },
-    "updatedAt": 1787357428,
+    "updatedAt": 1787371278,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1676,7 +1707,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 2369,
-    "trending": 1,
+    "trending": 0,
     "favourites": 43,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1762,7 +1793,7 @@
         }
       ]
     },
-    "updatedAt": 1787365306,
+    "updatedAt": 1787371321,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2230,7 +2261,7 @@
         }
       ]
     },
-    "updatedAt": 1787364029,
+    "updatedAt": 1787371301,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3455,5 +3486,287 @@
     "traktSlug": "fate-grand-order-you-ve-lost-ritsuka-fujimaru",
     "idSimkl": null,
     "idShikimori": 64725
+  },
+  "214259": {
+    "id": 214259,
+    "idMal": 64455,
+    "title": {
+      "romaji": "Yao Shen Ji 10",
+      "english": null,
+      "native": "妖神记 第十季"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "RELEASING",
+    "description": "Nie Li travels to the Demon God Sect, makes new friends, embarks on a new journey, and vows to overthrow the Holy Emperor and protect the City of Glory!<br><br>(Source: Tencent Weibo Account)",
+    "episodes": 52,
+    "duration": 8,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 18
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b214259-iWViyzBfHZnc.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b214259-iWViyzBfHZnc.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b214259-iWViyzBfHZnc.jpg",
+      "color": "#e4a150"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "synonyms": [
+      "Tales of Demons and Gods Season 10"
+    ],
+    "averageScore": null,
+    "meanScore": 74,
+    "popularity": 120,
+    "trending": 1,
+    "favourites": 2,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://v.qq.com/x/cover/yl6lapwmmx5ivew/n41026iqwva.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 195916,
+            "title": {
+              "romaji": "Yao Shen Ji 9",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195916-pYvupya4Eckd.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 326,
+        "name": "Cultivation",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 7003,
+            "name": "Tencent"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6475,
+            "name": "Ruo Hong Culture"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 124685,
+            "name": {
+              "full": "Li Nie",
+              "native": "聂离"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 124686,
+            "name": {
+              "full": "Ninger Xiao",
+              "native": "肖凝儿"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787371318,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 64455
+  },
+  "214725": {
+    "id": 214725,
+    "idMal": 64731,
+    "title": {
+      "romaji": "Digimon (Shinsaku Anime)",
+      "english": null,
+      "native": "デジモン (新作アニメ)"
+    },
+    "type": "ANIME",
+    "format": null,
+    "status": "NOT_YET_RELEASED",
+    "description": "<i>Digimon</i> new anime project.<br><br>\n\n<i>Note: Title and Relations are provisional and will be updated when more info is announced.</i>",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214725-mEFQHdswYkwU.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214725-mEFQHdswYkwU.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214725-mEFQHdswYkwU.png",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "New Digimon Anime"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 1156,
+    "trending": 2,
+    "favourites": 6,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://x.com/Digimon_Anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 188388,
+            "title": {
+              "romaji": "DIGIMON BEATBREAK",
+              "english": "DIGIMON BEATBREAK"
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "FALL",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188388-aXx9fsnvezBf.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 552,
+            "title": {
+              "romaji": "Digimon Adventure",
+              "english": "Digimon: Digital Monsters"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 1999,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx552-zad0ts5hylQJ.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1490,
+        "name": "Proxy Battle",
+        "rank": 79,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787371252,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 64731
   }
 }

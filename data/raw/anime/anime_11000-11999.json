@@ -175,7 +175,7 @@
     "averageScore": 70,
     "meanScore": 71,
     "popularity": 76955,
-    "trending": 1,
+    "trending": 0,
     "favourites": 888,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -601,7 +601,7 @@
         }
       ]
     },
-    "updatedAt": 1787365235,
+    "updatedAt": 1787371321,
     "idTmdb": 35753,
     "idImdb": "tt0978553",
     "idTvdb": 79719,
@@ -2082,7 +2082,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 68640,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1048,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2653,7 +2653,7 @@
         }
       ]
     },
-    "updatedAt": 1787365281,
+    "updatedAt": 1787371321,
     "idTmdb": 43079,
     "idImdb": "tt2198397",
     "idTvdb": 162711,
@@ -2703,7 +2703,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 64919,
-    "trending": 1,
+    "trending": 0,
     "favourites": 482,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3146,7 +3146,7 @@
         }
       ]
     },
-    "updatedAt": 1787360545,
+    "updatedAt": 1787371321,
     "idTmdb": 57287,
     "idImdb": "tt2294070",
     "idTvdb": 262093,
@@ -3199,7 +3199,7 @@
     "averageScore": 69,
     "meanScore": 69,
     "popularity": 139637,
-    "trending": 2,
+    "trending": 1,
     "favourites": 1705,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3627,7 +3627,7 @@
         }
       ]
     },
-    "updatedAt": 1787365251,
+    "updatedAt": 1787371312,
     "idTmdb": 57577,
     "idImdb": "tt2760784",
     "idTvdb": 269875,
@@ -3679,7 +3679,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 139244,
-    "trending": 0,
+    "trending": 2,
     "favourites": 2288,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4105,7 +4105,7 @@
         }
       ]
     },
-    "updatedAt": 1787365310,
+    "updatedAt": 1787371297,
     "idTmdb": 225745,
     "idImdb": "tt2967286",
     "idTvdb": null,
@@ -6078,7 +6078,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 284359,
-    "trending": 3,
+    "trending": 4,
     "favourites": 9342,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6729,7 +6729,7 @@
         }
       ]
     },
-    "updatedAt": 1787365263,
+    "updatedAt": 1787371249,
     "idTmdb": 45783,
     "idImdb": "tt2348803",
     "idTvdb": 257765,
@@ -6782,7 +6782,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 382510,
-    "trending": 4,
+    "trending": 3,
     "favourites": 8958,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7350,7 +7350,7 @@
         }
       ]
     },
-    "updatedAt": 1787365211,
+    "updatedAt": 1787371298,
     "idTmdb": 42589,
     "idImdb": "tt2176165",
     "idTvdb": 254349,
@@ -7408,7 +7408,7 @@
     "averageScore": 79,
     "meanScore": 79,
     "popularity": 185420,
-    "trending": 0,
+    "trending": 2,
     "favourites": 3133,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8037,7 +8037,7 @@
         }
       ]
     },
-    "updatedAt": 1787365310,
+    "updatedAt": 1787371247,
     "idTmdb": 46195,
     "idImdb": "tt1480925",
     "idTvdb": 102261,
@@ -8634,7 +8634,7 @@
     "averageScore": 89,
     "meanScore": 89,
     "popularity": 834206,
-    "trending": 43,
+    "trending": 34,
     "favourites": 97548,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10166,7 +10166,7 @@
         }
       ]
     },
-    "updatedAt": 1787365206,
+    "updatedAt": 1787371237,
     "idTmdb": 46298,
     "idImdb": "tt2098220",
     "idTvdb": 252322,
@@ -11289,7 +11289,7 @@
     "averageScore": 69,
     "meanScore": 69,
     "popularity": 311540,
-    "trending": 2,
+    "trending": 4,
     "favourites": 8945,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11830,7 +11830,7 @@
         }
       ]
     },
-    "updatedAt": 1787365235,
+    "updatedAt": 1787371260,
     "idTmdb": 45950,
     "idImdb": "tt2230051",
     "idTvdb": 254653,
@@ -13120,7 +13120,7 @@
     "averageScore": 69,
     "meanScore": 69,
     "popularity": 46893,
-    "trending": 1,
+    "trending": 2,
     "favourites": 961,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13234,7 +13234,13 @@
               "romaji": "Senki Zesshou Symphogear G",
               "english": "Symphogear G"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2013,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx15793-CNcrWE9Eqzkg.png"
+            }
           }
         },
         {
@@ -13245,7 +13251,13 @@
               "romaji": "Senki Zesshou Symphogear",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx67599-LDfiLtLCrkEi.png"
+            }
           }
         }
       ]
@@ -13642,7 +13654,14 @@
         }
       ]
     },
-    "updatedAt": 1787345809
+    "updatedAt": 1787371282,
+    "idTmdb": 63322,
+    "idImdb": "tt2230531",
+    "idTvdb": 254667,
+    "idTrakt": 65280,
+    "traktSlug": "superb-song-of-the-valkyries-symphogear",
+    "idSimkl": 40986,
+    "idShikimori": 11751
   },
   "11441": {
     "id": 11441,
@@ -15270,7 +15289,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 117970,
-    "trending": 1,
+    "trending": 3,
     "favourites": 7180,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -15801,7 +15820,7 @@
         }
       ]
     },
-    "updatedAt": 1787365281,
+    "updatedAt": 1787371276,
     "idTmdb": 212162,
     "idImdb": "tt2457282",
     "idTvdb": null,
@@ -17153,7 +17172,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 131798,
-    "trending": 1,
+    "trending": 6,
     "favourites": 1551,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -17628,7 +17647,7 @@
         }
       ]
     },
-    "updatedAt": 1787360452,
+    "updatedAt": 1787371240,
     "idTmdb": 43167,
     "idImdb": "tt2339875",
     "idTvdb": 257516,
@@ -17703,7 +17722,13 @@
               "romaji": "Another",
               "english": "Another"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2012,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11111-gvvE5bBYsyFo.png"
+            }
           }
         }
       ]
@@ -17853,7 +17878,7 @@
         }
       ]
     },
-    "updatedAt": 1787353235,
+    "updatedAt": 1787371318,
     "idTmdb": 42589,
     "idImdb": null,
     "idTvdb": null,
@@ -20506,7 +20531,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 25268,
-    "trending": 0,
+    "trending": 1,
     "favourites": 233,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -20525,7 +20550,13 @@
               "romaji": "HELLSING OVA",
               "english": "Hellsing Ultimate"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2006,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx777-F6547pSAR2Zd.jpg"
+            }
           }
         },
         {
@@ -20536,7 +20567,13 @@
               "romaji": "HELLSING Gaiden: THE DAWN",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "CANCELLED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx30751-3DQxHDTXm6rM.jpg"
+            }
           }
         },
         {
@@ -20547,7 +20584,13 @@
               "romaji": "DRIFTERS",
               "english": "DRIFTERS"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2016,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21123-bCuqm8wLDqOw.png"
+            }
           }
         }
       ]
@@ -20749,7 +20792,7 @@
         }
       ]
     },
-    "updatedAt": 1787357007,
+    "updatedAt": 1787371284,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -20818,7 +20861,13 @@
               "romaji": "Medaka Box Abnormal",
               "english": "Medaka Box Abnormal"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2012,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx14527-7rNlGdUA9sgM.png"
+            }
           }
         },
         {
@@ -20829,7 +20878,13 @@
               "romaji": "Medaka Box",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx43949-sSgW4VE0nQKH.jpg"
+            }
           }
         }
       ]
@@ -21137,7 +21192,7 @@
         }
       ]
     },
-    "updatedAt": 1787353237,
+    "updatedAt": 1787371263,
     "idTmdb": 45858,
     "idImdb": "tt2341171",
     "idTvdb": 257522,
@@ -22880,7 +22935,7 @@
     "averageScore": 60,
     "meanScore": 61,
     "popularity": 6649,
-    "trending": 1,
+    "trending": 0,
     "favourites": 72,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -23593,7 +23648,7 @@
         }
       ]
     },
-    "updatedAt": 1787365308,
+    "updatedAt": 1787371321,
     "idTmdb": 37851,
     "idImdb": "tt1783878",
     "idTvdb": 202241,
@@ -23651,7 +23706,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 53486,
-    "trending": 0,
+    "trending": 2,
     "favourites": 563,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -24085,7 +24140,7 @@
         }
       ]
     },
-    "updatedAt": 1787364123,
+    "updatedAt": 1787371215,
     "idTmdb": 152042,
     "idImdb": "tt2205948",
     "idTvdb": null,
@@ -24600,5 +24655,346 @@
     "traktSlug": "puella-magi-madoka-magica-the-movie-part-ii-eternal-2012",
     "idSimkl": null,
     "idShikimori": 11979
+  },
+  "11079": {
+    "id": 11079,
+    "idMal": 11079,
+    "title": {
+      "romaji": "Kill Me Baby",
+      "english": "Kill Me Baby",
+      "native": "キルミーベイベー"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "Kill Me Baby is the touching story of Yasuna, a normal (?) high school girl, and Sonya, her best friend who happens to be an assassin. Unfortunately, little Sonya's trained assassin instincts often work against her and others in her daily high school life, as Yasuna's often-broken wrist can attest to. She just wanted a hug, but she ended up with a broken neck. Isn't it sad? No, it's hilarious.<br><br>\nNot even Yasuna's intense ninja training can prepare her for the exciting adventures in this explosive 4-panel manga adaptation.",
+    "episodes": 13,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2012,
+    "startDate": {
+      "year": 2012,
+      "month": 1,
+      "day": 6
+    },
+    "endDate": {
+      "year": 2012,
+      "month": 3,
+      "day": 30
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11079.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11079.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/11079.jpg",
+      "color": "#f1d650"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11079-mY3J1Wwndhhh.jpg",
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [
+      "Baby,  Please Kill Me.",
+      "תהרוג אותי מותק"
+    ],
+    "averageScore": 66,
+    "meanScore": 66,
+    "popularity": 32300,
+    "trending": 1,
+    "favourites": 410,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.hidive.com/tv/kill-me-baby",
+        "site": "HIDIVE",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://twitter.com/k_m_baby",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "http://killmebaby.tv/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 48472,
+            "title": {
+              "romaji": "Kill Me Baby",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/18472.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 20039,
+            "title": {
+              "romaji": "Kill Me Baby OVA",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2013,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/20039.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 322,
+        "name": "Assassins",
+        "rank": 88,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 92,
+        "name": "Cute Girls Doing Cute Things",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 77,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 255,
+        "name": "Ninja",
+        "rank": 77,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 324,
+        "name": "Chibi",
+        "rank": 77,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 83,
+        "name": "Slapstick",
+        "rank": 76,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 46,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7,
+            "name": "J.C.STAFF"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 144,
+            "name": "Pony Canyon"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 145,
+            "name": "TBS"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 306,
+            "name": "Magic Capsule"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 376,
+            "name": "Sentai Filmworks"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 749,
+            "name": "Pony Canyon Enterprise"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 32769,
+            "name": {
+              "full": "Sonya",
+              "native": "ソーニャ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105013,
+              "name": {
+                "full": "Mutsumi Tamura",
+                "native": "田村睦心"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 33584,
+            "name": {
+              "full": "Yasuna Oribe",
+              "native": "折部やすな"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107652,
+              "name": {
+                "full": "Chinatsu Akasaki",
+                "native": "赤﨑千夏"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 33582,
+            "name": {
+              "full": "Agiri Goshiki",
+              "native": "呉織あぎり"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 103375,
+              "name": {
+                "full": "Ai Takabe",
+                "native": "高部あい"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 54733,
+            "name": {
+              "full": "Unused Character",
+              "native": "没 キャラ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95008,
+              "name": {
+                "full": "Rie Kugimiya",
+                "native": "釘宮理恵"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 54735,
+            "name": {
+              "full": "Etcetera Girls",
+              "native": "エトセトラガール"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95124,
+              "name": {
+                "full": "Satomi Arai",
+                "native": "新井里美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 54737,
+            "name": {
+              "full": "Etcetera Boys",
+              "native": "エトセトラボーイ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95898,
+              "name": {
+                "full": "Choo",
+                "native": "チョー "
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787371308,
+    "idTmdb": 73598,
+    "idImdb": "tt3656982",
+    "idTvdb": 254664,
+    "idTrakt": 65264,
+    "traktSlug": "kill-me-baby",
+    "idSimkl": 40312,
+    "idShikimori": 11079
   }
 }

@@ -1380,7 +1380,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 35255,
-    "trending": 2,
+    "trending": 0,
     "favourites": 688,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1866,7 +1866,7 @@
         }
       ]
     },
-    "updatedAt": 1787365277,
+    "updatedAt": 1787371321,
     "idTmdb": 112138,
     "idImdb": "tt13351056",
     "idTvdb": 401258,
@@ -3876,7 +3876,13 @@
               "romaji": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
               "english": "Science Fell in Love, So I Tried to Prove It"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx87377-OsXotXwZAOed.jpg"
+            }
           }
         },
         {
@@ -3887,7 +3893,13 @@
               "romaji": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
               "english": "Science Fell in Love, So I Tried to Prove It"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2020,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx107067-UOEanLoeuvYh.png"
+            }
           }
         }
       ]
@@ -4302,7 +4314,14 @@
         }
       ]
     },
-    "updatedAt": 1787349679
+    "updatedAt": 1787371249,
+    "idTmdb": 90999,
+    "idImdb": "tt10635210",
+    "idTvdb": 368358,
+    "idTrakt": 155449,
+    "traktSlug": "science-fell-in-love-so-i-tried-to-prove-it",
+    "idSimkl": 1573457,
+    "idShikimori": 43470
   },
   "125428": {
     "id": 125428,
@@ -4352,7 +4371,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 135400,
-    "trending": 1,
+    "trending": 2,
     "favourites": 2307,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4768,7 +4787,7 @@
         }
       ]
     },
-    "updatedAt": 1787364091,
+    "updatedAt": 1787371239,
     "idTmdb": 112163,
     "idImdb": "tt13352232",
     "idTvdb": 391006,
@@ -4831,7 +4850,7 @@
     "averageScore": 89,
     "meanScore": 89,
     "popularity": 289770,
-    "trending": 6,
+    "trending": 10,
     "favourites": 15750,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5416,7 +5435,7 @@
         }
       ]
     },
-    "updatedAt": 1787360506,
+    "updatedAt": 1787371236,
     "idTmdb": 83121,
     "idImdb": "tt9522300",
     "idTvdb": 354198,
@@ -6274,7 +6293,7 @@
     "averageScore": 65,
     "meanScore": 66,
     "popularity": 4215,
-    "trending": 1,
+    "trending": 0,
     "favourites": 107,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -6600,7 +6619,7 @@
         }
       ]
     },
-    "updatedAt": 1787364110,
+    "updatedAt": 1787371321,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

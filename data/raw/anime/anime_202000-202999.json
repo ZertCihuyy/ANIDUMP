@@ -165,7 +165,7 @@
     "averageScore": 47,
     "meanScore": 47,
     "popularity": 14301,
-    "trending": 1,
+    "trending": 0,
     "favourites": 174,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -429,7 +429,7 @@
         }
       ]
     },
-    "updatedAt": 1787365215,
+    "updatedAt": 1787371321,
     "idTmdb": 315816,
     "idImdb": "tt41395364",
     "idTvdb": 471300,
@@ -484,7 +484,7 @@
     "averageScore": 60,
     "meanScore": 60,
     "popularity": 17734,
-    "trending": 1,
+    "trending": 2,
     "favourites": 190,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -841,7 +841,7 @@
         }
       ]
     },
-    "updatedAt": 1787365232,
+    "updatedAt": 1787371275,
     "idTmdb": 312293,
     "idImdb": "tt39122702",
     "idTvdb": 470519,
@@ -1140,7 +1140,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1266,
-    "trending": 0,
+    "trending": 1,
     "favourites": 7,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1170,7 +1170,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791118800,
-      "timeUntilAiring": 3749013,
+      "timeUntilAiring": 3746166,
       "episode": 1
     },
     "relations": {
@@ -1412,7 +1412,7 @@
         }
       ]
     },
-    "updatedAt": 1787364123,
+    "updatedAt": 1787371267,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1468,7 +1468,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 39093,
-    "trending": 4,
+    "trending": 5,
     "favourites": 992,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2021,7 +2021,7 @@
         }
       ]
     },
-    "updatedAt": 1787364046,
+    "updatedAt": 1787371263,
     "idTmdb": 305329,
     "idImdb": "tt39403976",
     "idTvdb": 470270,
@@ -2633,7 +2633,7 @@
     "averageScore": 79,
     "meanScore": 80,
     "popularity": 38898,
-    "trending": 30,
+    "trending": 26,
     "favourites": 732,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2673,7 +2673,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787572800,
-      "timeUntilAiring": 203091,
+      "timeUntilAiring": 200103,
       "episode": 8
     },
     "relations": {
@@ -2746,15 +2746,15 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 81,
-        "name": "Iyashikei",
-        "rank": 75,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 82,
         "name": "Male Protagonist",
         "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 81,
+        "name": "Iyashikei",
+        "rank": 71,
         "isMediaSpoiler": false
       },
       {
@@ -2909,7 +2909,7 @@
         }
       ]
     },
-    "updatedAt": 1787365197,
+    "updatedAt": 1787371231,
     "idTmdb": 309974,
     "idImdb": "tt39304754",
     "idTvdb": 470520,
@@ -2964,7 +2964,7 @@
     "averageScore": 54,
     "meanScore": 56,
     "popularity": 5681,
-    "trending": 19,
+    "trending": 10,
     "favourites": 39,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3019,7 +3019,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787927400,
-      "timeUntilAiring": 557727,
+      "timeUntilAiring": 554734,
       "episode": 21
     },
     "relations": {
@@ -3322,7 +3322,7 @@
         }
       ]
     },
-    "updatedAt": 1787365228,
+    "updatedAt": 1787371247,
     "idTmdb": 306121,
     "idImdb": "tt39026840",
     "idTvdb": 470659,
@@ -3966,7 +3966,7 @@
     "averageScore": 75,
     "meanScore": 77,
     "popularity": 6091,
-    "trending": 3,
+    "trending": 1,
     "favourites": 155,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4001,7 +4001,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787441400,
-      "timeUntilAiring": 71780,
+      "timeUntilAiring": 68770,
       "episode": 30
     },
     "relations": {
@@ -4739,7 +4739,7 @@
         }
       ]
     },
-    "updatedAt": 1787365277,
+    "updatedAt": 1787371269,
     "idTmdb": 306721,
     "idImdb": "tt39047437",
     "idTvdb": 470961,
@@ -4975,7 +4975,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1824,
-    "trending": 0,
+    "trending": 1,
     "favourites": 8,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5004,7 +5004,13 @@
               "romaji": "GIRL CRUSH",
               "english": "Girl Crush"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx128406-RnfgWNZFmgpF.jpg"
+            }
           }
         }
       ]
@@ -5079,7 +5085,7 @@
         }
       ]
     },
-    "updatedAt": 1787353355,
+    "updatedAt": 1787371286,
     "idTmdb": 306798,
     "idImdb": null,
     "idTvdb": null,
@@ -6017,7 +6023,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 896,
-    "trending": 1,
+    "trending": 0,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6068,7 +6074,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787365303,
+    "updatedAt": 1787371321,
     "idTmdb": 305560,
     "idImdb": null,
     "idTvdb": null,

@@ -847,7 +847,7 @@
     "averageScore": 76,
     "meanScore": 80,
     "popularity": 2925,
-    "trending": 2,
+    "trending": 3,
     "favourites": 205,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -878,7 +878,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787968800,
-      "timeUntilAiring": 598923,
+      "timeUntilAiring": 596195,
       "episode": 168
     },
     "relations": {
@@ -1112,7 +1112,7 @@
         }
       ]
     },
-    "updatedAt": 1787364040,
+    "updatedAt": 1787371286,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1635,7 +1635,7 @@
     "averageScore": 82,
     "meanScore": 85,
     "popularity": 6017,
-    "trending": 2,
+    "trending": 3,
     "favourites": 411,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1665,7 +1665,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787536800,
-      "timeUntilAiring": 167175,
+      "timeUntilAiring": 164199,
       "episode": 155
     },
     "relations": {
@@ -1843,7 +1843,7 @@
         }
       ]
     },
-    "updatedAt": 1787365274,
+    "updatedAt": 1787371288,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1897,7 +1897,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 321857,
-    "trending": 8,
+    "trending": 7,
     "favourites": 13112,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2368,7 +2368,7 @@
         }
       ]
     },
-    "updatedAt": 1787365235,
+    "updatedAt": 1787371281,
     "idTmdb": 131041,
     "idImdb": "tt15222080",
     "idTvdb": 408629,
@@ -2422,7 +2422,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 126749,
-    "trending": 2,
+    "trending": 4,
     "favourites": 2409,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2932,7 +2932,7 @@
         }
       ]
     },
-    "updatedAt": 1787365260,
+    "updatedAt": 1787371229,
     "idTmdb": 130237,
     "idImdb": "tt16341212",
     "idTvdb": 407833,
@@ -2994,7 +2994,7 @@
     "averageScore": 85,
     "meanScore": 85,
     "popularity": 112821,
-    "trending": 5,
+    "trending": 7,
     "favourites": 5294,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -3073,7 +3073,13 @@
               "romaji": "Guimi Zhi Zhu",
               "english": "Lord of the Mysteries"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b125291-5UbQcPd0JwiV.png"
+            }
           }
         },
         {
@@ -3084,7 +3090,13 @@
               "romaji": "Guimi Zhi Zhu",
               "english": "Lord of Mysteries"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx188249-Z9pRMdXVc4dh.png"
+            }
           }
         },
         {
@@ -3095,7 +3107,13 @@
               "romaji": "Guimi Zhi Zhu Specials",
               "english": "Lord of Mysteries Specials"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199448-BuqzEdkuPSEm.png"
+            }
           }
         },
         {
@@ -3106,7 +3124,13 @@
               "romaji": "Guimi Zhi Zhu: Wu Mian Ren Pian",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206874-dGqGJ00CHk7Q.png"
+            }
           }
         },
         {
@@ -3117,7 +3141,13 @@
               "romaji": "Guimi Zhi Zhu: Caidan",
               "english": "Lord of Mysteries: Chibi Theatre"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b206875-F69MvA4E3wKG.png"
+            }
           }
         }
       ]
@@ -3454,7 +3484,7 @@
         }
       ]
     },
-    "updatedAt": 1787357283,
+    "updatedAt": 1787371278,
     "idTmdb": 232230,
     "idImdb": "tt28618556",
     "idTvdb": 464419,
@@ -4067,7 +4097,7 @@
     "averageScore": 75,
     "meanScore": 75,
     "popularity": 126015,
-    "trending": 3,
+    "trending": 2,
     "favourites": 3409,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4597,7 +4627,7 @@
         }
       ]
     },
-    "updatedAt": 1787364038,
+    "updatedAt": 1787371311,
     "idTmdb": 131365,
     "idImdb": "tt15237152",
     "idTvdb": 415440,
@@ -4812,7 +4842,7 @@
     "averageScore": 73,
     "meanScore": 79,
     "popularity": 1973,
-    "trending": 3,
+    "trending": 2,
     "favourites": 129,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -4851,7 +4881,13 @@
               "romaji": "Zhe Tian",
               "english": "Shrounding the Heavens"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b133538-IWZiXYrSXycz.jpg"
+            }
           }
         },
         {
@@ -4862,7 +4898,13 @@
               "romaji": "Zhe Tian Movie: Bei Guan Zhan Wang Teng",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213664-hGF6TYElYNcy.jpg"
+            }
           }
         }
       ]
@@ -4981,7 +5023,7 @@
         }
       ]
     },
-    "updatedAt": 1787353287,
+    "updatedAt": 1787371267,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -5035,7 +5077,7 @@
     "averageScore": 66,
     "meanScore": 67,
     "popularity": 8973,
-    "trending": 1,
+    "trending": 0,
     "favourites": 185,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5490,7 +5532,7 @@
         }
       ]
     },
-    "updatedAt": 1787365306,
+    "updatedAt": 1787371321,
     "idTmdb": 134843,
     "idImdb": "tt15400650",
     "idTvdb": 407850,
@@ -6103,7 +6145,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 25599,
-    "trending": 0,
+    "trending": 1,
     "favourites": 479,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6444,7 +6486,7 @@
         }
       ]
     },
-    "updatedAt": 1787360559,
+    "updatedAt": 1787371297,
     "idTmdb": 130996,
     "idImdb": "tt15684222",
     "idTvdb": 462498,
@@ -8079,7 +8121,7 @@
     "averageScore": 62,
     "meanScore": 62,
     "popularity": 68571,
-    "trending": 0,
+    "trending": 2,
     "favourites": 923,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8525,7 +8567,7 @@
         }
       ]
     },
-    "updatedAt": 1787365310,
+    "updatedAt": 1787371289,
     "idTmdb": 131366,
     "idImdb": "tt15237164",
     "idTvdb": 415188,
@@ -8580,7 +8622,7 @@
     "averageScore": 67,
     "meanScore": 68,
     "popularity": 5391,
-    "trending": 1,
+    "trending": 0,
     "favourites": 74,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8982,7 +9024,7 @@
         }
       ]
     },
-    "updatedAt": 1787365307,
+    "updatedAt": 1787371321,
     "idTmdb": 872976,
     "idImdb": "tt22474136",
     "idTvdb": null,

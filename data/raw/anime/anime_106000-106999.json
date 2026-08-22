@@ -42,7 +42,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 27099,
-    "trending": 0,
+    "trending": 1,
     "favourites": 134,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -162,7 +162,13 @@
               "romaji": "Lord El-Melloi II-sei no Jikenbo",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx87197-Pn73IgSUIhbX.jpg"
+            }
           }
         },
         {
@@ -173,7 +179,13 @@
               "romaji": "Lord El-Melloi II-sei no Jikenbo: \"Rail Zeppelin\" Grace note",
               "english": "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2019,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx106918-4T0AdnCg8d64.jpg"
+            }
           }
         }
       ]
@@ -471,7 +483,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787371314,
+    "idTmdb": 85368,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 1002141,
+    "idShikimori": 38936
   },
   "106051": {
     "id": 106051,
@@ -1513,7 +1532,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 353106,
-    "trending": 3,
+    "trending": 12,
     "favourites": 13802,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1989,7 +2008,7 @@
         }
       ]
     },
-    "updatedAt": 1787365213,
+    "updatedAt": 1787371238,
     "idTmdb": 568160,
     "idImdb": "tt9426210",
     "idTvdb": null,
@@ -2050,7 +2069,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 180481,
-    "trending": 6,
+    "trending": 2,
     "favourites": 4724,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2634,7 +2653,7 @@
         }
       ]
     },
-    "updatedAt": 1787365212,
+    "updatedAt": 1787371233,
     "idTmdb": 96402,
     "idImdb": "tt11428630",
     "idTvdb": 373679,
@@ -3008,7 +3027,7 @@
     "averageScore": 83,
     "meanScore": 83,
     "popularity": 292111,
-    "trending": 5,
+    "trending": 4,
     "favourites": 7873,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3399,7 +3418,7 @@
         }
       ]
     },
-    "updatedAt": 1787364032,
+    "updatedAt": 1787371260,
     "idTmdb": 60863,
     "idImdb": "tt3398540",
     "idTvdb": 278157,
@@ -5093,7 +5112,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 85145,
-    "trending": 2,
+    "trending": 1,
     "favourites": 1138,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5644,7 +5663,7 @@
         }
       ]
     },
-    "updatedAt": 1787364031,
+    "updatedAt": 1787371305,
     "idTmdb": 82684,
     "idImdb": null,
     "idTvdb": null,
@@ -6200,7 +6219,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 96458,
-    "trending": 1,
+    "trending": 2,
     "favourites": 1866,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6559,7 +6578,7 @@
         }
       ]
     },
-    "updatedAt": 1787365287,
+    "updatedAt": 1787371292,
     "idTmdb": 604605,
     "idImdb": "tt9418812",
     "idTvdb": null,
@@ -8385,5 +8404,190 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 38768
+  },
+  "106895": {
+    "id": 106895,
+    "idMal": 31593,
+    "title": {
+      "romaji": "Rokka no Yuusha Picture Drama",
+      "english": "Rokka: Braves of the Six Flowers Picture Drama",
+      "native": "六花の勇者　ピクチャードラマ"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "Picture dramas bundled with the Blu-ray and DVD volumes. The first tale features Nashetania 6 years ago when she was just 12 years old amidst the turmoil in her nation, the next features Fremy's encounter with a young girl, and the third features Adlet.",
+    "episodes": 3,
+    "duration": 11,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2015,
+      "month": 9,
+      "day": 16
+    },
+    "endDate": {
+      "year": 2015,
+      "month": 11,
+      "day": 18
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106895-4UcOXUd6xDO6.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n106895-4UcOXUd6xDO6.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/n106895-4UcOXUd6xDO6.jpg",
+      "color": "#f1bb5d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Mystery"
+    ],
+    "synonyms": [],
+    "averageScore": 58,
+    "meanScore": 59,
+    "popularity": 3438,
+    "trending": 1,
+    "favourites": 24,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "LIGHT_NOVEL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "http://rokka-anime.jp/products/blu-raydvd/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 86037,
+            "title": {
+              "romaji": "Rokka no Yuusha",
+              "english": "Rokka: Braves of the Six Flowers"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx86037-GRyrAnEZJR7E.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 20955,
+            "title": {
+              "romaji": "Rokka no Yuusha",
+              "english": "Rokka -Braves of the Six Flowers-"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2015,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20955-MeZp4OtwKGl1.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 911,
+            "name": "Passione"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 89068,
+            "name": {
+              "full": "Nashetania Loei Piena Augustra",
+              "native": "ナッシェタニア・ルーイ・ピエナ・アウグストラ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102263,
+              "name": {
+                "full": "Youko Hikasa",
+                "native": "日笠陽子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 89075,
+            "name": {
+              "full": "Fremy Speeddraw",
+              "native": "フレミー・スピッドロウ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101686,
+              "name": {
+                "full": "Aoi Yuuki",
+                "native": "悠木碧"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 89079,
+            "name": {
+              "full": "Adlet Mayer",
+              "native": "アドレット・マイア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 113227,
+              "name": {
+                "full": "Souma Saitou",
+                "native": "斉藤壮馬"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787371308,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 31593
   }
 }

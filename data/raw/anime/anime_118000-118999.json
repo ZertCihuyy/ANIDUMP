@@ -47,7 +47,7 @@
     "averageScore": 61,
     "meanScore": 61,
     "popularity": 127198,
-    "trending": 2,
+    "trending": 5,
     "favourites": 1925,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -551,7 +551,7 @@
         }
       ]
     },
-    "updatedAt": 1787365239,
+    "updatedAt": 1787371286,
     "idTmdb": 103157,
     "idImdb": "tt12728856",
     "idTvdb": 388006,
@@ -3794,7 +3794,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 33350,
-    "trending": 0,
+    "trending": 1,
     "favourites": 650,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4311,7 +4311,7 @@
         }
       ]
     },
-    "updatedAt": 1787360559,
+    "updatedAt": 1787371282,
     "idTmdb": 112624,
     "idImdb": "tt12279682",
     "idTvdb": 400015,
@@ -4366,7 +4366,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 95725,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1477,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4488,7 +4488,13 @@
               "romaji": "Charlotte",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2015,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20997-axVYrsIfjtYJ.jpg"
+            }
           }
         },
         {
@@ -4499,7 +4505,13 @@
               "romaji": "Kamisama ni Natta Hi",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx135190-xA2vdiKLM0Y4.jpg"
+            }
           }
         },
         {
@@ -4510,7 +4522,13 @@
               "romaji": "Run Run Lantern",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207886-FSVy0b0r2U4H.png"
+            }
           }
         }
       ]
@@ -4897,7 +4915,7 @@
         }
       ]
     },
-    "updatedAt": 1787357237,
+    "updatedAt": 1787371316,
     "idTmdb": 103319,
     "idImdb": "tt12305588",
     "idTvdb": 384757,
@@ -4950,7 +4968,7 @@
     "averageScore": 71,
     "meanScore": 72,
     "popularity": 8914,
-    "trending": 0,
+    "trending": 1,
     "favourites": 417,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -4969,7 +4987,13 @@
               "romaji": "Isekai Harem Monogatari",
               "english": "Tales of a Harem in Another World"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx111244-wKhQBJyr7re0.jpg"
+            }
           }
         }
       ]
@@ -5223,7 +5247,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787371263,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 41848
   },
   "118743": {
     "id": 118743,
@@ -7071,5 +7102,210 @@
     "traktSlug": "yashahime-princess-half-demon",
     "idSimkl": 1340483,
     "idShikimori": 41911
+  },
+  "118640": {
+    "id": 118640,
+    "idMal": null,
+    "title": {
+      "romaji": "Shin Top wo Nerae! Gunbuster! Science Lesson",
+      "english": "New Aim for the Top! Gunbuster Science Lesson",
+      "native": "新・トップをねらえ!科学講座"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "2 extra omake Science Lesson specials released on the LD-BOX set. Includes: Chapter 4+1 and Final Chapter.",
+    "episodes": 2,
+    "duration": 2,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 1995,
+      "month": 9,
+      "day": 18
+    },
+    "endDate": {
+      "year": 1995,
+      "month": 9,
+      "day": 18
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118640-FguJsywQQ0Jg.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118640-FguJsywQQ0Jg.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118640-FguJsywQQ0Jg.png",
+      "color": "#932850"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118640-xpsgbCQFjNY2.jpg",
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "Aim for the Top! New Science Lesson"
+    ],
+    "averageScore": 56,
+    "meanScore": 59,
+    "popularity": 674,
+    "trending": 1,
+    "favourites": 2,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": null,
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 5462,
+            "title": {
+              "romaji": "Top wo Nerae! Gunbuster! Science Lesson",
+              "english": "Aim for the Top! Gunbuster Science Lesson"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5462-d3LFwz2xYMpA.png"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 20897,
+            "title": {
+              "romaji": "Top wo Nerae! Gunbuster Science Lesson Returns",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2012,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20897-VxYADJjYRs7R.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 140,
+        "name": "Educational",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 324,
+        "name": "Chibi",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 63,
+        "name": "Space",
+        "rank": 79,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 123,
+            "name": "Victor Entertainment"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6,
+            "name": "Gainax"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 23,
+            "name": "Bandai Visual"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 3497,
+            "name": {
+              "full": "Noriko Takaya",
+              "native": "タカヤ・ノリコ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95181,
+              "name": {
+                "full": "Noriko Hidaka",
+                "native": "日高のり子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 3884,
+            "name": {
+              "full": "Kazumi Amano",
+              "native": "アマノ・カズミ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96111,
+              "name": {
+                "full": "Rei Sakuma",
+                "native": "佐久間レイ "
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 3885,
+            "name": {
+              "full": "Kouichirou Oota",
+              "native": "オオタ・コウイチロウ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95084,
+              "name": {
+                "full": "Norio Wakamoto",
+                "native": "若本規夫"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787371314,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }

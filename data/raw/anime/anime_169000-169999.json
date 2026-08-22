@@ -42,7 +42,7 @@
     "averageScore": 62,
     "meanScore": 64,
     "popularity": 2003,
-    "trending": 1,
+    "trending": 0,
     "favourites": 99,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -249,7 +249,7 @@
         }
       ]
     },
-    "updatedAt": 1787365310,
+    "updatedAt": 1787371321,
     "idTmdb": 233643,
     "idImdb": null,
     "idTvdb": 430477,
@@ -302,7 +302,7 @@
     "averageScore": 63,
     "meanScore": 64,
     "popularity": 5936,
-    "trending": 0,
+    "trending": 1,
     "favourites": 89,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -341,7 +341,13 @@
               "romaji": "Hokuto no Ken",
               "english": "Fist of the North Star"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx31149-TOwqxOlY1Zs0.jpg"
+            }
           }
         },
         {
@@ -352,7 +358,13 @@
               "romaji": "Hokuto no Ken",
               "english": "Fist of the North Star"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 1984,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/n967-84jNBaInec98.png"
+            }
           }
         },
         {
@@ -363,7 +375,13 @@
               "romaji": "Hokuto no Ken: FIST OF THE NORTH STAR Part 2",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213627-8IhXNGp1pFRO.jpg"
+            }
           }
         }
       ]
@@ -665,7 +683,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787371292,
+    "idTmdb": 295357,
+    "idImdb": "tt29106483",
+    "idTvdb": 465216,
+    "idTrakt": 290501,
+    "traktSlug": "fist-of-the-north-star-hokuto-no-ken",
+    "idSimkl": 2254562,
+    "idShikimori": 56646
   },
   "169258": {
     "id": 169258,
@@ -2132,7 +2157,7 @@
     "averageScore": 72,
     "meanScore": 73,
     "popularity": 27012,
-    "trending": 1,
+    "trending": 2,
     "favourites": 632,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2560,7 +2585,7 @@
         }
       ]
     },
-    "updatedAt": 1787360539,
+    "updatedAt": 1787371268,
     "idTmdb": 236530,
     "idImdb": "tt32832421",
     "idTvdb": 440461,
@@ -3740,7 +3765,7 @@
     "averageScore": 69,
     "meanScore": 69,
     "popularity": 35215,
-    "trending": 0,
+    "trending": 2,
     "favourites": 650,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4190,7 +4215,7 @@
         }
       ]
     },
-    "updatedAt": 1787365310,
+    "updatedAt": 1787371270,
     "idTmdb": 236533,
     "idImdb": "tt31975268",
     "idTvdb": 440450,
@@ -4951,7 +4976,7 @@
     "averageScore": 86,
     "meanScore": 86,
     "popularity": 114277,
-    "trending": 8,
+    "trending": 7,
     "favourites": 4268,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5429,7 +5454,7 @@
         }
       ]
     },
-    "updatedAt": 1787364025,
+    "updatedAt": 1787371226,
     "idTmdb": 30984,
     "idImdb": "tt0434665",
     "idTvdb": 74796,
@@ -5482,7 +5507,7 @@
     "averageScore": 62,
     "meanScore": 68,
     "popularity": 3788,
-    "trending": 0,
+    "trending": 1,
     "favourites": 39,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5512,7 +5537,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787500800,
-      "timeUntilAiring": 131207,
+      "timeUntilAiring": 128178,
       "episode": 8
     },
     "relations": {
@@ -5797,7 +5822,7 @@
         }
       ]
     },
-    "updatedAt": 1787365310,
+    "updatedAt": 1787371276,
     "idTmdb": 109805,
     "idImdb": "tt13084120",
     "idTvdb": 392491,
@@ -6521,7 +6546,7 @@
     "averageScore": 59,
     "meanScore": 59,
     "popularity": 22531,
-    "trending": 15,
+    "trending": 5,
     "favourites": 236,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6551,7 +6576,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787572620,
-      "timeUntilAiring": 202911,
+      "timeUntilAiring": 199972,
       "episode": 8
     },
     "relations": {
@@ -6906,7 +6931,7 @@
         }
       ]
     },
-    "updatedAt": 1787365197,
+    "updatedAt": 1787371260,
     "idTmdb": 284581,
     "idImdb": "tt32862795",
     "idTvdb": 476185,
@@ -6960,7 +6985,7 @@
     "averageScore": 81,
     "meanScore": 82,
     "popularity": 20201,
-    "trending": 0,
+    "trending": 5,
     "favourites": 1723,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7009,7 +7034,13 @@
               "romaji": "BanG Dream! It's MyGO!!!!!",
               "english": "BanG Dream! It's MyGO!!!!!"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163571-Atkvuzh1A1Ip.png"
+            }
           }
         },
         {
@@ -7020,7 +7051,13 @@
               "romaji": "BanG Dream! Ave Mujica -manuscriptus-",
               "english": "BanG Dream! Ave Mujica -manuscriptus-"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx186012-O57rFzqVqK4c.jpg"
+            }
           }
         },
         {
@@ -7031,7 +7068,13 @@
               "romaji": "BanG Dream! It's MyGO!!!!! / Ave Mujica (Zoku-hen)",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": "WINTER",
+            "seasonYear": 2027,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189121-m3EHJ33Y8jgT.png"
+            }
           }
         },
         {
@@ -7042,7 +7085,13 @@
               "romaji": "Imprisoned XII",
               "english": "Imprisoned XII"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192650-7F3BHRVTsZXe.png"
+            }
           }
         },
         {
@@ -7053,7 +7102,13 @@
               "romaji": "BanG Dream! Ave Mujica: prima aurora",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": "FALL",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197543-UhIhht4Gku8z.png"
+            }
           }
         }
       ]
@@ -7450,7 +7505,7 @@
         }
       ]
     },
-    "updatedAt": 1787353355,
+    "updatedAt": 1787371251,
     "idTmdb": 274580,
     "idImdb": "tt29135397",
     "idTvdb": 439765,
@@ -7505,7 +7560,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 96175,
-    "trending": 15,
+    "trending": 20,
     "favourites": 3575,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7906,7 +7961,7 @@
         }
       ]
     },
-    "updatedAt": 1787365209,
+    "updatedAt": 1787371221,
     "idTmdb": 290019,
     "idImdb": "tt37532971",
     "idTvdb": 440057,
@@ -7959,7 +8014,7 @@
     "averageScore": 70,
     "meanScore": 71,
     "popularity": 35712,
-    "trending": 26,
+    "trending": 33,
     "favourites": 433,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7989,7 +8044,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787581800,
-      "timeUntilAiring": 212114,
+      "timeUntilAiring": 209098,
       "episode": 8
     },
     "relations": {
@@ -8265,7 +8320,7 @@
         }
       ]
     },
-    "updatedAt": 1787365213,
+    "updatedAt": 1787371229,
     "idTmdb": 250008,
     "idImdb": "tt41278615",
     "idTvdb": 467401,
@@ -8325,7 +8380,7 @@
     "averageScore": 77,
     "meanScore": 78,
     "popularity": 5332,
-    "trending": 1,
+    "trending": 0,
     "favourites": 117,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8681,7 +8736,7 @@
         }
       ]
     },
-    "updatedAt": 1787364076,
+    "updatedAt": 1787371321,
     "idTmdb": 1209217,
     "idImdb": "tt31474158",
     "idTvdb": null,
@@ -9178,7 +9233,7 @@
     "averageScore": 65,
     "meanScore": 66,
     "popularity": 35122,
-    "trending": 3,
+    "trending": 2,
     "favourites": 599,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9513,7 +9568,7 @@
         }
       ]
     },
-    "updatedAt": 1787365278,
+    "updatedAt": 1787371291,
     "idTmdb": 285356,
     "idImdb": "tt32535912",
     "idTvdb": 439785,
@@ -10003,7 +10058,7 @@
     "averageScore": 59,
     "meanScore": 59,
     "popularity": 36540,
-    "trending": 3,
+    "trending": 2,
     "favourites": 464,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10371,7 +10426,7 @@
         }
       ]
     },
-    "updatedAt": 1787365275,
+    "updatedAt": 1787371221,
     "idTmdb": 236532,
     "idImdb": "tt30643971",
     "idTvdb": 440481,
@@ -12492,5 +12547,569 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 55602
+  },
+  "169315": {
+    "id": 169315,
+    "idMal": 56662,
+    "title": {
+      "romaji": "Trillion Game",
+      "english": "TRILLION GAME",
+      "native": "トリリオンゲーム"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "Old schoolmates Haru and Gaku will do anything to achieve success. And success to them means earning a trillion dollars! But to do so, they’ll need to take full advantage of their own unique skills. Haru is a persuasive and confident speaker who can connect with anyone, while Gaku, although awkward, is an expert programmer. Will their combined talents be enough to make their dream a reality?<br>\n<br>\n(Source: Crunchyroll)",
+    "episodes": 26,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2024,
+    "startDate": {
+      "year": 2024,
+      "month": 10,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 3,
+      "day": 28
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169315-NtbOlSyDtSCZ.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169315-NtbOlSyDtSCZ.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169315-NtbOlSyDtSCZ.png",
+      "color": "#e45d86"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169315-j9dzBgcmRrWJ.jpg",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Psychological"
+    ],
+    "synonyms": [
+      "$1,000,000,000,000 Game",
+      "一兆遊戲"
+    ],
+    "averageScore": 72,
+    "meanScore": 72,
+    "popularity": 15146,
+    "trending": 1,
+    "favourites": 246,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "UZQUVskHqao",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/UZQUVskHqao/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/trilliongame_pr",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://trilliongame-anime.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.crunchyroll.com/series/G9VHN9Q7Q/trillion-game",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgWSohUFSUx4uQvvUZCAhj4",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 26 - GAME CHANGER",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/856141980e646ca076c251fec09052041743091283_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G50UMNZGJ/game-changer",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 25 - The Collar of Money",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/2f24cb3539da9f6116d0863bc9f5a4121743090793_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GQJUM0GWX/the-collar-of-money",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 24 - I LOVE NEWS",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/08a2657a844da2da97e3fcf285e2f8811742491332_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GD9UEZV70/i-love-news",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 23 - MEDIA WARS",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/7eaf39fb09bf59a6b68a44dafa075f2f1741885391_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GZ7UD3V99/media-wars",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 22 - ALL IN",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/d0e69eddbd5a5906ad733a94a296715e1741285073_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G8WU7VN57/all-in",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 21 - The Dragon King's Palm",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/6fa7901d3a70e7dd72f6ef6d1074511f1740676569_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G2XUN1090/the-dragon-kings-palm",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 20 - The Price of Glory",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/693699b77cfd1a3f22faad2cd2d80af31740075065_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GPWU8JKMX/the-price-of-glory",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 19 - Look At the Sky Instead of the Peak",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/bb54c44dd9ffad944c41aa9f01a17a051739467904_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G31UVEX8E/look-at-the-sky-instead-of-the-peak",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 18 - The IT Cup",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/c1fb6ad171da8dc7107062f7fce9c6451738858818_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GVWU8X01N/the-it-cup",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 17 - Haru Unparalleled",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/8b4489510ef08f95d21dbb958f05749d1738259430_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GMKUEMXE1/haru-unparalleled",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 16 - I LOVE MONEY",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/299e60dc41fca92b2a88b66b909d2a6b1737656175_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GK9UG23GK/i-love-money",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 15 - WITH YOU",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/4882d5ce77106acf6de79156fc6c89ad1737047417_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GN7UNKDN2/with-you",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 14 - Haru vs. Gaku",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/0e49cecce109b92427f900c1f723271d1736435166_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GJWUQ72QE/haru-vs-gaku",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 13 - The Decisive Battle!!",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/5bf988eeaac6bca6feee9167ffb5e0b71734631454_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GVWU8NZN4/the-decisive-battle",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 12 - Two Bad Guys",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/081321b9eb0a04e1a3a2f09d29ef68f81734026640_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GMKUE949V/two-bad-guys",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 11 - The Illusory Man",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/ec2c264cdf931cab194cfe85ad3ca0301733420369_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GK9UGV4V1/the-illusory-man",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 10 - GOLDEN EGG",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/24137d590570cdf4bec5922dfd1a2b271732799248_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GN7UNX7XE/golden-egg",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 9 - The Flower Way of Kabuki",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/4f34264b8f74fbbc978c1e780b84f91f1732209029_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GJWUQNXNG/the-flower-way-of-kabuki",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 8 - Flowers and Splendor",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/84730ab20eb3d7b01a4cadda2137bd3a1731605563_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G14UVQEQW/flowers-and-splendor",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 7 - Trillion Game, Inc.",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/c7fc67887b7a386af330142b52e1c2851730998493_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G4VUWKXKZ/trillion-game-inc",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - I Want You To the Moon",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/24f82ac41ba9ba1e0d2f8e000078f38e1730391506_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GX9U31717/i-want-you-to-the-moon",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - The Maiden's Gaze",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/f8619b6aa793b261b7b533b8aa3caaac1729784784_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G9DU9ZPZD/the-maidens-gaze",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - A Bad Guy",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/a71d59bef39b148bfb81b0512d72224f1729183769_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G7PU3PVP5/a-bad-guy",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - You’ll Win, Won’t You?",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/35c796704814db23891d61270834db661728567214_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GEVUWJGJ5/youll-win-wont-you",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - START UP",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/45803550b69d61dd9081ad9e346d31001727973428_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G0DUMG0GV/start-up",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1 - The World's Most Selfish Man",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/21219d80523f31da0a1dcf27b48a7da01727973396_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GG1UXWEWP/the-worlds-most-selfish-man",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 126056,
+            "title": {
+              "romaji": "Trillion Game",
+              "english": "Trillion Game"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx126056-7Q4faimXQRm4.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 248,
+        "name": "Economics",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 145,
+        "name": "Work",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 386,
+        "name": "Software Development",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 90,
+        "name": "CGI",
+        "rank": 30,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6698,
+            "name": "KADOKAWA"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 11,
+            "name": "MADHOUSE"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6424,
+            "name": "Sammy"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 11,
+            "name": "MADHOUSE"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 238,
+            "name": "AT-X"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7130,
+            "name": "Sun Television"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 145,
+            "name": "TBS"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 206924,
+            "name": {
+              "full": "Haru Tennouji",
+              "native": "天王寺陽"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 128426,
+              "name": {
+                "full": "Takeo Ootsuka",
+                "native": "大塚剛央"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 206925,
+            "name": {
+              "full": "Manabu Taira",
+              "native": "平学"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 121940,
+              "name": {
+                "full": "Shouya Ishige",
+                "native": "石毛翔弥"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 206926,
+            "name": {
+              "full": "Kirika Kokuryuu",
+              "native": "黒龍キリカ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118510,
+              "name": {
+                "full": "Mao Ichimichi",
+                "native": "市道真央"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 331019,
+            "name": {
+              "full": "Rinrin Takahashi",
+              "native": "高橋凜々"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 147551,
+              "name": {
+                "full": "Yuki Tanaka",
+                "native": "田中有紀"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 331020,
+            "name": {
+              "full": "Kazuki Kedouin",
+              "native": "祁答院一輝"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95236,
+              "name": {
+                "full": "Hiroki Touchi",
+                "native": "東地宏樹"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 342035,
+            "name": {
+              "full": "Kazuma Kokuryuu",
+              "native": "黒龍一真"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100427,
+              "name": {
+                "full": "Takaya Hashi",
+                "native": "土師孝也"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 342036,
+            "name": {
+              "full": "Nagase",
+              "native": "長瀬"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 126794,
+              "name": {
+                "full": "Masaaki Mizunaka",
+                "native": "水中雅章"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 342037,
+            "name": {
+              "full": "Mizuki",
+              "native": "水樹"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 148220,
+              "name": {
+                "full": "Shion Wakayama",
+                "native": "若山詩音"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 343940,
+            "name": {
+              "full": "Sakura",
+              "native": "桜"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 123450,
+              "name": {
+                "full": "Ryouta Suzuki",
+                "native": "鈴木崚汰"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 343941,
+            "name": {
+              "full": "Futaba",
+              "native": "二葉"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119616,
+              "name": {
+                "full": "Sayaka Senbongi",
+                "native": "千本木彩花"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787371266,
+    "idTmdb": 240125,
+    "idImdb": "tt33609048",
+    "idTvdb": 439592,
+    "idTrakt": 223581,
+    "traktSlug": "trillion-game-2024",
+    "idSimkl": 2256464,
+    "idShikimori": 56662
   }
 }

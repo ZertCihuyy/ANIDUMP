@@ -150,7 +150,7 @@
     "averageScore": null,
     "meanScore": 76,
     "popularity": 135,
-    "trending": 0,
+    "trending": 2,
     "favourites": 1,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -179,7 +179,13 @@
               "romaji": "POKÉTOON (2025)",
               "english": "POKÉTOON (2025)"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201262-Psh6cygC22uz.jpg"
+            }
           }
         },
         {
@@ -190,7 +196,13 @@
               "romaji": "Pocket Monsters (2023)",
               "english": "Pokémon Horizons: The Series"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "SPRING",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158871-GBM9AMDfDRSu.jpg"
+            }
           }
         }
       ]
@@ -224,7 +236,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787357431
+    "updatedAt": 1787371308
   },
   "215523": {
     "id": 215523,
@@ -373,7 +385,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 473,
-    "trending": 1,
+    "trending": 2,
     "favourites": 8,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -453,7 +465,7 @@
         }
       ]
     },
-    "updatedAt": 1787364070
+    "updatedAt": 1787371248
   },
   "215695": {
     "id": 215695,
@@ -502,7 +514,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 116,
-    "trending": 0,
+    "trending": 1,
     "favourites": 2,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -584,7 +596,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787357431
+    "updatedAt": 1787371241
   },
   "215639": {
     "id": 215639,
@@ -758,7 +770,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 0,
-    "trending": 17,
+    "trending": 9,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -871,7 +883,7 @@
         }
       ]
     },
-    "updatedAt": 1787365202
+    "updatedAt": 1787371226
   },
   "215582": {
     "id": 215582,
@@ -1592,7 +1604,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 55,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1639,7 +1651,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787364083
+    "updatedAt": 1787371321
   },
   "215789": {
     "id": 215789,
@@ -1783,7 +1795,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 60,
-    "trending": 1,
+    "trending": 0,
     "favourites": 2,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1816,7 +1828,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787365306,
+    "updatedAt": 1787371321,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

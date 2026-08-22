@@ -848,7 +848,7 @@
     "averageScore": 63,
     "meanScore": 74,
     "popularity": 589,
-    "trending": 0,
+    "trending": 1,
     "favourites": 6,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1043,7 +1043,7 @@
         }
       ]
     },
-    "updatedAt": 1787364123,
+    "updatedAt": 1787371320,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1273,5 +1273,156 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 61742
+  },
+  "193676": {
+    "id": 193676,
+    "idMal": 61754,
+    "title": {
+      "romaji": "S-Rank Party Kara Kaikosareta [Jugushi]",
+      "english": null,
+      "native": "Sランクパーティから解雇された【呪具師】"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "Gail Hamilton is a \"curse crafter\" who got booted from his party for allegedly not pulling his weight...right after they were promoted to the Guild's \"S\" rank. Unfortunately, the party didn't realize that Gail's cursed goods pack the power of holy relics and legendary gear! But too bad for them, because Gail's going it alone now...and causing a sensation with the creepy-yet-useful curses he works with!\n<br><br>\n(Source: Kodansha)",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193676-9lSx9imIqDPZ.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193676-9lSx9imIqDPZ.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193676-9lSx9imIqDPZ.png",
+      "color": "#1a50ae"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "S-Rank Party Kara Kaikosareta [Jugushi]: \"Noroi no Item\" Shika Tsukuremasen ga, Sono Seinou wa Artifact-kyuu nari......!",
+      "Ｓランクパーティから解雇された【呪具師】～『呪いのアイテム』しか作れませんが、その性能はアーティファクト級なり……！～",
+      "I'm a Curse Crafter, and I Don't Need an S-Rank Party!"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 1184,
+    "trending": 1,
+    "favourites": 13,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 158374,
+            "title": {
+              "romaji": "S-Rank Party Kara Kaikosareta [Jugushi]: \"Noroi no Item\" Shika Tsukuremasen ga, Sono Seinou wa Artifact-kyuu nari......!",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx158374-Ptjb2wiS1l0l.png"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 158376,
+            "title": {
+              "romaji": "S-Rank Party Kara Kaikosareta [Jugushi]: \"Noroi no Item\" Shika Tsukuremasen ga, Sono Seinou wa Artifact-kyuu nari......!",
+              "english": "I'm a Curse Crafter, and I Don't Need an S-Rank Party!"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx158376-jxcF6ebp7WdC.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 598,
+        "name": "Elf",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 499,
+        "name": "Skeleton",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 365671,
+            "name": {
+              "full": "Gail Hamilton",
+              "native": "ゲイル・ハミルトン"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787371285,
+    "idTmdb": 292733,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2797650,
+    "idShikimori": 61754
   }
 }

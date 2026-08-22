@@ -1221,7 +1221,7 @@
     "averageScore": 78,
     "meanScore": 79,
     "popularity": 9582,
-    "trending": 1,
+    "trending": 0,
     "favourites": 284,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1688,7 +1688,7 @@
         }
       ]
     },
-    "updatedAt": 1787364117,
+    "updatedAt": 1787371321,
     "idTmdb": 106055,
     "idImdb": "tt13840232",
     "idTvdb": 400512,
@@ -4529,7 +4529,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 43658,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1338,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5181,7 +5181,7 @@
         }
       ]
     },
-    "updatedAt": 1787365310,
+    "updatedAt": 1787371297,
     "idTmdb": 196400,
     "idImdb": "tt15433166",
     "idTvdb": 418364,
@@ -6110,7 +6110,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 36969,
-    "trending": 0,
+    "trending": 1,
     "favourites": 675,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6715,7 +6715,7 @@
         }
       ]
     },
-    "updatedAt": 1787360559,
+    "updatedAt": 1787371253,
     "idTmdb": 76075,
     "idImdb": "tt7742120",
     "idTvdb": 330692,
@@ -7360,7 +7360,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 89575,
-    "trending": 3,
+    "trending": 2,
     "favourites": 1825,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7852,7 +7852,7 @@
         }
       ]
     },
-    "updatedAt": 1787365227,
+    "updatedAt": 1787371308,
     "idTmdb": 213181,
     "idImdb": "tt23029874",
     "idTvdb": 426410,
@@ -7907,7 +7907,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 126684,
-    "trending": 0,
+    "trending": 2,
     "favourites": 4426,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8373,7 +8373,7 @@
         }
       ]
     },
-    "updatedAt": 1787364123,
+    "updatedAt": 1787371287,
     "idTmdb": 212963,
     "idImdb": "tt22986710",
     "idTvdb": 426294,
@@ -8432,7 +8432,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 97723,
-    "trending": 2,
+    "trending": 1,
     "favourites": 2980,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9050,7 +9050,7 @@
         }
       ]
     },
-    "updatedAt": 1787365239,
+    "updatedAt": 1787371255,
     "idTmdb": 62745,
     "idImdb": "tt4728568",
     "idTvdb": 289882,
@@ -10291,7 +10291,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 36854,
-    "trending": 0,
+    "trending": 1,
     "favourites": 469,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10361,7 +10361,13 @@
               "romaji": "Tsuyokute New Saga",
               "english": "New Saga"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx85890-hgayXfVZrZz8.jpg"
+            }
           }
         },
         {
@@ -10372,7 +10378,13 @@
               "romaji": "Tsuyokute New Saga",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx86140-hjZZpedwoOdh.png"
+            }
           }
         }
       ]
@@ -10753,7 +10765,14 @@
         }
       ]
     },
-    "updatedAt": 1787353355
+    "updatedAt": 1787371297,
+    "idTmdb": 212766,
+    "idImdb": "tt33050376",
+    "idTvdb": 426199,
+    "idTrakt": 199110,
+    "traktSlug": "new-saga",
+    "idSimkl": 2015534,
+    "idShikimori": 53397
   },
   "155738": {
     "id": 155738,
@@ -11082,7 +11101,13 @@
               "romaji": "Ojou to Banken-kun",
               "english": "A Girl & Her Guard Dog"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx106315-meaCqUVF8nGm.png"
+            }
           }
         }
       ]
@@ -11283,7 +11308,14 @@
         }
       ]
     },
-    "updatedAt": 1787353322
+    "updatedAt": 1787371232,
+    "idTmdb": 212053,
+    "idImdb": "tt27460264",
+    "idTvdb": 424459,
+    "idTrakt": 198967,
+    "traktSlug": "a-girl-her-guard-dog",
+    "idSimkl": 2009376,
+    "idShikimori": 53300
   },
   "155011": {
     "id": 155011,
@@ -11332,7 +11364,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 18849,
-    "trending": 1,
+    "trending": 0,
     "favourites": 459,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11880,7 +11912,7 @@
         }
       ]
     },
-    "updatedAt": 1787365276,
+    "updatedAt": 1787371321,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -13089,5 +13121,834 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 39864
+  },
+  "155389": {
+    "id": 155389,
+    "idMal": 53237,
+    "title": {
+      "romaji": "SHY",
+      "english": "SHY",
+      "native": "SHY"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "On the brink of a third World War, superheroes appeared on Earth. Gifted with powers, their appearance brings peace to the world. The heroes each selected a country in which they would reside, serve, and protect its citizens. Shy is Japan’s hero, endowed with super strength. Her most daunting enemy yet? Crippling shyness. Join Shy and her super friends as she defends Earth and gains confidence!</i>\n<br><br>\n(Source: Crunchyroll)",
+    "episodes": 12,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2023,
+    "startDate": {
+      "year": 2023,
+      "month": 10,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 12,
+      "day": 19
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155389-qB3aiPB5IkAi.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155389-qB3aiPB5IkAi.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx155389-qB3aiPB5IkAi.png",
+      "color": null
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/155389-AYVuX0nowx1l.jpg",
+    "genres": [
+      "Action",
+      "Drama",
+      "Psychological"
+    ],
+    "synonyms": [
+      "シャイ",
+      "СТЕСНЯШКА"
+    ],
+    "averageScore": 66,
+    "meanScore": 66,
+    "popularity": 35429,
+    "trending": 1,
+    "favourites": 436,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "hcAgisWONxs",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/hcAgisWONxs/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/SHY_off",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://shy-anime.com",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.crunchyroll.com/series/GKEH2G0W9/shy",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0e2nQ5MU6dWXVC3Pqf6941",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Episode 24 - Fare Thee Well",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/74b9c136a47b35183ecde8240f88a5061727094759_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GEVUWJ4G8/fare-thee-well",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 23 - With the Moon......",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/6c876a2232ae9c7da706dccb318daa991726496244_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G14UVQ2EN/with-the-moon",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 22 - Hand Reached Out",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/3ea595d704caddcfe3c63a2f9ecc79ac1725881425_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G8WU732Q8/hand-reached-out",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 21 - Vague",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/838bdb4860e634ba8ea0bd3db29caedf1725269600_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G31UVKP8Q/vague",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 20 - A Nice Guy",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/0820690812fdde15a77e067e72cf37791724685348_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GZ7UDQWJQ/a-nice-guy",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 19 - Because of Love",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/abeefe7053a0c8d9716470fae29f6b621724068990_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GVWU8N14X/because-of-love",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 18 - Nothing Is Permanent",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/17908eae35df46d5a8857e070571aea41723453256_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G31UVKVMN/nothing-is-permanent",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 17 - Storming In",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/258fdd4aad94c7f8a4fdb885cebe4faf1722261106_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G50UMKKJN/storming-in",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 16 - Cloud in the Dark",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/9cff11738218d7485edaa02fbbda51881721657163_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GN7UDMMKZ/cloud-in-the-dark",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 15 - Heartblade",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/cab139b8fbea2aa79ac42dd2ce5dc3b61721049263_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G7PU471GK/heartblade",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 14 - Wind Coming from the West",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/73954a994e56d8979bcfaa64ac5328d01720425716_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G0DUN2D0K/wind-coming-from-the-west",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 13 - Hero's High",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/85f757e68fa7ece9aa2a433de70245521719843451_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G7PU47J2M/heros-high",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 12 - When I Cough, It's the Two of Us",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/ddeff491e5056bd824c4052182d532491702910246_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G4VUQVD27/when-i-cough-its-the-two-of-us",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 11 - What Is Conveyed and That Which Remains",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/bf3c19a30cfad227b137dedea336a6a61702307979_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GMKUXPEZE/what-is-conveyed-and-that-which-remains",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 10 - The Lonely Ice and Small Flame",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/038578a9183f140d347fac4b456fe3781701707737_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GWDU8J8EP/the-lonely-ice-and-small-flame",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 9 - Melee, Trembling Fingertips",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/c222d2bec2358e9a5e7990bff59fb0a01701099304_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G0DUNKX93/melee-trembling-fingertips",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 8 - Surprise",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/0cbdf9acc0d3fec9f05066493489f68d1700488981_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GJWU207DQ/surprise",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 7 - Unchain",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/82fd7ca9f47b2ca60a8d232edf4fa8e31699893133_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GX9UQW124/unchain",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 6 - Ice White",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/3d9533c8d300480394b2eb5ad45c65b41699285598_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G8WUNGJ3V/ice-white",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 5 - Shine the Light",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire3-tmb/cb735a9adcd683eb7cb36a4697117fab1698658409_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GJWU290Q0/shine-the-light",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 4 - A Heartless Person",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/a8e638f4bcc8653842276328e505a6e61698073157_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/G9DUE5529/a-heartless-person",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 3 - Conversation at the Dinner Table",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire4-tmb/6b79819ef30505752f26f156007152671697468501_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GWDU8EQ35/conversation-at-the-dinner-table",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 2 - With All of My Heart",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire1-tmb/4d6480eaab671de1b2faab93e8cbbbb91696862388_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GG1U248JV/with-all-of-my-heart",
+        "site": "Crunchyroll"
+      },
+      {
+        "title": "Episode 1 - I'm Shy",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/c9f1ab10efb793223da7dcfebdfbd0301696244736_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GEVUZX9J0/im-shy",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 110909,
+            "title": {
+              "romaji": "SHY",
+              "english": "Shy"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx110909-kpPCoGV3VdTE.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 171748,
+            "title": {
+              "romaji": "SHY: Tokyo Dakkan-hen",
+              "english": "SHY Season 2"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171748-yigmfmsgq6SR.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 99,
+        "name": "Henshin",
+        "rank": 89,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 86,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 172,
+        "name": "Superhero",
+        "rank": 85,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 81,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 69,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1219,
+        "name": "Disability",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 488,
+        "name": "Age Regression",
+        "rank": 46,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1310,
+        "name": "Travel",
+        "rank": 46,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 255,
+        "name": "Ninja",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 639,
+        "name": "Body Horror",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1456,
+        "name": "Femboy",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 204,
+        "name": "Calligraphy",
+        "rank": 10,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 4418,
+            "name": "8-bit"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7137,
+            "name": "Bandai Namco Filmworks"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7138,
+            "name": "Bandai Namco Music Live"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6559,
+            "name": "Akita Shoten"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7307,
+            "name": "Yostar"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 230,
+            "name": "Bandai"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 16,
+            "name": "TV Tokyo"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6571,
+            "name": "ADK Marketing Solutions"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 4418,
+            "name": "8-bit"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 143297,
+            "name": {
+              "full": "Teru Momijiyama",
+              "native": "紅葉山テル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118841,
+              "name": {
+                "full": "Shino Shimoji",
+                "native": "下地紫野"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 151306,
+            "name": {
+              "full": "Iko Koishikawa",
+              "native": "小石川惟子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106184,
+              "name": {
+                "full": "Nao Touyama",
+                "native": "東山奈央"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 151307,
+            "name": {
+              "full": "Pepesha Andreanova",
+              "native": "ペペシャ＝アンドレアノワ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95040,
+              "name": {
+                "full": "Mamiko Noto",
+                "native": "能登麻美子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 151308,
+            "name": {
+              "full": "Pilse Dunant",
+              "native": "ピルツ・デュナン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 126963,
+              "name": {
+                "full": "Sayumi Suzushiro",
+                "native": "鈴代紗弓"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 151309,
+            "name": {
+              "full": "Uni-lord",
+              "native": "ユニロード"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95195,
+              "name": {
+                "full": "Kikuko Inoue",
+                "native": "井上喜久子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 151310,
+            "name": {
+              "full": "David W. Jones",
+              "native": "ディヴィー＝W＝ジョン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95022,
+              "name": {
+                "full": "Shinichirou Miki",
+                "native": "三木眞一郎"
+              }
+            },
+            {
+              "id": 129351,
+              "name": {
+                "full": "Asuna Tomari",
+                "native": "泊明日菜"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 194288,
+            "name": {
+              "full": "Li Ming Ming",
+              "native": "リー＝ミンミン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 110919,
+              "name": {
+                "full": "Ayumu Murase",
+                "native": "村瀬歩"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 227867,
+            "name": {
+              "full": "Kfufu",
+              "native": "クフフ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100250,
+              "name": {
+                "full": "Rina Hidaka",
+                "native": "日高里菜"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 231590,
+            "name": {
+              "full": "Stigma",
+              "native": "スティグマ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105013,
+              "name": {
+                "full": "Mutsumi Tamura",
+                "native": "田村睦心"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 271113,
+            "name": {
+              "full": "Letana Andreanova",
+              "native": "レターナ＝アンドレアノワ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95099,
+              "name": {
+                "full": "Miyuki Sawashiro",
+                "native": "沢城みゆき"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787371300,
+    "idTmdb": 211709,
+    "idImdb": "tt22524872",
+    "idTvdb": 425474,
+    "idTrakt": 198741,
+    "traktSlug": "shy",
+    "idSimkl": 2004998,
+    "idShikimori": 53237
+  },
+  "155244": {
+    "id": 155244,
+    "idMal": 55655,
+    "title": {
+      "romaji": "Cang Yuan Tu",
+      "english": null,
+      "native": "沧元图"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Meng Chuan witnessed his mother killed before his eyes, so he trained very hard hoping to one day avenge her death. But his peaceful days were broken as his wedding engagement being called off, an invasion by foreign forces, the sanctuary fallen into enemy hands… In order to protect the people of Ning City, he picked up his sword and vowed to be the strongest. This is a heavy responsibility and a long journey…\n<br><br>\n(Source: AC.QQ, translated)",
+    "episodes": 26,
+    "duration": 23,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2023,
+      "month": 6,
+      "day": 22
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 12,
+      "day": 7
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155244-KYJeyWcDD073.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx155244-KYJeyWcDD073.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx155244-KYJeyWcDD073.png",
+      "color": "#781a1a"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Azure Legacy",
+      "The Demon Hunter"
+    ],
+    "averageScore": 76,
+    "meanScore": 80,
+    "popularity": 1869,
+    "trending": 1,
+    "favourites": 101,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": {
+      "id": "II6LG1vnxQI",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/II6LG1vnxQI/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://weibo.com/u/7767139041",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://list.youku.com/show/id_adaec02f09f9469ab8d8",
+        "site": "Youku",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 126834,
+            "title": {
+              "romaji": "Cang Yuan Tu",
+              "english": "Azure Legacy"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b126834-fp5tIXzFmnYc.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 176865,
+            "title": {
+              "romaji": "Cang Yuan Tu: Dongning Fu Fanwai Pian",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176865-vjwxAddTRzTC.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 326,
+        "name": "Cultivation",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 30,
+        "name": "Martial Arts",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 303,
+        "name": "Wuxia",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 251,
+        "name": "Archery",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 15,
+        "name": "Demons",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6490,
+            "name": "China South Angel"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 7116,
+            "name": "Shenman Entertainment"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6530,
+            "name": "Youku"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 402699,
+            "name": {
+              "full": "Meng Chuan",
+              "native": "孟川"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 402700,
+            "name": {
+              "full": "Qiyue Liu",
+              "native": "柳七月"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787371285,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2200132,
+    "idShikimori": 55655
   }
 }

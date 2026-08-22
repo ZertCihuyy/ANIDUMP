@@ -889,7 +889,7 @@
     "averageScore": 64,
     "meanScore": 66,
     "popularity": 12125,
-    "trending": 25,
+    "trending": 19,
     "favourites": 165,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -919,7 +919,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787833800,
-      "timeUntilAiring": 463907,
+      "timeUntilAiring": 461097,
       "episode": 9
     },
     "relations": {
@@ -1320,7 +1320,7 @@
         }
       ]
     },
-    "updatedAt": 1787364013,
+    "updatedAt": 1787371226,
     "idTmdb": 312507,
     "idImdb": null,
     "idTvdb": null,
@@ -1373,7 +1373,7 @@
     "averageScore": 68,
     "meanScore": 70,
     "popularity": 8799,
-    "trending": 37,
+    "trending": 44,
     "favourites": 122,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1403,7 +1403,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787929200,
-      "timeUntilAiring": 559501,
+      "timeUntilAiring": 556493,
       "episode": 9
     },
     "relations": {
@@ -1751,7 +1751,7 @@
         }
       ]
     },
-    "updatedAt": 1787365202,
+    "updatedAt": 1787371223,
     "idTmdb": 307585,
     "idImdb": "tt41293320",
     "idTvdb": 471296,
@@ -2010,5 +2010,161 @@
     "traktSlug": null,
     "idSimkl": 2953770,
     "idShikimori": 63045
+  },
+  "203473": {
+    "id": 203473,
+    "idMal": 63053,
+    "title": {
+      "romaji": "Kyoufu Collector",
+      "english": null,
+      "native": "恐怖コレクター"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "Urban legends come to life…Everyone’s heard an urban legend before, but few have ever come face-to-face with one. These phenomena are everywhere, existing in the shadows of reality. More and more of them have been appearing in the wake of the faceless kid sighted all over Japan. If you see her or one of the urban legends she brings―pray the boy in the red hood finds you before it’s too late. You won’t stand a chance on your own. But with his help, you may just live to see another day…\n<br><br>\n(Source: Yen Press)",
+    "episodes": null,
+    "duration": null,
+    "season": "FALL",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 10,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203473-dIUb8kiwnpmo.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203473-dIUb8kiwnpmo.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203473-dIUb8kiwnpmo.jpg",
+      "color": "#e46b5d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "Horror Collector"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 1916,
+    "trending": 1,
+    "favourites": 16,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 146120,
+            "title": {
+              "romaji": "Kyoufu Collector",
+              "english": "Horror Collector"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx146120-42C8Tc7yOkk7.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 233,
+        "name": "Youkai",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 111,
+            "name": "NHK"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 377107,
+            "name": {
+              "full": "Fushigi Senno",
+              "native": "千野フシギ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 377108,
+            "name": {
+              "full": "Jimmy",
+              "native": "ジミー"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 377109,
+            "name": {
+              "full": "Himitsu Senno",
+              "native": "千野ヒミツ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 377110,
+            "name": {
+              "full": "Aoi Kasa no Otoko",
+              "native": "青い傘の男"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787371319,
+    "idTmdb": 307903,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2957216,
+    "idShikimori": 63053
   }
 }
