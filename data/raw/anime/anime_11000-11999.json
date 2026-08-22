@@ -5368,7 +5368,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 241223,
-    "trending": 3,
+    "trending": 1,
     "favourites": 10233,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6047,7 +6047,7 @@
         }
       ]
     },
-    "updatedAt": 1787396437,
+    "updatedAt": 1787404660,
     "idTmdb": 45845,
     "idImdb": "tt2051178",
     "idTvdb": 275798,
@@ -13182,7 +13182,7 @@
     "averageScore": 69,
     "meanScore": 69,
     "popularity": 46893,
-    "trending": 2,
+    "trending": 0,
     "favourites": 961,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13716,7 +13716,7 @@
         }
       ]
     },
-    "updatedAt": 1787378420,
+    "updatedAt": 1787404670,
     "idTmdb": 63322,
     "idImdb": "tt2230531",
     "idTvdb": 254667,
@@ -30933,5 +30933,441 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 11745
+  },
+  "11341": {
+    "id": 11341,
+    "idMal": 11341,
+    "title": {
+      "romaji": "Tantei Opera Milky Holmes Dai 2 Maku",
+      "english": "Detective Opera Milky Holmes 2",
+      "native": "探偵オペラ ミルキィホームズ 第2幕"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "Second season of Tantei Opera Milky Holmes.",
+    "episodes": 12,
+    "duration": 24,
+    "season": "WINTER",
+    "seasonYear": 2012,
+    "startDate": {
+      "year": 2012,
+      "month": 1,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2012,
+      "month": 3,
+      "day": 22
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11341-QLilHfOnk46Q.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx11341-QLilHfOnk46Q.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11341-QLilHfOnk46Q.jpg",
+      "color": "#e4a150"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11341.jpg",
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ],
+    "synonyms": [
+      "Tantei Opera Milky Holmes 2"
+    ],
+    "averageScore": 71,
+    "meanScore": 72,
+    "popularity": 5648,
+    "trending": 1,
+    "favourites": 71,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "http://milky-holmes.com/anime/series/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 7768,
+            "title": {
+              "romaji": "Tantei Opera Milky Holmes",
+              "english": "Detective Opera Milky Holmes"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2010,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/7768.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 17267,
+            "title": {
+              "romaji": "Futari wa Milky Holmes",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2013,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx17267-NiBrRoEI3RMD.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 14647,
+            "title": {
+              "romaji": "Tantei Opera Milky Holmes: Alternative",
+              "english": "Detective Opera Milky Holmes: Alternative"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2012,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/14647.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 92,
+        "name": "Cute Girls Doing Cute Things",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 694,
+        "name": "Detective",
+        "rank": 68,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 39,
+        "name": "Parody",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 253,
+        "name": "Gods",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 106,
+        "name": "Gangs",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 99,
+        "name": "Henshin",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 30,
+        "name": "Martial Arts",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7,
+            "name": "J.C.STAFF"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 8,
+            "name": "Artland"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 102,
+            "name": "Funimation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 104,
+            "name": "Lantis"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 715,
+            "name": "Dwango"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 775,
+            "name": "Bushiroad"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 32892,
+            "name": {
+              "full": "Nero Yuzurizaki",
+              "native": "譲崎ネロ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106361,
+              "name": {
+                "full": "Sora Tokui",
+                "native": "徳井青空"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 35949,
+            "name": {
+              "full": "Sherlock Shellingford",
+              "native": "シャーロック・シェリンフォード"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106359,
+              "name": {
+                "full": "Suzuko Mimori",
+                "native": "三森すずこ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 35950,
+            "name": {
+              "full": "Hercule Barton",
+              "native": "エルキュール・バートン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106360,
+              "name": {
+                "full": "Mikoi Sasaki",
+                "native": "佐々木未来"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 35951,
+            "name": {
+              "full": "Cordelia Glauca",
+              "native": "コーデリア・グラウカ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102899,
+              "name": {
+                "full": "Izumi Kitta",
+                "native": "橘田いずみ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 38121,
+            "name": {
+              "full": "Henriette Mystere",
+              "native": "アンリエット・ミステール"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95723,
+              "name": {
+                "full": "Satomi Akesaka",
+                "native": "明坂聡美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 37629,
+            "name": {
+              "full": "Kai Nijuuri",
+              "native": "二十里海"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95440,
+              "name": {
+                "full": "Daisuke Kishio",
+                "native": "岸尾だいすけ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 37733,
+            "name": {
+              "full": "Kokoro Akechi",
+              "native": "明智小衣"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96592,
+              "name": {
+                "full": "Yoshino Nanjou",
+                "native": "南條愛乃"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 37734,
+            "name": {
+              "full": "Tsugiko Zenigata",
+              "native": "銭形次子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95099,
+              "name": {
+                "full": "Miyuki Sawashiro",
+                "native": "沢城みゆき"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 37735,
+            "name": {
+              "full": "Hirano Hasegawa",
+              "native": "長谷川平乃"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95315,
+              "name": {
+                "full": "Ryouko Shintani",
+                "native": "新谷良子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 38118,
+            "name": {
+              "full": "Souseki Ishinagare",
+              "native": "石流漱石"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95494,
+              "name": {
+                "full": "Takuma Terashima",
+                "native": "寺島拓篤"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787403828,
+    "idTmdb": 51492,
+    "idImdb": "tt9889352",
+    "idTvdb": 197261,
+    "idTrakt": 64894,
+    "traktSlug": "detective-opera-milky-holmes",
+    "idSimkl": 36688,
+    "idShikimori": 11341
   }
 }

@@ -426,7 +426,7 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 534,
+    "popularity": 535,
     "trending": 0,
     "favourites": 5,
     "isAdult": false,
@@ -503,7 +503,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787400106,
+    "updatedAt": 1787406101,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -556,7 +556,7 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 675,
+    "popularity": 676,
     "trending": 0,
     "favourites": 7,
     "isAdult": false,
@@ -633,7 +633,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787400106,
+    "updatedAt": 1787406101,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -641,6 +641,146 @@
     "traktSlug": null,
     "idSimkl": 662939,
     "idShikimori": null
+  },
+  {
+    "id": 102288,
+    "idMal": null,
+    "title": {
+      "romaji": "To the Moon",
+      "english": "To the Moon",
+      "native": "To the Moon"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "NOT_YET_RELEASED",
+    "description": "A story-driven experience about two doctors traversing backwards through a dying man's memories to artificially fulfill his last wish. \n<br><br>\n(Source: Steam)",
+    "episodes": 1,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102288-at5VI7ByoFpA.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102288-at5VI7ByoFpA.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b102288-at5VI7ByoFpA.jpg",
+      "color": "#285078"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/102288-elfyquvASV68.jpg",
+    "genres": [
+      "Romance",
+      "Sci-Fi"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 2636,
+    "trending": 0,
+    "favourites": 18,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": {
+      "id": "yFxkSeQzD14",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/yFxkSeQzD14/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 365,
+        "name": "Memory Manipulation",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 90,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 153,
+        "name": "Time Skip",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 156,
+        "name": "Achronological Order",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 488,
+        "name": "Age Regression",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 96,
+        "name": "Time Manipulation",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 145,
+        "name": "Work",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 146,
+        "name": "Alternate Universe",
+        "rank": 66,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 240,
+        "name": "Amnesia",
+        "rank": 65,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1219,
+        "name": "Disability",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 623,
+        "name": "Astronomy",
+        "rank": 53,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787406309,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 824099,
+    "idShikimori": 60671
   },
   {
     "id": 168246,
@@ -10935,7 +11075,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1790949600,
-      "timeUntilAiring": 3544454,
+      "timeUntilAiring": 3541615,
       "episode": 1
     },
     "relations": {
@@ -15024,7 +15164,7 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 5221,
+    "popularity": 5222,
     "trending": 0,
     "favourites": 38,
     "isAdult": false,
@@ -15059,7 +15199,13 @@
               "romaji": "Boku wa Robot-goshi no Kimi ni Koi wo Suru",
               "english": "I fall in love with you through a robot"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b119779-T5jbF1p6GkVi.jpg"
+            }
           }
         }
       ]
@@ -15104,7 +15250,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787357157,
+    "updatedAt": 1787406791,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -22160,7 +22306,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3264,
-    "trending": 1,
+    "trending": 0,
     "favourites": 26,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -22357,7 +22503,7 @@
         }
       ]
     },
-    "updatedAt": 1787400082,
+    "updatedAt": 1787403874,
     "idTmdb": 311842,
     "idImdb": null,
     "idTvdb": null,
@@ -22548,7 +22694,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 8449,
-    "trending": 1,
+    "trending": 0,
     "favourites": 144,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -22809,7 +22955,7 @@
         }
       ]
     },
-    "updatedAt": 1787396471,
+    "updatedAt": 1787403874,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -23062,7 +23208,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791289560,
-      "timeUntilAiring": 3884521,
+      "timeUntilAiring": 3881686,
       "episode": 1
     },
     "relations": {
@@ -24200,7 +24346,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 155,
-    "trending": 1,
+    "trending": 0,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -24286,7 +24432,7 @@
         }
       ]
     },
-    "updatedAt": 1787400036,
+    "updatedAt": 1787403874,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -28620,7 +28766,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 9020,
-    "trending": 1,
+    "trending": 0,
     "favourites": 106,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -28906,7 +29052,7 @@
         }
       ]
     },
-    "updatedAt": 1787400080,
+    "updatedAt": 1787403874,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -34071,7 +34217,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1681,
-    "trending": 1,
+    "trending": 0,
     "favourites": 13,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -34156,7 +34302,7 @@
         }
       ]
     },
-    "updatedAt": 1787400041,
+    "updatedAt": 1787403874,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -37628,7 +37774,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1790262000,
-      "timeUntilAiring": 2856863,
+      "timeUntilAiring": 2854020,
       "episode": 1
     },
     "relations": {
@@ -42058,7 +42204,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791559800,
-      "timeUntilAiring": 4154766,
+      "timeUntilAiring": 4151931,
       "episode": 1
     },
     "relations": {
@@ -47172,7 +47318,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791476880,
-      "timeUntilAiring": 4071796,
+      "timeUntilAiring": 4068958,
       "episode": 1
     },
     "relations": {
@@ -48357,7 +48503,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 2622,
-    "trending": 2,
+    "trending": 0,
     "favourites": 50,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -48499,7 +48645,7 @@
         }
       ]
     },
-    "updatedAt": 1787400057,
+    "updatedAt": 1787403874,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -54786,7 +54932,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 22433,
-    "trending": 1,
+    "trending": 0,
     "favourites": 196,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -55119,7 +55265,7 @@
         }
       ]
     },
-    "updatedAt": 1787400083,
+    "updatedAt": 1787403874,
     "idTmdb": 95479,
     "idImdb": "tt12343534",
     "idTvdb": 377543,
@@ -55830,7 +55976,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791042960,
-      "timeUntilAiring": 3637899,
+      "timeUntilAiring": 3635062,
       "episode": 1
     },
     "relations": {
@@ -62908,7 +63054,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791295200,
-      "timeUntilAiring": 3897822,
+      "timeUntilAiring": 3887327,
       "episode": 1
     },
     "relations": {
@@ -63143,7 +63289,7 @@
         }
       ]
     },
-    "updatedAt": 1787390236,
+    "updatedAt": 1787404670,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -65385,7 +65531,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1790823360,
-      "timeUntilAiring": 3418276,
+      "timeUntilAiring": 3415437,
       "episode": 1
     },
     "relations": {
@@ -66394,7 +66540,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1788,
-    "trending": 1,
+    "trending": 0,
     "favourites": 20,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -66500,7 +66646,7 @@
         }
       ]
     },
-    "updatedAt": 1787400086,
+    "updatedAt": 1787403874,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -78872,7 +79018,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1790959980,
-      "timeUntilAiring": 3554892,
+      "timeUntilAiring": 3552053,
       "episode": 1
     },
     "relations": {
@@ -82202,7 +82348,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 2443,
-    "trending": 0,
+    "trending": 1,
     "favourites": 52,
     "isAdult": false,
     "countryOfOrigin": "KR",
@@ -82232,7 +82378,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787842800,
-      "timeUntilAiring": 445507,
+      "timeUntilAiring": 434687,
       "episode": 1
     },
     "relations": {
@@ -82375,7 +82521,7 @@
         }
       ]
     },
-    "updatedAt": 1787392936,
+    "updatedAt": 1787403839,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -83163,7 +83309,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791556200,
-      "timeUntilAiring": 4151106,
+      "timeUntilAiring": 4148268,
       "episode": 1
     },
     "relations": {

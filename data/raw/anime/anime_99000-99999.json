@@ -21220,7 +21220,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 49424,
-    "trending": 1,
+    "trending": 0,
     "favourites": 728,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -21657,7 +21657,7 @@
         }
       ]
     },
-    "updatedAt": 1787400022,
+    "updatedAt": 1787403874,
     "idTmdb": 77698,
     "idImdb": "tt8253158",
     "idTvdb": 344076,
@@ -24168,7 +24168,7 @@
     "averageScore": 63,
     "meanScore": 64,
     "popularity": 2909,
-    "trending": 1,
+    "trending": 0,
     "favourites": 28,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -24187,7 +24187,13 @@
               "romaji": "Cardfight!! Vanguard G NEXT",
               "english": "Cardfight!! Vanguard G Next"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2016,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx87476-Z7buTLMII4O5.png"
+            }
           }
         },
         {
@@ -24198,7 +24204,13 @@
               "romaji": "Cardfight!! Vanguard G: Stride Generation",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx127680-XrBpUBLMMhRV.jpg"
+            }
           }
         }
       ]
@@ -24486,7 +24498,7 @@
         }
       ]
     },
-    "updatedAt": 1787353347,
+    "updatedAt": 1787404670,
     "idTmdb": 35442,
     "idImdb": "tt2549176",
     "idTvdb": 245821,
