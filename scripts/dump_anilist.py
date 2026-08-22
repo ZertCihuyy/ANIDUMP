@@ -257,6 +257,54 @@ def generate_indexes(base_dir):
     with open(lists_dir / 'top_movies.json', 'w', encoding='utf-8') as f:
         json.dump(movies, f, ensure_ascii=False, indent=2)
 
+    # 8. Metadata, Genres, Tags, and Studios Aggregation
+    logging.info("Generating metadata, genres, tags, and studios...")
+    all_genres = set()
+    all_tags = set()
+    all_studios = set()
+    recent_episodes = []
+
+    for a in anime_list:
+        if a.get('genres'):
+            all_genres.update(a['genres'])
+        if a.get('tags'):
+            for t in a['tags']:
+                all_tags.add(t['name'])
+        if a.get('studios') and a['studios'].get('edges'):
+            for s in a['studios']['edges']:
+                if s.get('node'):
+                    all_studios.add(s['node']['name'])
+        
+        # Recent/Upcoming episodes logic: 
+        if a.get('nextAiringEpisode'):
+            recent_episodes.append(a)
+
+    # Sort recent episodes by closest airing time (both past and future can exist if loosely fetched, but nextAiringEpisode is usually future)
+    recent_episodes.sort(key=lambda x: x['nextAiringEpisode']['airingAt'])
+
+    metadata = {
+        "total_anime": len(anime_list),
+        "total_genres": len(all_genres),
+        "total_tags": len(all_tags),
+        "total_studios": len(all_studios),
+        "last_updated": int(now.timestamp())
+    }
+
+    with open(lists_dir / 'metadata.json', 'w', encoding='utf-8') as f:
+        json.dump(metadata, f, ensure_ascii=False, indent=2)
+
+    with open(lists_dir / 'genres.json', 'w', encoding='utf-8') as f:
+        json.dump(sorted(list(all_genres)), f, ensure_ascii=False, indent=2)
+        
+    with open(lists_dir / 'tags.json', 'w', encoding='utf-8') as f:
+        json.dump(sorted(list(all_tags)), f, ensure_ascii=False, indent=2)
+        
+    with open(lists_dir / 'studios.json', 'w', encoding='utf-8') as f:
+        json.dump(sorted(list(all_studios)), f, ensure_ascii=False, indent=2)
+        
+    with open(lists_dir / 'recent_episodes.json', 'w', encoding='utf-8') as f:
+        json.dump(recent_episodes[:500], f, ensure_ascii=False, indent=2) # top 500 recent/upcoming episodes
+
     logging.info("Indexes successfully generated!")
 
 def main():
@@ -286,6 +334,20 @@ def main():
     if args.mode == 'incremental':
         updated_since = int(time.time()) - (args.hours * 3600)
         logging.info(f"Fetching anime updated since {updated_since}")
+
+    # Fetch external mapping
+    logging.info("Fetching external ID mapping from nattadasu/animeApi...")
+    mapping_dict = {}
+    try:
+        req = requests.get("https://raw.githubusercontent.com/nattadasu/animeApi/master/database/animeapi.json", timeout=30)
+        if req.status_code == 200:
+            mapping_data = req.json()
+            for item in mapping_data:
+                if item.get("anilist"):
+                    mapping_dict[item["anilist"]] = item
+            logging.info(f"Loaded {len(mapping_dict)} external mappings.")
+    except Exception as e:
+        logging.error(f"Failed to fetch external mapping: {e}")
 
     total_fetched = 0
     while has_next_page:
@@ -318,6 +380,19 @@ def main():
         if args.mode == 'full':
             chunk_id = max(anime['id'] for anime in anime_list)
             
+        # Inject external IDs
+        for anime in anime_list:
+            aid = anime.get('id')
+            if aid in mapping_dict:
+                ext = mapping_dict[aid]
+                anime['idTmdb'] = ext.get('themoviedb')
+                anime['idImdb'] = ext.get('imdb')
+                anime['idTvdb'] = ext.get('thetvdb')
+                anime['idTrakt'] = ext.get('trakt')
+                anime['traktSlug'] = ext.get('trakt_slug')
+                anime['idSimkl'] = ext.get('simkl')
+                anime['idShikimori'] = ext.get('shikimori')
+
         # If incremental, filter out anime older than our timestamp and stop pagination if necessary
         if args.mode == 'incremental':
             filtered_anime_list = []
