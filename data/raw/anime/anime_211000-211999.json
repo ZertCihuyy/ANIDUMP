@@ -39,7 +39,7 @@
     "averageScore": null,
     "meanScore": 76,
     "popularity": 1250,
-    "trending": 2,
+    "trending": 4,
     "favourites": 14,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -100,7 +100,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787374866,
+    "updatedAt": 1787378457,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -153,7 +153,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 27302,
-    "trending": 3,
+    "trending": 0,
     "favourites": 521,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -418,7 +418,7 @@
         }
       ]
     },
-    "updatedAt": 1787374837,
+    "updatedAt": 1787378531,
     "idTmdb": 320905,
     "idImdb": "tt42171190",
     "idTvdb": 457476,
@@ -674,7 +674,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 8530,
-    "trending": 0,
+    "trending": 1,
     "favourites": 111,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -762,7 +762,7 @@
         }
       ]
     },
-    "updatedAt": 1787371321,
+    "updatedAt": 1787378517,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -816,7 +816,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 16100,
-    "trending": 5,
+    "trending": 6,
     "favourites": 228,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1129,7 +1129,7 @@
         }
       ]
     },
-    "updatedAt": 1787371241,
+    "updatedAt": 1787378473,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1803,7 +1803,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3522,
-    "trending": 1,
+    "trending": 0,
     "favourites": 56,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1953,7 +1953,7 @@
         }
       ]
     },
-    "updatedAt": 1787371311,
+    "updatedAt": 1787378531,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3622,5 +3622,83 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 64064
+  },
+  "211232": {
+    "id": 211232,
+    "idMal": 64431,
+    "title": {
+      "romaji": "Majo no Tani no Yoru",
+      "english": null,
+      "native": "魔女の谷の夜"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "A short film only screened at the Cinema Orion at Ghibli Park in Nagakute.<br><br>\n\nThe film is set in Ghibli Park's \"Valley of the Witches\" and is the first original animated short film created by Studio Ghibli for Ghibli Park.",
+    "episodes": 1,
+    "duration": 14,
+    "season": "SUMMER",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 8
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 8
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211232-Bthde3cpWCtq.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211232-Bthde3cpWCtq.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx211232-Bthde3cpWCtq.png",
+      "color": "#e4c943"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Night in the Valley of Witches"
+    ],
+    "averageScore": null,
+    "meanScore": 57,
+    "popularity": 768,
+    "trending": 1,
+    "favourites": 4,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 21,
+            "name": "Studio Ghibli"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787378476,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 3091388,
+    "idShikimori": 64431
   }
 }

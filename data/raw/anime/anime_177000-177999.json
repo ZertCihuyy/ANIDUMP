@@ -485,7 +485,7 @@
     "averageScore": 70,
     "meanScore": 72,
     "popularity": 4176,
-    "trending": 0,
+    "trending": 1,
     "favourites": 36,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -519,7 +519,13 @@
               "romaji": "Hibike! Euphonium 3",
               "english": "Sound! Euphonium 3"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx109731-EwHzbtywdcyG.png"
+            }
           }
         }
       ]
@@ -761,7 +767,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787378523,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 58856
   },
   "177697": {
     "id": 177697,
@@ -808,7 +821,7 @@
     "averageScore": 78,
     "meanScore": 79,
     "popularity": 40173,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1029,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1310,7 +1323,7 @@
         }
       ]
     },
-    "updatedAt": 1787371311,
+    "updatedAt": 1787378531,
     "idTmdb": 254987,
     "idImdb": "tt32420174",
     "idTvdb": 418123,
@@ -2768,7 +2781,7 @@
     "averageScore": 69,
     "meanScore": 69,
     "popularity": 25680,
-    "trending": 1,
+    "trending": 0,
     "favourites": 374,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3172,7 +3185,7 @@
         }
       ]
     },
-    "updatedAt": 1787374827,
+    "updatedAt": 1787378531,
     "idTmdb": 255064,
     "idImdb": "tt38980285",
     "idTvdb": 450282,
@@ -3375,7 +3388,7 @@
     "averageScore": 72,
     "meanScore": 73,
     "popularity": 12850,
-    "trending": 0,
+    "trending": 1,
     "favourites": 158,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3819,7 +3832,7 @@
         }
       ]
     },
-    "updatedAt": 1787371321,
+    "updatedAt": 1787378519,
     "idTmdb": 291403,
     "idImdb": "tt37388613",
     "idTvdb": 449883,
@@ -3873,7 +3886,7 @@
     "averageScore": 75,
     "meanScore": 75,
     "popularity": 29492,
-    "trending": 1,
+    "trending": 0,
     "favourites": 660,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4419,7 +4432,7 @@
         }
       ]
     },
-    "updatedAt": 1787365199,
+    "updatedAt": 1787378531,
     "idTmdb": 278050,
     "idImdb": "tt35351359",
     "idTvdb": 449306,
@@ -4914,7 +4927,7 @@
     "averageScore": 53,
     "meanScore": 54,
     "popularity": 7873,
-    "trending": 3,
+    "trending": 2,
     "favourites": 94,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5283,7 +5296,7 @@
         }
       ]
     },
-    "updatedAt": 1787374855,
+    "updatedAt": 1787378462,
     "idTmdb": 270931,
     "idImdb": "tt32463887",
     "idTvdb": 450624,
@@ -5633,7 +5646,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 25327,
-    "trending": 3,
+    "trending": 0,
     "favourites": 586,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6015,7 +6028,7 @@
         }
       ]
     },
-    "updatedAt": 1787374806,
+    "updatedAt": 1787378531,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6070,7 +6083,7 @@
     "averageScore": 83,
     "meanScore": 83,
     "popularity": 42005,
-    "trending": 3,
+    "trending": 0,
     "favourites": 1713,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6441,7 +6454,7 @@
         }
       ]
     },
-    "updatedAt": 1787371266,
+    "updatedAt": 1787378531,
     "idTmdb": 1295026,
     "idImdb": "tt32600395",
     "idTvdb": null,
@@ -6966,7 +6979,7 @@
     "averageScore": 64,
     "meanScore": 64,
     "popularity": 56034,
-    "trending": 4,
+    "trending": 3,
     "favourites": 875,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7402,7 +7415,7 @@
         }
       ]
     },
-    "updatedAt": 1787374861,
+    "updatedAt": 1787378505,
     "idTmdb": 258994,
     "idImdb": "tt32550272",
     "idTvdb": 449988,
@@ -7920,7 +7933,7 @@
     "averageScore": 76,
     "meanScore": 77,
     "popularity": 28884,
-    "trending": 12,
+    "trending": 10,
     "favourites": 437,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7950,7 +7963,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787499000,
-      "timeUntilAiring": 122971,
+      "timeUntilAiring": 119167,
       "episode": 8
     },
     "relations": {
@@ -8375,7 +8388,7 @@
         }
       ]
     },
-    "updatedAt": 1787374821,
+    "updatedAt": 1787378432,
     "idTmdb": 295071,
     "idImdb": "tt38049145",
     "idTvdb": 450228,
@@ -8433,7 +8446,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 130551,
-    "trending": 4,
+    "trending": 5,
     "favourites": 2473,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8968,7 +8981,7 @@
         }
       ]
     },
-    "updatedAt": 1787374813,
+    "updatedAt": 1787378459,
     "idTmdb": 120089,
     "idImdb": "tt13706018",
     "idTvdb": 405920,
@@ -9021,7 +9034,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 58289,
-    "trending": 5,
+    "trending": 6,
     "favourites": 1028,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9491,7 +9504,7 @@
         }
       ]
     },
-    "updatedAt": 1787374829,
+    "updatedAt": 1787378465,
     "idTmdb": 261298,
     "idImdb": "tt33478787",
     "idTvdb": 449884,
@@ -9546,7 +9559,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 55802,
-    "trending": 3,
+    "trending": 2,
     "favourites": 1350,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10090,7 +10103,7 @@
         }
       ]
     },
-    "updatedAt": 1787374903,
+    "updatedAt": 1787378481,
     "idTmdb": 258580,
     "idImdb": "tt32501772",
     "idTvdb": 449245,
@@ -10156,7 +10169,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 139383,
-    "trending": 8,
+    "trending": 6,
     "favourites": 5774,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10650,7 +10663,7 @@
         }
       ]
     },
-    "updatedAt": 1787374841,
+    "updatedAt": 1787378466,
     "idTmdb": 278196,
     "idImdb": "tt33028568",
     "idTvdb": 450428,
@@ -10704,7 +10717,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 75012,
-    "trending": 3,
+    "trending": 2,
     "favourites": 1285,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11208,7 +11221,7 @@
         }
       ]
     },
-    "updatedAt": 1787374868,
+    "updatedAt": 1787378459,
     "idTmdb": 253811,
     "idImdb": "tt32344704",
     "idTvdb": 449843,
@@ -11264,7 +11277,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 217309,
-    "trending": 6,
+    "trending": 8,
     "favourites": 4872,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11680,7 +11693,7 @@
         }
       ]
     },
-    "updatedAt": 1787374867,
+    "updatedAt": 1787378471,
     "idTmdb": 207332,
     "idImdb": "tt17069148",
     "idTvdb": 423732,
@@ -11737,7 +11750,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 49146,
-    "trending": 37,
+    "trending": 35,
     "favourites": 835,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11787,7 +11800,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787666400,
-      "timeUntilAiring": 290356,
+      "timeUntilAiring": 286558,
       "episode": 8
     },
     "relations": {
@@ -12267,7 +12280,7 @@
         }
       ]
     },
-    "updatedAt": 1787374813,
+    "updatedAt": 1787378422,
     "idTmdb": 255358,
     "idImdb": "tt36517689",
     "idTvdb": 450475,
@@ -14515,7 +14528,7 @@
     "averageScore": 64,
     "meanScore": 66,
     "popularity": 2277,
-    "trending": 1,
+    "trending": 0,
     "favourites": 30,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -14704,7 +14717,7 @@
         }
       ]
     },
-    "updatedAt": 1787371320,
+    "updatedAt": 1787378531,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -15178,7 +15191,7 @@
     "averageScore": 51,
     "meanScore": 54,
     "popularity": 852,
-    "trending": 1,
+    "trending": 0,
     "favourites": 22,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -15300,7 +15313,7 @@
         }
       ]
     },
-    "updatedAt": 1787374889,
+    "updatedAt": 1787378531,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -15308,5 +15321,398 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 59118
+  },
+  "177814": {
+    "id": 177814,
+    "idMal": 59390,
+    "title": {
+      "romaji": "Terminator 0",
+      "english": "TERMINATOR ZERO",
+      "native": "ターミネーター 0"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "2022: A future war has raged for decades between the few human survivors and an endless army of machines. 1997: The AI known as Skynet gained self-awareness and began its war against humanity.\n<br><br>\nCaught between the future and this past is a soldier sent back in time to change the fate of humanity. She arrives in 1997 to protect a scientist named Malcolm Lee who works to launch a new AI system designed to compete with Skynet’s impending attack on humanity. As Malcolm navigates the moral complexities of his creation, he’s hunted by an unrelenting assassin from the future, which forever alters the fate of his three children.<br><br>\n(Source: Netflix TUDUM)",
+    "episodes": 8,
+    "duration": 28,
+    "season": "SUMMER",
+    "seasonYear": 2024,
+    "startDate": {
+      "year": 2024,
+      "month": 8,
+      "day": 29
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 8,
+      "day": 29
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177814-Xr9F98LExkWd.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177814-Xr9F98LExkWd.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177814-Xr9F98LExkWd.jpg",
+      "color": "#e4780d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177814-tY1Rrb1E4TlV.jpg",
+    "genres": [
+      "Action",
+      "Drama",
+      "Psychological",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "synonyms": [
+      "Terminator: The Anime Series",
+      "终结者 Zero",
+      "ターミネーターZERO",
+      "Εξολοθρευτής Μηδέν",
+      "터미네이터 제로",
+      "O Exterminador do Futuro Zero",
+      "Exterminador Implacável Zero",
+      "คนเหล็ก ซีโร่"
+    ],
+    "averageScore": 70,
+    "meanScore": 70,
+    "popularity": 11005,
+    "trending": 1,
+    "favourites": 157,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "BqcSNkmKXzc",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/BqcSNkmKXzc/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.netflix.com/title/81217220",
+        "site": "Netflix",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 175,
+        "name": "Robots",
+        "rank": 97,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 93,
+        "name": "Post-Apocalyptic",
+        "rank": 96,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 517,
+        "name": "Artificial Intelligence",
+        "rank": 96,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 94,
+        "name": "Gore",
+        "rank": 92,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 801,
+        "name": "Cyborg",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 160,
+        "name": "Real Robot",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 111,
+        "name": "War",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 108,
+        "name": "Cyberpunk",
+        "rank": 76,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 96,
+        "name": "Time Manipulation",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 40,
+        "name": "Police",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 285,
+        "name": "Terrorism",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1596,
+        "name": "Time Loop",
+        "rank": 60,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 10,
+            "name": "Production I.G"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 338945,
+            "name": {
+              "full": "Malcolm Lee",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96637,
+              "name": {
+                "full": "Yuuya Uchida",
+                "native": "内田夕夜"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 338955,
+            "name": {
+              "full": "Eiko",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 108551,
+              "name": {
+                "full": "Toa Yukinari",
+                "native": "行成とあ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 338942,
+            "name": {
+              "full": "Terminator",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 104677,
+              "name": {
+                "full": "Yasuhiro Mamiya",
+                "native": "間宮康弘"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 345397,
+            "name": {
+              "full": "Misaki",
+              "native": "みさき"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95869,
+              "name": {
+                "full": "Saori Hayami",
+                "native": "早見沙織"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 338947,
+            "name": {
+              "full": "Kokoro",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 112215,
+              "name": {
+                "full": "Atsumi Tanezaki",
+                "native": "種﨑敦美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 338957,
+            "name": {
+              "full": "The Prophet",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 104472,
+              "name": {
+                "full": "Mari Yokoo",
+                "native": "横尾まり"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 345391,
+            "name": {
+              "full": "Annie",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 137845,
+              "name": {
+                "full": "Ayaka Shimoyamada",
+                "native": "下山田綾華"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 345392,
+            "name": {
+              "full": "Kenta Lee",
+              "native": "ケンタ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95356,
+              "name": {
+                "full": "Hiro Shimono",
+                "native": "下野紘"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 345395,
+            "name": {
+              "full": "Reika Lee",
+              "native": "レイカ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 108801,
+              "name": {
+                "full": "Miyuki Satou",
+                "native": "佐藤美由希"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 345396,
+            "name": {
+              "full": "Hiro Lee",
+              "native": "ヒロ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118738,
+              "name": {
+                "full": "Shizuka Ishigami",
+                "native": "石上静香"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787378484,
+    "idTmdb": 239287,
+    "idImdb": "tt14153236",
+    "idTvdb": 442145,
+    "idTrakt": 213064,
+    "traktSlug": "terminator-zero",
+    "idSimkl": 2547958,
+    "idShikimori": 59390
   }
 }

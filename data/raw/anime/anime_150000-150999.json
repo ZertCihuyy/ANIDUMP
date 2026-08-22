@@ -1491,7 +1491,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 325930,
-    "trending": 14,
+    "trending": 7,
     "favourites": 18693,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2074,7 +2074,7 @@
         }
       ]
     },
-    "updatedAt": 1787374833,
+    "updatedAt": 1787378422,
     "idTmdb": 203737,
     "idImdb": "tt21030032",
     "idTvdb": 421069,
@@ -4055,7 +4055,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 77415,
-    "trending": 2,
+    "trending": 5,
     "favourites": 1772,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4550,7 +4550,7 @@
         }
       ]
     },
-    "updatedAt": 1787364073,
+    "updatedAt": 1787378467,
     "idTmdb": 203780,
     "idImdb": "tt21345944",
     "idTvdb": 421092,
@@ -5205,7 +5205,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 9518,
-    "trending": 0,
+    "trending": 1,
     "favourites": 179,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5546,7 +5546,7 @@
         }
       ]
     },
-    "updatedAt": 1787374914,
+    "updatedAt": 1787378475,
     "idTmdb": 204098,
     "idImdb": "tt31308294",
     "idTvdb": 427822,
@@ -6114,7 +6114,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 9365,
-    "trending": 1,
+    "trending": 0,
     "favourites": 103,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6454,7 +6454,7 @@
         }
       ]
     },
-    "updatedAt": 1787374824,
+    "updatedAt": 1787378531,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6462,5 +6462,323 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 32930
+  },
+  "150583": {
+    "id": 150583,
+    "idMal": 52015,
+    "title": {
+      "romaji": "Yofukashi no Uta Mini",
+      "english": null,
+      "native": "よふかしのうた ミニ"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Mini animations posted on the <i>Yofukashi no Uta</i> Twitter account.",
+    "episodes": 22,
+    "duration": 1,
+    "season": "SPRING",
+    "seasonYear": 2022,
+    "startDate": {
+      "year": 2022,
+      "month": 6,
+      "day": 6
+    },
+    "endDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 1
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150583-UkGu1k8ecpUr.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150583-UkGu1k8ecpUr.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx150583-UkGu1k8ecpUr.png",
+      "color": "#f1505d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [
+      "Call of the Night Mini"
+    ],
+    "averageScore": 61,
+    "meanScore": 63,
+    "popularity": 3093,
+    "trending": 1,
+    "favourites": 53,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/search?q=from:yofukashi_pr よふかしのうた ミニ&src=typed_query&f=video",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 141391,
+            "title": {
+              "romaji": "Yofukashi no Uta",
+              "english": "Call of the Night"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx141391-M3ZgUKTPENUk.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 74,
+        "name": "Vampire",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 324,
+        "name": "Chibi",
+        "rank": 76,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 259,
+        "name": "Monster Girl",
+        "rank": 76,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 249,
+        "name": "Maids",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6417,
+            "name": "AQUA ARIS"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 168774,
+            "name": {
+              "full": "Nazuna Nanakusa",
+              "native": "七草ナズナ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 116517,
+              "name": {
+                "full": "Sora Amamiya",
+                "native": "雨宮天"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 168866,
+            "name": {
+              "full": "Kou Yamori",
+              "native": "夜守コウ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 141083,
+              "name": {
+                "full": "Gen Satou",
+                "native": "佐藤元"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 175657,
+            "name": {
+              "full": "Niko Hirata",
+              "native": "平田ニコ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95413,
+              "name": {
+                "full": "Eri Kitamura",
+                "native": "喜多村英梨"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 175658,
+            "name": {
+              "full": "Seri Kikyou",
+              "native": "桔梗セリ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95890,
+              "name": {
+                "full": "Haruka Tomatsu",
+                "native": "戸松遥"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 175660,
+            "name": {
+              "full": "Akihito Akiyama",
+              "native": "秋山昭人"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95283,
+              "name": {
+                "full": "Hiroyuki Yoshino",
+                "native": "吉野裕行"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 175661,
+            "name": {
+              "full": "Kabura Honda",
+              "native": "本田カブラ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95093,
+              "name": {
+                "full": "Shizuka Itou",
+                "native": "伊藤静"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 175662,
+            "name": {
+              "full": "Midori Kohakobe",
+              "native": "小繁縷ミドリ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 117329,
+              "name": {
+                "full": "Naomi Oozora",
+                "native": "大空直美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 175663,
+            "name": {
+              "full": "Akira Asai",
+              "native": "朝井アキラ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 116543,
+              "name": {
+                "full": "Yumiri Hanamori",
+                "native": "花守ゆみり"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 233097,
+            "name": {
+              "full": "Hatsuka Suzushiro",
+              "native": "蘿蔔ハツカ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119517,
+              "name": {
+                "full": "Azumi Waki",
+                "native": "和氣あず未"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 269129,
+            "name": {
+              "full": "Mahiru Seki",
+              "native": "夕真昼"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95819,
+              "name": {
+                "full": "Kenshou Ono",
+                "native": "小野賢章"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787378481,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 52015
   }
 }

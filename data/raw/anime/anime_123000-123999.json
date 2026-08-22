@@ -1821,7 +1821,7 @@
     "averageScore": 60,
     "meanScore": 60,
     "popularity": 7902,
-    "trending": 1,
+    "trending": 0,
     "favourites": 123,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2051,7 +2051,7 @@
         }
       ]
     },
-    "updatedAt": 1787374840,
+    "updatedAt": 1787378531,
     "idTmdb": 96120,
     "idImdb": null,
     "idTvdb": null,
@@ -2059,5 +2059,363 @@
     "traktSlug": null,
     "idSimkl": 1425177,
     "idShikimori": 42803
+  },
+  "123645": {
+    "id": 123645,
+    "idMal": 42798,
+    "title": {
+      "romaji": "Sayonara Watashi no Cramer: First Touch",
+      "english": "Farewell, My Dear Cramer: First Touch",
+      "native": "映画 さよなら私のクラマー ファーストタッチ"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "14-year-old Nozomi Onda has only one thing on her mind: playing beautiful soccer. There's just one problem: no matter how much she longs to participate in official matches, she'd have physically superior boys as opponents. But when a boy from her past confronts her on the street, she decides she can't wait any longer.\n<br><br>\n(Source: Kodansha USA)",
+    "episodes": 1,
+    "duration": 104,
+    "season": "SPRING",
+    "seasonYear": 2021,
+    "startDate": {
+      "year": 2021,
+      "month": 6,
+      "day": 11
+    },
+    "endDate": {
+      "year": 2021,
+      "month": 6,
+      "day": 11
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123645-gaFgdv8Sx8mX.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123645-gaFgdv8Sx8mX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx123645-gaFgdv8Sx8mX.jpg",
+      "color": "#4393e4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "synonyms": [
+      "Sayonara Watashi no Cramer Movie",
+      "Farewell, My Dear Cramer Movie"
+    ],
+    "averageScore": 68,
+    "meanScore": 69,
+    "popularity": 5335,
+    "trending": 1,
+    "favourites": 60,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "CfhmZxK7XNA",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/CfhmZxK7XNA/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/cramer_pr",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://sayonara-cramer.com/movie/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.crunchyroll.com/farewell-my-dear-cramer",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [
+      {
+        "title": "Unknown",
+        "thumbnail": "https://img1.ak.crunchyroll.com/i/spire2-tmb/14a0502bd35978d96684145473d8bd5b1623351629_full.jpg",
+        "url": "http://www.crunchyroll.com/watch/GN7UDWZ5W",
+        "site": "Crunchyroll"
+      }
+    ],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 56491,
+            "title": {
+              "romaji": "Sayonara Football",
+              "english": "Sayonara, Football"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx56491-83Fl9147NiJi.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 123494,
+            "title": {
+              "romaji": "Sayonara Watashi no Cramer",
+              "english": "Farewell, My Dear Cramer"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2021,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx123494-mhtH5wttSh1x.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 148,
+        "name": "Football",
+        "rank": 88,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 90,
+        "name": "CGI",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 46,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 186,
+        "name": "Crossdressing",
+        "rank": 33,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 839,
+            "name": "LIDENFILMS"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 18,
+            "name": "Toei Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 181044,
+            "name": {
+              "full": "Nozomi  Onda",
+              "native": "恩田希"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 126579,
+              "name": {
+                "full": "Miyuri Shimabukuro",
+                "native": "島袋美由利"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 187618,
+            "name": {
+              "full": "Tetsuji Yamada",
+              "native": "山田鉄二"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96764,
+              "name": {
+                "full": "Kouki Uchiyama",
+                "native": "内山昂輝"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 187619,
+            "name": {
+              "full": "Kaoru Takei",
+              "native": "竹井薫"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 110743,
+              "name": {
+                "full": "Ryouta Oosaka",
+                "native": "逢坂良太"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 187620,
+            "name": {
+              "full": "Yasuaki Tani",
+              "native": "谷安昭"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 121823,
+              "name": {
+                "full": "Shinba Tsuchiya",
+                "native": "土屋神葉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 187622,
+            "name": {
+              "full": "Sawa Echizen",
+              "native": "越前佐和"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 148220,
+              "name": {
+                "full": "Shion Wakayama",
+                "native": "若山詩音"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 187617,
+            "name": {
+              "full": "Junpei Onda",
+              "native": "恩田順平"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95348,
+              "name": {
+                "full": "Ryouko Shiraishi",
+                "native": "白石涼子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 187621,
+            "name": {
+              "full": "Kouzou Sameshima",
+              "native": "鮫島幸造"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95068,
+              "name": {
+                "full": "Kouji Yusa",
+                "native": "遊佐浩二"
+              }
+            }
+          ]
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 204505,
+            "name": {
+              "full": "Midori Soshizaki",
+              "native": "曽志崎緑"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101686,
+              "name": {
+                "full": "Aoi Yuuki",
+                "native": "悠木碧"
+              }
+            }
+          ]
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 204506,
+            "name": {
+              "full": "Sumire Suou",
+              "native": "周防すみれ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106661,
+              "name": {
+                "full": "Tomoyo Kurosawa",
+                "native": "黒沢ともよ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787378484,
+    "idTmdb": 739360,
+    "idImdb": "tt13048312",
+    "idTvdb": null,
+    "idTrakt": 580748,
+    "traktSlug": "farewell-my-dear-cramer-first-touch-2021",
+    "idSimkl": 1424325,
+    "idShikimori": 42798
   }
 }

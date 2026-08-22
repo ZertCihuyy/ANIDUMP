@@ -51,7 +51,7 @@
     "averageScore": 64,
     "meanScore": 70,
     "popularity": 725,
-    "trending": 0,
+    "trending": 1,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -76,7 +76,13 @@
               "romaji": "Pocket Monsters (2023)",
               "english": "Pokémon Horizons: The Series"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "SPRING",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158871-GBM9AMDfDRSu.jpg"
+            }
           }
         },
         {
@@ -87,7 +93,13 @@
               "romaji": "POKÉTOON (2024)",
               "english": "POKÉTOON (2024)"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182386-wG1FmJmd3LqK.png"
+            }
           }
         },
         {
@@ -98,7 +110,13 @@
               "romaji": "POKÉTOON (2026)",
               "english": "POKÉTOON (2026)"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx215761-uWLyrwumMTb4.png"
+            }
           }
         }
       ]
@@ -208,7 +226,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787378497,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 62863
   },
   "201090": {
     "id": 201090,
@@ -734,7 +759,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 21504,
-    "trending": 0,
+    "trending": 1,
     "favourites": 369,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1119,7 +1144,7 @@
         }
       ]
     },
-    "updatedAt": 1787371321,
+    "updatedAt": 1787378503,
     "idTmdb": 304820,
     "idImdb": "tt39122552",
     "idTvdb": 469985,
@@ -1173,7 +1198,7 @@
     "averageScore": 74,
     "meanScore": 79,
     "popularity": 4493,
-    "trending": 9,
+    "trending": 3,
     "favourites": 95,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1208,7 +1233,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787834400,
-      "timeUntilAiring": 458385,
+      "timeUntilAiring": 454655,
       "episode": 9
     },
     "relations": {
@@ -1545,7 +1570,7 @@
         }
       ]
     },
-    "updatedAt": 1787374832,
+    "updatedAt": 1787378498,
     "idTmdb": 110837,
     "idImdb": "tt13192574",
     "idTvdb": 392195,
@@ -1599,7 +1624,7 @@
     "averageScore": 70,
     "meanScore": 71,
     "popularity": 38127,
-    "trending": 29,
+    "trending": 17,
     "favourites": 568,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1634,7 +1659,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787420280,
-      "timeUntilAiring": 44231,
+      "timeUntilAiring": 40435,
       "episode": 8
     },
     "relations": {
@@ -1970,7 +1995,7 @@
         }
       ]
     },
-    "updatedAt": 1787374809,
+    "updatedAt": 1787378416,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2038,7 +2063,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 59067,
-    "trending": 2,
+    "trending": 6,
     "favourites": 4097,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2608,7 +2633,7 @@
         }
       ]
     },
-    "updatedAt": 1787374833,
+    "updatedAt": 1787378453,
     "idTmdb": 1575337,
     "idImdb": "tt38872297",
     "idTvdb": null,
@@ -2798,5 +2823,225 @@
     "traktSlug": null,
     "idSimkl": 3112298,
     "idShikimori": 62419
+  },
+  "201388": {
+    "id": 201388,
+    "idMal": 62865,
+    "title": {
+      "romaji": "Dark Gathering 2nd Season",
+      "english": null,
+      "native": "ダークギャザリング 第2期"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "The second season of <i>Dark Gathering</i>.",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201388-YCEfdfCgY3Yi.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201388-YCEfdfCgY3Yi.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201388-YCEfdfCgY3Yi.png",
+      "color": "#ff4335"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure",
+      "Horror",
+      "Supernatural"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 6400,
+    "trending": 1,
+    "favourites": 86,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://darkgathering.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://x.com/dg_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 109608,
+            "title": {
+              "romaji": "Dark Gathering",
+              "english": "Dark Gathering"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx109608-djHaTTP69uWV.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 152802,
+            "title": {
+              "romaji": "Dark Gathering",
+              "english": "Dark Gathering"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx152802-ENRcnqD5axhQ.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 654,
+        "name": "Denpa",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 639,
+        "name": "Body Horror",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 28,
+            "name": "OLM"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 139461,
+            "name": {
+              "full": "Yayoi Houzuki",
+              "native": "寶月夜宵"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 127725,
+              "name": {
+                "full": "Yuu Sasahara",
+                "native": "篠原侑"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 139462,
+            "name": {
+              "full": "Keitarou Gentouga",
+              "native": "幻燈河螢多朗"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105989,
+              "name": {
+                "full": "Nobunaga Shimazaki",
+                "native": "島﨑信長"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 139463,
+            "name": {
+              "full": "Eiko Houzuki",
+              "native": "寶月詠子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95185,
+              "name": {
+                "full": "Kana Hanazawa",
+                "native": "花澤香菜"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 200412,
+            "name": {
+              "full": "Ai Kamiyo",
+              "native": "神代愛依"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 227955,
+              "name": {
+                "full": "Rina Kawaguchi",
+                "native": "川口莉奈"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787378498,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2914722,
+    "idShikimori": 62865
   }
 }
