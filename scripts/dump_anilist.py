@@ -50,7 +50,7 @@ query ($chunkId: Int, $perPage: Int) {
       externalLinks { url site type }
       streamingEpisodes { title thumbnail url site }
       nextAiringEpisode { airingAt timeUntilAiring episode }
-      relations { edges { relationType node { id title { romaji english } type } } }
+      relations { edges { relationType node { id title { romaji english } type status season seasonYear coverImage { medium } } } }
       tags { id name rank isMediaSpoiler }
       studios { edges { isMain node { id name } } }
       characters(sort: [ROLE, RELEVANCE, ID], page: 1, perPage: 10) {
@@ -109,7 +109,7 @@ query ($page: Int, $perPage: Int) {
       externalLinks { url site type }
       streamingEpisodes { title thumbnail url site }
       nextAiringEpisode { airingAt timeUntilAiring episode }
-      relations { edges { relationType node { id title { romaji english } type } } }
+      relations { edges { relationType node { id title { romaji english } type status season seasonYear coverImage { medium } } } }
       tags { id name rank isMediaSpoiler }
       studios { edges { isMain node { id name } } }
       characters(sort: [ROLE, RELEVANCE, ID], page: 1, perPage: 10) {
@@ -262,6 +262,7 @@ def generate_indexes(base_dir):
     all_genres = set()
     all_tags = set()
     all_studios = set()
+    all_seasons = set()
     recent_episodes = []
 
     for a in anime_list:
@@ -274,6 +275,10 @@ def generate_indexes(base_dir):
             for s in a['studios']['edges']:
                 if s.get('node'):
                     all_studios.add(s['node']['name'])
+        
+        # Collect seasons
+        if a.get('season') and a.get('seasonYear'):
+            all_seasons.add(f"{a['season']} {a['seasonYear']}")
         
         # Recent/Upcoming episodes logic: 
         if a.get('nextAiringEpisode'):
@@ -301,6 +306,12 @@ def generate_indexes(base_dir):
         
     with open(lists_dir / 'studios.json', 'w', encoding='utf-8') as f:
         json.dump(sorted(list(all_studios)), f, ensure_ascii=False, indent=2)
+        
+    # Sort seasons chronologically (e.g. "WINTER 2024")
+    season_order = {'WINTER': 1, 'SPRING': 2, 'SUMMER': 3, 'FALL': 4}
+    sorted_seasons = sorted(list(all_seasons), key=lambda x: (int(x.split()[1]), season_order.get(x.split()[0], 0)), reverse=True)
+    with open(lists_dir / 'seasons.json', 'w', encoding='utf-8') as f:
+        json.dump(sorted_seasons, f, ensure_ascii=False, indent=2)
         
     with open(lists_dir / 'recent_episodes.json', 'w', encoding='utf-8') as f:
         json.dump(recent_episodes[:500], f, ensure_ascii=False, indent=2) # top 500 recent/upcoming episodes

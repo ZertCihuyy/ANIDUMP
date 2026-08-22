@@ -37,6 +37,7 @@ export default {
     const statusFilter = url.searchParams.get('status');
     const yearFilter = parseInt(url.searchParams.get('year'));
     const studioFilter = url.searchParams.get('studio');
+    const seasonFilter = url.searchParams.get('season');
 
     // Helper to fetch JSON from GitHub directly to stay perfectly in sync
     async function fetchGitHubJSON(subpath) {
@@ -89,6 +90,11 @@ export default {
       
       if (yearFilter) {
         filtered = filtered.filter(a => a.seasonYear === yearFilter || (a.startDate && a.startDate.year === yearFilter));
+      }
+
+      if (seasonFilter) {
+        const sea = seasonFilter.toUpperCase();
+        filtered = filtered.filter(a => a.season === sea);
       }
 
       if (studioFilter) {
@@ -164,7 +170,7 @@ export default {
         return jsonResponse(processItems(items || []));
       }
       
-      if (path === '/season') {
+      if (path === '/season-now') {
         const items = await fetchGitHubJSON('/lists/season_now.json');
         return jsonResponse(processItems(items || []));
       }
@@ -205,6 +211,73 @@ export default {
         return jsonResponse(items || []);
       }
       
+      if (path === '/seasons') {
+        const items = await fetchGitHubJSON('/lists/seasons.json');
+        return jsonResponse(items || []);
+      }
+
+      // Top Airing endpoints (/top-airing, /top-airing/2026, /top-airing/fall, /top-airing/fall/2026)
+      if (path.startsWith('/top-airing') || path.startsWith('/top-anime')) {
+        const parts = path.split('/').filter(p => p);
+        
+        const data = await fetchGitHubJSON('/lists/all_anime.json');
+        if (!data) return jsonResponse({error: 'Data not found'}, 404);
+        let items = Array.isArray(data) ? data : Object.values(data);
+        
+        let pSeason = null;
+        let pYear = null;
+        
+        if (parts.length > 1) {
+           const p1 = parts[1];
+           if (!isNaN(parseInt(p1))) pYear = parseInt(p1);
+           else pSeason = p1.toUpperCase();
+        }
+        if (parts.length > 2) {
+           pYear = parseInt(parts[2]);
+        }
+
+        if (pSeason) {
+          items = items.filter(a => a.season === pSeason);
+        }
+        if (pYear) {
+          items = items.filter(a => a.seasonYear === pYear || (a.startDate && a.startDate.year === pYear));
+        }
+        
+        // Default behavior for just /top-airing
+        if (!pSeason && !pYear) {
+          items = items.filter(a => a.status === 'RELEASING');
+        }
+
+        // Pre-sort by score. If user provides ?sort= in query, processItems will override this.
+        items.sort((a, b) => (b.averageScore || 0) - (a.averageScore || 0));
+
+        return jsonResponse(processItems(items));
+      }
+
+      // Get specific anime season/relations list by ID (e.g. /seasonlist/1)
+      const matchSeasonList = path.match(/^\/seasonlist\/(\d+)$/);
+      if (matchSeasonList) {
+        const id = parseInt(matchSeasonList[1]);
+        const groupSize = 1000;
+        const groupId = Math.floor(id / groupSize) * groupSize;
+        const fileName = `/anime/anime_${groupId}-${groupId + groupSize - 1}.json`;
+        
+        const chunkData = await fetchGitHubJSON(fileName);
+        if (chunkData && chunkData[id]) {
+          const anime = chunkData[id];
+          const relations = (anime.relations && anime.relations.edges) ? anime.relations.edges : [];
+          // Filter to only include Anime
+          const seasonList = relations
+            .filter(r => r.node && r.node.type === 'ANIME')
+            .map(r => ({
+              relationType: r.relationType,
+              ...r.node
+            }));
+          return jsonResponse(seasonList);
+        }
+        return jsonResponse({error: "Anime not found"}, 404);
+      }
+
       // Get specific anime by ID (e.g. /anime/123)
       const match = path.match(/^\/anime\/(\d+)$/);
       if (match) {
@@ -223,9 +296,10 @@ export default {
       return jsonResponse({
         error: "Endpoint not found", 
         endpoints: [
-          "/anime", "/anime/:id", "/top", "/popular", "/ongoing", 
-          "/season", "/schedule", "/upcoming", "/movies", "/recent-episodes",
-          "/meta", "/genres", "/tags", "/studios"
+          "/anime", "/anime/:id", "/seasonlist/:id", "/top", "/popular", "/ongoing", 
+          "/top-airing", "/top-airing/:season", "/top-airing/:year", "/top-airing/:season/:year",
+          "/season-now", "/schedule", "/upcoming", "/movies", "/recent-episodes",
+          "/meta", "/genres", "/tags", "/studios", "/seasons"
         ]
       }, 404);
 
