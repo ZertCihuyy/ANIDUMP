@@ -660,7 +660,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 108461,
-    "trending": 3,
+    "trending": 1,
     "favourites": 3154,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -714,7 +714,13 @@
               "romaji": "Kimi wa Houkago Insomnia",
               "english": "Insomniacs After School"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx110473-igM02JDDzQXM.jpg"
+            }
           }
         },
         {
@@ -725,7 +731,13 @@
               "romaji": "Kimi wa Houkago Insomnia Special Animation PV",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b160205-qziA59CxF06T.jpg"
+            }
           }
         }
       ]
@@ -1094,7 +1106,7 @@
         }
       ]
     },
-    "updatedAt": 1787357296,
+    "updatedAt": 1787364058,
     "idTmdb": 155440,
     "idImdb": "tt26450257",
     "idTvdb": 414562,
@@ -1147,7 +1159,7 @@
     "averageScore": 74,
     "meanScore": 75,
     "popularity": 17827,
-    "trending": 2,
+    "trending": 1,
     "favourites": 246,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1186,7 +1198,13 @@
               "romaji": "Poputepipikku",
               "english": "Pop Team Epic"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2018,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx98549-XfLyPhrP5Ors.jpg"
+            }
           }
         },
         {
@@ -1197,7 +1215,13 @@
               "romaji": "Poputepipikku",
               "english": "Pop Team Epic"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx87005-bxODP6K6QAjH.jpg"
+            }
           }
         },
         {
@@ -1208,7 +1232,13 @@
               "romaji": "Made in Abyss: Retsujitsu no Ougonkyou",
               "english": "Made in Abyss: The Golden City of the Scorching Sun"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx114745-fBgTC12T7IAy.jpg"
+            }
           }
         }
       ]
@@ -1870,7 +1900,14 @@
         }
       ]
     },
-    "updatedAt": 1787349724
+    "updatedAt": 1787360496,
+    "idTmdb": 76139,
+    "idImdb": "tt7808370",
+    "idTvdb": 339278,
+    "idTrakt": 126090,
+    "traktSlug": "pop-team-epic",
+    "idSimkl": 1813850,
+    "idShikimori": 50663
   },
   "143277": {
     "id": 143277,
@@ -2519,7 +2556,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 48660,
-    "trending": 2,
+    "trending": 1,
     "favourites": 723,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2647,7 +2684,13 @@
               "romaji": "Saihate no Paladin",
               "english": "The Faraway Paladin"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b101521-5pQUbwJxVCbU.jpg"
+            }
           }
         },
         {
@@ -2658,7 +2701,13 @@
               "romaji": "Saihate no Paladin",
               "english": "The Faraway Paladin"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx97450-hEDlw0INs6lY.jpg"
+            }
           }
         },
         {
@@ -2669,7 +2718,13 @@
               "romaji": "Saihate no Paladin",
               "english": "The Faraway Paladin"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2021,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx132473-L64hP24nJyEV.jpg"
+            }
           }
         }
       ]
@@ -3030,7 +3085,7 @@
         }
       ]
     },
-    "updatedAt": 1787353292,
+    "updatedAt": 1787364033,
     "idTmdb": 123525,
     "idImdb": "tt14476244",
     "idTvdb": 401915,
@@ -3087,7 +3142,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 54417,
-    "trending": 1,
+    "trending": 3,
     "favourites": 768,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3216,7 +3271,13 @@
               "romaji": "Jaku-Chara Tomozaki-kun",
               "english": "Bottom-Tier Character Tomozaki"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx99758-nhiZdovgV9PN.jpg"
+            }
           }
         },
         {
@@ -3227,7 +3288,13 @@
               "romaji": "Jaku-Chara Tomozaki-kun",
               "english": "Bottom-Tier Character Tomozaki"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2021,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx112443-UVB1oKdblsIx.jpg"
+            }
           }
         },
         {
@@ -3238,7 +3305,13 @@
               "romaji": "Jaku-Chara Tomozaki-kun Comic",
               "english": "Bottom-tier Character Tomozaki"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx100807-zgNgjsRdCTHG.jpg"
+            }
           }
         }
       ]
@@ -3594,7 +3667,7 @@
         }
       ]
     },
-    "updatedAt": 1787357296,
+    "updatedAt": 1787364044,
     "idTmdb": 99083,
     "idImdb": "tt13103028",
     "idTvdb": 388737,
@@ -3648,7 +3721,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 32495,
-    "trending": 1,
+    "trending": 3,
     "favourites": 373,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3673,7 +3746,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1795100400,
-      "timeUntilAiring": 7740468,
+      "timeUntilAiring": 7735664,
       "episode": 1
     },
     "relations": {
@@ -3686,7 +3759,13 @@
               "romaji": "Kitsy8",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx73809-TlkeRp5yqqJr.jpg"
+            }
           }
         },
         {
@@ -3697,7 +3776,13 @@
               "romaji": "Mahoutsukai no Yoru",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx167710-uZ9nYV58Bs1b.png"
+            }
           }
         },
         {
@@ -3708,7 +3793,13 @@
               "romaji": "Tsukiji Tobimaru Toiu Hito",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx186377-LUnmdDDv24c8.jpg"
+            }
           }
         },
         {
@@ -3719,7 +3810,13 @@
               "romaji": "Asa no Fuukei",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx186379-m9Q0WWAC51hJ.jpg"
+            }
           }
         },
         {
@@ -3730,7 +3827,13 @@
               "romaji": "Shingetsutan Tsukihime",
               "english": "Lunar Legend Tsukihime"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2003,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169-ATwPxULRSDRr.jpg"
+            }
           }
         },
         {
@@ -3741,7 +3844,13 @@
               "romaji": "Mahoutsukai no Yoru",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "NOT_YET_RELEASED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx215180-8PhwfO5HoJgc.jpg"
+            }
           }
         }
       ]
@@ -3981,7 +4090,7 @@
         }
       ]
     },
-    "updatedAt": 1787357295,
+    "updatedAt": 1787364038,
     "idTmdb": 920167,
     "idImdb": "tt31970593",
     "idTvdb": null,
@@ -4039,7 +4148,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 170318,
-    "trending": 14,
+    "trending": 15,
     "favourites": 7122,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4176,7 +4285,13 @@
               "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
               "english": "The Angel Next Door Spoils Me Rotten"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx122337-vy8L0b1ySIQr.jpg"
+            }
           }
         },
         {
@@ -4187,7 +4302,13 @@
               "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
               "english": "The Angel Next Door Spoils Me Rotten"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx113533-u3D4i0jHzt2z.jpg"
+            }
           }
         },
         {
@@ -4198,7 +4319,13 @@
               "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
               "english": "The Angel Next Door Spoils Me Rotten2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170019-djbN0b934MhE.jpg"
+            }
           }
         }
       ]
@@ -4519,7 +4646,7 @@
         }
       ]
     },
-    "updatedAt": 1787357296,
+    "updatedAt": 1787364034,
     "idTmdb": 154743,
     "idImdb": "tt19064770",
     "idTvdb": 414221,
@@ -4574,7 +4701,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 209361,
-    "trending": 5,
+    "trending": 1,
     "favourites": 9675,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4670,7 +4797,13 @@
               "romaji": "Lycoris Recoil",
               "english": "Lycoris Recoil"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx151808-5QJt4dsHtaBQ.jpg"
+            }
           }
         },
         {
@@ -4681,7 +4814,13 @@
               "romaji": "Lycoris Recoil: Ordinary days",
               "english": "Lycoris Recoil: Ordinary Days"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx151809-t1bUvuBJdGkP.jpg"
+            }
           }
         },
         {
@@ -4692,7 +4831,13 @@
               "romaji": "Lycoris Recoil Recollect",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx155071-RM4QNMcOPGmu.jpg"
+            }
           }
         },
         {
@@ -4703,7 +4848,13 @@
               "romaji": "Lycoris Recoil Koushiki Comic Anthology: Reload",
               "english": "Lycoris Recoil Official Comic Anthology: Reload"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx155976-1WKxPUn5UZMd.jpg"
+            }
           }
         },
         {
@@ -4714,7 +4865,13 @@
               "romaji": "Lycoris Recoil Koushiki Comic Anthology: Repeat",
               "english": "Lycoris Recoil Official Comic Anthology: Repeat"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx157671-UCdAhXC3bf1a.jpg"
+            }
           }
         },
         {
@@ -4725,7 +4882,13 @@
               "romaji": "Lycoris Recoil Koushiki Comic Anthology: React",
               "english": "Lycoris Recoil Official Comic Anthology: React"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx158111-wV9O4vnjcFeE.png"
+            }
           }
         },
         {
@@ -4736,7 +4899,13 @@
               "romaji": "Lycoris Recoil (Shinsaku Animation)",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx161410-KoPOBuyPm0yS.png"
+            }
           }
         },
         {
@@ -4747,7 +4916,13 @@
               "romaji": "Lycoris Recoil: Friends are thieves of time.",
               "english": "Lycoris Recoil -Friends are thieves of time.-"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179706-NvVrmMxnDatB.jpg"
+            }
           }
         },
         {
@@ -4758,7 +4933,13 @@
               "romaji": "Lycoris Recoil: Recovery days",
               "english": "Lycoris Recoil: Recovery Days"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx189607-WkvVhNzyqFwb.jpg"
+            }
           }
         },
         {
@@ -4769,7 +4950,13 @@
               "romaji": "Lycoris Recoil: Gluttony days",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx203175-lwof547IP2f8.jpg"
+            }
           }
         }
       ]
@@ -5140,7 +5327,7 @@
         }
       ]
     },
-    "updatedAt": 1787357295,
+    "updatedAt": 1787364098,
     "idTmdb": 154494,
     "idImdb": null,
     "idTvdb": null,
@@ -5196,7 +5383,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 36753,
-    "trending": 1,
+    "trending": 3,
     "favourites": 687,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5378,7 +5565,13 @@
               "romaji": "Suika Bar no 1-nichi",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx150574-DtbC1YsmRDvK.png"
+            }
           }
         },
         {
@@ -5389,7 +5582,13 @@
               "romaji": "Bouken no Hajimari",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx151317-hs9vyn53DX2a.jpg"
+            }
           }
         },
         {
@@ -5400,7 +5599,13 @@
               "romaji": "Summer Pockets: Natsu no Takaramono",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx196474-huzA2D0IzfWq.png"
+            }
           }
         },
         {
@@ -5411,7 +5616,13 @@
               "romaji": "Summer Pockets: Kushima Kamome-hen",
               "english": "Summer Pockets: Across the Seven Seas"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195230-ix15Cpt9ns5d.jpg"
+            }
           }
         },
         {
@@ -5422,7 +5633,13 @@
               "romaji": "Summer Pockets: Tsumugi Wenders-hen",
               "english": "Summer Pockets: A Lifetime's Worth of Summer Breaks"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206609-yjGQHzfaBqWC.jpg"
+            }
           }
         },
         {
@@ -5433,7 +5650,13 @@
               "romaji": "Summer Pockets: Sorakado Ao-hen",
               "english": "Summer Pockets: Dawn Memories"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206610-TLs0MbUxtwMQ.jpg"
+            }
           }
         },
         {
@@ -5444,7 +5667,13 @@
               "romaji": "Summer Pockets: Naruse Shiroha-hen",
               "english": "Summer Pockets: The Girl Who Forgot Summer Vacation"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206611-mUgYGyHxPzrk.jpg"
+            }
           }
         }
       ]
@@ -5876,7 +6105,7 @@
         }
       ]
     },
-    "updatedAt": 1787357295,
+    "updatedAt": 1787364047,
     "idTmdb": 271576,
     "idImdb": "tt16741414",
     "idTvdb": 451711,
@@ -6565,7 +6794,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 48704,
-    "trending": 1,
+    "trending": 2,
     "favourites": 710,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6687,7 +6916,13 @@
               "romaji": "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita",
               "english": "I've Been Killing Slimes for 300 Years and Maxed Out My Level"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2021,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx112608-T3OKdLhxYUfe.png"
+            }
           }
         },
         {
@@ -6698,7 +6933,13 @@
               "romaji": "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita",
               "english": "I've Been Killing Slimes for 300 Years and Maxed Out My Level"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx100068-bdwtCjYaonIA.jpg"
+            }
           }
         }
       ]
@@ -7143,7 +7384,7 @@
         }
       ]
     },
-    "updatedAt": 1787353342,
+    "updatedAt": 1787360451,
     "idTmdb": 99073,
     "idImdb": "tt13248062",
     "idTvdb": 389377,
@@ -7199,7 +7440,7 @@
     "averageScore": 70,
     "meanScore": 71,
     "popularity": 55717,
-    "trending": 0,
+    "trending": 3,
     "favourites": 1163,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7248,7 +7489,13 @@
               "romaji": "Kijin Gentoushou",
               "english": "Sword of the Demon Hunter: Kijin Gentosho"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b139499-A1SDhd9MTY6P.jpg"
+            }
           }
         }
       ]
@@ -7611,7 +7858,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787364095,
+    "idTmdb": 133154,
+    "idImdb": "tt32281073",
+    "idTvdb": 442540,
+    "idTrakt": 227755,
+    "traktSlug": "sword-of-the-demon-hunter",
+    "idSimkl": 1727401,
+    "idShikimori": 49778
   },
   "143327": {
     "id": 143327,
@@ -7787,7 +8041,13 @@
               "romaji": "MF Ghost",
               "english": "MF Ghost"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx100238-5lyAhbwWE15x.png"
+            }
           }
         },
         {
@@ -7798,7 +8058,13 @@
               "romaji": "Initial D Final Stage",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2014,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx19613-5vb40lsFXudd.png"
+            }
           }
         },
         {
@@ -7809,7 +8075,13 @@
               "romaji": "MF Ghost 2nd Season",
               "english": "MF GHOST Season 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171642-Tj5KCJPILuUN.jpg"
+            }
           }
         }
       ]
@@ -8123,7 +8395,7 @@
         }
       ]
     },
-    "updatedAt": 1787357295,
+    "updatedAt": 1787364042,
     "idTmdb": 154526,
     "idImdb": "tt28299608",
     "idTvdb": 414207,
@@ -8871,7 +9143,13 @@
               "romaji": "Sasaki to Miyano",
               "english": "Sasaki and Miyano"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx126288-v9RNANkv2JEi.jpg"
+            }
           }
         }
       ]
@@ -9120,5 +9398,226 @@
     "traktSlug": null,
     "idSimkl": 1813386,
     "idShikimori": 50672
+  },
+  "143118": {
+    "id": 143118,
+    "idMal": 50622,
+    "title": {
+      "romaji": "Kemonokko Tsuushin: The Animation - Ushi Musume Bell",
+      "english": null,
+      "native": "けものっ娘通信〜The Animation〜 牛娘ベル"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Bell gives the main character, who is concerned about her short stature, homemade milk to drink, helps her milk the cow, and does such and such things to her in return... The main character and Bell, who has a very plump body, make out together in this animated lovey-dovey work.<br>\n<br>\n(Source: Fanza, translated)",
+    "episodes": 1,
+    "duration": 18,
+    "season": "FALL",
+    "seasonYear": 2021,
+    "startDate": {
+      "year": 2021,
+      "month": 12,
+      "day": 25
+    },
+    "endDate": {
+      "year": 2021,
+      "month": 12,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b143118-1itiF7bFHRG3.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b143118-1itiF7bFHRG3.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b143118-1itiF7bFHRG3.png",
+      "color": "#d6bb6b"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [],
+    "averageScore": 60,
+    "meanScore": 61,
+    "popularity": 2743,
+    "trending": 0,
+    "favourites": 114,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 111452,
+            "title": {
+              "romaji": "Kemonokko Tsuushin: Risou no Kemomusume, Anata ni Otodoke",
+              "english": "Animal Girl Hotline"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx111452-80aclFyzp8k7.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 168808,
+            "title": {
+              "romaji": "Kemonokko Tsuushin: The Animation - Nekomusume Nia",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx168808-C4arV4CDWWaB.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 650,
+        "name": "Lactation",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 259,
+        "name": "Monster Girl",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1304,
+        "name": "Anthropomorphism",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 254,
+        "name": "Kemonomimi",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 380,
+        "name": "Virginity",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 137,
+        "name": "Large Breasts",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 125,
+        "name": "Nakadashi",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 317,
+        "name": "Handjob",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1146,
+        "name": "Femdom",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 244,
+        "name": "Isekai",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 113,
+        "name": "Nekomimi",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 138,
+        "name": "Age Gap",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 203205,
+            "name": {
+              "full": "Bell",
+              "native": "ベル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 244174,
+              "name": {
+                "full": "Rio Fujiwara",
+                "native": "藤村莉央"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 260092,
+            "name": {
+              "full": "Hiroshi Kuroda",
+              "native": "黒田ヒロシ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 244162,
+              "name": {
+                "full": "Ryou Suzuki",
+                "native": "涼貴涼"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 50622
   }
 }

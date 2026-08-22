@@ -572,7 +572,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 14066,
-    "trending": 0,
+    "trending": 1,
     "favourites": 150,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -606,7 +606,13 @@
               "romaji": "Aoashi",
               "english": "Aoashi"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx107279-R2vxyPQRqV0X.jpg"
+            }
           }
         },
         {
@@ -617,7 +623,13 @@
               "romaji": "Aoashi",
               "english": "Aoashi"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx134732-OXKSrOhF9pCM.jpg"
+            }
           }
         }
       ]
@@ -854,7 +866,7 @@
         }
       ]
     },
-    "updatedAt": 1787353355,
+    "updatedAt": 1787364108,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1196,7 +1208,7 @@
     "averageScore": 83,
     "meanScore": 88,
     "popularity": 14216,
-    "trending": 53,
+    "trending": 37,
     "favourites": 253,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1226,7 +1238,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787886000,
-      "timeUntilAiring": 526102,
+      "timeUntilAiring": 521228,
       "episode": 4
     },
     "relations": {
@@ -1239,7 +1251,13 @@
               "romaji": "Shiguang Dailiren: Yingdu Pian",
               "english": "Link Click: Bridon Arc"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170166-VpX7l0Horthq.jpg"
+            }
           }
         }
       ]
@@ -1386,7 +1404,7 @@
         }
       ]
     },
-    "updatedAt": 1787357371,
+    "updatedAt": 1787364005,
     "idTmdb": 123542,
     "idImdb": "tt14976292",
     "idTvdb": 402033,
@@ -1456,7 +1474,13 @@
               "romaji": "Sunny",
               "english": "Sunny"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx53571-7EjpSQ9lOosx.png"
+            }
           }
         }
       ]
@@ -1599,7 +1623,14 @@
         }
       ]
     },
-    "updatedAt": 1787345811
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 61535
   },
   "191974": {
     "id": 191974,
@@ -1947,7 +1978,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 37739,
-    "trending": 1,
+    "trending": 5,
     "favourites": 718,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2001,7 +2032,13 @@
               "romaji": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisan-kei Majutsu de Na mo na Kimura wo Saikyou no Jousai Toshi ni",
               "english": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx137941-zPbfqi1Gu0QJ.jpg"
+            }
           }
         },
         {
@@ -2012,7 +2049,13 @@
               "romaji": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisan-kei Majutsu de Na mo na Kimura wo Saikyou no Jousai Toshi ni",
               "english": "Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx137942-eiTIPnuEeAWV.jpg"
+            }
           }
         }
       ]
@@ -2369,7 +2412,7 @@
         }
       ]
     },
-    "updatedAt": 1787357371,
+    "updatedAt": 1787364061,
     "idTmdb": 288589,
     "idImdb": "tt38977386",
     "idTvdb": 462789,
@@ -2377,5 +2420,142 @@
     "traktSlug": "easygoing-territory-defense-by-the-optimistic-lord",
     "idSimkl": 2761708,
     "idShikimori": 61549
+  },
+  "191976": {
+    "id": 191976,
+    "idMal": 61561,
+    "title": {
+      "romaji": "Cang Lan Jue 2",
+      "english": null,
+      "native": "苍兰诀 第二季"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 26,
+    "duration": 15,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2025,
+      "month": 7,
+      "day": 18
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 26
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191976-NMmRUFMSkMze.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191976-NMmRUFMSkMze.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191976-NMmRUFMSkMze.jpg",
+      "color": "#f18650"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "synonyms": [
+      "Love Between Fairy and Devil 2"
+    ],
+    "averageScore": 64,
+    "meanScore": 79,
+    "popularity": 671,
+    "trending": 1,
+    "favourites": 18,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://bangumi.tv/subject/423976",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.iqiyi.com/v_25n6a90feg4.html?vfrm=pcw_playpage&vfrmblk=80521_listbox_positive&vfrmrst=0",
+        "site": "iQIYI",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.iq.com/album/love-between-fairy-and-devil-2-2025-tptrvp8ewd?lang=en_us",
+        "site": "iQ",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 155221,
+            "title": {
+              "romaji": "Cang Lan Jue Part 2",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx155221-pvgrsGjui6oi.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6546,
+            "name": "GARDEN"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6203,
+            "name": "iQIYI"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6861,
+            "name": "Youliao Studio"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6590,
+            "name": "Stellar"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787364059,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2838484,
+    "idShikimori": 61561
   }
 }

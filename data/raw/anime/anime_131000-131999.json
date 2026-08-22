@@ -501,7 +501,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 10548,
-    "trending": 0,
+    "trending": 2,
     "favourites": 229,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -545,7 +545,13 @@
               "romaji": "Yama no Susume",
               "english": "Yama no Susume"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx71049-FrpQWq0U8QZP.png"
+            }
           }
         },
         {
@@ -556,7 +562,13 @@
               "romaji": "Yama no Susume: Third Season",
               "english": "Encouragement of Climb Season 3"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2018,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx98866-S9BGReBVRkt1.jpg"
+            }
           }
         }
       ]
@@ -886,7 +898,7 @@
         }
       ]
     },
-    "updatedAt": 1787357264,
+    "updatedAt": 1787364087,
     "idTmdb": 53918,
     "idImdb": null,
     "idTvdb": null,
@@ -1272,7 +1284,13 @@
               "romaji": "Higurashi no Naku Koro ni Gou",
               "english": "Higurashi: When They Cry - GOU"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2020,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx114446-H6uxjVi8wBoo.jpg"
+            }
           }
         },
         {
@@ -1283,7 +1301,13 @@
               "romaji": "Higurashi no Naku Koro ni: Gou",
               "english": "Higurashi When They Cry: GOU"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx124652-OLRZgMu38UWX.jpg"
+            }
           }
         },
         {
@@ -1294,7 +1318,13 @@
               "romaji": "Higurashi no Naku Koro ni: Meguri",
               "english": "Higurashi When They Cry: MEGURI"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx139623-LMUhJQYk3508.jpg"
+            }
           }
         },
         {
@@ -1305,7 +1335,13 @@
               "romaji": "Higurashi no Naku Koro ni (Shin Anime)",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213396-OJFP3YkNcPGK.jpg"
+            }
           }
         }
       ]
@@ -1700,7 +1736,14 @@
         }
       ]
     },
-    "updatedAt": 1787349739
+    "updatedAt": 1787364012,
+    "idTmdb": 100988,
+    "idImdb": "tt12367868",
+    "idTvdb": 385002,
+    "idTrakt": 165356,
+    "traktSlug": "higurashi-when-they-cry-new",
+    "idSimkl": 1568947,
+    "idShikimori": 48488
   },
   "131565": {
     "id": 131565,
@@ -2673,7 +2716,7 @@
     "averageScore": 61,
     "meanScore": 61,
     "popularity": 66331,
-    "trending": 3,
+    "trending": 1,
     "favourites": 888,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2800,7 +2843,13 @@
               "romaji": "Liar Liar",
               "english": "Liar, Liar"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx111265-5VHNGBkWVDLo.png"
+            }
           }
         },
         {
@@ -2811,7 +2860,13 @@
               "romaji": "Liar Liar: Usotsuki Tenkousei wa Ikasama Cheat chan to Game wo Seisuru sou desu",
               "english": "Liar, Liar"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx115906-EZvldVED019c.jpg"
+            }
           }
         }
       ]
@@ -3157,7 +3212,7 @@
         }
       ]
     },
-    "updatedAt": 1787357266,
+    "updatedAt": 1787360457,
     "idTmdb": 122204,
     "idImdb": "tt28100910",
     "idTvdb": 401619,
@@ -3778,7 +3833,13 @@
               "romaji": "Mieruko-chan",
               "english": "Mieruko-chan"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx105097-nMpc8bjBeuXE.jpg"
+            }
           }
         }
       ]
@@ -4137,7 +4198,7 @@
         }
       ]
     },
-    "updatedAt": 1787357263,
+    "updatedAt": 1787364069,
     "idTmdb": 121078,
     "idImdb": "tt14271890",
     "idTvdb": 399121,
@@ -4360,7 +4421,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 208303,
-    "trending": 3,
+    "trending": 2,
     "favourites": 7102,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4554,7 +4615,13 @@
               "romaji": "Vanitas no Carte",
               "english": "The Case Study of Vanitas"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx86568-IibEQI2zjYFl.jpg"
+            }
           }
         },
         {
@@ -4565,7 +4632,13 @@
               "romaji": "Vanitas no Carte Part 2",
               "english": "The Case Study of Vanitas Part 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx135136-wVMApb1FEmkz.jpg"
+            }
           }
         }
       ]
@@ -4974,7 +5047,7 @@
         }
       ]
     },
-    "updatedAt": 1787357265,
+    "updatedAt": 1787364106,
     "idTmdb": 121964,
     "idImdb": "tt14641098",
     "idTvdb": 400133,
@@ -5452,7 +5525,7 @@
     "averageScore": 87,
     "meanScore": 87,
     "popularity": 436402,
-    "trending": 8,
+    "trending": 5,
     "favourites": 15689,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5662,7 +5735,13 @@
               "romaji": "Shingeki no Kyojin: The Final Season",
               "english": "Attack on Titan Final Season"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2021,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx110277-sKUNXAsWMNFw.jpg"
+            }
           }
         },
         {
@@ -5673,7 +5752,13 @@
               "romaji": "Shingeki no Kyojin",
               "english": "Attack on Titan"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx53390-1RsuABC34P9D.jpg"
+            }
           }
         },
         {
@@ -5684,7 +5769,13 @@
               "romaji": "Shingeki no Kyojin: The Final Season - Kanketsu-hen Zenpen",
               "english": "Attack on Titan Final Season THE FINAL CHAPTERS Special 1"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx146984-GXrLeT6vQqyP.jpg"
+            }
           }
         }
       ]
@@ -6143,7 +6234,7 @@
         }
       ]
     },
-    "updatedAt": 1787357266,
+    "updatedAt": 1787364020,
     "idTmdb": 1429,
     "idImdb": "tt2560140",
     "idTvdb": 267440,
@@ -6497,7 +6588,7 @@
     "averageScore": 83,
     "meanScore": 83,
     "popularity": 431642,
-    "trending": 11,
+    "trending": 5,
     "favourites": 12356,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6691,7 +6782,13 @@
               "romaji": "Jujutsu Kaisen",
               "english": "JUJUTSU KAISEN"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2020,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113415-LHBAeoZDIsnF.jpg"
+            }
           }
         },
         {
@@ -6702,7 +6799,13 @@
               "romaji": "Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou",
               "english": "Jujutsu Kaisen 0"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx105469-IvLF5yIf6LBC.jpg"
+            }
           }
         }
       ]
@@ -7134,7 +7237,7 @@
         }
       ]
     },
-    "updatedAt": 1787357265,
+    "updatedAt": 1787364024,
     "idTmdb": 810693,
     "idImdb": "tt14331144",
     "idTvdb": null,
@@ -7241,7 +7344,13 @@
               "romaji": "JoJo no Kimyou na Bouken: Ougon no Kaze",
               "english": "JoJo's Bizarre Adventure: Golden Wind"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2018,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx102883-S9KzdMJhDswJ.png"
+            }
           }
         },
         {
@@ -7252,7 +7361,13 @@
               "romaji": "JoJo no Kimyou na Bouken: Stone Ocean",
               "english": "JoJo's Bizarre Adventure Part 6: Stone Ocean"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx33009-jF9dqLJcZC4n.png"
+            }
           }
         },
         {
@@ -7263,7 +7378,13 @@
               "romaji": "JoJo no Kimyou na Bouken: Stone Ocean Part 2",
               "english": "JoJo's Bizarre Adventure: STONE OCEAN Part 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx146722-hiZU7M33fBhn.jpg"
+            }
           }
         }
       ]
@@ -7659,7 +7780,7 @@
         }
       ]
     },
-    "updatedAt": 1787357267,
+    "updatedAt": 1787364043,
     "idTmdb": 45790,
     "idImdb": "tt2359704",
     "idTvdb": 262954,
@@ -7718,7 +7839,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 200087,
-    "trending": 8,
+    "trending": 6,
     "favourites": 3878,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7884,7 +8005,13 @@
               "romaji": "Dr. STONE",
               "english": "Dr. STONE"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b98416-L44f4idEGMAX.jpg"
+            }
           }
         },
         {
@@ -7895,7 +8022,13 @@
               "romaji": "Dr. STONE: Ryuusui",
               "english": "Dr. STONE Special Episode – RYUSUI"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx142876-izO35hPP2DZ9.jpg"
+            }
           }
         },
         {
@@ -7906,7 +8039,13 @@
               "romaji": "Dr. STONE: NEW WORLD Part 2",
               "english": "Dr. STONE New World Part 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162670-07XrFq2hreTx.jpg"
+            }
           }
         }
       ]
@@ -8295,7 +8434,7 @@
         }
       ]
     },
-    "updatedAt": 1787357264,
+    "updatedAt": 1787364065,
     "idTmdb": 86031,
     "idImdb": "tt9679542",
     "idTvdb": 355774,
@@ -8386,7 +8525,13 @@
               "romaji": "Do It Yourself!!",
               "english": "Do It Yourself!!"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx156717-Sh8hbya5j9Ix.png"
+            }
           }
         }
       ]
@@ -8726,7 +8871,14 @@
         }
       ]
     },
-    "updatedAt": 1787346102
+    "updatedAt": 1787364043,
+    "idTmdb": 121702,
+    "idImdb": "tt14323890",
+    "idTvdb": 401950,
+    "idTrakt": 179823,
+    "traktSlug": "do-it-yourself",
+    "idSimkl": 1577783,
+    "idShikimori": 48542
   },
   "131584": {
     "id": 131584,
@@ -9209,7 +9361,7 @@
     "averageScore": 53,
     "meanScore": 53,
     "popularity": 35691,
-    "trending": 1,
+    "trending": 0,
     "favourites": 550,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9728,7 +9880,7 @@
         }
       ]
     },
-    "updatedAt": 1787353343,
+    "updatedAt": 1787364123,
     "idTmdb": 121131,
     "idImdb": "tt14271876",
     "idTvdb": 399222,
@@ -10761,7 +10913,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 57761,
-    "trending": 2,
+    "trending": 1,
     "favourites": 921,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10883,7 +11035,13 @@
               "romaji": "Tsuki to Laika to Nosferatu",
               "english": "Irina: The Vampire Cosmonaut"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx111676-QKm7EKYVmEPm.png"
+            }
           }
         },
         {
@@ -10894,7 +11052,13 @@
               "romaji": "Tsuki to Laika to Nosferatu",
               "english": "Irina: The Vampire Cosmonaut"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx131038-9uDhBX9O9lHt.png"
+            }
           }
         },
         {
@@ -10905,7 +11069,13 @@
               "romaji": "Arifureta Itsuka",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140162-wLyMUDXJI3XQ.png"
+            }
           }
         }
       ]
@@ -11250,7 +11420,7 @@
         }
       ]
     },
-    "updatedAt": 1787353320,
+    "updatedAt": 1787360536,
     "idTmdb": 121017,
     "idImdb": "tt14264160",
     "idTvdb": 401855,
@@ -11305,7 +11475,7 @@
     "averageScore": 87,
     "meanScore": 87,
     "popularity": 194447,
-    "trending": 7,
+    "trending": 10,
     "favourites": 13610,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11421,7 +11591,13 @@
               "romaji": "86: Eighty Six",
               "english": "86 EIGHTY-SIX"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2021,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx116589-KawXHB6sApFt.jpg"
+            }
           }
         },
         {
@@ -11432,7 +11608,13 @@
               "romaji": "86: Eighty Six",
               "english": "86―EIGHTY-SIX"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx98610-TIf7R1gkU0vc.jpg"
+            }
           }
         },
         {
@@ -11443,7 +11625,13 @@
               "romaji": "Kyoukaisen",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b140168-2ld4s5ezCJFW.png"
+            }
           }
         },
         {
@@ -11454,7 +11642,13 @@
               "romaji": "86: Eighty Six - Run Through The Battlefront",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "CANCELLED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx128949-DDR0iO5cbehB.jpg"
+            }
           }
         }
       ]
@@ -11849,7 +12043,7 @@
         }
       ]
     },
-    "updatedAt": 1787357265,
+    "updatedAt": 1787364022,
     "idTmdb": 100565,
     "idImdb": "tt13718450",
     "idTvdb": 378609,
@@ -12343,7 +12537,13 @@
               "romaji": "Go-toubun no Hanayome",
               "english": "The Quintessential Quintuplets"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx100230-TA0RQ9d7RVas.jpg"
+            }
           }
         },
         {
@@ -12354,7 +12554,13 @@
               "romaji": "Go-toubun no Hanayome∽",
               "english": "The Quintessential Quintuplets Specials"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163327-xBQznOwq6emq.jpg"
+            }
           }
         },
         {
@@ -12365,7 +12571,13 @@
               "romaji": "Go-toubun no Hanayome *",
               "english": "The Quintessential Quintuplets Specials 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177191-ovNZsq8EbIPY.jpg"
+            }
           }
         },
         {
@@ -12376,7 +12588,13 @@
               "romaji": "Go-toubun no Hanayome: Shunkashuutou",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx211709-eLIMRJ4Twp8e.jpg"
+            }
           }
         }
       ]
@@ -12723,7 +12941,7 @@
         }
       ]
     },
-    "updatedAt": 1787357264,
+    "updatedAt": 1787364080,
     "idTmdb": 820067,
     "idImdb": "tt15721650",
     "idTvdb": null,

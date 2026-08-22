@@ -49,7 +49,7 @@
     "averageScore": 64,
     "meanScore": 64,
     "popularity": 24138,
-    "trending": 1,
+    "trending": 0,
     "favourites": 236,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -385,7 +385,14 @@
         }
       ]
     },
-    "updatedAt": 1787349751
+    "updatedAt": 1787364123,
+    "idTmdb": 203740,
+    "idImdb": "tt20672482",
+    "idTvdb": 421103,
+    "idTrakt": 196094,
+    "traktSlug": "moonrise",
+    "idSimkl": 999043,
+    "idShikimori": 38903
   },
   "150653": {
     "id": 150653,
@@ -1472,7 +1479,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 325930,
-    "trending": 6,
+    "trending": 8,
     "favourites": 18693,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1556,7 +1563,13 @@
               "romaji": "[Oshi no Ko]",
               "english": "[Oshi no Ko]"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx117195-r3kf8eF0xkDJ.png"
+            }
           }
         },
         {
@@ -1567,7 +1580,13 @@
               "romaji": "Idol",
               "english": "Idol"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx164117-PW0VR0S1nsba.png"
+            }
           }
         },
         {
@@ -1578,7 +1597,13 @@
               "romaji": "[Oshi no Ko] 2nd Season",
               "english": "OSHI NO KO Season 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166531-dAL5MsqDHUkj.jpg"
+            }
           }
         }
       ]
@@ -2037,7 +2062,7 @@
         }
       ]
     },
-    "updatedAt": 1787357308,
+    "updatedAt": 1787364037,
     "idTmdb": 203737,
     "idImdb": "tt21030032",
     "idTvdb": 421069,
@@ -2207,7 +2232,13 @@
               "romaji": "Paradox Live Stage Battle “COMIC”",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx148090-EO7wlboscXAV.jpg"
+            }
           }
         },
         {
@@ -2218,7 +2249,13 @@
               "romaji": "Paradox Live THE ANIMATION Movie",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx212812-ClgAw2ammA8s.jpg"
+            }
           }
         }
       ]
@@ -2635,7 +2672,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 122315,
-    "trending": 2,
+    "trending": 4,
     "favourites": 2036,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2699,7 +2736,13 @@
               "romaji": "Kono Subarashii Sekai ni Shukufuku wo! Spin-off: Kono Subarashii Sekai ni Bakuen wo!",
               "english": "Konosuba: An Explosion on This Wonderful World!"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx100147-DTfomWveFKJq.jpg"
+            }
           }
         },
         {
@@ -2710,7 +2753,13 @@
               "romaji": "Kono Subarashii Sekai ni Bakuen wo!",
               "english": "Konosuba: An Explosion on This Wonderful World!"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx97080-L49QMMaTZPuk.jpg"
+            }
           }
         },
         {
@@ -2721,7 +2770,13 @@
               "romaji": "Kono Subarashii Sekai ni Shukufuku wo!",
               "english": "KONOSUBA -God's blessing on this wonderful world!"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2016,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21202-mPOr80AEjUcZ.png"
+            }
           }
         }
       ]
@@ -3069,7 +3124,7 @@
         }
       ]
     },
-    "updatedAt": 1787357307,
+    "updatedAt": 1787364027,
     "idTmdb": 203040,
     "idImdb": "tt27329086",
     "idTvdb": 420657,
@@ -3510,7 +3565,7 @@
     "averageScore": 62,
     "meanScore": 64,
     "popularity": 1726,
-    "trending": 1,
+    "trending": 0,
     "favourites": 23,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3643,7 +3698,13 @@
               "romaji": "Cardfight!! Vanguard: will+Dress Season 2",
               "english": "Cardfight!! Vanguard will+Dress Season 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx139213-L3gwRcaqrjNt.png"
+            }
           }
         },
         {
@@ -3654,7 +3715,13 @@
               "romaji": "Cardfight!! Vanguard: Divinez",
               "english": "CARDFIGHT!! VANGUARD Divinez"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx164204-HKCkCfJM2n6r.jpg"
+            }
           }
         },
         {
@@ -3665,7 +3732,13 @@
               "romaji": "Cardfight!! Vanguard: will+Dress D2",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx186367-mBN7ORRcjuNo.jpg"
+            }
           }
         }
       ]
@@ -3916,7 +3989,7 @@
         }
       ]
     },
-    "updatedAt": 1787353354,
+    "updatedAt": 1787360559,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4024,7 +4097,13 @@
               "romaji": "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx117640-arXhWX3vePU6.jpg"
+            }
           }
         },
         {
@@ -4035,7 +4114,13 @@
               "romaji": "Yuusha Party wo Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau",
               "english": "Beast Tamer"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx108115-SgICRkK3GMeb.png"
+            }
           }
         }
       ]
@@ -4453,7 +4538,7 @@
         }
       ]
     },
-    "updatedAt": 1787357308,
+    "updatedAt": 1787364073,
     "idTmdb": 203780,
     "idImdb": "tt21345944",
     "idTvdb": 421092,
@@ -4884,5 +4969,166 @@
     "traktSlug": "sound-euphonium-ensemble-contest-2023",
     "idSimkl": 1925052,
     "idShikimori": 51995
+  },
+  "150950": {
+    "id": 150950,
+    "idMal": 52949,
+    "title": {
+      "romaji": "Bai Lian Cheng Shen",
+      "english": "Apotheosis",
+      "native": "百炼成神"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "The downfall of his clan brought suffering to his kin and turned Luo Zheng, once the envy of all, into a lowly family slave. In a world ruled by mysterious powers and where clans are engaged in endless strife, Luo Zheng, who refused to be defeated, happened to obtain a mysterious manual. With this manual, he refined his body into a weapon. This marks the resounding start to his battle against fate...\n<br><br>\n(Source: Youku.tv)",
+    "episodes": 52,
+    "duration": 15,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2022,
+      "month": 11,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 10,
+      "day": 20
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150950-h1BekOOJ0YK0.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150950-h1BekOOJ0YK0.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx150950-h1BekOOJ0YK0.png",
+      "color": "#43aee4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Apotheosis"
+    ],
+    "averageScore": 68,
+    "meanScore": 73,
+    "popularity": 1692,
+    "trending": 1,
+    "favourites": 70,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": {
+      "id": "PEq8EEOCAec",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/PEq8EEOCAec/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://list.youku.com/show/id_bdfd61c13f714ae5affc",
+        "site": "Youku",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://weibo.com/u/7787728124",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.bilibili.com/bangumi/media/md28340485",
+        "site": "Bilibili",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 101408,
+            "title": {
+              "romaji": "Bai Lian Cheng Shen",
+              "english": "Principles of Heavens: Zen’s Cultivation of Immortality"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx101408-Ym79QPjdXk8F.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 174703,
+            "title": {
+              "romaji": "Bai Lian Cheng Shen 2",
+              "english": "Apotheosis 2"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b174703-tjgDtFfv6z7k.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 326,
+        "name": "Cultivation",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 30,
+        "name": "Martial Arts",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6530,
+            "name": "Youku"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 7305,
+            "name": "Qingxiang"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787364056,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2037600,
+    "idShikimori": 52949
   }
 }

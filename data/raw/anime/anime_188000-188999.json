@@ -44,7 +44,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1089,
-    "trending": 1,
+    "trending": 2,
     "favourites": 24,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -73,7 +73,13 @@
               "romaji": "Shota Oni",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx135251-sZtQ8mJaRdNs.jpg"
+            }
           }
         }
       ]
@@ -165,7 +171,7 @@
         }
       ]
     },
-    "updatedAt": 1787357369,
+    "updatedAt": 1787360485,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -609,7 +615,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 37660,
-    "trending": 1,
+    "trending": 3,
     "favourites": 453,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -658,7 +664,13 @@
               "romaji": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx139977-nlEvbwkByFed.jpg"
+            }
           }
         },
         {
@@ -669,7 +681,13 @@
               "romaji": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu",
               "english": "The Banished Court Magician Aims to Become the Strongest"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx139976-RoGiZ5ReatiD.png"
+            }
           }
         }
       ]
@@ -971,7 +989,7 @@
         }
       ]
     },
-    "updatedAt": 1787357369,
+    "updatedAt": 1787364062,
     "idTmdb": 286984,
     "idImdb": "tt36631539",
     "idTvdb": 461708,
@@ -1057,7 +1075,13 @@
               "romaji": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
               "english": "Medaka Kuroiwa is Impervious to My Charms"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx134369-1ccMwIqM23F7.jpg"
+            }
           }
         },
         {
@@ -1068,7 +1092,13 @@
               "romaji": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
               "english": "Medaka Kuroiwa is Impervious to My Charms"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177552-7XiOf3dGXmNs.jpg"
+            }
           }
         }
       ]
@@ -1292,7 +1322,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787496360,
-      "timeUntilAiring": 136462,
+      "timeUntilAiring": 131642,
       "episode": 7
     },
     "relations": {
@@ -1305,7 +1335,13 @@
               "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
               "english": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx128807-MjdLDu3TzXAp.jpg"
+            }
           }
         },
         {
@@ -1316,7 +1352,13 @@
               "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
               "english": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx126674-pwMWhbJPge81.jpg"
+            }
           }
         }
       ]
@@ -1343,13 +1385,19 @@
       {
         "id": 1327,
         "name": "Royal Affairs",
-        "rank": 85,
+        "rank": 88,
         "isMediaSpoiler": false
       },
       {
         "id": 1598,
         "name": "Ancient China",
-        "rank": 82,
+        "rank": 85,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 857,
+        "name": "Villainess",
+        "rank": 80,
         "isMediaSpoiler": false
       },
       {
@@ -1362,12 +1410,6 @@
         "id": 198,
         "name": "Foreign",
         "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 857,
-        "name": "Villainess",
-        "rank": 76,
         "isMediaSpoiler": false
       },
       {
@@ -1622,7 +1664,7 @@
         }
       ]
     },
-    "updatedAt": 1787357369,
+    "updatedAt": 1787364046,
     "idTmdb": 286345,
     "idImdb": "tt41293157",
     "idTvdb": 461544,
@@ -1678,7 +1720,7 @@
     "averageScore": 69,
     "meanScore": 70,
     "popularity": 14418,
-    "trending": 3,
+    "trending": 2,
     "favourites": 270,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1713,7 +1755,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787443200,
-      "timeUntilAiring": 83302,
+      "timeUntilAiring": 78544,
       "episode": 44
     },
     "relations": {
@@ -1726,7 +1768,13 @@
               "romaji": "Digimon Adventure",
               "english": "Digimon: Digital Monsters"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 1999,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx552-zad0ts5hylQJ.jpg"
+            }
           }
         },
         {
@@ -1737,7 +1785,13 @@
               "romaji": "Digimon (Shinsaku Anime)",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214725-mEFQHdswYkwU.png"
+            }
           }
         }
       ]
@@ -2131,7 +2185,7 @@
         }
       ]
     },
-    "updatedAt": 1787357369,
+    "updatedAt": 1787364097,
     "idTmdb": 286791,
     "idImdb": "tt37499375",
     "idTvdb": 461683,
@@ -2185,7 +2239,7 @@
     "averageScore": 76,
     "meanScore": 78,
     "popularity": 9889,
-    "trending": 65,
+    "trending": 50,
     "favourites": 112,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2230,7 +2284,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787927400,
-      "timeUntilAiring": 567188,
+      "timeUntilAiring": 562628,
       "episode": 8
     },
     "relations": {
@@ -2243,7 +2297,13 @@
               "romaji": "Kore Kaite Shine",
               "english": "Draw This, Then Die!"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx141646-FL0Y3WGRZvgq.jpg"
+            }
           }
         }
       ]
@@ -2581,7 +2641,7 @@
         }
       ]
     },
-    "updatedAt": 1787353224,
+    "updatedAt": 1787364007,
     "idTmdb": 287028,
     "idImdb": "tt36290385",
     "idTvdb": 461714,
@@ -2632,7 +2692,7 @@
     "averageScore": 72,
     "meanScore": 77,
     "popularity": 3641,
-    "trending": 1,
+    "trending": 0,
     "favourites": 62,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2666,7 +2726,13 @@
               "romaji": "Girls und Panzer: Motto Love Love Sakusen desu!",
               "english": "Girls & Panzer - Motto Love Love Sakusen desu!"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/55409.jpg"
+            }
           }
         },
         {
@@ -2677,7 +2743,13 @@
               "romaji": "Girls und Panzer",
               "english": "Girls und Panzer"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2012,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx14131-EP12xXteLTiF.jpg"
+            }
           }
         },
         {
@@ -2688,7 +2760,13 @@
               "romaji": "Girls und Panzer: Ribbon no Musha Pilot-ban",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209312-ZQGohKvgqGP6.png"
+            }
           }
         }
       ]
@@ -3004,7 +3082,7 @@
         }
       ]
     },
-    "updatedAt": 1787353213,
+    "updatedAt": 1787364123,
     "idTmdb": 1591447,
     "idImdb": "tt39195826",
     "idTvdb": null,

@@ -47,7 +47,7 @@
     "averageScore": 76,
     "meanScore": 77,
     "popularity": 47512,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1314,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -169,7 +169,13 @@
               "romaji": "Date A Live",
               "english": "Date A Live"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx67523-mzbSAv4NHsvY.jpg"
+            }
           }
         },
         {
@@ -180,7 +186,13 @@
               "romaji": "Date A Live IV",
               "english": "Date A Live IV"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx116605-uzDakXnaZ1OW.jpg"
+            }
           }
         },
         {
@@ -191,7 +203,13 @@
               "romaji": "Date A Live F Last Date",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190244-pxpZRICro9Sv.jpg"
+            }
           }
         }
       ]
@@ -565,7 +583,7 @@
         }
       ]
     },
-    "updatedAt": 1787357308,
+    "updatedAt": 1787364123,
     "idTmdb": 46004,
     "idImdb": "tt2575684",
     "idTvdb": 264663,
@@ -688,7 +706,13 @@
               "romaji": "Mononoke",
               "english": "Mononoke"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2007,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2246-WHkSkgyuxfgD.jpg"
+            }
           }
         },
         {
@@ -699,7 +723,13 @@
               "romaji": "Mononoke: Hinezumi",
               "english": "Mononoke The Movie: Chapter II - The Ashes of Rage"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179852-tPwGOkCxA8em.jpg"
+            }
           }
         },
         {
@@ -710,7 +740,13 @@
               "romaji": "Gekijouban Mononoke: Karakasa",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx185698-L319iahIPnt0.jpg"
+            }
           }
         }
       ]
@@ -1037,7 +1073,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787364123,
+    "idTmdb": 989730,
+    "idImdb": "tt32574149",
+    "idTvdb": null,
+    "idTrakt": 795305,
+    "traktSlug": "mononoke-the-movie-the-phantom-in-the-rain-2024",
+    "idSimkl": 1934576,
+    "idShikimori": 52107
   },
   "151411": {
     "id": 151411,
@@ -1446,7 +1489,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 70782,
-    "trending": 0,
+    "trending": 5,
     "favourites": 1864,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1568,7 +1611,13 @@
               "romaji": "Geunyeoga Gongjakjeoro Gaya Haetdeon Sajeong",
               "english": "The Reason Why Raeliana Ended Up at the Duke's Mansion"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx104973-5KZSV2FK9BMt.jpg"
+            }
           }
         }
       ]
@@ -1992,7 +2041,7 @@
         }
       ]
     },
-    "updatedAt": 1787357309,
+    "updatedAt": 1787364023,
     "idTmdb": 205366,
     "idImdb": "tt27484853",
     "idTvdb": 422039,
@@ -2099,7 +2148,13 @@
               "romaji": "TRIGUN",
               "english": "Trigun"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 1998,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6-wd4saT1JzStH.jpg"
+            }
           }
         },
         {
@@ -2110,7 +2165,13 @@
               "romaji": "Trigun",
               "english": "Trigun"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx30703-iRLjKRnSwCFP.jpg"
+            }
           }
         },
         {
@@ -2121,7 +2182,13 @@
               "romaji": "TRIGUN STARGAZE",
               "english": "TRIGUN STARGAZE"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163144-XdVwFRxPGY6j.jpg"
+            }
           }
         },
         {
@@ -2132,7 +2199,13 @@
               "romaji": "Trigun Maximum",
               "english": "Trigun Maximum"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx30704-l8ouaKlmym4a.jpg"
+            }
           }
         }
       ]
@@ -2531,7 +2604,14 @@
         }
       ]
     },
-    "updatedAt": 1787349730
+    "updatedAt": 1787364105,
+    "idTmdb": 204266,
+    "idImdb": "tt21216104",
+    "idTvdb": 421378,
+    "idTrakt": 196330,
+    "traktSlug": "trigun-stampede",
+    "idSimkl": 1933938,
+    "idShikimori": 52093
   },
   "151379": {
     "id": 151379,
@@ -2578,7 +2658,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 71669,
-    "trending": 2,
+    "trending": 4,
     "favourites": 1781,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2627,7 +2707,13 @@
               "romaji": "Meido Jinsei (Maid Life!)",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx168676-rObtocoC2zu7.png"
+            }
           }
         },
         {
@@ -2638,7 +2724,13 @@
               "romaji": "Run Run Lantern",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207886-FSVy0b0r2U4H.png"
+            }
           }
         }
       ]
@@ -3139,7 +3231,14 @@
         }
       ]
     },
-    "updatedAt": 1787349724
+    "updatedAt": 1787364054,
+    "idTmdb": 204716,
+    "idImdb": "tt21929358",
+    "idTvdb": 421676,
+    "idTrakt": 196465,
+    "traktSlug": "akiba-maid-war",
+    "idSimkl": 1937758,
+    "idShikimori": 52193
   },
   "151189": {
     "id": 151189,
@@ -3736,7 +3835,7 @@
     "averageScore": 87,
     "meanScore": 87,
     "popularity": 146393,
-    "trending": 5,
+    "trending": 6,
     "favourites": 4532,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3875,7 +3974,13 @@
               "romaji": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
               "english": "Kaguya-sama: Love is War"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx86635-EdaLQmsn86Fy.png"
+            }
           }
         },
         {
@@ -3886,7 +3991,13 @@
               "romaji": "Kaguya-sama wa Kokurasetai: Ultra Romantic",
               "english": "Kaguya-sama: Love is War -Ultra Romantic-"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx125367-1yuq9NFcQuLI.png"
+            }
           }
         },
         {
@@ -3897,7 +4008,13 @@
               "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
               "english": "Kaguya-sama: Love Is War -Stairway to Adulthood-"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194884-rHgGAzKSCEWz.jpg"
+            }
           }
         }
       ]
@@ -4224,7 +4341,7 @@
         }
       ]
     },
-    "updatedAt": 1787357308,
+    "updatedAt": 1787364043,
     "idTmdb": 997317,
     "idImdb": "tt23770418",
     "idTvdb": null,
@@ -4812,7 +4929,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 185165,
-    "trending": 24,
+    "trending": 9,
     "favourites": 6515,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5052,7 +5169,13 @@
               "romaji": "Shangri-La Frontier: Kusoge Hunter, Kami ge ni Idoman to su",
               "english": "Shangri-La Frontier"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx122063-j2wIvwb6yzPM.jpg"
+            }
           }
         },
         {
@@ -5063,7 +5186,13 @@
               "romaji": "Shangri-La Frontier Mini Anime",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169750-x2ti7XEH5Ij5.jpg"
+            }
           }
         },
         {
@@ -5074,7 +5203,13 @@
               "romaji": "Shangri-La Frontier 2nd Season",
               "english": "Shangri-La Frontier Season 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176508-eFad4szofm8d.png"
+            }
           }
         }
       ]
@@ -5431,7 +5566,7 @@
         }
       ]
     },
-    "updatedAt": 1787357310,
+    "updatedAt": 1787364049,
     "idTmdb": 205050,
     "idImdb": "tt28776190",
     "idTvdb": 421855,
@@ -5486,7 +5621,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 439820,
-    "trending": 18,
+    "trending": 6,
     "favourites": 20653,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5679,7 +5814,13 @@
               "romaji": "Na Honjaman Level Up",
               "english": "Solo Leveling"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx105398-b673Vt5ZSuz3.jpg"
+            }
           }
         },
         {
@@ -5690,7 +5831,13 @@
               "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
               "english": "Solo Leveling Season 2 -Arise from the Shadow-"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176496-9BDMjAZGEbq4.png"
+            }
           }
         },
         {
@@ -5701,7 +5848,13 @@
               "romaji": "Ore dake Level Up na Ken: ReAwakening",
               "english": "Solo Leveling -ReAwakening-"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184694-EmVoCuV4uAGv.png"
+            }
           }
         }
       ]
@@ -6092,7 +6245,7 @@
         }
       ]
     },
-    "updatedAt": 1787357309,
+    "updatedAt": 1787364072,
     "idTmdb": 127532,
     "idImdb": "tt21209876",
     "idTvdb": 389597,
@@ -6151,7 +6304,7 @@
     "averageScore": 86,
     "meanScore": 86,
     "popularity": 120791,
-    "trending": 12,
+    "trending": 6,
     "favourites": 6937,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6190,7 +6343,13 @@
               "romaji": "Chi. Chikyuu no Undou ni Tsuite",
               "english": "Orb: On the Movements of the Earth"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx124139-OOL1bW0HecJT.jpg"
+            }
           }
         },
         {
@@ -6201,7 +6360,13 @@
               "romaji": "Aporia",
               "english": "Aporia"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206054-gyz4Tv3BehQ4.jpg"
+            }
           }
         },
         {
@@ -6212,7 +6377,13 @@
               "romaji": "Hebi",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b206056-CgqRhBAAXaw3.jpg"
+            }
           }
         }
       ]
@@ -6624,7 +6795,7 @@
         }
       ]
     },
-    "updatedAt": 1787357309,
+    "updatedAt": 1787360422,
     "idTmdb": 204635,
     "idImdb": "tt33044444",
     "idTvdb": 421583,
@@ -6679,7 +6850,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 285431,
-    "trending": 5,
+    "trending": 7,
     "favourites": 7377,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6816,7 +6987,13 @@
               "romaji": "MASHLE",
               "english": "Mashle: Magic and Muscles"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx114960-pivAwNQDdiBa.jpg"
+            }
           }
         },
         {
@@ -6827,7 +7004,13 @@
               "romaji": "MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen",
               "english": "MASHLE: MAGIC AND MUSCLES Season 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166610-S5q7V2v5zdDK.jpg"
+            }
           }
         }
       ]
@@ -7215,7 +7398,7 @@
         }
       ]
     },
-    "updatedAt": 1787357309,
+    "updatedAt": 1787364032,
     "idTmdb": 204832,
     "idImdb": "tt21209804",
     "idTvdb": 421737,
@@ -7270,7 +7453,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 174190,
-    "trending": 11,
+    "trending": 7,
     "favourites": 4398,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7403,7 +7586,13 @@
               "romaji": "Tomo-chan wa Onnanoko!",
               "english": "Tomo-chan is a Girl!"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx86300-VQWRaxoTXciF.jpg"
+            }
           }
         },
         {
@@ -7414,7 +7603,13 @@
               "romaji": "Kurae! Telepathy",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163339-dkysy3QN6PEx.png"
+            }
           }
         }
       ]
@@ -7744,7 +7939,7 @@
         }
       ]
     },
-    "updatedAt": 1787357309,
+    "updatedAt": 1787364058,
     "idTmdb": 205308,
     "idImdb": "tt21210326",
     "idTvdb": 421994,
@@ -9156,5 +9351,625 @@
     "traktSlug": "new-panty-stocking-with-garterbelt",
     "idSimkl": 1944026,
     "idShikimori": 52293
+  },
+  "151632": {
+    "id": 151632,
+    "idMal": 52281,
+    "title": {
+      "romaji": "Isekai Meikyuu de Harem wo OVA",
+      "english": null,
+      "native": "異世界迷宮でハーレムを OVA"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "Unaired episodes included with the first and second volumes of the <i>Isekai Meikyuu de Harem wo</i> Blu-ray/DVD box.",
+    "episodes": 2,
+    "duration": 5,
+    "season": "FALL",
+    "seasonYear": 2022,
+    "startDate": {
+      "year": 2022,
+      "month": 11,
+      "day": 25
+    },
+    "endDate": {
+      "year": 2022,
+      "month": 12,
+      "day": 23
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151632-awVg6I4mukra.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151632-awVg6I4mukra.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx151632-awVg6I4mukra.png",
+      "color": "#e4ae43"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Drama",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "synonyms": [
+      "Harem in the Labyrinth of Another World OVA",
+      "異世界迷宮でハーレムを 体を洗ったあとは……",
+      "異世界迷宮でハーレムを ロクサーヌと最後まで。",
+      "Isekai Meikyuu de Harem wo: Karada wo Aratta Ato wa......",
+      "Isekai Meikyuu de Harem wo: Roxanne to Saigo ma de.",
+      "Isekai Meikyuu de Harem wo Specials"
+    ],
+    "averageScore": 64,
+    "meanScore": 64,
+    "popularity": 11242,
+    "trending": 0,
+    "favourites": 212,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "LIGHT_NOVEL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://isekai-harem.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/isekaiharem_ani",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 127090,
+            "title": {
+              "romaji": "Isekai Meikyuu de Harem wo",
+              "english": "Harem in the Labyrinth of Another World"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx127090-ftd2rro80kk9.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 86318,
+            "title": {
+              "romaji": "Isekai Meikyuu de Harem wo",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx86318-WppmFFokDsXj.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 85,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 137,
+        "name": "Large Breasts",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 57,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 259,
+        "name": "Monster Girl",
+        "rank": 56,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 247,
+        "name": "Slavery",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 244,
+        "name": "Isekai",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 911,
+            "name": "Passione"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6698,
+            "name": "KADOKAWA"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 141842,
+            "name": {
+              "full": "Roxanne",
+              "native": "ロクサーヌ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106236,
+              "name": {
+                "full": "Shiori Mikami",
+                "native": "三上枝織"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 268339,
+            "name": {
+              "full": "Michio Kaga",
+              "native": "加賀道夫"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119833,
+              "name": {
+                "full": "Taku Yashiro",
+                "native": "八代拓"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 52281
+  },
+  "151803": {
+    "id": 151803,
+    "idMal": 52291,
+    "title": {
+      "romaji": "TIGER & BUNNY 2 Part 2",
+      "english": null,
+      "native": "TIGER & BUNNY 2 パート2"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "The second half of <i>Tiger & Bunny 2<i>.",
+    "episodes": 12,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 2022,
+    "startDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 7
+    },
+    "endDate": {
+      "year": 2022,
+      "month": 10,
+      "day": 7
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151803-g74NJw5pUNrR.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx151803-g74NJw5pUNrR.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx151803-g74NJw5pUNrR.jpg",
+      "color": "#35aee4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "synonyms": [],
+    "averageScore": 74,
+    "meanScore": 75,
+    "popularity": 4310,
+    "trending": 1,
+    "favourites": 63,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "Op8c_jKVucg",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/Op8c_jKVucg/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.netflix.com/title/80039972",
+        "site": "Netflix",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://twitter.com/TIGERandBUNNY",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "http://www.tigerandbunny.net/TB2/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 117197,
+            "title": {
+              "romaji": "TIGER & BUNNY 2",
+              "english": "TIGER & BUNNY 2"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx117197-xHuyKETHFyzX.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 172,
+        "name": "Superhero",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 456,
+        "name": "Conspiracy",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 159,
+        "name": "Super Robot",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 513,
+        "name": "Tokusatsu",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 99,
+        "name": "Henshin",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 90,
+        "name": "CGI",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6787,
+            "name": "Netflix"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6116,
+            "name": "Bandai Namco Pictures"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 40851,
+            "name": {
+              "full": "Kotetsu Kaburagi",
+              "native": "鏑木・Ｔ・虎徹"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95125,
+              "name": {
+                "full": "Hiroaki Hirata",
+                "native": "平田広明"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 40852,
+            "name": {
+              "full": "Barnaby Brooks Jr.",
+              "native": "バーナビー・ブルックス Ｊｒ．"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95205,
+              "name": {
+                "full": "Masakazu Morita",
+                "native": "森田成一"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 40853,
+            "name": {
+              "full": "Karina Lyle",
+              "native": "カリーナ・ライル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101634,
+              "name": {
+                "full": "Minako Kotobuki",
+                "native": "寿美菜子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 40854,
+            "name": {
+              "full": "Antonio Lopez",
+              "native": "ロックバイソン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95893,
+              "name": {
+                "full": "Taiten Kusunoki",
+                "native": "楠大典"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 40855,
+            "name": {
+              "full": "Keith Goodman",
+              "native": "キース・グッドマン/スカイハイ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95527,
+              "name": {
+                "full": "Gou Inoue",
+                "native": "井上剛"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 40856,
+            "name": {
+              "full": "Pao-Lin Huang",
+              "native": "ホァン・パオリン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95655,
+              "name": {
+                "full": "Mariya Ise",
+                "native": "伊瀬茉莉也"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 40857,
+            "name": {
+              "full": "Ivan Karelin",
+              "native": "イワン・カレリン/折紙サイクロン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95270,
+              "name": {
+                "full": "Nobuhiko Okamoto",
+                "native": "岡本信彦"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 40858,
+            "name": {
+              "full": "Nathan Seymour",
+              "native": "ネイサン・シーモア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95591,
+              "name": {
+                "full": "Kenjirou Tsuda",
+                "native": "津田健次郎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 41522,
+            "name": {
+              "full": "Agnes Joubert",
+              "native": "アニエス・ジュベール"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95428,
+              "name": {
+                "full": "Yuuko Kaida",
+                "native": "甲斐田裕子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 41572,
+            "name": {
+              "full": "Alexander Lloyds",
+              "native": "アレキサンダー・ロイス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107197,
+              "name": {
+                "full": "Wataru Yokojima",
+                "native": "横島亘"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787364083,
+    "idTmdb": 39659,
+    "idImdb": "tt2061527",
+    "idTvdb": 246381,
+    "idTrakt": 39484,
+    "traktSlug": "tiger-bunny",
+    "idSimkl": null,
+    "idShikimori": 52291
   }
 }

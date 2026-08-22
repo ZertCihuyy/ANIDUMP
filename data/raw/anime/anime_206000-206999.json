@@ -40,7 +40,7 @@
     "averageScore": 67,
     "meanScore": 70,
     "popularity": 1570,
-    "trending": 1,
+    "trending": 0,
     "favourites": 14,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -80,7 +80,13 @@
               "romaji": "Guimi Zhi Zhu: Xiaochou Pian",
               "english": "Lord of Mysteries"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137667-xQxzQRAerw53.jpg"
+            }
           }
         }
       ]
@@ -182,7 +188,7 @@
         }
       ]
     },
-    "updatedAt": 1787353327,
+    "updatedAt": 1787360559,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -280,7 +286,13 @@
               "romaji": "Sousou no Frieren: ●● no Mahou Part 2",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189513-1R9Sryve0K53.png"
+            }
           }
         },
         {
@@ -291,7 +303,13 @@
               "romaji": "Sousou no Frieren 2nd Season",
               "english": "Frieren: Beyond Journey’s End Season 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182255-butzrqd4I0aC.jpg"
+            }
           }
         }
       ]
@@ -503,7 +521,7 @@
         }
       ]
     },
-    "updatedAt": 1787353334,
+    "updatedAt": 1787364058,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -588,7 +606,13 @@
               "romaji": "Zhan Shen: Fanchen Shen Yu",
               "english": "Slay The Gods"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx168105-NH0EUR2yHH3M.png"
+            }
           }
         }
       ]
@@ -685,7 +709,7 @@
         }
       ]
     },
-    "updatedAt": 1787357398,
+    "updatedAt": 1787364123,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -830,7 +854,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3241,
-    "trending": 1,
+    "trending": 2,
     "favourites": 26,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -869,7 +893,13 @@
               "romaji": "FX Senshi Kurumi-chan",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx128364-PdeViMUAOSLF.jpg"
+            }
           }
         },
         {
@@ -880,7 +910,13 @@
               "romaji": "FX Senshi Kurumi-chan",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx210896-6ONfCLfo7T0R.png"
+            }
           }
         }
       ]
@@ -1015,7 +1051,7 @@
         }
       ]
     },
-    "updatedAt": 1787357399,
+    "updatedAt": 1787360473,
     "idTmdb": 311842,
     "idImdb": null,
     "idTvdb": null,
@@ -1069,7 +1105,7 @@
     "averageScore": 62,
     "meanScore": 68,
     "popularity": 1960,
-    "trending": 0,
+    "trending": 1,
     "favourites": 34,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1108,7 +1144,13 @@
               "romaji": "Quanzhi Fashi 6",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137726-ZMMDRFLTQWSH.png"
+            }
           }
         }
       ]
@@ -1142,7 +1184,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787353355,
+    "updatedAt": 1787364047,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1727,7 +1769,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 20311,
-    "trending": 2,
+    "trending": 3,
     "favourites": 452,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1781,7 +1823,13 @@
               "romaji": "Megami “Isekai Tensei Nani ni Naritai desu ka” Ore “Yuusha no Rokkotsu de”",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx206959-2dfQDXhGMI1s.jpg"
+            }
           }
         }
       ]
@@ -2160,7 +2208,7 @@
         }
       ]
     },
-    "updatedAt": 1787357404,
+    "updatedAt": 1787364093,
     "idTmdb": 312522,
     "idImdb": "tt40547960",
     "idTvdb": 473229,
@@ -2615,7 +2663,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 55787,
-    "trending": 13,
+    "trending": 4,
     "favourites": 1841,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2664,7 +2712,13 @@
               "romaji": "Nippon Sangoku",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx142098-ApKdONCkvE7V.jpg"
+            }
           }
         }
       ]
@@ -3003,7 +3057,7 @@
         }
       ]
     },
-    "updatedAt": 1787357404,
+    "updatedAt": 1787364033,
     "idTmdb": 312474,
     "idImdb": "tt40548519",
     "idTvdb": 473228,
@@ -3171,7 +3225,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1352,
-    "trending": 2,
+    "trending": 1,
     "favourites": 8,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3205,7 +3259,13 @@
               "romaji": "Soukou Kihei Votoms",
               "english": "Armored Trooper Votoms"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 1983,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2582-aB1Vh1jDobQ3.jpg"
+            }
           }
         }
       ]
@@ -3285,7 +3345,14 @@
         }
       ]
     },
-    "updatedAt": 1787349685
+    "updatedAt": 1787364094,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2993866,
+    "idShikimori": 63323
   },
   "206249": {
     "id": 206249,
@@ -3328,7 +3395,7 @@
     "averageScore": 52,
     "meanScore": 54,
     "popularity": 5945,
-    "trending": 0,
+    "trending": 2,
     "favourites": 52,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3363,7 +3430,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787405400,
-      "timeUntilAiring": 45319,
+      "timeUntilAiring": 40730,
       "episode": 8
     },
     "relations": {
@@ -3376,7 +3443,13 @@
               "romaji": "Iwamoto-senpai no Suisen",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx128597-4C5skNqdx92v.jpg"
+            }
           }
         }
       ]
@@ -3652,7 +3725,7 @@
         }
       ]
     },
-    "updatedAt": 1787353355,
+    "updatedAt": 1787364088,
     "idTmdb": 324335,
     "idImdb": "tt41276849",
     "idTvdb": 472831,
@@ -3701,7 +3774,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 4927,
-    "trending": 2,
+    "trending": 1,
     "favourites": 42,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3731,7 +3804,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791289560,
-      "timeUntilAiring": 3929671,
+      "timeUntilAiring": 3924815,
       "episode": 1
     },
     "relations": {
@@ -3744,7 +3817,13 @@
               "romaji": "Kyouran Reijou Nia Liston",
               "english": "Nia Liston: The Merciless Maiden"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx154010-kUX5Qcbg4jBE.png"
+            }
           }
         },
         {
@@ -3755,7 +3834,13 @@
               "romaji": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei Shita Kami-goroshi no Bujin no Kareinaru Musouroku",
               "english": "Nia Liston: The Merciless Maiden"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx174279-uezldEIrZ3MA.jpg"
+            }
           }
         }
       ]
@@ -3884,7 +3969,7 @@
         }
       ]
     },
-    "updatedAt": 1787357404,
+    "updatedAt": 1787364029,
     "idTmdb": 312850,
     "idImdb": null,
     "idTvdb": null,
@@ -3933,7 +4018,7 @@
     "averageScore": 72,
     "meanScore": 73,
     "popularity": 20713,
-    "trending": 19,
+    "trending": 8,
     "favourites": 174,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3978,7 +4063,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787576400,
-      "timeUntilAiring": 216511,
+      "timeUntilAiring": 211691,
       "episode": 9
     },
     "relations": {
@@ -3991,7 +4076,13 @@
               "romaji": "World Is Dancing",
               "english": "The World Is Dancing"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx131824-3i09cjtmbQmB.jpg"
+            }
           }
         }
       ]
@@ -4367,7 +4458,7 @@
         }
       ]
     },
-    "updatedAt": 1787357399,
+    "updatedAt": 1787364051,
     "idTmdb": 312020,
     "idImdb": "tt41279522",
     "idTvdb": 473018,
@@ -4446,7 +4537,13 @@
               "romaji": "Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu",
               "english": "My Sword Saint Master Is Too Cute to Live With!"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx178571-QNzAPl8MZvqe.jpg"
+            }
           }
         }
       ]
@@ -4645,7 +4742,7 @@
     "averageScore": null,
     "meanScore": 63,
     "popularity": 189,
-    "trending": 0,
+    "trending": 1,
     "favourites": 8,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -4670,7 +4767,13 @@
               "romaji": "Zhu Xian 3",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181181-rYDvM8aCeH4w.jpg"
+            }
           }
         }
       ]
@@ -4716,7 +4819,7 @@
         }
       ]
     },
-    "updatedAt": 1787357398,
+    "updatedAt": 1787364112,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4790,7 +4893,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787445000,
-      "timeUntilAiring": 84857,
+      "timeUntilAiring": 80375,
       "episode": 21
     },
     "relations": {
@@ -4803,7 +4906,13 @@
               "romaji": "Himitsu no AiPri: Ring-hen",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184470-m2izEvBeO49C.jpg"
+            }
           }
         }
       ]
@@ -5150,7 +5259,7 @@
         }
       ]
     },
-    "updatedAt": 1787353307,
+    "updatedAt": 1787364117,
     "idTmdb": 312123,
     "idImdb": "tt40548570",
     "idTvdb": 474655,
@@ -5539,5 +5648,231 @@
     "traktSlug": null,
     "idSimkl": 3004126,
     "idShikimori": 63366
+  },
+  "206223": {
+    "id": 206223,
+    "idMal": 57418,
+    "title": {
+      "romaji": "Jiangtun: Feng Shi Wu",
+      "english": null,
+      "native": "江豚·风时舞"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "Since ancient times, the magical inhabitants of the seas have been under the protection of fairies who use the mystical Dance of the Wind to scare away evil. Over the years, magic began to fade, and magical creatures began to disappear. Now, the last of its kind in China can only be saved by a young fairy named Lin, who must find someone to share the Wind Dance with and hide a unique creature from poachers.",
+    "episodes": 1,
+    "duration": 85,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2024,
+      "month": 1,
+      "day": 20
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 1,
+      "day": 20
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206223-qF9cR9ZnL8e5.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206223-qF9cR9ZnL8e5.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206223-qF9cR9ZnL8e5.jpg",
+      "color": "#e4c95d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Romance"
+    ],
+    "synonyms": [
+      "Dance With the Finless Promise",
+      "Dance With the Wind",
+      "Фея и Белый кит"
+    ],
+    "averageScore": null,
+    "meanScore": 57,
+    "popularity": 73,
+    "trending": 0,
+    "favourites": 2,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 57418
+  },
+  "206358": {
+    "id": 206358,
+    "idMal": 62280,
+    "title": {
+      "romaji": "Xiuluo Wushen 2",
+      "english": null,
+      "native": "修罗武神 第2季"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "The second season of <i>Xiuluo Wushen</i>.",
+    "episodes": 16,
+    "duration": 20,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2026,
+      "month": 2,
+      "day": 24
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 3,
+      "day": 31
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206358-MEdGLf5VlSk9.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206358-MEdGLf5VlSk9.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206358-MEdGLf5VlSk9.jpg",
+      "color": "#f1351a"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Martial God Asura 2nd Season"
+    ],
+    "averageScore": null,
+    "meanScore": 74,
+    "popularity": 290,
+    "trending": 1,
+    "favourites": 6,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://v.qq.com/x/cover/mzc0020090lsppd/c41018pjyuq.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://wetv.vip/en/album/cqj1a9xn4z3sepl",
+        "site": "WeTV",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 137674,
+            "title": {
+              "romaji": "Xiuluo Wu Shen",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137674-zkVTKBZQcFM1.png"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 127053,
+            "title": {
+              "romaji": "Xiuluo Wu Shen",
+              "english": "Martial God Asura"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx127053-ZK4jSlhg8OxJ.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7405,
+            "name": "Tang Kirin Culture"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6382,
+            "name": "Tencent Penguin Pictures"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 266449,
+            "name": {
+              "full": "Feng Chu",
+              "native": "楚枫"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787364048,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 3038252,
+    "idShikimori": 62280
   }
 }

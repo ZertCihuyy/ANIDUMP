@@ -39,7 +39,7 @@
     "averageScore": null,
     "meanScore": 76,
     "popularity": 1250,
-    "trending": 1,
+    "trending": 2,
     "favourites": 14,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -100,7 +100,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787353332,
+    "updatedAt": 1787360500,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -153,7 +153,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 27302,
-    "trending": 0,
+    "trending": 1,
     "favourites": 521,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -217,7 +217,13 @@
               "romaji": "Kagurabachi",
               "english": "Kagurabachi"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx169355-5pqzh1Wb4NOQ.png"
+            }
           }
         }
       ]
@@ -412,7 +418,7 @@
         }
       ]
     },
-    "updatedAt": 1787357418,
+    "updatedAt": 1787360498,
     "idTmdb": 320905,
     "idImdb": "tt42171190",
     "idTvdb": 457476,
@@ -465,7 +471,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 650,
-    "trending": 4,
+    "trending": 1,
     "favourites": 8,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -499,7 +505,13 @@
               "romaji": "Pen to Wappa to Jijitsukon",
               "english": "A Pen, Handcuffs, and a Common-Law Marriage"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx163467-UfJJ93gaHPc4.jpg"
+            }
           }
         }
       ]
@@ -607,7 +619,7 @@
         }
       ]
     },
-    "updatedAt": 1787357411,
+    "updatedAt": 1787364120,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -792,7 +804,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 16100,
-    "trending": 6,
+    "trending": 4,
     "favourites": 228,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -827,7 +839,13 @@
               "romaji": "Boku no Hero Academia No. 170+1: More",
               "english": "My Hero Academia More"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204356-RNYmxUVVz3Z2.png"
+            }
           }
         },
         {
@@ -838,7 +856,13 @@
               "romaji": "Boku no Hero Academia",
               "english": "My Hero Academia"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx85486-INqnYx8gL3eX.jpg"
+            }
           }
         }
       ]
@@ -1093,7 +1117,14 @@
         }
       ]
     },
-    "updatedAt": 1787349687
+    "updatedAt": 1787364049,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 64107
   },
   "211181": {
     "id": 211181,
@@ -1311,7 +1342,7 @@
     "averageScore": 66,
     "meanScore": 67,
     "popularity": 14593,
-    "trending": 8,
+    "trending": 3,
     "favourites": 161,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1355,7 +1386,13 @@
               "romaji": "Ribbon no Kishi",
               "english": "Princess Knight"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b31676-ReKRBqwbdml1.jpg"
+            }
           }
         }
       ]
@@ -1689,7 +1726,7 @@
         }
       ]
     },
-    "updatedAt": 1787357418,
+    "updatedAt": 1787364088,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1742,7 +1779,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3522,
-    "trending": 1,
+    "trending": 0,
     "favourites": 56,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1776,7 +1813,13 @@
               "romaji": "Kanojo no Tomodachi",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx133932-IGj479z13nGK.jpg"
+            }
           }
         }
       ]
@@ -1886,7 +1929,7 @@
         }
       ]
     },
-    "updatedAt": 1787353272,
+    "updatedAt": 1787360559,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1941,7 +1984,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 2710,
-    "trending": 1,
+    "trending": 0,
     "favourites": 23,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1975,7 +2018,13 @@
               "romaji": "Sekai Saikyou no Majo, Hajimemashita: Watashi dake \"Kouryaku Site\" wo Mireru Sekai de Jiyuu ni Ikimasu",
               "english": "The World’s Strongest Witch"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx187703-a5GdHoE8D6Dg.jpg"
+            }
           }
         },
         {
@@ -1986,7 +2035,13 @@
               "romaji": "Sekai Saikyou no Majo, Hajimemashita: Watashi dake \"Kouryaku Site\" wo Mireru Sekai de Jiyuu ni Ikimasu",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx176270-aTao5jejW17i.png"
+            }
           }
         }
       ]
@@ -2140,7 +2195,7 @@
         }
       ]
     },
-    "updatedAt": 1787353218,
+    "updatedAt": 1787360559,
     "idTmdb": 321518,
     "idImdb": null,
     "idTvdb": null,
@@ -2194,7 +2249,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 5588,
-    "trending": 2,
+    "trending": 1,
     "favourites": 86,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2217,7 +2272,13 @@
               "romaji": "Go-toubun no Hanayome: Shunkashuutou",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx177214-dUWWXpAcWT4Z.jpg"
+            }
           }
         },
         {
@@ -2228,7 +2289,13 @@
               "romaji": "Go-toubun no Hanayome",
               "english": "The Quintessential Quintuplets"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx100230-TA0RQ9d7RVas.jpg"
+            }
           }
         },
         {
@@ -2239,7 +2306,13 @@
               "romaji": "Go-toubun no Hanayome Movie",
               "english": "The Quintessential Quintuplets Movie"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx131520-89Qfo8JnGHI3.png"
+            }
           }
         }
       ]
@@ -2366,7 +2439,7 @@
         }
       ]
     },
-    "updatedAt": 1787357418,
+    "updatedAt": 1787364055,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2642,7 +2715,7 @@
     "averageScore": 66,
     "meanScore": 73,
     "popularity": 608,
-    "trending": 0,
+    "trending": 1,
     "favourites": 25,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -2661,7 +2734,13 @@
               "romaji": "Furachi",
               "english": "Outrageous"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx152183-Tz4ASBQsdlcF.jpg"
+            }
           }
         }
       ]
@@ -2774,7 +2853,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787357418,
+    "updatedAt": 1787364025,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2782,5 +2861,484 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 64070
+  },
+  "211304": {
+    "id": 211304,
+    "idMal": 64006,
+    "title": {
+      "romaji": "Megane, Tokidoki, Yankee-kun",
+      "english": null,
+      "native": "メガネ、時々、ヤンキーくん"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "Momose has always longed for a peaceful high school life. She wants nothing to do with hoodlums, delinquents, or troublemakers. When she meets Ichikura, an inconspicuous black-haired boy with glasses, he looks like a normal, nice guy. But it turns out that back in junior high he was a nefarious delinquent! He keeps assuring her that he’s changed his ways, but he still has a knack for picking fights! Has Ichikura really turned over a new leaf? And will Momose keep the secret about his rowdy past?\n<br><br>\n(Source: Seven Seas Entertainment)",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211304-PItzmt5h2yMC.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211304-PItzmt5h2yMC.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx211304-PItzmt5h2yMC.jpg",
+      "color": "#e45d86"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "synonyms": [
+      "Otasukebu",
+      "Glasses With a Chance of Delinquent"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 2586,
+    "trending": 1,
+    "favourites": 33,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "qHM5FvelBxM",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/qHM5FvelBxM/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://x.com/otasukebu_anime/",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://otasukebu.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.instagram.com/otasukebu",
+        "site": "Instagram",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.tiktok.com/@otasukebu",
+        "site": "TikTok",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 128448,
+            "title": {
+              "romaji": "Megane, Tokidoki, Yankee-kun",
+              "english": "Glasses With a Chance of Delinquent"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx128448-7EMeQjdXbB2k.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 53,
+        "name": "Shoujo",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 395,
+        "name": "Delinquents",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 159,
+            "name": "Kodansha"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 318,
+            "name": "WAO World"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6170,
+            "name": "Studio Flad"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 55,
+            "name": "TV Asahi"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7230,
+            "name": "Asahi Broadcasting Corporation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6377,
+            "name": "ABC Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 259447,
+            "name": {
+              "full": "Hiro Momose",
+              "native": "百瀬尋"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 259448,
+            "name": {
+              "full": "Dan Ichikura",
+              "native": "壱倉煖"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787364108,
+    "idTmdb": 321505,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 3093794,
+    "idShikimori": 64006
+  },
+  "211607": {
+    "id": 211607,
+    "idMal": 64080,
+    "title": {
+      "romaji": "Jujutsu Kaisen Modulo PV",
+      "english": null,
+      "native": "呪術廻戦≡ PV"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "A promotional video commemorating the release of the third and final Jujutsu Kaisen Modulo manga volume.",
+    "episodes": 1,
+    "duration": 1,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2026,
+      "month": 5,
+      "day": 1
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 5,
+      "day": 1
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211607-GYqNsXoE70Fy.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx211607-GYqNsXoE70Fy.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx211607-GYqNsXoE70Fy.png",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "呪術廻戦 モジュロ PV"
+    ],
+    "averageScore": 79,
+    "meanScore": 81,
+    "popularity": 3245,
+    "trending": 1,
+    "favourites": 63,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "jK4mmTMxu7s",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/jK4mmTMxu7s/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=jK4mmTMxu7s",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 198372,
+            "title": {
+              "romaji": "Jujutsu Kaisen Modulo",
+              "english": "Jujutsu Kaisen Modulo"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx198372-uSHMdqSTQ3xo.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 505,
+        "name": "Advertisement",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 153,
+        "name": "Time Skip",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 191,
+        "name": "Aliens",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 569,
+            "name": "MAPPA"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 374243,
+            "name": {
+              "full": "Marulu Yelvori",
+              "native": "マルル・ヴァル・ヴル・イェルヴリ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 374241,
+            "name": {
+              "full": "Yuuka Okkotsu",
+              "native": "乙骨憂花"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 374242,
+            "name": {
+              "full": "Tsurugi Okkotsu",
+              "native": "乙骨真剣"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 133702,
+            "name": {
+              "full": "Mahito",
+              "native": "真人"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105989,
+              "name": {
+                "full": "Nobunaga Shimazaki",
+                "native": "島﨑信長"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 383377,
+            "name": {
+              "full": "Dabura Karaba",
+              "native": "ダブラ・カラバ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 127212,
+            "name": {
+              "full": "Yuuji Itadori",
+              "native": "虎杖悠仁"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119319,
+              "name": {
+                "full": "Junya Enoki",
+                "native": "榎木淳弥"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 319339,
+            "name": {
+              "full": "Yatsuka no Tsurugi Ikaishinshou Makora",
+              "native": "八握剣異戒神将魔虚羅"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 380240,
+            "name": {
+              "full": "Cross Yelvori",
+              "native": "クロス・ヴァル・ヴル・イェルヴリ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 126635,
+            "name": {
+              "full": "Megumi Fushiguro",
+              "native": "伏黒恵"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 127691,
+            "name": {
+              "full": "Satoru Gojou",
+              "native": "五条悟"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787360458,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 64080
   }
 }

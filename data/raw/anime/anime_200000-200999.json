@@ -137,7 +137,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 10503,
-    "trending": 1,
+    "trending": 2,
     "favourites": 83,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -176,7 +176,13 @@
               "romaji": "Kusuriya no Hitorigoto 3rd Season",
               "english": "The Apothecary Diaries Season 3"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": "FALL",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195516-MJpUZlOberqH.jpg"
+            }
           }
         },
         {
@@ -187,7 +193,13 @@
               "romaji": "Kusuriya no Hitorigoto",
               "english": "The Apothecary Diaries"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx99026-5Eg650WAd9Rj.jpg"
+            }
           }
         }
       ]
@@ -304,7 +316,7 @@
         }
       ]
     },
-    "updatedAt": 1787357386,
+    "updatedAt": 1787364043,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -662,7 +674,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 20925,
-    "trending": 2,
+    "trending": 3,
     "favourites": 170,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -692,7 +704,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1796914800,
-      "timeUntilAiring": 9554911,
+      "timeUntilAiring": 9549913,
       "episode": 1
     },
     "relations": {
@@ -705,7 +717,13 @@
               "romaji": "Kusuriya no Hitorigoto 3rd Season",
               "english": "The Apothecary Diaries Season 3"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": "FALL",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195516-MJpUZlOberqH.jpg"
+            }
           }
         }
       ]
@@ -827,7 +845,7 @@
         }
       ]
     },
-    "updatedAt": 1787357386,
+    "updatedAt": 1787360446,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -915,7 +933,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787470200,
-      "timeUntilAiring": 115309,
+      "timeUntilAiring": 105464,
       "episode": 8
     },
     "relations": {
@@ -928,7 +946,13 @@
               "romaji": "Let's Go Kaikigumi",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx162148-x1BrD9LuvepO.jpg"
+            }
           }
         }
       ]
@@ -1243,7 +1267,14 @@
         }
       ]
     },
-    "updatedAt": 1787349662
+    "updatedAt": 1787364036,
+    "idTmdb": 302824,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2898752,
+    "idShikimori": 62683
   },
   "200637": {
     "id": 200637,
@@ -1290,8 +1321,8 @@
     "averageScore": 79,
     "meanScore": 80,
     "popularity": 36733,
-    "trending": 30,
-    "favourites": 745,
+    "trending": 25,
+    "favourites": 746,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -1335,7 +1366,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787491800,
-      "timeUntilAiring": 139928,
+      "timeUntilAiring": 127095,
       "episode": 8
     },
     "relations": {
@@ -1348,7 +1379,13 @@
               "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo",
               "english": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx114416-XtRJ8tI9GtuI.jpg"
+            }
           }
         },
         {
@@ -1359,7 +1396,13 @@
               "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season",
               "english": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172258-n23TSWk54aXv.jpg"
+            }
           }
         }
       ]
@@ -1733,7 +1776,14 @@
         }
       ]
     },
-    "updatedAt": 1787349642
+    "updatedAt": 1787364052,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2906736,
+    "idShikimori": 62811
   },
   "200769": {
     "id": 200769,
@@ -1781,7 +1831,7 @@
     "averageScore": 57,
     "meanScore": 58,
     "popularity": 34068,
-    "trending": 4,
+    "trending": 2,
     "favourites": 479,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1820,7 +1870,13 @@
               "romaji": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
               "english": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx99895-EGVPeedIARIc.jpg"
+            }
           }
         },
         {
@@ -1831,7 +1887,13 @@
               "romaji": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx121904-fBU69ZzQndYw.jpg"
+            }
           }
         }
       ]
@@ -2202,7 +2264,7 @@
         }
       ]
     },
-    "updatedAt": 1787353252,
+    "updatedAt": 1787364093,
     "idTmdb": 303460,
     "idImdb": "tt38840807",
     "idTvdb": 469451,
@@ -2255,7 +2317,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 2472,
-    "trending": 2,
+    "trending": 0,
     "favourites": 20,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2289,7 +2351,13 @@
               "romaji": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx151603-KrP81rSieGyM.jpg"
+            }
           }
         },
         {
@@ -2300,7 +2368,13 @@
               "romaji": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx151602-WGKPHjFWYobX.jpg"
+            }
           }
         }
       ]
@@ -2467,7 +2541,7 @@
         }
       ]
     },
-    "updatedAt": 1787357385,
+    "updatedAt": 1787360559,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2805,5 +2879,182 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 63159
+  },
+  "200228": {
+    "id": 200228,
+    "idMal": 62689,
+    "title": {
+      "romaji": "Oshikake! Bakunyuu Gal Harem Seikatsu",
+      "english": null,
+      "native": "おしかけ！爆乳ギャルハーレム性活"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "RELEASING",
+    "description": "A salaryman who was fired from his job and has no girlfriend is caught by some gals! He is treated like a molester just for looking at them, and the gals force their way into his house, demanding that he let them stay there, and have sex with him to kill time! This man, who has no experience with women, is toyed with by the gals who know no shyness! Whether in the living room, the bath, or in bed, the girls' \"inspection\" never stops!\n<br><br>\n(Source: Lune-soft, translated)",
+    "episodes": null,
+    "duration": 16,
+    "season": "FALL",
+    "seasonYear": 2025,
+    "startDate": {
+      "year": 2025,
+      "month": 11,
+      "day": 28
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200228-r8Bm5BulKKOS.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200228-r8Bm5BulKKOS.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200228-r8Bm5BulKKOS.jpg",
+      "color": "#f143a1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200228-fta41j00DAv7.jpg",
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [
+      "Gyaru Harem Invasion"
+    ],
+    "averageScore": 69,
+    "meanScore": 74,
+    "popularity": 1208,
+    "trending": 0,
+    "favourites": 69,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 133990,
+            "title": {
+              "romaji": "Oshikake! Bakunyuu Gal Harem Seikatsu",
+              "english": "Gyaru Harem Invasion"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx133990-g89Jvj3jqUZP.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 356,
+        "name": "Gyaru",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 125,
+        "name": "Nakadashi",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 830,
+        "name": "Group Sex",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 126,
+        "name": "Boobjob",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 134,
+        "name": "Fellatio",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1146,
+        "name": "Femdom",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 135,
+        "name": "Cunnilingus",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1653,
+        "name": "Mating Press",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 335,
+        "name": "Tanned Skin",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 405,
+            "name": "T-REX"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6128,
+            "name": "Bunny Walker"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 823,
+            "name": "Lune Pictures"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 62689
   }
 }

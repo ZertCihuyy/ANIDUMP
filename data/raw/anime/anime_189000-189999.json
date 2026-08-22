@@ -41,7 +41,7 @@
     "averageScore": 83,
     "meanScore": 84,
     "popularity": 19155,
-    "trending": 0,
+    "trending": 1,
     "favourites": 465,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -85,7 +85,13 @@
               "romaji": "Medalist",
               "english": "Medalist"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx118371-3xk9VUbWnnRR.jpg"
+            }
           }
         },
         {
@@ -96,7 +102,13 @@
               "romaji": "Medalist",
               "english": "Medalist"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165171-an9pyRXwVxJS.jpg"
+            }
           }
         },
         {
@@ -107,7 +119,13 @@
               "romaji": "Medalist Movie",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206298-JlZmS2os2PQL.png"
+            }
           }
         }
       ]
@@ -412,7 +430,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787364107,
+    "idTmdb": 237529,
+    "idImdb": "tt33310730",
+    "idTvdb": 433953,
+    "idTrakt": 223571,
+    "traktSlug": "medalist",
+    "idSimkl": 2743406,
+    "idShikimori": 61335
   },
   "189326": {
     "id": 189326,
@@ -461,7 +486,7 @@
     "averageScore": 80,
     "meanScore": 81,
     "popularity": 21652,
-    "trending": 2,
+    "trending": 1,
     "favourites": 489,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -613,7 +638,13 @@
               "romaji": "Jibaku Shounen Hanako-kun 2",
               "english": "Toilet-bound Hanako-kun Season 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170892-zhJUSsX6PaF0.jpg"
+            }
           }
         },
         {
@@ -624,7 +655,13 @@
               "romaji": "Jibaku Shounen Hanako-kun",
               "english": "Toilet-Bound Hanako-kun"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx98842-Ji0v423UZ4er.jpg"
+            }
           }
         }
       ]
@@ -983,7 +1020,7 @@
         }
       ]
     },
-    "updatedAt": 1787353310,
+    "updatedAt": 1787364091,
     "idTmdb": 95269,
     "idImdb": "tt10777610",
     "idTvdb": 368364,
@@ -1038,7 +1075,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 9016,
-    "trending": 1,
+    "trending": 0,
     "favourites": 262,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1112,7 +1149,13 @@
               "romaji": "Milky☆Highway",
               "english": "Milky☆Highway"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189068-11z294O4N9LH.jpg"
+            }
           }
         },
         {
@@ -1123,7 +1166,13 @@
               "romaji": "Ginga Tokkyuu Milky☆Subway",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx201610-KHzpHky1Xalr.jpg"
+            }
           }
         },
         {
@@ -1134,7 +1183,13 @@
               "romaji": "Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Yuki",
               "english": "Milky☆Subway: The Galactic Limited Express – the Movie"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204949-1eneer7CutVn.jpg"
+            }
           }
         },
         {
@@ -1145,7 +1200,13 @@
               "romaji": "Ginga Tokkyuu Milky☆Subway: PARCO Original Animation",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213648-t5AtAXFKopDk.png"
+            }
           }
         },
         {
@@ -1156,7 +1217,13 @@
               "romaji": "Milky☆Byway Spring Special: Kyoufu no Chelovin Party",
               "english": "Milky☆Byway Spring Special: Terror on Chelovin's Day"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b213867-nZsdp1SSiuh7.jpg"
+            }
           }
         }
       ]
@@ -1476,7 +1543,14 @@
         }
       ]
     },
-    "updatedAt": 1787349719
+    "updatedAt": 1787364123,
+    "idTmdb": 294766,
+    "idImdb": "tt37437763",
+    "idTvdb": 465427,
+    "idTrakt": 289665,
+    "traktSlug": "milky-subway-the-galactic-limited-express",
+    "idSimkl": 2832330,
+    "idShikimori": 61274
   },
   "189796": {
     "id": 189796,
@@ -1758,7 +1832,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 30532,
-    "trending": 3,
+    "trending": 2,
     "favourites": 433,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1788,7 +1862,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791099000,
-      "timeUntilAiring": 3739102,
+      "timeUntilAiring": 3734349,
       "episode": 1
     },
     "relations": {
@@ -1801,7 +1875,13 @@
               "romaji": "Ao no Hako",
               "english": "Blue Box"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx132182-maXh2QzYPrqR.jpg"
+            }
           }
         },
         {
@@ -1812,7 +1892,13 @@
               "romaji": "Ao no Hako",
               "english": "Blue Box"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170942-KKcLfQzV57nG.jpg"
+            }
           }
         }
       ]
@@ -2065,7 +2151,7 @@
         }
       ]
     },
-    "updatedAt": 1787357370,
+    "updatedAt": 1787364099,
     "idTmdb": 207347,
     "idImdb": "tt32639706",
     "idTvdb": 429934,
@@ -2121,7 +2207,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 36965,
-    "trending": 10,
+    "trending": 4,
     "favourites": 815,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2165,7 +2251,13 @@
               "romaji": "Ponkotsu Fuukiiin to Skirt Take ga Futekisetsu na JK no Hanashi",
               "english": "The Klutzy Class Monitor and the Girl with the Short Skirt"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx108768-V1bfP1mDuzCb.png"
+            }
           }
         }
       ]
@@ -2574,7 +2666,7 @@
         }
       ]
     },
-    "updatedAt": 1787357370,
+    "updatedAt": 1787364095,
     "idTmdb": 288551,
     "idImdb": "tt39443960",
     "idTvdb": 462400,
@@ -2627,7 +2719,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 27525,
-    "trending": 6,
+    "trending": 4,
     "favourites": 363,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2666,7 +2758,13 @@
               "romaji": "Osananajimi to wa Love Come ni Naranai",
               "english": "You Can’t Be In a Rom-Com with Your Childhood Friends!"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx146858-lGlRWfAxqUnL.jpg"
+            }
           }
         }
       ]
@@ -2917,7 +3015,7 @@
         }
       ]
     },
-    "updatedAt": 1787357370,
+    "updatedAt": 1787364050,
     "idTmdb": 285743,
     "idImdb": "tt38253018",
     "idTvdb": 462226,
@@ -2975,7 +3073,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 30855,
-    "trending": 4,
+    "trending": 0,
     "favourites": 479,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3024,7 +3122,13 @@
               "romaji": "Shangri-La Frontier: Kusoge Hunter, Kami ge ni Idoman to su",
               "english": "Shangri-La Frontier"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx122063-j2wIvwb6yzPM.jpg"
+            }
           }
         },
         {
@@ -3035,7 +3139,13 @@
               "romaji": "Shangri-La Frontier 2nd Season",
               "english": "Shangri-La Frontier Season 2"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176508-eFad4szofm8d.png"
+            }
           }
         }
       ]
@@ -3198,7 +3308,7 @@
         }
       ]
     },
-    "updatedAt": 1787357370,
+    "updatedAt": 1787364123,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3986,7 +4096,7 @@
     "averageScore": 85,
     "meanScore": 85,
     "popularity": 86044,
-    "trending": 9,
+    "trending": 6,
     "favourites": 1980,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4152,7 +4262,13 @@
               "romaji": "Dr. STONE: SCIENCE FUTURE",
               "english": "Dr. STONE SCIENCE FUTURE"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172019-3cfZbrYBmV23.jpg"
+            }
           }
         },
         {
@@ -4163,7 +4279,13 @@
               "romaji": "Dr. STONE",
               "english": "Dr. STONE"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b98416-L44f4idEGMAX.jpg"
+            }
           }
         },
         {
@@ -4174,7 +4296,13 @@
               "romaji": "Dr. STONE: SCIENCE FUTURE Part 3",
               "english": "Dr. STONE SCIENCE FUTURE Cour 3"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199221-TReDQMNhslHu.jpg"
+            }
           }
         }
       ]
@@ -4541,7 +4669,7 @@
         }
       ]
     },
-    "updatedAt": 1787357369,
+    "updatedAt": 1787364067,
     "idTmdb": 86031,
     "idImdb": "tt9679542",
     "idTvdb": 355774,
@@ -4849,7 +4977,7 @@
     "averageScore": 67,
     "meanScore": 69,
     "popularity": 3716,
-    "trending": 1,
+    "trending": 0,
     "favourites": 52,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4978,7 +5106,13 @@
               "romaji": "Ao no Miburo",
               "english": "Blue Miburo"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169258-kj8qoomfAKsB.jpg"
+            }
           }
         },
         {
@@ -4989,7 +5123,13 @@
               "romaji": "Ao no Miburo",
               "english": "The Blue Wolves of Mibu"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx138883-5Z7RuPOwuKtJ.jpg"
+            }
           }
         }
       ]
@@ -5262,7 +5402,7 @@
         }
       ]
     },
-    "updatedAt": 1787353352,
+    "updatedAt": 1787360559,
     "idTmdb": 234776,
     "idImdb": "tt30523856",
     "idTvdb": 439531,
@@ -5309,7 +5449,7 @@
     "averageScore": 64,
     "meanScore": 68,
     "popularity": 2977,
-    "trending": 0,
+    "trending": 1,
     "favourites": 30,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5332,7 +5472,13 @@
               "romaji": "7Fates: CHAKHO",
               "english": "7FATES: CHAKHO"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx141144-joNoL4wDNlSb.jpg"
+            }
           }
         }
       ]
@@ -5453,7 +5599,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787360471,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2747948,
+    "idShikimori": 61361
   },
   "189513": {
     "id": 189513,
@@ -5502,7 +5655,7 @@
     "averageScore": 71,
     "meanScore": 72,
     "popularity": 4434,
-    "trending": 1,
+    "trending": 0,
     "favourites": 66,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5546,7 +5699,13 @@
               "romaji": "Sousou no Frieren: ●● no Mahou",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170068-ijY3tCP8KoWP.jpg"
+            }
           }
         },
         {
@@ -5557,7 +5716,13 @@
               "romaji": "Sousou no Frieren",
               "english": "Frieren: Beyond Journey’s End"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154587-qQTzQnEJJ3oB.jpg"
+            }
           }
         },
         {
@@ -5568,7 +5733,13 @@
               "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "WINTER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b206425-WOwXsfDbHZwb.jpg"
+            }
           }
         }
       ]
@@ -5811,7 +5982,7 @@
         }
       ]
     },
-    "updatedAt": 1787353334,
+    "updatedAt": 1787360559,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -5819,5 +5990,333 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": null
+  },
+  "189068": {
+    "id": 189068,
+    "idMal": 57925,
+    "title": {
+      "romaji": "Milky☆Highway",
+      "english": "Milky☆Highway",
+      "native": "ミルキー☆ハイウェイ"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "In the galaxy far far far away, there is an interplanetary road called Milky☆Highway. To kill time during a weekend, Makina the cyborg and Chiharu the super human decide to go for a drive. Wherever those troublesome friends drive, there is always a danger! Not smart, not tear-jerking, not touching. The only two words that can describe this discount cyberpunk story is Speedy and Unprecedented!!<br><br>\n\n(Source: YouTube)",
+    "episodes": 1,
+    "duration": 3,
+    "season": "WINTER",
+    "seasonYear": 2022,
+    "startDate": {
+      "year": 2022,
+      "month": 2,
+      "day": 23
+    },
+    "endDate": {
+      "year": 2022,
+      "month": 2,
+      "day": 23
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189068-11z294O4N9LH.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189068-11z294O4N9LH.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189068-11z294O4N9LH.jpg",
+      "color": "#d678a1"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "银河☆高速公路"
+    ],
+    "averageScore": 70,
+    "meanScore": 71,
+    "popularity": 4036,
+    "trending": 0,
+    "favourites": 44,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "dSc27JPm3r8",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/dSc27JPm3r8/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://youtu.be/AYJrRakUyvg",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://youtu.be/dSc27JPm3r8",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 189069,
+            "title": {
+              "romaji": "Ginga Tokkyuu Milky☆Subway",
+              "english": "Milky☆Subway: The Galactic Limited Express"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189069-mDKZPNUNKFOD.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 201610,
+            "title": {
+              "romaji": "Ginga Tokkyuu Milky☆Subway",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx201610-KHzpHky1Xalr.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 204949,
+            "title": {
+              "romaji": "Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Yuki",
+              "english": "Milky☆Subway: The Galactic Limited Express – the Movie"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204949-1eneer7CutVn.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1310,
+        "name": "Travel",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 97,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 90,
+        "name": "CGI",
+        "rank": 95,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 517,
+        "name": "Artificial Intelligence",
+        "rank": 88,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 175,
+        "name": "Robots",
+        "rank": 88,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 63,
+        "name": "Space",
+        "rank": 88,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 648,
+        "name": "Crime",
+        "rank": 85,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 801,
+        "name": "Cyborg",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 108,
+        "name": "Cyberpunk",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 10,
+        "name": "Cars",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 226,
+        "name": "Fugitive",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 10,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6698,
+            "name": "KADOKAWA"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 359651,
+            "name": {
+              "full": "Chiharu Kujou",
+              "native": "九条千春"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 400020,
+              "name": {
+                "full": "Mizuki Fumitsuki",
+                "native": "文月瑞輝"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 359652,
+            "name": {
+              "full": "Makina Kurusu",
+              "native": "来栖真希奈"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 400019,
+              "name": {
+                "full": "Hana Kobayashi",
+                "native": "小林花菜"
+              }
+            }
+          ]
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 375269,
+            "name": {
+              "full": "Minami Minase",
+              "native": "水無瀬ミナミ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 400021,
+              "name": {
+                "full": "Haruka Sasaki",
+                "native": "佐々木春香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 400022,
+            "name": {
+              "full": "Radio no Koe",
+              "native": "ラジオの声"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107759,
+              "name": {
+                "full": "Misato",
+                "native": "味里 "
+              }
+            }
+          ]
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 400023,
+            "name": {
+              "full": "Opening Chorus",
+              "native": "オープニングコーラス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 400024,
+              "name": {
+                "full": "Ryou Satou",
+                "native": "佐藤涼"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": 946967,
+    "idImdb": "tt37981999",
+    "idTvdb": null,
+    "idTrakt": 760653,
+    "traktSlug": "milky-highway-2022",
+    "idSimkl": 2865478,
+    "idShikimori": 57925
   }
 }

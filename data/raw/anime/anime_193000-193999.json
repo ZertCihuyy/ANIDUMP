@@ -42,7 +42,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 5215,
-    "trending": 0,
+    "trending": 1,
     "favourites": 56,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -76,7 +76,13 @@
               "romaji": "Akuyaku Reijou no Naka no Hito",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx150764-vRfns0eOtxid.png"
+            }
           }
         },
         {
@@ -87,7 +93,13 @@
               "romaji": "Akuyaku Reijou no Naka no Hito: Danzai Sareta Tenseisha no Tame Usotsuki Heroine ni Fukushuu Itashimasu",
               "english": "Within The Villainess"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx148305-vlTtmpq7KbiL.jpg"
+            }
           }
         }
       ]
@@ -228,7 +240,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787364033,
+    "idTmdb": 292731,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2798578,
+    "idShikimori": 61758
   },
   "193296": {
     "id": 193296,
@@ -777,7 +796,7 @@
         }
       ]
     },
-    "updatedAt": 1787353346,
+    "updatedAt": 1787364120,
     "idTmdb": 293010,
     "idImdb": "tt37532040",
     "idTvdb": 440965,
@@ -785,5 +804,252 @@
     "traktSlug": "let-s-play-2025",
     "idSimkl": 2801556,
     "idShikimori": 61773
+  },
+  "193414": {
+    "id": 193414,
+    "idMal": 56903,
+    "title": {
+      "romaji": "MyGO!!!!! Member no Nichijou",
+      "english": null,
+      "native": "MyGO!!!!!メンバーの日常"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "A series of shorts showing the daily lives of the MyGO!!!!! members.",
+    "episodes": 57,
+    "duration": 1,
+    "season": "SUMMER",
+    "seasonYear": 2022,
+    "startDate": {
+      "year": 2022,
+      "month": 8,
+      "day": 24
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 6,
+      "day": 27
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193414-FEAnoXeSVW5H.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193414-FEAnoXeSVW5H.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193414-FEAnoXeSVW5H.png",
+      "color": "#f1c9bb"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "MyGO!!!!! Members' Daily Life"
+    ],
+    "averageScore": 63,
+    "meanScore": 74,
+    "popularity": 589,
+    "trending": 0,
+    "favourites": 6,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "N5OrxHi4dqU",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/N5OrxHi4dqU/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLUFFl4hYd1R1V9KigOtW5YFvaEJWH_Red",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 163571,
+            "title": {
+              "romaji": "BanG Dream! It's MyGO!!!!!",
+              "english": "BanG Dream! It's MyGO!!!!!"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163571-Atkvuzh1A1Ip.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 142,
+        "name": "Food",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 92,
+        "name": "Cute Girls Doing Cute Things",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 193,
+        "name": "Episodic",
+        "rank": 79,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7018,
+            "name": "STUDIO MORIKEN"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 775,
+            "name": "Bushiroad"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 302091,
+            "name": {
+              "full": "Taki Shiina",
+              "native": "椎名立希"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 124857,
+              "name": {
+                "full": "Coco Hayashi",
+                "native": "林鼓子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 302092,
+            "name": {
+              "full": "Raana Kaname",
+              "native": "要楽奈"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 289756,
+              "name": {
+                "full": "Hina Aoki",
+                "native": "青木陽菜"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 302093,
+            "name": {
+              "full": "Soyo Nagasaki",
+              "native": "長崎そよ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 302097,
+              "name": {
+                "full": "Mika Kohinata",
+                "native": "小日向美香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 302094,
+            "name": {
+              "full": "Anon Chihaya",
+              "native": "千早愛音"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 302096,
+              "name": {
+                "full": "Rin Tateishi",
+                "native": "立石凛"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 302095,
+            "name": {
+              "full": "Tomori Takamatsu",
+              "native": "高松燈"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 205892,
+              "name": {
+                "full": "Hina Youmiya",
+                "native": "羊宮妃那"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 56903
   }
 }

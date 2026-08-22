@@ -45,7 +45,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 8157,
-    "trending": 2,
+    "trending": 1,
     "favourites": 82,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -75,7 +75,13 @@
               "romaji": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω",
               "english": "How NOT to Summon a Demon Lord Ω"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2021,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx117448-bsPgVDD85sjB.jpg"
+            }
           }
         },
         {
@@ -86,7 +92,13 @@
               "romaji": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
               "english": "How NOT to Summon a Demon Lord"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx93368-4dPK7cVo1DYR.jpg"
+            }
           }
         },
         {
@@ -97,7 +109,13 @@
               "romaji": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
               "english": "How NOT to Summon a Demon Lord"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/nx86338-Z9RsXBc7Ao16.jpg"
+            }
           }
         }
       ]
@@ -216,7 +234,7 @@
         }
       ]
     },
-    "updatedAt": 1787353295,
+    "updatedAt": 1787364110,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -307,7 +325,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1790262000,
-      "timeUntilAiring": 2902115,
+      "timeUntilAiring": 2897287,
       "episode": 1
     },
     "relations": {
@@ -320,7 +338,13 @@
               "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 1st STAGE",
               "english": "STEEL BALL RUN JoJo's Bizarre Adventure 1st STAGE"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190327-riJNCFL7w9y4.jpg"
+            }
           }
         },
         {
@@ -331,7 +355,13 @@
               "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run",
               "english": "JoJo's Bizarre Adventure: Part 7–Steel Ball Run"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx31706-lRncu9VbcBB7.png"
+            }
           }
         }
       ]
@@ -523,7 +553,7 @@
         }
       ]
     },
-    "updatedAt": 1787357411,
+    "updatedAt": 1787364047,
     "idTmdb": 45790,
     "idImdb": "tt2359704",
     "idTvdb": 262954,
@@ -575,7 +605,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3219,
-    "trending": 1,
+    "trending": 0,
     "favourites": 36,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -609,7 +639,13 @@
               "romaji": "Majo to Youhei",
               "english": "The Witch and the Mercenary"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b174233-VVAJkWx1XwCh.jpg"
+            }
           }
         },
         {
@@ -620,7 +656,13 @@
               "romaji": "Majo to Youhei",
               "english": "Witch and Mercenary"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx174232-4iS4CWrfHb5w.jpg"
+            }
           }
         }
       ]
@@ -719,7 +761,14 @@
         }
       ]
     },
-    "updatedAt": 1787349703
+    "updatedAt": 1787364123,
+    "idTmdb": 285994,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 63958
   },
   "210375": {
     "id": 210375,
@@ -938,7 +987,7 @@
     "meanScore": 49,
     "popularity": 8949,
     "trending": 0,
-    "favourites": 123,
+    "favourites": 122,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -971,7 +1020,13 @@
               "romaji": "Mamonogurai no Boukensha",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx199880-qsODMmZXiFGX.png"
+            }
           }
         },
         {
@@ -982,7 +1037,13 @@
               "romaji": "Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru",
               "english": "Monster Eater"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b189404-5CpeTzyL46zI.jpg"
+            }
           }
         },
         {
@@ -993,7 +1054,13 @@
               "romaji": "Mamonogurai no Boukensha",
               "english": "Monster Eater"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx199879-OmZuUIRSQ7ih.jpg"
+            }
           }
         }
       ]
@@ -1282,7 +1349,14 @@
         }
       ]
     },
-    "updatedAt": 1787353355
+    "updatedAt": 1787357410,
+    "idTmdb": 310921,
+    "idImdb": "tt39673631",
+    "idTvdb": 472764,
+    "idTrakt": 314072,
+    "traktSlug": "monster-eater",
+    "idSimkl": 2992900,
+    "idShikimori": 63304
   },
   "210031": {
     "id": 210031,
@@ -1329,7 +1403,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 53478,
-    "trending": 59,
+    "trending": 52,
     "favourites": 997,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1364,7 +1438,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787472000,
-      "timeUntilAiring": 112115,
+      "timeUntilAiring": 107246,
       "episode": 8
     },
     "relations": {
@@ -1377,7 +1451,13 @@
               "romaji": "Seihantai na Kimi to Boku",
               "english": "You and I Are Polar Opposites"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx147997-QSf3nuWPkYcE.jpg"
+            }
           }
         },
         {
@@ -1388,7 +1468,13 @@
               "romaji": "Seihantai na Kimi to Boku",
               "english": "You and I Are Polar Opposites"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184951-s8Lg2muPBhdX.jpg"
+            }
           }
         }
       ]
@@ -1683,7 +1769,7 @@
         }
       ]
     },
-    "updatedAt": 1787357410,
+    "updatedAt": 1787364024,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1733,7 +1819,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 2188,
-    "trending": 0,
+    "trending": 2,
     "favourites": 10,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1840,7 +1926,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787364097,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 1623355,
+    "idShikimori": 48832
   },
   "210073": {
     "id": 210073,
@@ -1916,7 +2009,13 @@
               "romaji": "Golden Kamuy",
               "english": "Golden Kamuy"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx86559-Y4xDmoz4ud43.jpg"
+            }
           }
         },
         {
@@ -1927,7 +2026,13 @@
               "romaji": "Golden Kamuy: Saishuushou",
               "english": "Golden Kamuy Final Season"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b166521-yvCHzltGGU2X.jpg"
+            }
           }
         }
       ]
@@ -2011,7 +2116,7 @@
         }
       ]
     },
-    "updatedAt": 1787353327,
+    "updatedAt": 1787364062,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2064,7 +2169,7 @@
     "averageScore": 73,
     "meanScore": 74,
     "popularity": 7308,
-    "trending": 1,
+    "trending": 6,
     "favourites": 109,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2103,7 +2208,13 @@
               "romaji": "BAKI-DOU",
               "english": "BAKI-DOU: The Invincible Samurai"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176509-GRUa4fzyAM9u.jpg"
+            }
           }
         },
         {
@@ -2114,7 +2225,13 @@
               "romaji": "Baki Dou",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx86056-rVIx3IotpMZc.jpg"
+            }
           }
         }
       ]
@@ -2276,7 +2393,7 @@
         }
       ]
     },
-    "updatedAt": 1787357410,
+    "updatedAt": 1787364055,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2329,7 +2446,7 @@
     "averageScore": 67,
     "meanScore": 73,
     "popularity": 2549,
-    "trending": 1,
+    "trending": 5,
     "favourites": 24,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2345,7 +2462,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787751000,
-      "timeUntilAiring": 391115,
+      "timeUntilAiring": 386287,
       "episode": 14
     },
     "relations": {
@@ -2358,7 +2475,13 @@
               "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182417-zKlgy4KbGj1H.jpg"
+            }
           }
         },
         {
@@ -2369,7 +2492,13 @@
               "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
               "english": "Re:ZERO -Starting Life in Another World- Season 4"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "SPRING",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189046-yaHWtS5FII46.jpg"
+            }
           }
         }
       ]
@@ -2611,7 +2740,7 @@
         }
       ]
     },
-    "updatedAt": 1787357411,
+    "updatedAt": 1787364047,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2619,5 +2748,213 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 63830
+  },
+  "210199": {
+    "id": 210199,
+    "idMal": 63885,
+    "title": {
+      "romaji": "The Fable 2nd Season",
+      "english": null,
+      "native": "ザ・ファブル 第2期"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "The second season of <i>The Fable</i>.",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210199-v4uZBMW9nYGa.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210199-v4uZBMW9nYGa.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210199-v4uZBMW9nYGa.jpg",
+      "color": "#c9001a"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Thriller"
+    ],
+    "synonyms": [
+      "The Fable Season 2"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 3525,
+    "trending": 0,
+    "favourites": 48,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/the_fable_anime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.vap.co.jp/the-fable-anime/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 166910,
+            "title": {
+              "romaji": "The Fable",
+              "english": "The Fable"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166910-wI4LacRXICtI.png"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 94490,
+            "title": {
+              "romaji": "The Fable",
+              "english": "The Fable"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx94490-rdtpGHQHOHHC.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 199,
+        "name": "Yakuza",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 322,
+        "name": "Assassins",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 648,
+        "name": "Crime",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 145,
+        "name": "Work",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 104,
+        "name": "Anti-Hero",
+        "rank": 60,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 29,
+            "name": "VAP"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 200,
+            "name": "Tezuka Productions"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 173771,
+            "name": {
+              "full": "Fable",
+              "native": "ファブル"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787364123,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 63885
   }
 }
