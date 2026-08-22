@@ -667,7 +667,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 8322,
-    "trending": 0,
+    "trending": 1,
     "favourites": 143,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1120,7 +1120,7 @@
         }
       ]
     },
-    "updatedAt": 1787393878,
+    "updatedAt": 1787436128,
     "idTmdb": 215198,
     "idImdb": "tt27418288",
     "idTvdb": 427708,
@@ -1829,7 +1829,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 86720,
-    "trending": 3,
+    "trending": 7,
     "favourites": 1750,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2215,7 +2215,7 @@
         }
       ]
     },
-    "updatedAt": 1787414535,
+    "updatedAt": 1787439636,
     "idTmdb": 214651,
     "idImdb": "tt28278738",
     "idTvdb": 427358,
@@ -3265,7 +3265,7 @@
         }
       ]
     },
-    "updatedAt": 1787414716,
+    "updatedAt": 1787432548,
     "idTmdb": 214547,
     "idImdb": "tt23711384",
     "idTvdb": 427276,
@@ -3906,7 +3906,7 @@
     "averageScore": 74,
     "meanScore": 75,
     "popularity": 7369,
-    "trending": 1,
+    "trending": 0,
     "favourites": 255,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5085,7 +5085,7 @@
         }
       ]
     },
-    "updatedAt": 1787411176,
+    "updatedAt": 1787436143,
     "idTmdb": 213883,
     "idImdb": "tt23862502",
     "idTvdb": 427819,
@@ -9403,5 +9403,163 @@
     "traktSlug": "phoenix-eden17",
     "idSimkl": 2047456,
     "idShikimori": 53720
+  },
+  "157648": {
+    "id": 157648,
+    "idMal": 53395,
+    "title": {
+      "romaji": "Iro wo Shiru Tabi, Sekai ga Hiroku Naru.",
+      "english": null,
+      "native": "色を知るたび、世界が広くなる。"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "A series of shorts directed by Ayako Kurata. Made as a collaboration between the color test company Shikisai Kentei Kyoukai, animation studio CloverWorks, and mangaka Tsubasa Yamaguchi.<br><br>\n\n<b>Episodes</b>:<br>\n1) 色を知るたび、世界が広くなる「就活篇」/ Iro wo Shiru Tabi, Sekai ga Hiroku Naru.: Shuukatsu (August 18, 2022)<br>\n2) 色を知るたび、世界が広くなる「私の仕事篇」/ Iro wo Shiru Tabi, Sekai ga Hiroku Naru.: Watashi no Shigoto-hen (August 25, 2022)",
+    "episodes": 2,
+    "duration": 2,
+    "season": "SUMMER",
+    "seasonYear": 2022,
+    "startDate": {
+      "year": 2022,
+      "month": 8,
+      "day": 18
+    },
+    "endDate": {
+      "year": 2022,
+      "month": 8,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157648-JYryx1p1zyA6.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx157648-JYryx1p1zyA6.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx157648-JYryx1p1zyA6.jpg",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "Advance forward, and you will find your true colors.",
+      "色彩検定協会 ショートアニメ",
+      "Shikisai Kentei Kyoukai Short Anime"
+    ],
+    "averageScore": 49,
+    "meanScore": 55,
+    "popularity": 400,
+    "trending": 0,
+    "favourites": 5,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "LICL-MOOXlY",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/LICL-MOOXlY/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLhaZnpVF2cJVgyxjDmomSgyCCL8C9TpKB",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.aft.or.jp/findyourtruecolors/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/shikisai_kentei",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 145,
+        "name": "Work",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6222,
+            "name": "CloverWorks"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 292752,
+            "name": {
+              "full": "Hiiro Kitayama",
+              "native": "北山緋彩"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 116971,
+              "name": {
+                "full": "Daiki Yamashita",
+                "native": "山下大輝"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 292753,
+            "name": {
+              "full": "Nanase Minami",
+              "native": "南七世"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106184,
+              "name": {
+                "full": "Nao Touyama",
+                "native": "東山奈央"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787432548,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 53395
   }
 }

@@ -874,7 +874,7 @@
         }
       ]
     },
-    "updatedAt": 1787399053,
+    "updatedAt": 1787436143,
     "idTmdb": 106782,
     "idImdb": "tt12814598",
     "idTvdb": 397965,
@@ -1386,7 +1386,7 @@
         }
       ]
     },
-    "updatedAt": 1787398951,
+    "updatedAt": 1787432548,
     "idTmdb": 106402,
     "idImdb": "tt12809744",
     "idTvdb": 380207,
@@ -3486,7 +3486,7 @@
         }
       ]
     },
-    "updatedAt": 1787408191,
+    "updatedAt": 1787436143,
     "idTmdb": 107003,
     "idImdb": "tt13022022",
     "idTvdb": 388445,
@@ -3865,7 +3865,7 @@
     "averageScore": 76,
     "meanScore": 77,
     "popularity": 43907,
-    "trending": 1,
+    "trending": 2,
     "favourites": 888,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4402,7 +4402,7 @@
         }
       ]
     },
-    "updatedAt": 1787403846,
+    "updatedAt": 1787432513,
     "idTmdb": 99084,
     "idImdb": "tt11886236",
     "idTvdb": 377034,
@@ -12346,5 +12346,94 @@
     "traktSlug": null,
     "idSimkl": 1739715,
     "idShikimori": null
+  },
+  "122187": {
+    "id": 122187,
+    "idMal": 41296,
+    "title": {
+      "romaji": "VALHAIT RISING: Kandou e.",
+      "english": null,
+      "native": "VALHAIT RISING 『感動へ。』"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Studio Colorido's promotional video for BANDAI NAMCO Online's mobile RPG VALHAIT RISING. VALHAIT RISING was released for Android and iOS and ran from July 27, 2016 to April 13, 2017.",
+    "episodes": 1,
+    "duration": 3,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 6
+    },
+    "endDate": {
+      "year": 2016,
+      "month": 7,
+      "day": 6
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122187-2lgNGo5ZtcyN.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122187-2lgNGo5ZtcyN.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx122187-2lgNGo5ZtcyN.jpg",
+      "color": "#f1d635"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/122187-P9H9G6kdys7n.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [],
+    "averageScore": 49,
+    "meanScore": 53,
+    "popularity": 303,
+    "trending": 0,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": {
+      "id": "BfVtOT3RmZ0",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/BfVtOT3RmZ0/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 505,
+        "name": "Advertisement",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 4419,
+            "name": "Studio Colorido"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787436143,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 41296
   }
 }

@@ -571,7 +571,7 @@
     "averageScore": 67,
     "meanScore": 87,
     "popularity": 908,
-    "trending": 3,
+    "trending": 2,
     "favourites": 29,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -709,7 +709,7 @@
         }
       ]
     },
-    "updatedAt": 1787414533,
+    "updatedAt": 1787439647,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -811,7 +811,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787414527,
+    "updatedAt": 1787439638,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -861,7 +861,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3264,
-    "trending": 0,
+    "trending": 1,
     "favourites": 26,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1058,7 +1058,7 @@
         }
       ]
     },
-    "updatedAt": 1787414716,
+    "updatedAt": 1787436066,
     "idTmdb": 311842,
     "idImdb": null,
     "idTvdb": null,
@@ -1112,7 +1112,7 @@
     "averageScore": 62,
     "meanScore": 68,
     "popularity": 1965,
-    "trending": 2,
+    "trending": 0,
     "favourites": 34,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1191,7 +1191,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787414693,
+    "updatedAt": 1787436143,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1788,7 +1788,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 20330,
-    "trending": 0,
+    "trending": 5,
     "favourites": 452,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1863,19 +1863,19 @@
       {
         "id": 1742,
         "name": "Mixed Media",
-        "rank": 95,
+        "rank": 98,
         "isMediaSpoiler": false
       },
       {
         "id": 281,
         "name": "Surreal Comedy",
-        "rank": 94,
+        "rank": 95,
         "isMediaSpoiler": false
       },
       {
         "id": 244,
         "name": "Isekai",
-        "rank": 92,
+        "rank": 91,
         "isMediaSpoiler": false
       },
       {
@@ -1885,9 +1885,9 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 253,
-        "name": "Gods",
-        "rank": 85,
+        "id": 39,
+        "name": "Parody",
+        "rank": 86,
         "isMediaSpoiler": false
       },
       {
@@ -1897,15 +1897,21 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 39,
-        "name": "Parody",
-        "rank": 85,
+        "id": 253,
+        "name": "Gods",
+        "rank": 84,
         "isMediaSpoiler": false
       },
       {
         "id": 1304,
         "name": "Anthropomorphism",
-        "rank": 72,
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 73,
         "isMediaSpoiler": false
       },
       {
@@ -1915,14 +1921,14 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 104,
-        "name": "Anti-Hero",
+        "id": 146,
+        "name": "Alternate Universe",
         "rank": 66,
         "isMediaSpoiler": false
       },
       {
-        "id": 146,
-        "name": "Alternate Universe",
+        "id": 144,
+        "name": "Meta",
         "rank": 66,
         "isMediaSpoiler": false
       },
@@ -1933,32 +1939,20 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 483,
-        "name": "LGBTQ+ Themes",
-        "rank": 60,
-        "isMediaSpoiler": true
-      },
-      {
-        "id": 144,
-        "name": "Meta",
+        "id": 104,
+        "name": "Anti-Hero",
         "rank": 60,
         "isMediaSpoiler": false
       },
       {
-        "id": 779,
-        "name": "Kuudere",
-        "rank": 60,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 23,
-        "name": "Female Harem",
+        "id": 156,
+        "name": "Achronological Order",
         "rank": 60,
         "isMediaSpoiler": true
       },
       {
-        "id": 123,
-        "name": "Male Harem",
+        "id": 240,
+        "name": "Amnesia",
         "rank": 60,
         "isMediaSpoiler": true
       },
@@ -1969,21 +1963,57 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 53,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 46,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 123,
+        "name": "Male Harem",
+        "rank": 46,
+        "isMediaSpoiler": true
+      },
+      {
         "id": 75,
         "name": "Boys' Love",
-        "rank": 53,
+        "rank": 45,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 325,
+        "name": "Puppetry",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 138,
+        "name": "Age Gap",
+        "rank": 40,
         "isMediaSpoiler": true
       },
       {
         "id": 76,
         "name": "Yuri",
-        "rank": 36,
+        "rank": 33,
         "isMediaSpoiler": true
       },
       {
         "id": 517,
         "name": "Artificial Intelligence",
         "rank": 28,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1681,
+        "name": "Aromantic",
+        "rank": 20,
         "isMediaSpoiler": false
       }
     ],
@@ -2227,7 +2257,7 @@
         }
       ]
     },
-    "updatedAt": 1787414716,
+    "updatedAt": 1787439638,
     "idTmdb": 312522,
     "idImdb": "tt40547960",
     "idTvdb": 473229,
@@ -2725,7 +2755,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 55851,
-    "trending": 7,
+    "trending": 13,
     "favourites": 1841,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3119,7 +3149,7 @@
         }
       ]
     },
-    "updatedAt": 1787414545,
+    "updatedAt": 1787439622,
     "idTmdb": 312474,
     "idImdb": "tt40548519",
     "idTvdb": 473228,
@@ -3470,7 +3500,7 @@
     "averageScore": 52,
     "meanScore": 54,
     "popularity": 5947,
-    "trending": 33,
+    "trending": 18,
     "favourites": 52,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3505,7 +3535,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788010200,
-      "timeUntilAiring": 594235,
+      "timeUntilAiring": 570296,
       "episode": 9
     },
     "relations": {
@@ -3800,7 +3830,7 @@
         }
       ]
     },
-    "updatedAt": 1787414465,
+    "updatedAt": 1787436022,
     "idTmdb": 324335,
     "idImdb": "tt41276849",
     "idTvdb": 472831,
@@ -4726,7 +4756,7 @@
     "averageScore": null,
     "meanScore": 55,
     "popularity": 160,
-    "trending": 1,
+    "trending": 0,
     "favourites": 3,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -4770,7 +4800,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787403744,
+    "updatedAt": 1787436143,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4901,7 +4931,7 @@
         }
       ]
     },
-    "updatedAt": 1787414716,
+    "updatedAt": 1787436143,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4975,7 +5005,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787445000,
-      "timeUntilAiring": 28902,
+      "timeUntilAiring": 5222,
       "episode": 21
     },
     "relations": {
@@ -5341,7 +5371,7 @@
         }
       ]
     },
-    "updatedAt": 1787411260,
+    "updatedAt": 1787439647,
     "idTmdb": 312123,
     "idImdb": "tt40548570",
     "idTvdb": 474655,
@@ -6018,7 +6048,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 9588,
-    "trending": 3,
+    "trending": 0,
     "favourites": 174,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6194,7 +6224,7 @@
         }
       ]
     },
-    "updatedAt": 1787414482,
+    "updatedAt": 1787436143,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

@@ -576,7 +576,7 @@
         }
       ]
     },
-    "updatedAt": 1787411283,
+    "updatedAt": 1787436143,
     "idTmdb": 203101,
     "idImdb": "tt5799076",
     "idTvdb": null,
@@ -1916,7 +1916,7 @@
         }
       ]
     },
-    "updatedAt": 1787411283,
+    "updatedAt": 1787436143,
     "idTmdb": 38811,
     "idImdb": "tt1868402",
     "idTvdb": 220541,
@@ -4357,7 +4357,7 @@
     "averageScore": 71,
     "meanScore": 72,
     "popularity": 12233,
-    "trending": 0,
+    "trending": 1,
     "favourites": 144,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4791,7 +4791,7 @@
         }
       ]
     },
-    "updatedAt": 1787400106,
+    "updatedAt": 1787436102,
     "idTmdb": 44318,
     "idImdb": "tt1658978",
     "idTvdb": 151281,
@@ -4846,7 +4846,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 59915,
-    "trending": 1,
+    "trending": 0,
     "favourites": 343,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5193,7 +5193,7 @@
         }
       ]
     },
-    "updatedAt": 1787410857,
+    "updatedAt": 1787432548,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7139,7 +7139,7 @@
         }
       ]
     },
-    "updatedAt": 1787378504,
+    "updatedAt": 1787436062,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7191,7 +7191,7 @@
     "averageScore": 56,
     "meanScore": 57,
     "popularity": 5889,
-    "trending": 1,
+    "trending": 0,
     "favourites": 21,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7210,7 +7210,13 @@
               "romaji": "Yuri Seijin Naoko-san",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b52454-FnEIrTm0hN8l.jpg"
+            }
           }
         },
         {
@@ -7221,7 +7227,13 @@
               "romaji": "Yuri Seijin Naoko-san (2012)",
               "english": null
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2012,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx12437-WrUm5ugd7K8a.png"
+            }
           }
         }
       ]
@@ -7349,7 +7361,14 @@
         }
       ]
     },
-    "updatedAt": 1787349655
+    "updatedAt": 1787436143,
+    "idTmdb": 358689,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 39246,
+    "idShikimori": 9608
   },
   "9041": {
     "id": 9041,
@@ -7398,7 +7417,7 @@
     "averageScore": 61,
     "meanScore": 61,
     "popularity": 132319,
-    "trending": 2,
+    "trending": 5,
     "favourites": 1403,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7828,7 +7847,7 @@
         }
       ]
     },
-    "updatedAt": 1787411101,
+    "updatedAt": 1787439623,
     "idTmdb": 46025,
     "idImdb": "tt1929675",
     "idTvdb": 219131,
@@ -9727,7 +9746,7 @@
     "averageScore": 83,
     "meanScore": 83,
     "popularity": 323698,
-    "trending": 7,
+    "trending": 20,
     "favourites": 23841,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10057,7 +10076,7 @@
       {
         "id": 636,
         "name": "Cosmic Horror",
-        "rank": 92,
+        "rank": 93,
         "isMediaSpoiler": true
       },
       {
@@ -10139,15 +10158,15 @@
         "isMediaSpoiler": true
       },
       {
-        "id": 595,
-        "name": "Urban",
-        "rank": 69,
+        "id": 76,
+        "name": "Yuri",
+        "rank": 70,
         "isMediaSpoiler": false
       },
       {
-        "id": 76,
-        "name": "Yuri",
-        "rank": 68,
+        "id": 595,
+        "name": "Urban",
+        "rank": 69,
         "isMediaSpoiler": false
       },
       {
@@ -10169,9 +10188,15 @@
         "isMediaSpoiler": true
       },
       {
-        "id": 163,
-        "name": "Yandere",
-        "rank": 60,
+        "id": 104,
+        "name": "Anti-Hero",
+        "rank": 57,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 654,
+        "name": "Denpa",
+        "rank": 57,
         "isMediaSpoiler": true
       },
       {
@@ -10181,20 +10206,14 @@
         "isMediaSpoiler": true
       },
       {
-        "id": 104,
-        "name": "Anti-Hero",
-        "rank": 56,
-        "isMediaSpoiler": true
-      },
-      {
-        "id": 654,
-        "name": "Denpa",
-        "rank": 56,
-        "isMediaSpoiler": true
-      },
-      {
         "id": 157,
         "name": "Guns",
+        "rank": 50,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 163,
+        "name": "Yandere",
         "rank": 50,
         "isMediaSpoiler": true
       },
@@ -10231,7 +10250,7 @@
       {
         "id": 156,
         "name": "Achronological Order",
-        "rank": 40,
+        "rank": 42,
         "isMediaSpoiler": true
       },
       {
@@ -10508,7 +10527,7 @@
         }
       ]
     },
-    "updatedAt": 1787414510,
+    "updatedAt": 1787439633,
     "idTmdb": 39218,
     "idImdb": "tt1773185",
     "idTvdb": 219181,
@@ -10565,7 +10584,7 @@
     "averageScore": 89,
     "meanScore": 89,
     "popularity": 590145,
-    "trending": 28,
+    "trending": 23,
     "favourites": 56086,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11436,7 +11455,7 @@
         }
       ]
     },
-    "updatedAt": 1787414470,
+    "updatedAt": 1787439637,
     "idTmdb": 42509,
     "idImdb": "tt1910272",
     "idTvdb": 244061,
@@ -11511,7 +11530,13 @@
               "romaji": "Coppelion",
               "english": "COPPELION"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx44729-Q6e8l4T5qIkz.jpg"
+            }
           }
         }
       ]
@@ -11839,7 +11864,7 @@
         }
       ]
     },
-    "updatedAt": 1787356990,
+    "updatedAt": 1787436143,
     "idTmdb": 60659,
     "idImdb": "tt3105492",
     "idTvdb": 272132,
@@ -13338,7 +13363,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 392146,
-    "trending": 6,
+    "trending": 2,
     "favourites": 12694,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13860,7 +13885,7 @@
         }
       ]
     },
-    "updatedAt": 1787410866,
+    "updatedAt": 1787439629,
     "idTmdb": 39434,
     "idImdb": "tt1913273",
     "idTvdb": 247958,
@@ -17060,7 +17085,7 @@
         }
       ]
     },
-    "updatedAt": 1787392936,
+    "updatedAt": 1787436143,
     "idTmdb": 35442,
     "idImdb": "tt2549176",
     "idTvdb": 245821,
@@ -24437,7 +24462,7 @@
         }
       ]
     },
-    "updatedAt": 1787411074,
+    "updatedAt": 1787436074,
     "idTmdb": 35423,
     "idImdb": "tt1639471",
     "idTvdb": 143271,
@@ -24982,7 +25007,7 @@
         }
       ]
     },
-    "updatedAt": 1787364123,
+    "updatedAt": 1787432548,
     "idTmdb": 133121,
     "idImdb": "tt1753496",
     "idTvdb": null,
@@ -27618,7 +27643,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787371321,
+    "updatedAt": 1787432548,
     "idTmdb": 29452,
     "idImdb": null,
     "idTvdb": null,
@@ -28907,7 +28932,7 @@
         }
       ]
     },
-    "updatedAt": 1787378510,
+    "updatedAt": 1787436095,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -30274,7 +30299,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 32882,
-    "trending": 2,
+    "trending": 1,
     "favourites": 314,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -30714,7 +30739,7 @@
         }
       ]
     },
-    "updatedAt": 1787411074,
+    "updatedAt": 1787436127,
     "idTmdb": 60572,
     "idImdb": "tt0168366",
     "idTvdb": 76703,
@@ -31088,7 +31113,7 @@
     "averageScore": 69,
     "meanScore": 69,
     "popularity": 39298,
-    "trending": 1,
+    "trending": 0,
     "favourites": 263,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -31512,7 +31537,7 @@
         }
       ]
     },
-    "updatedAt": 1787411193,
+    "updatedAt": 1787436143,
     "idTmdb": 80518,
     "idImdb": "tt1776196",
     "idTvdb": null,
@@ -33528,7 +33553,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 17023,
-    "trending": 1,
+    "trending": 0,
     "favourites": 143,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -33885,7 +33910,7 @@
         }
       ]
     },
-    "updatedAt": 1787400052,
+    "updatedAt": 1787432548,
     "idTmdb": 45088,
     "idImdb": null,
     "idTvdb": null,
@@ -34296,7 +34321,7 @@
         }
       ]
     },
-    "updatedAt": 1787385727,
+    "updatedAt": 1787432548,
     "idTmdb": 69189,
     "idImdb": "tt2670718",
     "idTvdb": 247691,
@@ -34690,7 +34715,7 @@
     "averageScore": 61,
     "meanScore": 61,
     "popularity": 18248,
-    "trending": 1,
+    "trending": 0,
     "favourites": 126,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -35139,7 +35164,7 @@
         }
       ]
     },
-    "updatedAt": 1787414509,
+    "updatedAt": 1787436143,
     "idTmdb": 45235,
     "idImdb": "tt3103208",
     "idTvdb": 247968,
@@ -42323,5 +42348,751 @@
     "traktSlug": null,
     "idSimkl": 38983,
     "idShikimori": 9163
+  },
+  "9542": {
+    "id": 9542,
+    "idMal": 9542,
+    "title": {
+      "romaji": "Puttsun Make LOVE",
+      "english": null,
+      "native": "ぷッつんメイクLOVE"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "Based on the manga by Amamiya Jun.",
+    "episodes": 6,
+    "duration": 25,
+    "season": "SUMMER",
+    "seasonYear": 1987,
+    "startDate": {
+      "year": 1987,
+      "month": 8,
+      "day": 14
+    },
+    "endDate": {
+      "year": 1988,
+      "month": 6,
+      "day": 24
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9542.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9542.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9542.jpg",
+      "color": "#e4505d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "synonyms": [],
+    "averageScore": 47,
+    "meanScore": 51,
+    "popularity": 286,
+    "trending": 0,
+    "favourites": 1,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 95608,
+            "title": {
+              "romaji": "Puttsun Make Love",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx95608-L8CJzRbpQar9.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 141,
+            "name": "Toei Video"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6110,
+            "name": "Agent 21"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 241994,
+            "name": {
+              "full": "Saori Hagiwara",
+              "native": "萩原さおり"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95437,
+              "name": {
+                "full": "Michie Tomizawa",
+                "native": "富沢美智恵"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 241995,
+            "name": {
+              "full": "Manami Shimizu",
+              "native": "清水麻奈美"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96295,
+              "name": {
+                "full": "Maria Kawamura",
+                "native": "川村万梨阿"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787436143,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 1571753,
+    "idShikimori": 9542
+  },
+  "9170": {
+    "id": 9170,
+    "idMal": 9170,
+    "title": {
+      "romaji": "Kimi ga Nozomu Eien: Gundam Parody",
+      "english": null,
+      "native": "君が望む永遠"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "Kimi ga Nozomu Eien parodying the Gundam series in two minutes.",
+    "episodes": 1,
+    "duration": 2,
+    "season": "SUMMER",
+    "seasonYear": 2004,
+    "startDate": {
+      "year": 2004,
+      "month": 6,
+      "day": 25
+    },
+    "endDate": {
+      "year": 2004,
+      "month": 6,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9170.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9170.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9170.jpg",
+      "color": "#78aed6"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "Rumbling Hearts",
+      "The Eternity You Wish For",
+      "KimiNozo"
+    ],
+    "averageScore": 50,
+    "meanScore": 50,
+    "popularity": 1722,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": null,
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 147,
+            "title": {
+              "romaji": "Kimi ga Nozomu Eien",
+              "english": "Rumbling Hearts"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2003,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147-dK27Fk3dsn13.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 39,
+        "name": "Parody",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 63,
+        "name": "Space",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 24,
+            "name": "Studio Fantasia"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 182,
+            "name": "Age"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787439647,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 9170
+  },
+  "9591": {
+    "id": 9591,
+    "idMal": 9591,
+    "title": {
+      "romaji": "Code Geass: Hangyaku no Lelouch R2 FLASH Flash - Kaette Kita BABA Gekijou",
+      "english": "Code Geass: Lelouch of the Rebellion R2: Flash Specials",
+      "native": "コードギアス 反逆のルルーシュ おまけFLASH「帰ってきたBABA劇場」"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "9 flash anime specials included in the Code Geass R2 DVDs and BDs.",
+    "episodes": 9,
+    "duration": 1,
+    "season": "SUMMER",
+    "seasonYear": 2008,
+    "startDate": {
+      "year": 2008,
+      "month": 8,
+      "day": 22
+    },
+    "endDate": {
+      "year": 2009,
+      "month": 4,
+      "day": 24
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9591.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9591.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9591.jpg",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [],
+    "averageScore": 49,
+    "meanScore": 49,
+    "popularity": 3983,
+    "trending": 0,
+    "favourites": 14,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 2904,
+            "title": {
+              "romaji": "Code Geass: Hangyaku no Lelouch R2",
+              "english": "Code Geass: Lelouch of the Rebellion R2"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2008,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2904-Fet9Q33suC7G.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 39,
+        "name": "Parody",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 144,
+        "name": "Meta",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 242,
+        "name": "Flash",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 314,
+        "name": "American Football",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1219,
+        "name": "Disability",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 14,
+            "name": "Sunrise"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 233,
+            "name": "Bandai Entertainment"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 417,
+            "name": {
+              "full": "Lelouch Lamperouge",
+              "native": "ルルーシュ・ランペルージ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 559,
+            "name": {
+              "full": "Suzaku Kururugi",
+              "native": "枢木スザク"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 1110,
+            "name": {
+              "full": "Nunnally Lamperouge",
+              "native": "ナナリー・ランペルージ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1111,
+            "name": {
+              "full": "C.C.",
+              "native": "シー･ツー"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1129,
+            "name": {
+              "full": "Marianne vi Britannia",
+              "native": "マリアンヌ・ヴィ・ブリタニア"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1807,
+            "name": {
+              "full": "Sayoko Shinozaki",
+              "native": "篠崎咲世子"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 7771,
+            "name": {
+              "full": "Rolo Lamperouge",
+              "native": "ロロ・ランペルージ"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787432548,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 9591
+  },
+  "9392": {
+    "id": 9392,
+    "idMal": 9392,
+    "title": {
+      "romaji": "Shounen Jack to Mahou Tsukai",
+      "english": "Young Jack and the Witch",
+      "native": "少年ジャックと魔法使い"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "Jack is a boy who lives with his animal friends Barnaby Bear, Dinah Dog, Squeeker Mouse and Phineas Fox. He's challenged to a race with Allegra, who turns out to be a witch. She takes Jack to the queen witch, Auriana. She plans on turning all her slaves into evil harpies.",
+    "episodes": 1,
+    "duration": 80,
+    "season": "SPRING",
+    "seasonYear": 1967,
+    "startDate": {
+      "year": 1967,
+      "month": 3,
+      "day": 19
+    },
+    "endDate": {
+      "year": 1967,
+      "month": 3,
+      "day": 19
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9392-aqzQ4hELNv2A.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9392-aqzQ4hELNv2A.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx9392-aqzQ4hELNv2A.png",
+      "color": "#861a35"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [],
+    "averageScore": 49,
+    "meanScore": 51,
+    "popularity": 461,
+    "trending": 0,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": null,
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 179,
+        "name": "Witch",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 28,
+        "name": "Kids",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 772,
+        "name": "Shapeshifting",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 18,
+            "name": "Toei Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787432548,
+    "idTmdb": 123365,
+    "idImdb": "tt0062260",
+    "idTvdb": null,
+    "idTrakt": 85126,
+    "traktSlug": "jack-and-the-witch-1967",
+    "idSimkl": 36138,
+    "idShikimori": 9392
+  },
+  "9795": {
+    "id": 9795,
+    "idMal": 9795,
+    "title": {
+      "romaji": "Atashin'chi Movie",
+      "english": null,
+      "native": "映画 あたしンち"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "In a stormy night, Mikan and Mom were stricken by lightning simultaneously and switched bodies. In the following days, while Mom enjoyed being a student again, Mikan had to fought with house chores. Meanwhile, Yuzuhiko and Dad were busy looking for a way to switch them back.\n<br><br>\n(Source: Anime News Network)",
+    "episodes": 1,
+    "duration": 95,
+    "season": "FALL",
+    "seasonYear": 2003,
+    "startDate": {
+      "year": 2003,
+      "month": 12,
+      "day": 6
+    },
+    "endDate": {
+      "year": 2003,
+      "month": 12,
+      "day": 6
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9795-ZdFGV5ILCOox.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9795-ZdFGV5ILCOox.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b9795-ZdFGV5ILCOox.png",
+      "color": "#e4351a"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [
+      "Eiga Atashin'chi"
+    ],
+    "averageScore": 56,
+    "meanScore": 62,
+    "popularity": 399,
+    "trending": 0,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": null,
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 46621,
+            "title": {
+              "romaji": "Atashinchi",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx46621-ev5y1rKuymiY.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 3006,
+            "title": {
+              "romaji": "Atashin'chi",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2002,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b3006-XANMoAUZPtcn.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 154,
+        "name": "Body Swapping",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 18,
+            "name": "Toei Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 24724,
+            "name": {
+              "full": "Midori Imaji",
+              "native": "今治翠"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 25647,
+            "name": {
+              "full": "Mikan Tachibana",
+              "native": "立花みかん"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787432548,
+    "idTmdb": 9537,
+    "idImdb": "tt1298836",
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 40793,
+    "idShikimori": 9795
   }
 }

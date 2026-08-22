@@ -4013,7 +4013,7 @@
     "averageScore": 55,
     "meanScore": 55,
     "popularity": 77087,
-    "trending": 3,
+    "trending": 0,
     "favourites": 1044,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -4594,7 +4594,7 @@
         }
       ]
     },
-    "updatedAt": 1787411167,
+    "updatedAt": 1787436143,
     "idTmdb": 103409,
     "idImdb": "tt13411814",
     "idTvdb": 388644,
@@ -5218,7 +5218,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 95742,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1477,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5767,7 +5767,7 @@
         }
       ]
     },
-    "updatedAt": 1787411208,
+    "updatedAt": 1787436143,
     "idTmdb": 103319,
     "idImdb": "tt12305588",
     "idTvdb": 384757,
@@ -10937,5 +10937,194 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 41824
+  },
+  "118077": {
+    "id": 118077,
+    "idMal": null,
+    "title": {
+      "romaji": "Pachislot Eureka Seven 3",
+      "english": null,
+      "native": "パチスロエウレカセブン3"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Original net animation prequel series produced in partnership with the Hi Evolution film series as a promotion for pachinko games",
+    "episodes": 3,
+    "duration": 5,
+    "season": "WINTER",
+    "seasonYear": 2020,
+    "startDate": {
+      "year": 2020,
+      "month": 1,
+      "day": 16
+    },
+    "endDate": {
+      "year": 2020,
+      "month": 1,
+      "day": 30
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118077-jIxMjIASqJ4U.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118077-jIxMjIASqJ4U.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118077-jIxMjIASqJ4U.jpg",
+      "color": "#f143bb"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "Hi Evolution Zero"
+    ],
+    "averageScore": 54,
+    "meanScore": 61,
+    "popularity": 654,
+    "trending": 0,
+    "favourites": 11,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.sammy.co.jp/japanese/product/pachislot/2019/pachislot_Seureka3/index.html",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 98469,
+            "title": {
+              "romaji": "Koukyoushihen Eureka Seven Hi-Evolution 1",
+              "english": "Eureka Seven Hi-Evolution 1"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2017,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx98469-yAUcfoLGLHTk.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 505,
+        "name": "Advertisement",
+        "rank": 79,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 4,
+            "name": "bones"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 1512,
+            "name": {
+              "full": "Holland Novak",
+              "native": "ホランド・ノヴァク"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 1530,
+            "name": {
+              "full": "Talho Yuuki",
+              "native": "タルホ・ユーキ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 4005,
+            "name": {
+              "full": "Dewey Novak",
+              "native": "デューイ・ノヴァク"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 5552,
+            "name": {
+              "full": "Charles Beams",
+              "native": "チャールズ・ビームス"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 6718,
+            "name": {
+              "full": "Ray Beams",
+              "native": "レイ・ビームス"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 30855,
+            "name": {
+              "full": "Adroc Thurston",
+              "native": "アドロック"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1709,
+            "name": {
+              "full": "Eureka",
+              "native": "エウレカ"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787436143,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }

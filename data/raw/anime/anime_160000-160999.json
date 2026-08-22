@@ -3791,7 +3791,13 @@
               "romaji": "Yoru wa Neko to Issho",
               "english": "Nights with a Cat"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx148042-4ECbzpkrQOWg.jpg"
+            }
           }
         },
         {
@@ -3802,7 +3808,13 @@
               "romaji": "Yoru wa Neko to Issho",
               "english": "Nights With a Cat"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx132604-uMQqIYMNjc89.jpg"
+            }
           }
         },
         {
@@ -3813,7 +3825,13 @@
               "romaji": "Yoru wa Neko to Issho × GAMERA: Rebirth",
               "english": "GAMERA -Rebirth- x Nights with a Cat"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx168962-JZZWYuUfgD2c.jpg"
+            }
           }
         },
         {
@@ -3824,7 +3842,13 @@
               "romaji": "Yoru wa Neko to Issho Season 3",
               "english": "Nights with a Cat Season 3"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175137-dS5txKBSuiR1.png"
+            }
           }
         }
       ]
@@ -3946,7 +3970,14 @@
         }
       ]
     },
-    "updatedAt": 1787345811
+    "updatedAt": 1787432548,
+    "idTmdb": 199928,
+    "idImdb": "tt21244528",
+    "idTvdb": 419448,
+    "idTrakt": 196576,
+    "traktSlug": "nights-with-a-cat",
+    "idSimkl": 2073856,
+    "idShikimori": 54198
   },
   "160900": {
     "id": 160900,
@@ -4570,7 +4601,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 41111,
-    "trending": 1,
+    "trending": 0,
     "favourites": 678,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5121,7 +5152,7 @@
         }
       ]
     },
-    "updatedAt": 1787414633,
+    "updatedAt": 1787436143,
     "idTmdb": 218146,
     "idImdb": "tt32083095",
     "idTvdb": 429536,
@@ -5727,7 +5758,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 45809,
-    "trending": 1,
+    "trending": 0,
     "favourites": 759,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6220,7 +6251,7 @@
         }
       ]
     },
-    "updatedAt": 1787414681,
+    "updatedAt": 1787436143,
     "idTmdb": 218613,
     "idImdb": "tt27571647",
     "idTvdb": 429896,
@@ -7115,7 +7146,7 @@
         }
       ]
     },
-    "updatedAt": 1787393628,
+    "updatedAt": 1787432548,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9266,5 +9297,238 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 54622
+  },
+  "160205": {
+    "id": 160205,
+    "idMal": 52822,
+    "title": {
+      "romaji": "Kimi wa Houkago Insomnia Special Animation PV",
+      "english": null,
+      "native": "君は放課後インソムニア　スペシャルアニメーションPV"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "A promotional video directed by Yuuki Ikeda commemorating the release of the seventh  <i>Kimi wa Houkago Insomnia</i> manga volume.",
+    "episodes": 1,
+    "duration": 1,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2021,
+      "month": 10,
+      "day": 28
+    },
+    "endDate": {
+      "year": 2021,
+      "month": 10,
+      "day": 28
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b160205-qziA59CxF06T.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b160205-qziA59CxF06T.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b160205-qziA59CxF06T.jpg",
+      "color": "#4378f1"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "Insomniacs After School Special Animation PV"
+    ],
+    "averageScore": 64,
+    "meanScore": 67,
+    "popularity": 1927,
+    "trending": 0,
+    "favourites": 21,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "R_wY8rFouBI",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/R_wY8rFouBI/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=R_wY8rFouBI",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 110473,
+            "title": {
+              "romaji": "Kimi wa Houkago Insomnia",
+              "english": "Insomniacs After School"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx110473-igM02JDDzQXM.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 143653,
+            "title": {
+              "romaji": "Kimi wa Houkago Insomnia",
+              "english": "Insomniacs After School"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143653-uq3motvR9kb4.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 505,
+        "name": "Advertisement",
+        "rank": 84,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 84,
+        "name": "School Club",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 195,
+        "name": "Photography",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 839,
+            "name": "LIDENFILMS"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 161229,
+            "name": {
+              "full": "Ganta Nakami",
+              "native": "中見丸太"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 161230,
+            "name": {
+              "full": "Isaki Magari",
+              "native": "曲伊咲"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 161231,
+            "name": {
+              "full": "Usako Kurashiki",
+              "native": "倉敷兎子"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 161232,
+            "name": {
+              "full": "Yui Shiromaru",
+              "native": "白丸結"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 161234,
+            "name": {
+              "full": "Motoko Kanikawa",
+              "native": "蟹川モトコ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 161236,
+            "name": {
+              "full": "Mina Nono",
+              "native": "野々三奈"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 262616,
+            "name": {
+              "full": "Kanami Anamizu",
+              "native": "穴水かなみ"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787436143,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 52822
   }
 }
