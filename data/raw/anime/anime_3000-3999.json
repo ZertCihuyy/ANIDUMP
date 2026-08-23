@@ -1259,7 +1259,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 12936,
-    "trending": 0,
+    "trending": 1,
     "favourites": 164,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1605,7 +1605,7 @@
         }
       ]
     },
-    "updatedAt": 1787446922,
+    "updatedAt": 1787461257,
     "idTmdb": 29602,
     "idImdb": "tt1693435",
     "idTvdb": 76013,
@@ -1832,7 +1832,7 @@
     "averageScore": 69,
     "meanScore": 69,
     "popularity": 42439,
-    "trending": 0,
+    "trending": 1,
     "favourites": 704,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2386,7 +2386,7 @@
         }
       ]
     },
-    "updatedAt": 1787446922,
+    "updatedAt": 1787461300,
     "idTmdb": 36005,
     "idImdb": "tt1214373",
     "idTvdb": 82735,
@@ -2804,7 +2804,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 133426,
-    "trending": 4,
+    "trending": 2,
     "favourites": 2769,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3237,7 +3237,7 @@
         }
       ]
     },
-    "updatedAt": 1787448845,
+    "updatedAt": 1787461250,
     "idTmdb": 22843,
     "idImdb": "tt0860906",
     "idTvdb": null,
@@ -3294,7 +3294,7 @@
     "averageScore": 68,
     "meanScore": 70,
     "popularity": 3995,
-    "trending": 1,
+    "trending": 0,
     "favourites": 85,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3646,7 +3646,7 @@
         }
       ]
     },
-    "updatedAt": 1787457620,
+    "updatedAt": 1787461305,
     "idTmdb": 19829,
     "idImdb": "tt1051924",
     "idTvdb": 251825,
@@ -6209,7 +6209,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 22192,
-    "trending": 1,
+    "trending": 0,
     "favourites": 881,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -6663,7 +6663,7 @@
         }
       ]
     },
-    "updatedAt": 1787457649,
+    "updatedAt": 1787461305,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -8793,7 +8793,7 @@
         }
       ]
     },
-    "updatedAt": 1787448846,
+    "updatedAt": 1787461225,
     "idTmdb": 283566,
     "idImdb": "tt2458948",
     "idTvdb": null,
@@ -9314,7 +9314,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 140345,
-    "trending": 0,
+    "trending": 1,
     "favourites": 2123,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9751,7 +9751,7 @@
         }
       ]
     },
-    "updatedAt": 1787457685,
+    "updatedAt": 1787461238,
     "idTmdb": 34742,
     "idImdb": "tt1216222",
     "idTvdb": 81831,
@@ -9806,7 +9806,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 100084,
-    "trending": 2,
+    "trending": 0,
     "favourites": 1773,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10325,7 +10325,7 @@
         }
       ]
     },
-    "updatedAt": 1787457622,
+    "updatedAt": 1787461305,
     "idTmdb": 17149,
     "idImdb": "tt1209393",
     "idTvdb": 81816,
@@ -10384,7 +10384,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 23597,
-    "trending": 0,
+    "trending": 1,
     "favourites": 370,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10782,7 +10782,7 @@
         }
       ]
     },
-    "updatedAt": 1787457685,
+    "updatedAt": 1787461256,
     "idTmdb": 36250,
     "idImdb": "tt0488477",
     "idTvdb": 79283,
@@ -12487,7 +12487,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 389905,
-    "trending": 11,
+    "trending": 16,
     "favourites": 16051,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13307,7 +13307,7 @@
         }
       ]
     },
-    "updatedAt": 1787457621,
+    "updatedAt": 1787461213,
     "idTmdb": 37305,
     "idImdb": "tt1214085",
     "idTvdb": 81751,
@@ -13361,7 +13361,7 @@
     "averageScore": 58,
     "meanScore": 61,
     "popularity": 1107,
-    "trending": 0,
+    "trending": 1,
     "favourites": 15,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13380,7 +13380,13 @@
               "romaji": "Sengoku Kitan Youtouden Soushuuhen",
               "english": "Wrath of the Ninja"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 1989,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1378-OjwtCXukREdm.jpg"
+            }
           }
         }
       ]
@@ -13715,7 +13721,14 @@
         }
       ]
     },
-    "updatedAt": 1787345811
+    "updatedAt": 1787461253,
+    "idTmdb": 136039,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 37053,
+    "idShikimori": 3600
   },
   "3391": {
     "id": 3391,
@@ -17160,7 +17173,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 29694,
-    "trending": 1,
+    "trending": 2,
     "favourites": 643,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -17699,7 +17712,7 @@
         }
       ]
     },
-    "updatedAt": 1787439722,
+    "updatedAt": 1787461261,
     "idTmdb": 5857,
     "idImdb": "tt1216150",
     "idTvdb": 81086,
@@ -17754,7 +17767,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 61142,
-    "trending": 2,
+    "trending": 0,
     "favourites": 1000,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -18138,7 +18151,7 @@
         }
       ]
     },
-    "updatedAt": 1787457621,
+    "updatedAt": 1787461305,
     "idTmdb": 37195,
     "idImdb": "tt1216196",
     "idTvdb": 81752,
@@ -19544,7 +19557,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 31781,
-    "trending": 2,
+    "trending": 3,
     "favourites": 1036,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -20477,7 +20490,7 @@
         }
       ]
     },
-    "updatedAt": 1787448850,
+    "updatedAt": 1787461230,
     "idTmdb": 20695,
     "idImdb": "tt1196094",
     "idTvdb": 84911,
@@ -20855,7 +20868,7 @@
     "averageScore": 57,
     "meanScore": 57,
     "popularity": 48587,
-    "trending": 1,
+    "trending": 2,
     "favourites": 379,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -21248,7 +21261,7 @@
         }
       ]
     },
-    "updatedAt": 1787439705,
+    "updatedAt": 1787461282,
     "idTmdb": 46414,
     "idImdb": "tt1216124",
     "idTvdb": 81830,
@@ -22726,7 +22739,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 61131,
-    "trending": 0,
+    "trending": 1,
     "favourites": 736,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -23147,7 +23160,7 @@
         }
       ]
     },
-    "updatedAt": 1787457685,
+    "updatedAt": 1787461234,
     "idTmdb": 23153,
     "idImdb": "tt1155652",
     "idTvdb": null,
@@ -23956,7 +23969,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 39404,
-    "trending": 0,
+    "trending": 1,
     "favourites": 798,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -24322,7 +24335,7 @@
         }
       ]
     },
-    "updatedAt": 1787436143,
+    "updatedAt": 1787461290,
     "idTmdb": 43066,
     "idImdb": "tt1354538",
     "idTvdb": 82855,
@@ -24867,7 +24880,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 37298,
-    "trending": 1,
+    "trending": 0,
     "favourites": 280,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -25256,7 +25269,7 @@
         }
       ]
     },
-    "updatedAt": 1787457667,
+    "updatedAt": 1787461305,
     "idTmdb": 34714,
     "idImdb": "tt1244315",
     "idTvdb": 83318,
@@ -25327,7 +25340,13 @@
               "romaji": "Ghost Sweeper Mikami",
               "english": "Ghost Sweeper Mikami"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 1993,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2400-qtL4ZLOVQeWH.jpg"
+            }
           }
         }
       ]
@@ -25436,7 +25455,7 @@
         }
       ]
     },
-    "updatedAt": 1787353256,
+    "updatedAt": 1787461300,
     "idTmdb": 46390,
     "idImdb": null,
     "idTvdb": null,
@@ -25979,7 +25998,7 @@
         }
       ]
     },
-    "updatedAt": 1787448846,
+    "updatedAt": 1787461240,
     "idTmdb": 75629,
     "idImdb": "tt0860907",
     "idTvdb": null,
@@ -26408,7 +26427,7 @@
         }
       ]
     },
-    "updatedAt": 1787448855,
+    "updatedAt": 1787461234,
     "idTmdb": 23151,
     "idImdb": "tt1155651",
     "idTvdb": null,
@@ -33736,7 +33755,7 @@
     "averageScore": 62,
     "meanScore": 63,
     "popularity": 8327,
-    "trending": 2,
+    "trending": 0,
     "favourites": 66,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -34023,7 +34042,7 @@
         }
       ]
     },
-    "updatedAt": 1787457620,
+    "updatedAt": 1787461305,
     "idTmdb": 34138,
     "idImdb": "tt1216157",
     "idTvdb": 82509,
@@ -39842,7 +39861,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 38525,
-    "trending": 2,
+    "trending": 0,
     "favourites": 843,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -40343,7 +40362,7 @@
         }
       ]
     },
-    "updatedAt": 1787457607,
+    "updatedAt": 1787461305,
     "idTmdb": 37548,
     "idImdb": "tt1210339",
     "idTvdb": 84230,
@@ -41440,7 +41459,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 38356,
-    "trending": 1,
+    "trending": 0,
     "favourites": 199,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -41823,7 +41842,7 @@
         }
       ]
     },
-    "updatedAt": 1787448881,
+    "updatedAt": 1787461305,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -51536,7 +51555,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 14703,
-    "trending": 1,
+    "trending": 0,
     "favourites": 120,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -51919,7 +51938,7 @@
         }
       ]
     },
-    "updatedAt": 1787457667,
+    "updatedAt": 1787461305,
     "idTmdb": 36084,
     "idImdb": "tt1409068",
     "idTvdb": 88101,
@@ -51969,7 +51988,7 @@
     "averageScore": 66,
     "meanScore": 67,
     "popularity": 4639,
-    "trending": 1,
+    "trending": 0,
     "favourites": 28,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -52242,7 +52261,7 @@
         }
       ]
     },
-    "updatedAt": 1787457633,
+    "updatedAt": 1787461305,
     "idTmdb": 26233,
     "idImdb": "tt13022808",
     "idTvdb": 83766,
@@ -55702,7 +55721,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 14327,
-    "trending": 2,
+    "trending": 0,
     "favourites": 66,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -56048,7 +56067,7 @@
         }
       ]
     },
-    "updatedAt": 1787457649,
+    "updatedAt": 1787461305,
     "idTmdb": 56354,
     "idImdb": "tt1132205",
     "idTvdb": 81463,
@@ -68007,7 +68026,7 @@
         }
       ]
     },
-    "updatedAt": 1787439626,
+    "updatedAt": 1787461242,
     "idTmdb": 56426,
     "idImdb": "tt2811158",
     "idTvdb": 111011,
@@ -74422,7 +74441,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 12100,
-    "trending": 0,
+    "trending": 1,
     "favourites": 76,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -74730,7 +74749,7 @@
         }
       ]
     },
-    "updatedAt": 1787450509,
+    "updatedAt": 1787461253,
     "idTmdb": 40123,
     "idImdb": "tt0962762",
     "idTvdb": null,
@@ -74781,7 +74800,7 @@
     "averageScore": 52,
     "meanScore": 54,
     "popularity": 1168,
-    "trending": 1,
+    "trending": 0,
     "favourites": 6,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -74839,7 +74858,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787448876,
+    "updatedAt": 1787457685,
     "idTmdb": 332167,
     "idImdb": "tt2412064",
     "idTvdb": null,
@@ -75153,7 +75172,7 @@
     "averageScore": 52,
     "meanScore": 53,
     "popularity": 2281,
-    "trending": 1,
+    "trending": 0,
     "favourites": 28,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -75518,7 +75537,7 @@
         }
       ]
     },
-    "updatedAt": 1787457677,
+    "updatedAt": 1787461305,
     "idTmdb": null,
     "idImdb": "tt0097137",
     "idTvdb": null,
@@ -75574,7 +75593,7 @@
     "averageScore": 63,
     "meanScore": 65,
     "popularity": 1952,
-    "trending": 1,
+    "trending": 0,
     "favourites": 28,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -75835,7 +75854,7 @@
         }
       ]
     },
-    "updatedAt": 1787457670,
+    "updatedAt": 1787461305,
     "idTmdb": 84480,
     "idImdb": "tt0057669",
     "idTvdb": null,
@@ -76242,7 +76261,7 @@
     "averageScore": 60,
     "meanScore": 63,
     "popularity": 2302,
-    "trending": 1,
+    "trending": 0,
     "favourites": 20,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -76493,7 +76512,7 @@
         }
       ]
     },
-    "updatedAt": 1787457624,
+    "updatedAt": 1787461305,
     "idTmdb": 13549,
     "idImdb": "tt0068792",
     "idTvdb": 73887,
@@ -76501,5 +76520,1596 @@
     "traktSlug": "science-ninja-team-gatchaman",
     "idSimkl": 39028,
     "idShikimori": 3154
+  },
+  "3135": {
+    "id": 3135,
+    "idMal": 3135,
+    "title": {
+      "romaji": "Dragon's Heaven",
+      "english": "Dragon's Heaven",
+      "native": "ドラゴンズヘブン"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "In the year 3195, there was a war between an army of robots and the humans. When Shaian, a sentient combat armor, lost his companion in battle, he shut down until his internal systems spotted a new human. It's now almost a 1000 years later, and Shaian's greatest enemy is still alive and doing battle in Brazil. With a new friend`s help, Shaian may be able to stop this evil force before another war rages over the continent.\n<br><br>\n(Source: Anime News Network)",
+    "episodes": 1,
+    "duration": 43,
+    "season": "WINTER",
+    "seasonYear": 1988,
+    "startDate": {
+      "year": 1988,
+      "month": 2,
+      "day": 25
+    },
+    "endDate": {
+      "year": 1988,
+      "month": 2,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3135.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3135.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3135.jpg",
+      "color": "#e4c943"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3135-qqANvyGFQ70B.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "synonyms": [],
+    "averageScore": 61,
+    "meanScore": 61,
+    "popularity": 6788,
+    "trending": 0,
+    "favourites": 81,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 32914,
+            "title": {
+              "romaji": "robot",
+              "english": "Robot"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx32914-aLwg1IUTJ2NI.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 141034,
+            "title": {
+              "romaji": "Dragon's Heaven",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx141034-PYqE4uwLngLj.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 93,
+        "name": "Post-Apocalyptic",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 517,
+        "name": "Artificial Intelligence",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 111,
+        "name": "War",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 162,
+        "name": "Space Opera",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 160,
+        "name": "Real Robot",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 323,
+        "name": "Stop Motion",
+        "rank": 64,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 513,
+        "name": "Tokusatsu",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1742,
+        "name": "Mixed Media",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 159,
+        "name": "Super Robot",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 48,
+            "name": "AIC"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 224,
+            "name": "Toshiba EMI"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 72,
+            "name": "Artmic"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 24410,
+            "name": {
+              "full": "Ikuuru",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95170,
+              "name": {
+                "full": "Yuuko Minaguchi",
+                "native": "皆口裕子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 24411,
+            "name": {
+              "full": "Shaian",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96485,
+              "name": {
+                "full": "Iemasa Kayumi",
+                "native": "家弓家正"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 24412,
+            "name": {
+              "full": "Elmedain",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95870,
+              "name": {
+                "full": "Kei Tomiyama",
+                "native": "富山敬"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 40520,
+            "name": {
+              "full": "Orionis",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95744,
+              "name": {
+                "full": "Daisuke Gouri",
+                "native": "郷里大輔"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787461305,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 41725,
+    "idShikimori": 3135
+  },
+  "3579": {
+    "id": 3579,
+    "idMal": 3579,
+    "title": {
+      "romaji": "Getter Robo",
+      "english": "Getter Robo",
+      "native": "ゲッターロボ"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "From deep within the Earth's surface, the Dinosaur Kingdom make their move to wipe out mankind and conquer the planet with their mechanical dinosaurs. After a prototype Getter Robo is shot down by a mechanical dinosaur, the Saotome Research Institute decides to use the real Getter Robo, which is combat-capable. Due to a lack of pilots in the institute, Ryo Nagare goes to his college to persuade martial artist Musashi Tomoe and outcast Hayato Jin to join him and pilot the Getter Machines to combat the new threat and protect mankind.\n<br><br>\n(Source: Anime News Network)",
+    "episodes": 51,
+    "duration": 25,
+    "season": "SPRING",
+    "seasonYear": 1974,
+    "startDate": {
+      "year": 1974,
+      "month": 4,
+      "day": 4
+    },
+    "endDate": {
+      "year": 1975,
+      "month": 5,
+      "day": 8
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3579-b4eywFaEGBD5.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3579-b4eywFaEGBD5.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b3579-b4eywFaEGBD5.jpg",
+      "color": "#e4a15d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n3579-9kypGOgFsKxk.jpg",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "Getta Robo",
+      "Space Robot",
+      "Getta Robot"
+    ],
+    "averageScore": 64,
+    "meanScore": 66,
+    "popularity": 4096,
+    "trending": 1,
+    "favourites": 51,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 4486,
+            "title": {
+              "romaji": "Getter Robo G",
+              "english": "Getter Robo G"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 1975,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b4486-KWPJIXTe8p19.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 31551,
+            "title": {
+              "romaji": "Getter Robo",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b31551-4bEAZv8P70Iq.png"
+            }
+          }
+        },
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 8252,
+            "title": {
+              "romaji": "Getter Robo (Movie)",
+              "english": "Getter Robo Movie"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 1974,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8252.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 2978,
+            "title": {
+              "romaji": "Shin Getter Robo",
+              "english": "New Getter Robo"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2004,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2978-wybJCsj1WaIh.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 5292,
+            "title": {
+              "romaji": "Getter Robo Go",
+              "english": "Getter Robo Go"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 1991,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5292-DLiutsWESCEr.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 125640,
+            "title": {
+              "romaji": "Getter Robo Arc",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2021,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx125640-RghOmQmgKzWi.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 129525,
+            "title": {
+              "romaji": "Nagai Go Manga Gaiden: Dynamic Heroes",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx129525-O6NpjTjN7qAp.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 978,
+            "title": {
+              "romaji": "Change!! Getter Robo: Sekai Saigo no Hi",
+              "english": "Getter Robo: Armageddon"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 1998,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx978-Tv9paCO7uQhJ.png"
+            }
+          }
+        },
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 4385,
+            "title": {
+              "romaji": "Great Mazinger tai Getter Robo",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 1975,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4385.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 169943,
+            "title": {
+              "romaji": "Getter Robo",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx169943-fx0daDwHX8fn.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 159,
+        "name": "Super Robot",
+        "rank": 86,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 276,
+        "name": "Kaiju",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 193,
+        "name": "Episodic",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 173,
+        "name": "Motorcycles",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 704,
+        "name": "Dinosaurs",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 30,
+        "name": "Martial Arts",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 148,
+        "name": "Football",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 139,
+        "name": "Love Triangle",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 18,
+            "name": "Toei Animation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 921,
+            "name": "Dynamic Planning"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 6107,
+            "name": {
+              "full": "Ryouma Nagare",
+              "native": "流竜馬"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95416,
+              "name": {
+                "full": "Akira Kamiya",
+                "native": "神谷明"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 8663,
+            "name": {
+              "full": "Hayato Jin",
+              "native": "神隼人"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95916,
+              "name": {
+                "full": "Keaton Yamada",
+                "native": "キートン山田"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 18490,
+            "name": {
+              "full": "Musashi Tomoe",
+              "native": "巴武蔵"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102578,
+              "name": {
+                "full": "Toku Nishio",
+                "native": "西尾徳"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 6302,
+            "name": {
+              "full": "Jack King",
+              "native": "ジャック・キング"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96148,
+              "name": {
+                "full": "Makio Inoue",
+                "native": "井上真樹夫"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 17723,
+            "name": {
+              "full": "Professor Saotome",
+              "native": "早乙女博士"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101792,
+              "name": {
+                "full": "Kousei Tomita",
+                "native": "富田耕生"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 25613,
+            "name": {
+              "full": "Michiru Saotome",
+              "native": "早乙女 ミチル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95920,
+              "name": {
+                "full": "Rihoko Yoshida",
+                "native": "吉田理保子"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787461291,
+    "idTmdb": 45485,
+    "idImdb": "tt0275838",
+    "idTvdb": 112641,
+    "idTrakt": 66198,
+    "traktSlug": "getter-robo",
+    "idSimkl": 40530,
+    "idShikimori": 3579
+  },
+  "3044": {
+    "id": 3044,
+    "idMal": 3044,
+    "title": {
+      "romaji": "Tetsuwan Atom (1980)",
+      "english": "Astro Boy (1980)",
+      "native": "鉄腕アトム"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "Creating a robotic boy in the image of his recently deceased son Tobio, Professor Tenma thought nothing could go wrong now that his beloved child had been \"reborn\"... that is, until he comes to realize that this invention could never replace his son. Before long, however, the robot is kidnapped and spirited away to a robot circus in America, where he is soon rescued by Dr. Ochanomizu, and taken into his care. Tobio is given the new name Tetsuwan Atom, and transforms into Japan's crime-fighting hero, although his anti-violent pacifist views and overall childlike naivety tend to clash with his battles often.<br><br>\n(Source: Anime News Network)",
+    "episodes": 52,
+    "duration": 24,
+    "season": "FALL",
+    "seasonYear": 1980,
+    "startDate": {
+      "year": 1980,
+      "month": 10,
+      "day": 1
+    },
+    "endDate": {
+      "year": 1981,
+      "month": 12,
+      "day": 23
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3044-SrS7Q0Y0v38J.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/nx3044-SrS7Q0Y0v38J.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx3044-SrS7Q0Y0v38J.png",
+      "color": "#f1ae43"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n3044-oLvIoG7Y5oD0.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "Tetsuwan Atom",
+      "Astroboy"
+    ],
+    "averageScore": 68,
+    "meanScore": 70,
+    "popularity": 4550,
+    "trending": 1,
+    "favourites": 95,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.amazon.com/dp/B07F172Q2P",
+        "site": "Amazon Prime Video",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.retrocrush.tv/series/016177s/astro-boy",
+        "site": "RetroCrush",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 30728,
+            "title": {
+              "romaji": "Tetsuwan Atom",
+              "english": "Astro Boy"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx30728-deU0SZKHwSp5.png"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 971,
+            "title": {
+              "romaji": "Astro Boy Tetsuwan Atom",
+              "english": "Astro Boy (2003)"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2003,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx971-zUOKQLxg0pL2.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 2747,
+            "title": {
+              "romaji": "Tetsuwan Atom",
+              "english": "Astro Boy"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 1963,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/2747.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 17959,
+            "title": {
+              "romaji": "ASTROBOY Tetsuwan Atom: Atom Tanjou no Himitsu",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2003,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/n17959-q1VkXrefqCe1.png"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 17965,
+            "title": {
+              "romaji": "Tetsuwan Atom: Ao Kishi no Kan",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 1999,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx17965-geDgRrhZIxqP.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 21830,
+            "title": {
+              "romaji": "Atom: The Beginning",
+              "english": "Atom: The Beginning"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2017,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21830-cF5rYbbDElYZ.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 175,
+        "name": "Robots",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 193,
+        "name": "Episodic",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 517,
+        "name": "Artificial Intelligence",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 191,
+        "name": "Aliens",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 46,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 200,
+            "name": "Tezuka Productions"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6444,
+            "name": "Manga Entertainment"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6454,
+            "name": "Madman Entertainment"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 11686,
+            "name": {
+              "full": "Atom Tetsuwan",
+              "native": "鉄腕アトム"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106930,
+              "name": {
+                "full": "Mari Shimizu",
+                "native": "清水マリ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 24144,
+            "name": {
+              "full": "Ochanomizu Hakase",
+              "native": "お茶の水博士"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96235,
+              "name": {
+                "full": "Hisashi Katsuta",
+                "native": "勝田久"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 38881,
+            "name": {
+              "full": "Atlas",
+              "native": "アトラス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95921,
+              "name": {
+                "full": "Katsuji Mori",
+                "native": "森功至"
+              }
+            },
+            {
+              "id": 206439,
+              "name": {
+                "full": "Michiru Houjouu",
+                "native": "北條美智留"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1344,
+            "name": {
+              "full": "Kuroo Hazama",
+              "native": "間黒男"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95364,
+              "name": {
+                "full": "Nachi Nozawa",
+                "native": "野沢那智"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 1345,
+            "name": {
+              "full": "Pinoko",
+              "native": "ピノコ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101453,
+              "name": {
+                "full": "Junko Hori",
+                "native": "堀絢子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 16536,
+            "name": {
+              "full": "Uran",
+              "native": "ウラン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106592,
+              "name": {
+                "full": "Masako Sugaya",
+                "native": "菅谷政子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 19487,
+            "name": {
+              "full": "Hamegg",
+              "native": "ハム・エッグ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101730,
+              "name": {
+                "full": "Ichirou Nagai",
+                "native": "永井一郎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 22925,
+            "name": {
+              "full": "Umatarou Tenma",
+              "native": "天馬午太郎"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95892,
+              "name": {
+                "full": "Tamio Ooki",
+                "native": "大木民夫"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 39117,
+            "name": {
+              "full": "Tobio Tenma",
+              "native": "天馬飛夫"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 133829,
+            "name": {
+              "full": "Satan",
+              "native": "サタン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95726,
+              "name": {
+                "full": "Shouzou Iizuka",
+                "native": "飯塚昭三"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787461286,
+    "idTmdb": 23022,
+    "idImdb": "tt0124228",
+    "idTvdb": 80448,
+    "idTrakt": 11997,
+    "traktSlug": "astro-boy-1980",
+    "idSimkl": 37101,
+    "idShikimori": 3044
+  },
+  "3146": {
+    "id": 3146,
+    "idMal": 3146,
+    "title": {
+      "romaji": "GR: Giant Robo",
+      "english": null,
+      "native": "GR -ジャイアントロボ-"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "The year is 20XX. Mysterious huge robots called \"Giant Robo (GR)\" started to appear all over the world and destroy cities. The earth was covered with fear. And their next target is Japan! The hero of this animation Daisaku Kusama, who works in a diving shop, encounters a mysterious girl, simply called V who leads him to make a contract with an enormous robot \"Giant Robo 1 (GR1)\" at the ancient ruins (Minami Yonaguni Island) in Okinawa. <br><br>\nHe made a contract with UNISOM (main organization) and was approved to be a commander of GR1. Thus his battle has begun against GRO (antagonist organization) and creates a lot of dramas. Before long, Giant Robo of the 21st century will ask the world the true meaning of its power. <br><br>\n(Source: AniDB)",
+    "episodes": 13,
+    "duration": 25,
+    "season": "WINTER",
+    "seasonYear": 2007,
+    "startDate": {
+      "year": 2007,
+      "month": 1,
+      "day": 19
+    },
+    "endDate": {
+      "year": 2007,
+      "month": 7,
+      "day": 20
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3146-BMYb9OTZ4iC3.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3146-BMYb9OTZ4iC3.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b3146-BMYb9OTZ4iC3.jpg",
+      "color": "#e46b5d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "Giant Robo 40th Anniversary"
+    ],
+    "averageScore": 63,
+    "meanScore": 66,
+    "popularity": 2265,
+    "trending": 1,
+    "favourites": 24,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 70437,
+            "title": {
+              "romaji": "Giant Robo",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/40437.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 2321,
+            "title": {
+              "romaji": "Giant Robo THE ANIMATION: Chikyuu ga Seishi Suru Hi",
+              "english": "Giant Robo the Animation: The Day the Earth Stood Still"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 1992,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx2321-ETrAaZnKGpUS.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 132038,
+            "title": {
+              "romaji": "Giant Robo: Prologue-hen",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b132038-gMj4M3lPyU1o.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 456,
+        "name": "Conspiracy",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 466,
+        "name": "Lost Civilization",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 159,
+        "name": "Super Robot",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 305,
+        "name": "Ships",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 285,
+        "name": "Terrorism",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 198,
+        "name": "Foreign",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 34,
+        "name": "Military",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 94,
+        "name": "Gore",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 636,
+        "name": "Cosmic Horror",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 811,
+        "name": "Scuba Diving",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 250,
+        "name": "Rural",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 175,
+        "name": "Robots",
+        "rank": 10,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 179,
+            "name": "A.C.G.T."
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 254,
+            "name": "Soft Garage"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 5230,
+            "name": {
+              "full": "Daisaku Kusama",
+              "native": "草間大作"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95087,
+              "name": {
+                "full": "Daisuke Namikawa",
+                "native": "浪川大輔"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 34297,
+            "name": {
+              "full": "Alex McKenzie",
+              "native": "アレックス・マッケンジー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95082,
+              "name": {
+                "full": "Romi Park",
+                "native": "朴璐美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 34304,
+            "name": {
+              "full": "V",
+              "native": "ヴィー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105207,
+              "name": {
+                "full": "Miyuu Sawai",
+                "native": "沢井美優"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 34305,
+            "name": {
+              "full": "Celestine Bunuel",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96581,
+              "name": {
+                "full": "Asako Dodo",
+                "native": "百々麻子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 34298,
+            "name": {
+              "full": "Burt Souther",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95284,
+              "name": {
+                "full": "Fumihiko Tachiki",
+                "native": "立木文彦"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 34299,
+            "name": {
+              "full": "Arashi Katsumi",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95899,
+              "name": {
+                "full": "Isshin Chiba",
+                "native": "千葉一伸"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 34300,
+            "name": {
+              "full": "Sugao Yamabe",
+              "native": null
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102091,
+              "name": {
+                "full": "Katsumi Toriumi",
+                "native": "勝美鳥海"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 34301,
+            "name": {
+              "full": "Gary Oates",
+              "native": null
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 34302,
+            "name": {
+              "full": "Roscoe Heinsacare",
+              "native": null
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 34303,
+            "name": {
+              "full": "D",
+              "native": null
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787461279,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 40345,
+    "idShikimori": 3146
   }
 }

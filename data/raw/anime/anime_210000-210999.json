@@ -290,7 +290,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 21218,
-    "trending": 2,
+    "trending": 0,
     "favourites": 285,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -325,7 +325,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1790262000,
-      "timeUntilAiring": 2802609,
+      "timeUntilAiring": 2799543,
       "episode": 1
     },
     "relations": {
@@ -553,7 +553,7 @@
         }
       ]
     },
-    "updatedAt": 1787457646,
+    "updatedAt": 1787461305,
     "idTmdb": 45790,
     "idImdb": "tt2359704",
     "idTvdb": 262954,
@@ -1409,7 +1409,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 53700,
-    "trending": 44,
+    "trending": 48,
     "favourites": 1006,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1444,7 +1444,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787472000,
-      "timeUntilAiring": 12503,
+      "timeUntilAiring": 9366,
       "episode": 8
     },
     "relations": {
@@ -1775,7 +1775,7 @@
         }
       ]
     },
-    "updatedAt": 1787457607,
+    "updatedAt": 1787461211,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1825,7 +1825,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 2199,
-    "trending": 0,
+    "trending": 1,
     "favourites": 10,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1932,7 +1932,7 @@
         }
       ]
     },
-    "updatedAt": 1787448886,
+    "updatedAt": 1787461238,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2175,7 +2175,7 @@
     "averageScore": 73,
     "meanScore": 74,
     "popularity": 7337,
-    "trending": 1,
+    "trending": 0,
     "favourites": 109,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2399,7 +2399,7 @@
         }
       ]
     },
-    "updatedAt": 1787457659,
+    "updatedAt": 1787461305,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2468,7 +2468,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787751000,
-      "timeUntilAiring": 291634,
+      "timeUntilAiring": 288268,
       "episode": 14
     },
     "relations": {
@@ -2595,6 +2595,25 @@
         {
           "role": "SUPPORTING",
           "node": {
+            "id": 88574,
+            "name": {
+              "full": "Felt",
+              "native": "フェルト"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107652,
+              "name": {
+                "full": "Chinatsu Akasaki",
+                "native": "赤﨑千夏"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
             "id": 88575,
             "name": {
               "full": "Rem",
@@ -2626,6 +2645,25 @@
               "name": {
                 "full": "Rie Murakawa",
                 "native": "村川梨衣"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 88577,
+            "name": {
+              "full": "Reinhard van Astrea",
+              "native": "ラインハルト・ヴァン・アストレア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95513,
+              "name": {
+                "full": "Yuuichi Nakamura",
+                "native": "中村悠一"
               }
             }
           ]
@@ -2702,44 +2740,6 @@
               "name": {
                 "full": "Marika Kouno",
                 "native": "高野麻里佳"
-              }
-            }
-          ]
-        },
-        {
-          "role": "SUPPORTING",
-          "node": {
-            "id": 143378,
-            "name": {
-              "full": "Frederica Baumann",
-              "native": "フレデリカ・バウマン"
-            }
-          },
-          "voiceActors": [
-            {
-              "id": 95078,
-              "name": {
-                "full": "Kaori Nazuka",
-                "native": "名塚佳織"
-              }
-            }
-          ]
-        },
-        {
-          "role": "SUPPORTING",
-          "node": {
-            "id": 175577,
-            "name": {
-              "full": "Meili Portroute",
-              "native": "メィリィ・ポートルート"
-            }
-          },
-          "voiceActors": [
-            {
-              "id": 118688,
-              "name": {
-                "full": "Eri Suzuki",
-                "native": "鈴木絵理"
               }
             }
           ]
