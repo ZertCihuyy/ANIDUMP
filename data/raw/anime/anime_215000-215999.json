@@ -150,7 +150,7 @@
     "averageScore": 56,
     "meanScore": 72,
     "popularity": 286,
-    "trending": 1,
+    "trending": 3,
     "favourites": 1,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -236,7 +236,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787479267
+    "updatedAt": 1787486421
   },
   "215523": {
     "id": 215523,
@@ -770,7 +770,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 747,
-    "trending": 2,
+    "trending": 4,
     "favourites": 7,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -799,26 +799,44 @@
     },
     "tags": [
       {
+        "id": 15,
+        "name": "Demons",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 94,
+        "name": "Gore",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 89,
         "name": "Full CGI",
-        "rank": 20,
+        "rank": 60,
         "isMediaSpoiler": false
       },
       {
         "id": 1219,
         "name": "Disability",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 322,
-        "name": "Assassins",
-        "rank": 20,
+        "rank": 60,
         "isMediaSpoiler": false
       },
       {
         "id": 98,
         "name": "Female Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 322,
+        "name": "Assassins",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -883,7 +901,7 @@
         }
       ]
     },
-    "updatedAt": 1787482870
+    "updatedAt": 1787486588
   },
   "215582": {
     "id": 215582,
@@ -923,7 +941,7 @@
     "averageScore": null,
     "meanScore": 75,
     "popularity": 118,
-    "trending": 1,
+    "trending": 0,
     "favourites": 3,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1140,7 +1158,7 @@
         }
       ]
     },
-    "updatedAt": 1787482860
+    "updatedAt": 1787486504
   },
   "215790": {
     "id": 215790,
@@ -1265,7 +1283,7 @@
     "averageScore": null,
     "meanScore": 67,
     "popularity": 61,
-    "trending": 0,
+    "trending": 1,
     "favourites": 3,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1322,7 +1340,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787475624,
+    "updatedAt": 1787486499,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1373,7 +1391,7 @@
     "averageScore": 62,
     "meanScore": 81,
     "popularity": 198,
-    "trending": 1,
+    "trending": 0,
     "favourites": 7,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1552,7 +1570,7 @@
         }
       ]
     },
-    "updatedAt": 1787479287,
+    "updatedAt": 1787482904,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1695,7 +1713,7 @@
     "averageScore": null,
     "meanScore": 67,
     "popularity": 6,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1749,7 +1767,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787475609
+    "updatedAt": 1787486445
   },
   "215298": {
     "id": 215298,
@@ -2174,7 +2192,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 639,
-    "trending": 19,
+    "trending": 21,
     "favourites": 2,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2285,13 +2303,13 @@
         }
       ]
     },
-    "updatedAt": 1787482814
+    "updatedAt": 1787486538
   },
   "215856": {
     "id": 215856,
-    "idMal": null,
+    "idMal": 64859,
     "title": {
-      "romaji": "ONE PIECE FILM BAAD",
+      "romaji": "ONE PIECE FILM: BAAD",
       "english": null,
       "native": "ONE PIECE FILM BAAD"
     },
@@ -2309,7 +2327,7 @@
       "day": null
     },
     "endDate": {
-      "year": null,
+      "year": 2029,
       "month": null,
       "day": null
     },
@@ -2325,11 +2343,11 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 0,
-    "trending": 0,
+    "trending": 133,
     "favourites": 0,
     "isAdult": false,
     "countryOfOrigin": "JP",
-    "source": "MANGA",
+    "source": null,
     "trailer": {
       "id": "E3Zk2270um8",
       "site": "youtube",
@@ -2382,13 +2400,13 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787483332
+    "updatedAt": 1787486535
   },
   "215855": {
     "id": 215855,
-    "idMal": null,
+    "idMal": 64858,
     "title": {
-      "romaji": "ONE PIECE FILM GOD VALLEY",
+      "romaji": "ONE PIECE FILM: GOD VALLEY",
       "english": null,
       "native": "ONE PIECE FILM GOD VALLEY"
     },
@@ -2396,7 +2414,7 @@
     "format": "MOVIE",
     "status": "NOT_YET_RELEASED",
     "description": null,
-    "episodes": null,
+    "episodes": 1,
     "duration": null,
     "season": "SUMMER",
     "seasonYear": 2027,
@@ -2406,7 +2424,7 @@
       "day": null
     },
     "endDate": {
-      "year": null,
+      "year": 2027,
       "month": null,
       "day": null
     },
@@ -2422,11 +2440,11 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 0,
-    "trending": 0,
+    "trending": 180,
     "favourites": 0,
     "isAdult": false,
     "countryOfOrigin": "JP",
-    "source": "MANGA",
+    "source": null,
     "trailer": {
       "id": "E3Zk2270um8",
       "site": "youtube",
@@ -2479,6 +2497,6 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787483295
+    "updatedAt": 1787486534
   }
 }
