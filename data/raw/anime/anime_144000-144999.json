@@ -537,7 +537,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 29551,
-    "trending": 0,
+    "trending": 1,
     "favourites": 506,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1052,7 +1052,7 @@
         }
       ]
     },
-    "updatedAt": 1787448886,
+    "updatedAt": 1787457663,
     "idTmdb": 104711,
     "idImdb": "tt13167196",
     "idTvdb": 388645,
@@ -1553,7 +1553,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 74794,
-    "trending": 2,
+    "trending": 1,
     "favourites": 1634,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1992,7 +1992,7 @@
         }
       ]
     },
-    "updatedAt": 1787448875,
+    "updatedAt": 1787457681,
     "idTmdb": 155942,
     "idImdb": "tt21844644",
     "idTvdb": 414845,
@@ -2837,7 +2837,7 @@
     "averageScore": 61,
     "meanScore": 61,
     "popularity": 42458,
-    "trending": 2,
+    "trending": 1,
     "favourites": 513,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3328,7 +3328,7 @@
         }
       ]
     },
-    "updatedAt": 1787450479,
+    "updatedAt": 1787457651,
     "idTmdb": 156057,
     "idImdb": "tt31860621",
     "idTvdb": 414947,
@@ -3384,7 +3384,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 32159,
-    "trending": 2,
+    "trending": 1,
     "favourites": 519,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3883,7 +3883,7 @@
         }
       ]
     },
-    "updatedAt": 1787448845,
+    "updatedAt": 1787457613,
     "idTmdb": 156898,
     "idImdb": "tt17736234",
     "idTvdb": 415677,
@@ -4949,7 +4949,7 @@
         }
       ]
     },
-    "updatedAt": 1787411070,
+    "updatedAt": 1787457640,
     "idTmdb": 156510,
     "idImdb": "tt17501150",
     "idTvdb": 415310,
@@ -7253,5 +7253,91 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 50930
+  },
+  "144449": {
+    "id": 144449,
+    "idMal": 41769,
+    "title": {
+      "romaji": "Nautilus",
+      "english": "Nautilus",
+      "native": "ノーチラス"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video directed by Kohta Morie for the song <i>Nautilus</i> by Yorushika.",
+    "episodes": 1,
+    "duration": 4,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2019,
+      "month": 8,
+      "day": 27
+    },
+    "endDate": {
+      "year": 2019,
+      "month": 8,
+      "day": 27
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144449-ccWvrp9o0fzr.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx144449-ccWvrp9o0fzr.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx144449-ccWvrp9o0fzr.png",
+      "color": "#e4935d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/144449-VcYu12eIhplm.jpg",
+    "genres": [
+      "Drama"
+    ],
+    "synonyms": [],
+    "averageScore": 59,
+    "meanScore": 66,
+    "popularity": 345,
+    "trending": 1,
+    "favourites": 6,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "j83OVgv6woA",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/j83OVgv6woA/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=j83OVgv6woA",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6777,
+            "name": "MORIE Inc."
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787457656,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 41769
   }
 }

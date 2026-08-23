@@ -50,7 +50,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 333660,
-    "trending": 5,
+    "trending": 7,
     "favourites": 8301,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -633,7 +633,7 @@
         }
       ]
     },
-    "updatedAt": 1787450430,
+    "updatedAt": 1787457615,
     "idTmdb": 97860,
     "idImdb": "tt12057106",
     "idTvdb": 376729,
@@ -689,7 +689,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 79103,
-    "trending": 2,
+    "trending": 1,
     "favourites": 1768,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1254,7 +1254,7 @@
         }
       ]
     },
-    "updatedAt": 1787450431,
+    "updatedAt": 1787457679,
     "idTmdb": 102086,
     "idImdb": "tt12642654",
     "idTvdb": 380477,
@@ -1309,7 +1309,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 149591,
-    "trending": 4,
+    "trending": 1,
     "favourites": 2830,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1744,7 +1744,7 @@
         }
       ]
     },
-    "updatedAt": 1787450446,
+    "updatedAt": 1787457656,
     "idTmdb": 98986,
     "idImdb": "tt12464182",
     "idTvdb": 381406,
@@ -5364,7 +5364,7 @@
     "averageScore": 64,
     "meanScore": 66,
     "popularity": 2920,
-    "trending": 1,
+    "trending": 0,
     "favourites": 29,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5674,7 +5674,7 @@
         }
       ]
     },
-    "updatedAt": 1787448862,
+    "updatedAt": 1787457685,
     "idTmdb": 99042,
     "idImdb": null,
     "idTvdb": 380103,
@@ -8054,7 +8054,7 @@
     "averageScore": 70,
     "meanScore": 73,
     "popularity": 997,
-    "trending": 0,
+    "trending": 1,
     "favourites": 26,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8083,7 +8083,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787400600,
+    "updatedAt": 1787457655,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -11545,5 +11545,88 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 41235
+  },
+  "115344": {
+    "id": 115344,
+    "idMal": 41177,
+    "title": {
+      "romaji": "Parade",
+      "english": null,
+      "native": "パレード"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "A music video for the song Parade by Yorushika.",
+    "episodes": 1,
+    "duration": 5,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 11
+    },
+    "endDate": {
+      "year": 2019,
+      "month": 3,
+      "day": 11
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115344-i7HGFlu8kA08.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115344-i7HGFlu8kA08.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx115344-i7HGFlu8kA08.png",
+      "color": "#f1d6c9"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [],
+    "averageScore": 62,
+    "meanScore": 67,
+    "popularity": 632,
+    "trending": 1,
+    "favourites": 7,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "ry3Tupx4BL4",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/ry3Tupx4BL4/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=ry3Tupx4BL4",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 710,
+        "name": "Achromatic",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787457659,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 41177
   }
 }
