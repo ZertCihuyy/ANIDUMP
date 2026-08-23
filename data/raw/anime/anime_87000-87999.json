@@ -384,7 +384,7 @@
         }
       ]
     },
-    "updatedAt": 1787436089,
+    "updatedAt": 1787482882,
     "idTmdb": 72526,
     "idImdb": "tt6994582",
     "idTvdb": 329313,
@@ -1797,7 +1797,7 @@
         }
       ]
     },
-    "updatedAt": 1787472028,
+    "updatedAt": 1787482867,
     "idTmdb": 69236,
     "idImdb": "tt6460600",
     "idTvdb": 320002,
@@ -4581,7 +4581,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 66784,
-    "trending": 1,
+    "trending": 0,
     "favourites": 685,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4934,7 +4934,7 @@
         }
       ]
     },
-    "updatedAt": 1787464895,
+    "updatedAt": 1787479300,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7898,7 +7898,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 17735,
-    "trending": 0,
+    "trending": 1,
     "favourites": 145,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8252,7 +8252,7 @@
         }
       ]
     },
-    "updatedAt": 1787472110,
+    "updatedAt": 1787482867,
     "idTmdb": 64196,
     "idImdb": null,
     "idTvdb": null,
@@ -8815,7 +8815,7 @@
     "averageScore": 65,
     "meanScore": 66,
     "popularity": 7623,
-    "trending": 0,
+    "trending": 1,
     "favourites": 55,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8956,7 +8956,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787412954,
+    "updatedAt": 1787482859,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9706,5 +9706,367 @@
     "traktSlug": null,
     "idSimkl": 602435,
     "idShikimori": 33712
+  },
+  "87507": {
+    "id": 87507,
+    "idMal": 33730,
+    "title": {
+      "romaji": "Chain Chronicle: Haecceitas no Hikari Part 3",
+      "english": null,
+      "native": "チェインクロニクル〜ヘクセイタスの閃（ひかり）〜 第３章"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "The final movie of the Chain Chronicle series",
+    "episodes": 1,
+    "duration": 93,
+    "season": "WINTER",
+    "seasonYear": 2017,
+    "startDate": {
+      "year": 2017,
+      "month": 2,
+      "day": 11
+    },
+    "endDate": {
+      "year": 2017,
+      "month": 2,
+      "day": 11
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/87507-UqHSaeqN3aT1.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/87507-UqHSaeqN3aT1.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/87507-UqHSaeqN3aT1.jpg",
+      "color": "#e48643"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/87507-hUITRsSY7AvS.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Chain Chronicle 3rd Movie",
+      "チェインクロニクル 3",
+      "Chain Chronicle: The Light of Haecceitas Part 3"
+    ],
+    "averageScore": 65,
+    "meanScore": 66,
+    "popularity": 4295,
+    "trending": 1,
+    "favourites": 27,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": {
+      "id": "0gsvoQah1Pk",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/0gsvoQah1Pk/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://chronicle-anime.sega-net.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/ChroAnime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 20986,
+            "title": {
+              "romaji": "Chain Chronicle: Haecceitas no Hikari",
+              "english": "Chain Chronicle - The Light of Haecceitas -"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2017,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20986-uVe390PSwv6E.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 87506,
+            "title": {
+              "romaji": "Chain Chronicle: Haecceitas no Hikari Part 2",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2017,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/87506-S5sOXvnx2nd5.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 121433,
+            "title": {
+              "romaji": "Chain Chronicle: Kuro-Nikuru Girls",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b121433-M091YGfDIJxN.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 119774,
+            "title": {
+              "romaji": "Chain Chronicle: Chen-Kuro Gakuen",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b119774-nOofxsIZMZZr.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 50,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 94,
+            "name": "Telecom Animation Film"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787482859,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 33730
+  },
+  "87506": {
+    "id": 87506,
+    "idMal": 33729,
+    "title": {
+      "romaji": "Chain Chronicle: Haecceitas no Hikari Part 2",
+      "english": null,
+      "native": "チェインクロニクル〜ヘクセイタスの閃（ひかり）〜 第２章"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "The second movie of the Chain Chronicle series.",
+    "episodes": 1,
+    "duration": 89,
+    "season": "WINTER",
+    "seasonYear": 2017,
+    "startDate": {
+      "year": 2017,
+      "month": 1,
+      "day": 14
+    },
+    "endDate": {
+      "year": 2017,
+      "month": 1,
+      "day": 14
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/87506-S5sOXvnx2nd5.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/87506-S5sOXvnx2nd5.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/87506-S5sOXvnx2nd5.jpg",
+      "color": "#e4a1d6"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/87506-toZNiYFabsU9.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Chain Chronicle 2nd Movie",
+      "チェインクロニクル 2"
+    ],
+    "averageScore": 65,
+    "meanScore": 66,
+    "popularity": 4517,
+    "trending": 1,
+    "favourites": 29,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": {
+      "id": "0gsvoQah1Pk",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/0gsvoQah1Pk/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "http://chronicle-anime.sega-net.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://twitter.com/ChroAnime",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 20986,
+            "title": {
+              "romaji": "Chain Chronicle: Haecceitas no Hikari",
+              "english": "Chain Chronicle - The Light of Haecceitas -"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2017,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20986-uVe390PSwv6E.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 87505,
+            "title": {
+              "romaji": "Chain Chronicle: Haecceitas no Hikari Part 1",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2016,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/87505-m17RlCojRKO1.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 87507,
+            "title": {
+              "romaji": "Chain Chronicle: Haecceitas no Hikari Part 3",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2017,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/87507-UqHSaeqN3aT1.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 121433,
+            "title": {
+              "romaji": "Chain Chronicle: Kuro-Nikuru Girls",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b121433-M091YGfDIJxN.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 119774,
+            "title": {
+              "romaji": "Chain Chronicle: Chen-Kuro Gakuen",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b119774-nOofxsIZMZZr.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 50,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 94,
+            "name": "Telecom Animation Film"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787482859,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 33729
   }
 }

@@ -50,7 +50,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 333660,
-    "trending": 3,
+    "trending": 7,
     "favourites": 8301,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -633,7 +633,7 @@
         }
       ]
     },
-    "updatedAt": 1787479284,
+    "updatedAt": 1787482805,
     "idTmdb": 97860,
     "idImdb": "tt12057106",
     "idTvdb": 376729,
@@ -1309,7 +1309,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 149591,
-    "trending": 1,
+    "trending": 2,
     "favourites": 2830,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1744,7 +1744,7 @@
         }
       ]
     },
-    "updatedAt": 1787479290,
+    "updatedAt": 1787482817,
     "idTmdb": 98986,
     "idImdb": "tt12464182",
     "idTvdb": 381406,
@@ -3269,7 +3269,7 @@
     "averageScore": 74,
     "meanScore": 75,
     "popularity": 19826,
-    "trending": 1,
+    "trending": 0,
     "favourites": 533,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3914,7 +3914,7 @@
         }
       ]
     },
-    "updatedAt": 1787479244,
+    "updatedAt": 1787482904,
     "idTmdb": 102655,
     "idImdb": "tt12768008",
     "idTvdb": 386713,
@@ -5364,7 +5364,7 @@
     "averageScore": 64,
     "meanScore": 66,
     "popularity": 2920,
-    "trending": 0,
+    "trending": 1,
     "favourites": 29,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5674,7 +5674,7 @@
         }
       ]
     },
-    "updatedAt": 1787457685,
+    "updatedAt": 1787482844,
     "idTmdb": 99042,
     "idImdb": null,
     "idTvdb": 380103,
@@ -6668,7 +6668,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 12767,
-    "trending": 0,
+    "trending": 1,
     "favourites": 191,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -6889,7 +6889,7 @@
         }
       ]
     },
-    "updatedAt": 1787436143,
+    "updatedAt": 1787482891,
     "idTmdb": 70311,
     "idImdb": "tt11317074",
     "idTvdb": 328670,
@@ -10437,7 +10437,7 @@
     "averageScore": 68,
     "meanScore": 71,
     "popularity": 2666,
-    "trending": 1,
+    "trending": 0,
     "favourites": 18,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10558,7 +10558,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787472081,
+    "updatedAt": 1787479300,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -11628,5 +11628,130 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 41177
+  },
+  "115217": {
+    "id": 115217,
+    "idMal": 40372,
+    "title": {
+      "romaji": "Haikyuu!! Ningyou Anime",
+      "english": null,
+      "native": "ハイキュー!! 人形アニメ"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "A stop-motion anime that will bundle with the 42nd compiled book volume of Haruichi Furudate's Haikyu!! manga. Anime will have 10 short episodes featuring the Karasuno team as puppets.<br><br>(Source: Anime News Network)",
+    "episodes": 10,
+    "duration": 2,
+    "season": "WINTER",
+    "seasonYear": 2020,
+    "startDate": {
+      "year": 2020,
+      "month": 3,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2020,
+      "month": 3,
+      "day": 4
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115217-5Q8RImxnZc9a.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115217-5Q8RImxnZc9a.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx115217-5Q8RImxnZc9a.png",
+      "color": "#e4a15d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Sports"
+    ],
+    "synonyms": [
+      "Haikyuu!! Puppet Animation",
+      "Haikyuu!! Stop-motion Animation",
+      "Haikyuu!! Figure Animation"
+    ],
+    "averageScore": 65,
+    "meanScore": 67,
+    "popularity": 4970,
+    "trending": 1,
+    "favourites": 37,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "whnRAFwUdEM",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/whnRAFwUdEM/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://haikyu.jp/comic/figure-animation.html",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 20464,
+            "title": {
+              "romaji": "Haikyuu!!",
+              "english": "HAIKYU!!"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2014,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20464-ooZUyBe4ptp9.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 323,
+        "name": "Stop Motion",
+        "rank": 86,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 116,
+        "name": "Volleyball",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 84,
+        "name": "School Club",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787482855,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 40372
   }
 }
