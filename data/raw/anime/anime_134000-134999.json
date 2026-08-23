@@ -47,7 +47,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 64722,
-    "trending": 2,
+    "trending": 0,
     "favourites": 1002,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -537,7 +537,7 @@
         }
       ]
     },
-    "updatedAt": 1787490200,
+    "updatedAt": 1787493861,
     "idTmdb": 125712,
     "idImdb": "tt14669108",
     "idTvdb": 405227,
@@ -2870,7 +2870,7 @@
         }
       ]
     },
-    "updatedAt": 1787490190,
+    "updatedAt": 1787497666,
     "idTmdb": 133282,
     "idImdb": "tt14648592",
     "idTvdb": 402893,
@@ -2922,7 +2922,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 10267,
-    "trending": 0,
+    "trending": 1,
     "favourites": 251,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3259,7 +3259,7 @@
         }
       ]
     },
-    "updatedAt": 1787482038,
+    "updatedAt": 1787497725,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3561,7 +3561,7 @@
         }
       ]
     },
-    "updatedAt": 1787490142,
+    "updatedAt": 1787497794,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -5842,7 +5842,7 @@
     "averageScore": 72,
     "meanScore": 74,
     "popularity": 4440,
-    "trending": 0,
+    "trending": 1,
     "favourites": 256,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -6018,7 +6018,7 @@
         }
       ]
     },
-    "updatedAt": 1787486504,
+    "updatedAt": 1787497762,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7738,5 +7738,184 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 49353
+  },
+  "134102": {
+    "id": 134102,
+    "idMal": 50920,
+    "title": {
+      "romaji": "Shi Shaoxia Ganjue Hao Gudan",
+      "english": null,
+      "native": "石少侠感觉好孤单"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 36,
+    "duration": 9,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2022,
+      "month": 7,
+      "day": 25
+    },
+    "endDate": {
+      "year": 2022,
+      "month": 11,
+      "day": 14
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b134102-z8kHa3lCU9eP.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b134102-z8kHa3lCU9eP.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b134102-z8kHa3lCU9eP.png",
+      "color": "#e45d43"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [
+      "Hero Shi Feels Lonely"
+    ],
+    "averageScore": null,
+    "meanScore": 51,
+    "popularity": 356,
+    "trending": 1,
+    "favourites": 6,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "MANGA",
+    "trailer": {
+      "id": "Gwlvj69AU-Y",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/Gwlvj69AU-Y/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://weibo.com/u/3721943141",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.iq.com/album/nl7364rlv1",
+        "site": "iQ",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLTndXYWs2JgEv5mRVrMgmzFuPiopakSLN",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.iqiyi.com/a_nl7364rlv1.html",
+        "site": "iQIYI",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 153243,
+            "title": {
+              "romaji": "Shi Shaoxia Ganjue Hao Gudan",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b153243-yRn71F7wMHpH.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 303,
+        "name": "Wuxia",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 39,
+        "name": "Parody",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 25,
+        "name": "Historical",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 43,
+        "name": "Swordplay",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 648,
+        "name": "Crime",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6212,
+            "name": "Big Firebird Cultural Media"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6203,
+            "name": "iQIYI"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6836,
+            "name": "Energy Studio"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6941,
+            "name": "HuaMei Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787497599,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 50920
   }
 }

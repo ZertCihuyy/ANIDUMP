@@ -93,7 +93,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787479285,
+    "updatedAt": 1787497616,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -770,7 +770,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 747,
-    "trending": 6,
+    "trending": 3,
     "favourites": 7,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -901,7 +901,7 @@
         }
       ]
     },
-    "updatedAt": 1787490058
+    "updatedAt": 1787497532
   },
   "215582": {
     "id": 215582,
@@ -1158,7 +1158,7 @@
         }
       ]
     },
-    "updatedAt": 1787490198
+    "updatedAt": 1787497628
   },
   "215790": {
     "id": 215790,
@@ -1391,7 +1391,7 @@
     "averageScore": 62,
     "meanScore": 81,
     "popularity": 198,
-    "trending": 1,
+    "trending": 2,
     "favourites": 7,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1570,7 +1570,7 @@
         }
       ]
     },
-    "updatedAt": 1787493825,
+    "updatedAt": 1787497632,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2345,7 +2345,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 0,
-    "trending": 204,
+    "trending": 186,
     "favourites": 0,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2402,7 +2402,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787493713
+    "updatedAt": 1787497517
   },
   "215855": {
     "id": 215855,
@@ -2444,7 +2444,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 0,
-    "trending": 245,
+    "trending": 226,
     "favourites": 0,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2494,13 +2494,54 @@
         }
       ]
     },
-    "tags": [],
+    "tags": [
+      {
+        "id": 201,
+        "name": "Pirates",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
     "studios": {
       "edges": []
     },
     "characters": {
-      "edges": []
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 4883,
+            "name": {
+              "full": "Roger Gold",
+              "native": "ゴールド・ロジャー"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 8064,
+            "name": {
+              "full": "Garp",
+              "native": "ガープ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 146411,
+            "name": {
+              "full": "Xebec Rocks",
+              "native": "ロックス・D・ジーベック"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
     },
-    "updatedAt": 1787493712
+    "updatedAt": 1787497506
   }
 }
