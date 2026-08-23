@@ -641,7 +641,7 @@
     "averageScore": 86,
     "meanScore": 86,
     "popularity": 25102,
-    "trending": 1,
+    "trending": 2,
     "favourites": 1264,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1113,7 +1113,7 @@
         }
       ]
     },
-    "updatedAt": 1787490245,
+    "updatedAt": 1787493830,
     "idTmdb": 80732,
     "idImdb": "tt9005728",
     "idTvdb": 341295,
@@ -6063,7 +6063,7 @@
     "averageScore": 51,
     "meanScore": 54,
     "popularity": 675,
-    "trending": 0,
+    "trending": 2,
     "favourites": 2,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6133,7 +6133,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787484184,
+    "updatedAt": 1787493837,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6185,7 +6185,7 @@
     "averageScore": 48,
     "meanScore": 51,
     "popularity": 631,
-    "trending": 0,
+    "trending": 2,
     "favourites": 2,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6229,7 +6229,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787484184,
+    "updatedAt": 1787493842,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -8634,5 +8634,195 @@
     "traktSlug": null,
     "idSimkl": 668029,
     "idShikimori": 31667
+  },
+  "121528": {
+    "id": 121528,
+    "idMal": 42359,
+    "title": {
+      "romaji": "Zhen Hun Jie 2 Chongzhi Ban",
+      "english": null,
+      "native": "镇魂街 第二季 重制版"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "A remaster and continuation of <i>Zhen Hun Jie 2</i>.\n<br><br>\n<i>Note: The first 3 episode are identical to the original season, while episode 4-5 have been remastered. New content starts from episode 6</i>.",
+    "episodes": 10,
+    "duration": 23,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2021,
+      "month": 5,
+      "day": 15
+    },
+    "endDate": {
+      "year": 2021,
+      "month": 6,
+      "day": 26
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121528-FGbLp6guxxwR.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121528-FGbLp6guxxwR.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx121528-FGbLp6guxxwR.png",
+      "color": "#864328"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "Zhen Hun Jie 2 Remastered Edition",
+      "Rakshasa Street 2 Remastered Edition"
+    ],
+    "averageScore": 65,
+    "meanScore": 69,
+    "popularity": 2019,
+    "trending": 1,
+    "favourites": 24,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "MANGA",
+    "trailer": {
+      "id": "rBpCGYVljg0",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/rBpCGYVljg0/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.bilibili.com/bangumi/media/md5626",
+        "site": "Bilibili",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://weibo.com/u/5195985855",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLRuEYPbotBtD0kcpRh_ZPX3a9sYUWjDw-",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.bilibili.tv/media/1006910",
+        "site": "Bilibili TV",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 55588,
+            "title": {
+              "romaji": "Zhen Hun Jie",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx55588-6pW62iB2IUh1.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 114561,
+            "title": {
+              "romaji": "Zhen Hun Jie 2",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx114561-0cGF44fOpOvS.png"
+            }
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 99707,
+            "title": {
+              "romaji": "Zhen Hun Jie",
+              "english": "Rakshasa Street"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx99707-VpuVWgyNltUV.png"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 156080,
+            "title": {
+              "romaji": "Zhen Hun Jie 3",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx156080-CE6ZVsy8Z4yD.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6176,
+            "name": "L² Studio"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6389,
+            "name": "bilibili"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6769,
+            "name": "U17"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787493839,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 42359
   }
 }
