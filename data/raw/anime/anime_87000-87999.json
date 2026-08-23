@@ -3471,7 +3471,7 @@
         }
       ]
     },
-    "updatedAt": 1787468457,
+    "updatedAt": 1787490192,
     "idTmdb": 76128,
     "idImdb": "tt11834102",
     "idTvdb": 337336,
@@ -4984,7 +4984,7 @@
     "averageScore": 59,
     "meanScore": 60,
     "popularity": 6254,
-    "trending": 1,
+    "trending": 2,
     "favourites": 70,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5409,7 +5409,7 @@
         }
       ]
     },
-    "updatedAt": 1787479295,
+    "updatedAt": 1787490172,
     "idTmdb": 129553,
     "idImdb": "tt13167222",
     "idTvdb": 402182,
@@ -10068,5 +10068,368 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 33729
+  },
+  "87475": {
+    "id": 87475,
+    "idMal": 26183,
+    "title": {
+      "romaji": "Ikkitousen: Extravaganza Epoch",
+      "english": "Ikki Tousen: Extravaganza Epoch",
+      "native": "一騎当千 Extravaganza Epoch"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "Kansai fighters have begun raiding the Kanto area in order to pillage sacred beads. As members of all three of the main schools come under attack, Ryuubi and friends try to figure out a solution that results in the fewest casualties. <br><br>\n(Source: Crunchyroll)",
+    "episodes": 2,
+    "duration": 25,
+    "season": "FALL",
+    "seasonYear": 2014,
+    "startDate": {
+      "year": 2014,
+      "month": 12,
+      "day": 21
+    },
+    "endDate": {
+      "year": 2014,
+      "month": 12,
+      "day": 28
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87475-uSIYcuwIUm3i.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx87475-uSIYcuwIUm3i.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx87475-uSIYcuwIUm3i.jpg",
+      "color": "#e4c950"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/87475-cSTfn1AtwOzR.jpg",
+    "genres": [
+      "Action",
+      "Ecchi"
+    ],
+    "synonyms": [],
+    "averageScore": 61,
+    "meanScore": 62,
+    "popularity": 4785,
+    "trending": 2,
+    "favourites": 43,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "http://www.ikkitousen.com/ee/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.crunchyroll.com/ikki-tousen",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 11255,
+            "title": {
+              "romaji": "Ikkitousen: Shuugaku Toushi Keppuuroku",
+              "english": "Ikki Tousen: Shugaku Toshi Keppu-roku"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2011,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx11255-ObGBNXLoypoQ.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 105391,
+            "title": {
+              "romaji": "Ikkitousen: Western Wolves",
+              "english": "Ikki Tousen: Western Wolves"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2019,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx105391-j3FGJWjN9smU.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 30,
+        "name": "Martial Arts",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 779,
+        "name": "Kuudere",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 931,
+        "name": "Tomboy",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 38,
+            "name": "ARMS"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 1422,
+            "name": {
+              "full": "Hakufu Sonsaku",
+              "native": "孫策伯符"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95077,
+              "name": {
+                "full": "Masumi Asano",
+                "native": "浅野真澄"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 1423,
+            "name": {
+              "full": "Koukin Shuuyu",
+              "native": "周瑜公瑾"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95245,
+              "name": {
+                "full": "Satoshi Hino",
+                "native": "日野聡"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 3401,
+            "name": {
+              "full": "Kan'u Unchou",
+              "native": "関羽雲長"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95184,
+              "name": {
+                "full": "Hitomi Nabatame",
+                "native": "生天目仁美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 3548,
+            "name": {
+              "full": "Shimei Ryomou",
+              "native": "呂蒙子明"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95428,
+              "name": {
+                "full": "Yuuko Kaida",
+                "native": "甲斐田裕子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 6913,
+            "name": {
+              "full": "Ekitoku Chouhi",
+              "native": "張飛益德"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95053,
+              "name": {
+                "full": "Minori Chihara",
+                "native": "茅原実里"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 14702,
+            "name": {
+              "full": "Shiryuu Chouun",
+              "native": "趙雲子龍"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95119,
+              "name": {
+                "full": "Yuu Asakawa",
+                "native": "浅川悠"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 18682,
+            "name": {
+              "full": "Gentoku Ryuubi",
+              "native": "劉備 玄德"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95594,
+              "name": {
+                "full": "Kei Shindou",
+                "native": "真堂圭"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 18789,
+            "name": {
+              "full": "Koumei Shokatsuryou",
+              "native": "諸葛亮孔明"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95117,
+              "name": {
+                "full": "Mai Kadowaki",
+                "native": "門脇舞以"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 20628,
+            "name": {
+              "full": "Myousai Kakouen",
+              "native": "夏侯淵妙才"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95413,
+              "name": {
+                "full": "Eri Kitamura",
+                "native": "喜多村英梨"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 24754,
+            "name": {
+              "full": "Moutoku Sousou",
+              "native": "曹操孟徳"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 104684,
+              "name": {
+                "full": "Susumu Akagi",
+                "native": "赤城進"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787490076,
+    "idTmdb": 37584,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 413922,
+    "idShikimori": 26183
   }
 }

@@ -46,7 +46,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 78677,
-    "trending": 3,
+    "trending": 2,
     "favourites": 1491,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -541,7 +541,7 @@
         }
       ]
     },
-    "updatedAt": 1787486426,
+    "updatedAt": 1787490180,
     "idTmdb": 115236,
     "idImdb": "tt13049906",
     "idTvdb": 397831,
@@ -1821,7 +1821,7 @@
     "averageScore": 60,
     "meanScore": 60,
     "popularity": 7907,
-    "trending": 0,
+    "trending": 1,
     "favourites": 123,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2051,7 +2051,7 @@
         }
       ]
     },
-    "updatedAt": 1787483402,
+    "updatedAt": 1787490173,
     "idTmdb": 96120,
     "idImdb": null,
     "idTvdb": null,
@@ -4306,7 +4306,7 @@
     "averageScore": 53,
     "meanScore": 54,
     "popularity": 1626,
-    "trending": 0,
+    "trending": 1,
     "favourites": 18,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4467,7 +4467,7 @@
         }
       ]
     },
-    "updatedAt": 1787483444,
+    "updatedAt": 1787490201,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7196,7 +7196,7 @@
     "averageScore": 58,
     "meanScore": 58,
     "popularity": 7263,
-    "trending": 0,
+    "trending": 1,
     "favourites": 52,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7382,7 +7382,7 @@
         }
       ]
     },
-    "updatedAt": 1787483383,
+    "updatedAt": 1787490200,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9340,5 +9340,194 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 42889
+  },
+  "123078": {
+    "id": 123078,
+    "idMal": null,
+    "title": {
+      "romaji": "Animegatari x Shingeki no Kyojin Collab Eizou",
+      "english": null,
+      "native": "「アニメガタリ」×「進撃の巨人」コラボ映像"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "A collaboration work between Animegatari and Attack on Titan to promote the movie Attack on Titan Part II: Wings of Freedom.",
+    "episodes": 1,
+    "duration": 1,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 11
+    },
+    "endDate": {
+      "year": 2015,
+      "month": 7,
+      "day": 11
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123078-NnFwfTJRTMYA.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123078-NnFwfTJRTMYA.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx123078-NnFwfTJRTMYA.png",
+      "color": "#f1d6c9"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/123078-9odRkik3zad1.jpg",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "synonyms": [],
+    "averageScore": 48,
+    "meanScore": 51,
+    "popularity": 769,
+    "trending": 1,
+    "favourites": 5,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 105973,
+            "title": {
+              "romaji": "Anime-gatari",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b105973-4XG3FUCuKKKN.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 98607,
+            "title": {
+              "romaji": "Animegataris",
+              "english": "Anime-Gataris"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2017,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx98607-00IsY9yY7Aed.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6258,
+            "name": "W-Toon Studio"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 123598,
+            "name": {
+              "full": "Erika Aoyama",
+              "native": "青山絵里香"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118577,
+              "name": {
+                "full": "Anju Inami",
+                "native": "伊波杏樹"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 123856,
+            "name": {
+              "full": "Maya Asagaya",
+              "native": "阿佐ヶ谷麻耶"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106297,
+              "name": {
+                "full": "Inori Minase",
+                "native": "水瀬いのり"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 123898,
+            "name": {
+              "full": "Neko-senpai",
+              "native": "ネコ先輩"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106840,
+              "name": {
+                "full": "Hironori Kondou",
+                "native": "近藤浩徳"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 177401,
+            "name": {
+              "full": "Nishiazabu",
+              "native": "西麻布"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95186,
+              "name": {
+                "full": "Shintarou Asanuma",
+                "native": "浅沼晋太郎"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787490196,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }
