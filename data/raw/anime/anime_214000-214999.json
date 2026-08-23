@@ -314,7 +314,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1558,
-    "trending": 1,
+    "trending": 0,
     "favourites": 7,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -361,8 +361,8 @@
     },
     "tags": [
       {
-        "id": 63,
-        "name": "Space",
+        "id": 191,
+        "name": "Aliens",
         "rank": 79,
         "isMediaSpoiler": false
       },
@@ -373,8 +373,8 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 191,
-        "name": "Aliens",
+        "id": 63,
+        "name": "Space",
         "rank": 79,
         "isMediaSpoiler": false
       },
@@ -445,7 +445,7 @@
         }
       ]
     },
-    "updatedAt": 1787475686,
+    "updatedAt": 1787479300,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -550,12 +550,6 @@
     },
     "tags": [
       {
-        "id": 220,
-        "name": "Ghost",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 356,
         "name": "Gyaru",
         "rank": 20,
@@ -564,6 +558,12 @@
       {
         "id": 115,
         "name": "Idol",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 220,
+        "name": "Ghost",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -718,14 +718,14 @@
     },
     "tags": [
       {
-        "id": 400,
-        "name": "Fairy Tale",
+        "id": 98,
+        "name": "Female Protagonist",
         "rank": 20,
         "isMediaSpoiler": false
       },
       {
-        "id": 98,
-        "name": "Female Protagonist",
+        "id": 400,
+        "name": "Fairy Tale",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -843,7 +843,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 475,
-    "trending": 1,
+    "trending": 0,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -955,7 +955,7 @@
         }
       ]
     },
-    "updatedAt": 1787475682,
+    "updatedAt": 1787479300,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1386,14 +1386,14 @@
     },
     "tags": [
       {
-        "id": 77,
-        "name": "Gender Bending",
+        "id": 112,
+        "name": "Virtual World",
         "rank": 79,
         "isMediaSpoiler": false
       },
       {
-        "id": 112,
-        "name": "Virtual World",
+        "id": 77,
+        "name": "Gender Bending",
         "rank": 79,
         "isMediaSpoiler": false
       },
@@ -1404,14 +1404,8 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 308,
-        "name": "Video Games",
-        "rank": 60,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 74,
-        "name": "Vampire",
+        "id": 244,
+        "name": "Isekai",
         "rank": 60,
         "isMediaSpoiler": false
       },
@@ -1422,8 +1416,14 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 244,
-        "name": "Isekai",
+        "id": 74,
+        "name": "Vampire",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 308,
+        "name": "Video Games",
         "rank": 60,
         "isMediaSpoiler": false
       },
@@ -1506,7 +1506,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 5241,
-    "trending": 0,
+    "trending": 1,
     "favourites": 56,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1570,32 +1570,8 @@
     },
     "tags": [
       {
-        "id": 66,
-        "name": "Super Power",
-        "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 772,
-        "name": "Shapeshifting",
-        "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 82,
-        "name": "Male Protagonist",
-        "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 100,
-        "name": "Nudity",
-        "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 98,
-        "name": "Female Protagonist",
+        "id": 23,
+        "name": "Female Harem",
         "rank": 79,
         "isMediaSpoiler": false
       },
@@ -1606,8 +1582,32 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 23,
-        "name": "Female Harem",
+        "id": 66,
+        "name": "Super Power",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 772,
+        "name": "Shapeshifting",
         "rank": 79,
         "isMediaSpoiler": false
       }
@@ -1663,7 +1663,7 @@
         }
       ]
     },
-    "updatedAt": 1787475671,
+    "updatedAt": 1787479274,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1858,7 +1858,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1872,
-    "trending": 0,
+    "trending": 2,
     "favourites": 12,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1937,7 +1937,7 @@
         }
       ]
     },
-    "updatedAt": 1787475696,
+    "updatedAt": 1787479214,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1987,7 +1987,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1850,
-    "trending": 0,
+    "trending": 1,
     "favourites": 14,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2046,14 +2046,14 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 46,
-        "name": "School",
+        "id": 1045,
+        "name": "Heterosexual",
         "rank": 20,
         "isMediaSpoiler": false
       },
       {
-        "id": 1045,
-        "name": "Heterosexual",
+        "id": 46,
+        "name": "School",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -2103,7 +2103,7 @@
         }
       ]
     },
-    "updatedAt": 1787475689,
+    "updatedAt": 1787479289,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2562,6 +2562,48 @@
     },
     "tags": [
       {
+        "id": 146,
+        "name": "Alternate Universe",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 43,
+        "name": "Swordplay",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1292,
+        "name": "Spearplay",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 305,
+        "name": "Ships",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 536,
+        "name": "Dissociative Identities",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1455,
+        "name": "Fairy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 251,
         "name": "Archery",
         "rank": 79,
@@ -2586,56 +2628,14 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 146,
-        "name": "Alternate Universe",
-        "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 29,
-        "name": "Magic",
-        "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 1455,
-        "name": "Fairy",
-        "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 536,
-        "name": "Dissociative Identities",
-        "rank": 79,
-        "isMediaSpoiler": true
-      },
-      {
-        "id": 305,
-        "name": "Ships",
+        "id": 517,
+        "name": "Artificial Intelligence",
         "rank": 79,
         "isMediaSpoiler": false
       },
       {
         "id": 704,
         "name": "Dinosaurs",
-        "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 1292,
-        "name": "Spearplay",
-        "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 43,
-        "name": "Swordplay",
-        "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 517,
-        "name": "Artificial Intelligence",
         "rank": 79,
         "isMediaSpoiler": false
       }
@@ -2892,10 +2892,22 @@
     },
     "tags": [
       {
+        "id": 122,
+        "name": "Trains",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 482,
         "name": "Ero Guro",
         "rank": 20,
         "isMediaSpoiler": true
+      },
+      {
+        "id": 93,
+        "name": "Post-Apocalyptic",
+        "rank": 20,
+        "isMediaSpoiler": false
       },
       {
         "id": 128,
@@ -2912,18 +2924,6 @@
       {
         "id": 157,
         "name": "Guns",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 93,
-        "name": "Post-Apocalyptic",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 122,
-        "name": "Trains",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -3135,7 +3135,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1793286000,
-      "timeUntilAiring": 5809335,
+      "timeUntilAiring": 5805676,
       "episode": 1
     },
     "relations": {
@@ -3563,7 +3563,7 @@
     ],
     "averageScore": null,
     "meanScore": 73,
-    "popularity": 121,
+    "popularity": 122,
     "trending": 1,
     "favourites": 2,
     "isAdult": false,
@@ -3670,7 +3670,7 @@
         }
       ]
     },
-    "updatedAt": 1787468454,
+    "updatedAt": 1787479227,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3724,7 +3724,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1166,
-    "trending": 0,
+    "trending": 1,
     "favourites": 6,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3791,7 +3791,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787475667,
+    "updatedAt": 1787479276,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4261,7 +4261,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 684,
-    "trending": 1,
+    "trending": 0,
     "favourites": 6,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4314,7 +4314,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787475706,
+    "updatedAt": 1787479300,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -5344,32 +5344,14 @@
     },
     "tags": [
       {
-        "id": 281,
-        "name": "Surreal Comedy",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 322,
         "name": "Assassins",
         "rank": 20,
         "isMediaSpoiler": false
       },
       {
-        "id": 82,
-        "name": "Male Protagonist",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 157,
-        "name": "Guns",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 43,
-        "name": "Swordplay",
+        "id": 50,
+        "name": "Seinen",
         "rank": 20,
         "isMediaSpoiler": false
       },
@@ -5380,8 +5362,26 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 50,
-        "name": "Seinen",
+        "id": 43,
+        "name": "Swordplay",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -5503,7 +5503,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1794061800,
-      "timeUntilAiring": 6585135,
+      "timeUntilAiring": 6581476,
       "episode": 1
     },
     "relations": {
@@ -6013,14 +6013,14 @@
     },
     "tags": [
       {
-        "id": 142,
-        "name": "Food",
+        "id": 98,
+        "name": "Female Protagonist",
         "rank": 60,
         "isMediaSpoiler": false
       },
       {
-        "id": 98,
-        "name": "Female Protagonist",
+        "id": 142,
+        "name": "Food",
         "rank": 60,
         "isMediaSpoiler": false
       }
@@ -6501,7 +6501,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1790987400,
-      "timeUntilAiring": 3510734,
+      "timeUntilAiring": 3507076,
       "episode": 1
     },
     "relations": {
@@ -6527,8 +6527,8 @@
     },
     "tags": [
       {
-        "id": 1304,
-        "name": "Anthropomorphism",
+        "id": 28,
+        "name": "Kids",
         "rank": 20,
         "isMediaSpoiler": false
       },
@@ -6539,8 +6539,8 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 28,
-        "name": "Kids",
+        "id": 1304,
+        "name": "Anthropomorphism",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -6709,8 +6709,8 @@
     },
     "tags": [
       {
-        "id": 323,
-        "name": "Stop Motion",
+        "id": 10,
+        "name": "Cars",
         "rank": 20,
         "isMediaSpoiler": false
       },
@@ -6721,8 +6721,8 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 10,
-        "name": "Cars",
+        "id": 323,
+        "name": "Stop Motion",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -6911,7 +6911,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 559,
-    "trending": 1,
+    "trending": 0,
     "favourites": 7,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7015,7 +7015,7 @@
         }
       ]
     },
-    "updatedAt": 1787475707,
+    "updatedAt": 1787479300,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7493,14 +7493,14 @@
     },
     "tags": [
       {
-        "id": 75,
-        "name": "Boys' Love",
+        "id": 82,
+        "name": "Male Protagonist",
         "rank": 20,
         "isMediaSpoiler": false
       },
       {
-        "id": 82,
-        "name": "Male Protagonist",
+        "id": 75,
+        "name": "Boys' Love",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -7938,8 +7938,8 @@
     },
     "tags": [
       {
-        "id": 53,
-        "name": "Shoujo",
+        "id": 233,
+        "name": "Youkai",
         "rank": 20,
         "isMediaSpoiler": false
       },
@@ -7950,8 +7950,8 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 233,
-        "name": "Youkai",
+        "id": 53,
+        "name": "Shoujo",
         "rank": 20,
         "isMediaSpoiler": false
       }
