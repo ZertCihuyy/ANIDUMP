@@ -42,7 +42,7 @@
     "averageScore": 76,
     "meanScore": 77,
     "popularity": 42203,
-    "trending": 0,
+    "trending": 2,
     "favourites": 719,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -499,7 +499,7 @@
         }
       ]
     },
-    "updatedAt": 1787443375,
+    "updatedAt": 1787450437,
     "idTmdb": 46279,
     "idImdb": "tt2259737",
     "idTvdb": 257756,
@@ -549,7 +549,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 40855,
-    "trending": 0,
+    "trending": 1,
     "favourites": 268,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1041,7 +1041,7 @@
         }
       ]
     },
-    "updatedAt": 1787443375,
+    "updatedAt": 1787446889,
     "idTmdb": 45211,
     "idImdb": "tt2242720",
     "idTvdb": 259634,
@@ -2301,7 +2301,7 @@
         }
       ]
     },
-    "updatedAt": 1787439709,
+    "updatedAt": 1787448850,
     "idTmdb": 62171,
     "idImdb": "tt2269368",
     "idTvdb": 259649,
@@ -2358,7 +2358,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 177367,
-    "trending": 2,
+    "trending": 3,
     "favourites": 6201,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3085,7 +3085,7 @@
         }
       ]
     },
-    "updatedAt": 1787443374,
+    "updatedAt": 1787450458,
     "idTmdb": 53052,
     "idImdb": "tt2309320",
     "idTvdb": 262838,
@@ -3269,7 +3269,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 72965,
-    "trending": 1,
+    "trending": 0,
     "favourites": 811,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3644,7 +3644,7 @@
         }
       ]
     },
-    "updatedAt": 1787443375,
+    "updatedAt": 1787448886,
     "idTmdb": 118406,
     "idImdb": "tt2290828",
     "idTvdb": null,
@@ -3968,7 +3968,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 78151,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1249,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4441,7 +4441,7 @@
         }
       ]
     },
-    "updatedAt": 1787443375,
+    "updatedAt": 1787450486,
     "idTmdb": 34742,
     "idImdb": "tt1216222",
     "idTvdb": 81831,
@@ -4495,7 +4495,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 354270,
-    "trending": 4,
+    "trending": 7,
     "favourites": 14468,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5190,7 +5190,7 @@
         }
       ]
     },
-    "updatedAt": 1787443375,
+    "updatedAt": 1787450431,
     "idTmdb": 43865,
     "idImdb": "tt2379308",
     "idTvdb": 262090,
@@ -5245,7 +5245,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 92850,
-    "trending": 0,
+    "trending": 2,
     "favourites": 774,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5748,7 +5748,7 @@
         }
       ]
     },
-    "updatedAt": 1787436143,
+    "updatedAt": 1787450493,
     "idTmdb": 56353,
     "idImdb": "tt1751305",
     "idTvdb": 194961,
@@ -6793,7 +6793,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 275627,
-    "trending": 10,
+    "trending": 3,
     "favourites": 9434,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7250,7 +7250,7 @@
         }
       ]
     },
-    "updatedAt": 1787443376,
+    "updatedAt": 1787450457,
     "idTmdb": 50325,
     "idImdb": "tt2296348",
     "idTvdb": 262114,
@@ -7611,7 +7611,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 17583,
-    "trending": 0,
+    "trending": 1,
     "favourites": 493,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7973,7 +7973,7 @@
         }
       ]
     },
-    "updatedAt": 1787403874,
+    "updatedAt": 1787446907,
     "idTmdb": 42912,
     "idImdb": "tt2189248",
     "idTvdb": 146401,
@@ -8347,7 +8347,7 @@
         }
       ]
     },
-    "updatedAt": 1787439734,
+    "updatedAt": 1787450509,
     "idTmdb": 304023,
     "idImdb": "tt2859246",
     "idTvdb": null,
@@ -8419,7 +8419,13 @@
               "romaji": "Sakasama no Patema",
               "english": "Patema Inverted"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2013,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx12477-KtZm8BuvrPYo.jpg"
+            }
           }
         }
       ]
@@ -8536,7 +8542,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787450509,
+    "idTmdb": 100068,
+    "idImdb": "tt3729646",
+    "idTvdb": 264235,
+    "idTrakt": 72159,
+    "traktSlug": "patema-inverted-beginning-of-the-day",
+    "idSimkl": null,
+    "idShikimori": 13429
   },
   "13441": {
     "id": 13441,
@@ -9982,7 +9995,7 @@
     "averageScore": 60,
     "meanScore": 60,
     "popularity": 45183,
-    "trending": 1,
+    "trending": 0,
     "favourites": 295,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10358,7 +10371,7 @@
         }
       ]
     },
-    "updatedAt": 1787443375,
+    "updatedAt": 1787446922,
     "idTmdb": 45277,
     "idImdb": "tt2293988",
     "idTvdb": 259645,
@@ -10413,7 +10426,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 13304,
-    "trending": 1,
+    "trending": 0,
     "favourites": 99,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10688,7 +10701,7 @@
         }
       ]
     },
-    "updatedAt": 1787443375,
+    "updatedAt": 1787446922,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -10737,7 +10750,7 @@
     "averageScore": 72,
     "meanScore": 73,
     "popularity": 13595,
-    "trending": 0,
+    "trending": 1,
     "favourites": 174,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10972,7 +10985,7 @@
         }
       ]
     },
-    "updatedAt": 1787432548,
+    "updatedAt": 1787448873,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -12420,7 +12433,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 69983,
-    "trending": 3,
+    "trending": 0,
     "favourites": 877,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -12967,7 +12980,7 @@
         }
       ]
     },
-    "updatedAt": 1787443375,
+    "updatedAt": 1787446922,
     "idTmdb": 53715,
     "idImdb": "tt2309408",
     "idTvdb": 259638,
@@ -14865,7 +14878,7 @@
     "averageScore": 54,
     "meanScore": 55,
     "popularity": 2970,
-    "trending": 1,
+    "trending": 0,
     "favourites": 24,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -15152,7 +15165,7 @@
         }
       ]
     },
-    "updatedAt": 1787439674,
+    "updatedAt": 1787446922,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -15543,7 +15556,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 64452,
-    "trending": 0,
+    "trending": 2,
     "favourites": 665,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -15890,7 +15903,7 @@
         }
       ]
     },
-    "updatedAt": 1787443374,
+    "updatedAt": 1787450436,
     "idTmdb": 211755,
     "idImdb": "tt2918988",
     "idTvdb": null,
@@ -19764,7 +19777,7 @@
     "averageScore": 72,
     "meanScore": 73,
     "popularity": 5130,
-    "trending": 0,
+    "trending": 1,
     "favourites": 45,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -20120,7 +20133,7 @@
         }
       ]
     },
-    "updatedAt": 1787436143,
+    "updatedAt": 1787448860,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -20198,5 +20211,495 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 13051
+  },
+  "13559": {
+    "id": 13559,
+    "idMal": 13559,
+    "title": {
+      "romaji": "Lovely Day: Boku to Kanojo no Nanoka Kan",
+      "english": "Lovely Day: Boku to Kanojo no Nanoka Kan",
+      "native": "ラブリディ ～僕と彼女の七日間～"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "An incest story about two cousins who only have a week together.",
+    "episodes": 1,
+    "duration": 19,
+    "season": "SPRING",
+    "seasonYear": 2012,
+    "startDate": {
+      "year": 2012,
+      "month": 3,
+      "day": 23
+    },
+    "endDate": {
+      "year": 2012,
+      "month": 3,
+      "day": 23
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13559-AIMOztq20TCQ.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13559-AIMOztq20TCQ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/13559-AIMOztq20TCQ.jpg",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [],
+    "averageScore": 53,
+    "meanScore": 54,
+    "popularity": 1272,
+    "trending": 1,
+    "favourites": 14,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 11855,
+            "title": {
+              "romaji": "Houkago Nyannyan",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2011,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/11855.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 4079,
+            "name": "Studio 9 Maiami"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6093,
+            "name": "Queen Bee"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787450504,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 13559
+  },
+  "13231": {
+    "id": 13231,
+    "idMal": 13231,
+    "title": {
+      "romaji": "Metal Fight Beyblade ZERO G",
+      "english": "Beyblade: Shogun Steel",
+      "native": "メタルファイト ベイブレード ZEROG"
+    },
+    "type": "ANIME",
+    "format": "TV_SHORT",
+    "status": "FINISHED",
+    "description": "Seven years after the Nemesis Crisis, much of the world has been devastated and ruined after the tragic fighting. As a result, most people lost faith and interest in Beyblading. Tsubasa Ootori, who became leader of the WBBA, made it his life goal to ensure humanity could restore itself, as well as restore the popularity of Beyblading. Together with the mechanic Madoka Amano, he created the Zero-G battling style as a result, and hopes a new generation of bladers will rise up to accept the sport once again. One of these is a teenager named Zero Kurogane, who aims to become the top blader after having a destined encounter with the hero of the Nemesis Crisis, Ginga Hagane.",
+    "episodes": 38,
+    "duration": 12,
+    "season": "SPRING",
+    "seasonYear": 2012,
+    "startDate": {
+      "year": 2012,
+      "month": 4,
+      "day": 8
+    },
+    "endDate": {
+      "year": 2012,
+      "month": 12,
+      "day": 23
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13231-l2tS23CDbinP.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx13231-l2tS23CDbinP.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx13231-l2tS23CDbinP.jpg",
+      "color": "#f17828"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure",
+      "Sports"
+    ],
+    "synonyms": [],
+    "averageScore": 57,
+    "meanScore": 57,
+    "popularity": 5339,
+    "trending": 1,
+    "favourites": 48,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/channel/UCZKpePQA0dDV1tv73RhKBKQ/playlists",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 10370,
+            "title": {
+              "romaji": "Metal Fight Beyblade 4D",
+              "english": "Beyblade: Metal Fury"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2011,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b10370-n5ExIZxIvp1P.png"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 136110,
+            "title": {
+              "romaji": "Metal Fight Beyblade ZERO G Specials",
+              "english": "Beyblade: Shogun Steel Specials"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2013,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b136110-sDzQOOwVtxyj.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 153443,
+            "title": {
+              "romaji": "Metal Fight Beyblade ZERO G",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx153443-7sAZFAwwdluF.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 288,
+            "title": {
+              "romaji": "Bakuten Shoot Beyblade",
+              "english": "Beyblade"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2001,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b288-QLBdXz8n34yP.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 90,
+        "name": "CGI",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1490,
+        "name": "Proxy Battle",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 28,
+        "name": "Kids",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 517,
+        "name": "Artificial Intelligence",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 103,
+            "name": "Tatsunoko Production"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 118,
+            "name": "SynergySP"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6466,
+            "name": "Nelvana"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 62,
+            "name": "Shogakukan-Shueisha Productions"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 62107,
+            "name": {
+              "full": "Zero Kurogane",
+              "native": "黒銀ゼロ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95270,
+              "name": {
+                "full": "Nobuhiko Okamoto",
+                "native": "岡本信彦"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 62111,
+            "name": {
+              "full": "Shinobu Hiryuin",
+              "native": "火竜院忍"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96764,
+              "name": {
+                "full": "Kouki Uchiyama",
+                "native": "内山昂輝"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 62113,
+            "name": {
+              "full": "Eight Unabara",
+              "native": "海原エイト"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95716,
+              "name": {
+                "full": "Yuuki Kodaira",
+                "native": "小平有希"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 62683,
+            "name": {
+              "full": "Kite Unabara",
+              "native": "海原カイト"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95494,
+              "name": {
+                "full": "Takuma Terashima",
+                "native": "寺島拓篤"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 84859,
+            "name": {
+              "full": "Ren Kurenai",
+              "native": "紅蓮"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100607,
+              "name": {
+                "full": "Kanae Oki",
+                "native": "沖佳苗"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 191865,
+            "name": {
+              "full": "Kira Hayama",
+              "native": "破山キラ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100626,
+              "name": {
+                "full": "Yoshimasa Hosoya",
+                "native": "細谷佳正"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 22337,
+            "name": {
+              "full": "Ginga Hagane",
+              "native": "鋼銀河"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95930,
+              "name": {
+                "full": "Aki Kanada",
+                "native": "金田アキ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 23295,
+            "name": {
+              "full": "Madoka Amano",
+              "native": "天野まどか"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95594,
+              "name": {
+                "full": "Kei Shindou",
+                "native": "真堂圭"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 25689,
+            "name": {
+              "full": "Tsubasa Ootori",
+              "native": "大鳥翼"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95088,
+              "name": {
+                "full": "Miyu Irino",
+                "native": "入野自由"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 62109,
+            "name": {
+              "full": "Mal",
+              "native": "マル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106404,
+              "name": {
+                "full": "Sumire Morohoshi",
+                "native": "諸星すみれ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787448864,
+    "idTmdb": 37807,
+    "idImdb": "tt1674928",
+    "idTvdb": 387655,
+    "idTrakt": 166214,
+    "traktSlug": "beyblade-metal",
+    "idSimkl": 40734,
+    "idShikimori": 13231
   }
 }
