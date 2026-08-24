@@ -759,7 +759,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 21604,
-    "trending": 2,
+    "trending": 4,
     "favourites": 373,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1144,7 +1144,7 @@
         }
       ]
     },
-    "updatedAt": 1787583702,
+    "updatedAt": 1787587293,
     "idTmdb": 304820,
     "idImdb": "tt39122552",
     "idTvdb": 469985,
@@ -1198,7 +1198,7 @@
     "averageScore": 74,
     "meanScore": 79,
     "popularity": 4535,
-    "trending": 3,
+    "trending": 6,
     "favourites": 96,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1233,7 +1233,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787834400,
-      "timeUntilAiring": 248845,
+      "timeUntilAiring": 245521,
       "episode": 9
     },
     "relations": {
@@ -1570,7 +1570,7 @@
         }
       ]
     },
-    "updatedAt": 1787583696,
+    "updatedAt": 1787587244,
     "idTmdb": 110837,
     "idImdb": "tt13192574",
     "idTvdb": 392195,
@@ -1624,7 +1624,7 @@
     "averageScore": 70,
     "meanScore": 71,
     "popularity": 38967,
-    "trending": 76,
+    "trending": 77,
     "favourites": 574,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1659,7 +1659,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788025080,
-      "timeUntilAiring": 439422,
+      "timeUntilAiring": 436131,
       "episode": 9
     },
     "relations": {
@@ -1995,7 +1995,7 @@
         }
       ]
     },
-    "updatedAt": 1787583661,
+    "updatedAt": 1787587207,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2063,7 +2063,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 59390,
-    "trending": 5,
+    "trending": 7,
     "favourites": 4112,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2633,7 +2633,7 @@
         }
       ]
     },
-    "updatedAt": 1787580028,
+    "updatedAt": 1787587211,
     "idTmdb": 1575337,
     "idImdb": "tt38872297",
     "idTvdb": null,
@@ -3378,7 +3378,7 @@
     "averageScore": 59,
     "meanScore": 62,
     "popularity": 674,
-    "trending": 0,
+    "trending": 1,
     "favourites": 24,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3505,7 +3505,7 @@
         }
       ]
     },
-    "updatedAt": 1787580159,
+    "updatedAt": 1787587314,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3931,6 +3931,172 @@
     "idTrakt": null,
     "traktSlug": null,
     "idSimkl": 2918498,
+    "idShikimori": null
+  },
+  "201910": {
+    "id": 201910,
+    "idMal": null,
+    "title": {
+      "romaji": "Oshiri Dandy the Young",
+      "english": null,
+      "native": "おしりダンディ ザ・ヤング"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "RELEASING",
+    "description": null,
+    "episodes": null,
+    "duration": null,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 4,
+      "day": 4
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201910-yulAeyMQbbvw.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201910-yulAeyMQbbvw.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201910-yulAeyMQbbvw.png",
+      "color": "#50d6fe"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 33,
+    "popularity": 114,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "ClHFIN462aw",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/ClHFIN462aw/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 115081,
+            "title": {
+              "romaji": "Oshiri Dandy The Young",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx115081-CbYJ6gdQxhVM.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 100790,
+            "title": {
+              "romaji": "Oshiri Tantei",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2018,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx100790-2fDgKG7PWaWD.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 159279,
+            "name": {
+              "full": "Dandy Oshiri ",
+              "native": "おしりダンディ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95245,
+              "name": {
+                "full": "Satoshi Hino",
+                "native": "日野聡"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 358431,
+            "name": {
+              "full": "Oshiri Tantei",
+              "native": "おしりたんてい"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 358764,
+            "name": {
+              "full": "Brown",
+              "native": "ブラウン"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 394293,
+            "name": {
+              "full": "Hehe",
+              "native": "へーへー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105071,
+              "name": {
+                "full": "Mikako Komatsu",
+                "native": "小松未可子"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787587221,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
     "idShikimori": null
   }
 }
