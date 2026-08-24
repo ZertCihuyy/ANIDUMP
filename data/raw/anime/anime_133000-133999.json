@@ -46,7 +46,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 52956,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1193,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -505,7 +505,7 @@
         }
       ]
     },
-    "updatedAt": 1787544126,
+    "updatedAt": 1787565674,
     "idTmdb": 610150,
     "idImdb": "tt14614892",
     "idTvdb": null,
@@ -564,7 +564,7 @@
     "averageScore": 62,
     "meanScore": 62,
     "popularity": 56241,
-    "trending": 2,
+    "trending": 1,
     "favourites": 641,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1089,7 +1089,7 @@
         }
       ]
     },
-    "updatedAt": 1787558434,
+    "updatedAt": 1787565660,
     "idTmdb": 124363,
     "idImdb": "tt15766292",
     "idTvdb": 401920,
@@ -2456,7 +2456,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 318402,
-    "trending": 4,
+    "trending": 10,
     "favourites": 9028,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2911,7 +2911,7 @@
         }
       ]
     },
-    "updatedAt": 1787554855,
+    "updatedAt": 1787565612,
     "idTmdb": 123876,
     "idImdb": "tt14626352",
     "idTvdb": 402412,
@@ -2966,7 +2966,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 176752,
-    "trending": 3,
+    "trending": 7,
     "favourites": 4820,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3536,7 +3536,7 @@
         }
       ]
     },
-    "updatedAt": 1787554860,
+    "updatedAt": 1787565620,
     "idTmdb": 64196,
     "idImdb": "tt4869896",
     "idTvdb": 294002,
@@ -5227,7 +5227,7 @@
     "averageScore": 74,
     "meanScore": 76,
     "popularity": 1639,
-    "trending": 1,
+    "trending": 0,
     "favourites": 36,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5268,7 +5268,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787558470,
+    "updatedAt": 1787565712,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6791,5 +6791,253 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 55594
+  },
+  "133146": {
+    "id": 133146,
+    "idMal": null,
+    "title": {
+      "romaji": "Monogatari wo kimi e. #2 - Fukakai 2 Q2 Ending Animation",
+      "english": null,
+      "native": "物語を君へ。#2 -不可解弐Q2 エンディングアニメーション-"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "An anime short that was shown at the end of virtual singer KAF’s <i>2nd ONE-MAN LIVE Fukakai 2 Q2</i> online concert.",
+    "episodes": 1,
+    "duration": 1,
+    "season": "SPRING",
+    "seasonYear": 2021,
+    "startDate": {
+      "year": 2021,
+      "month": 3,
+      "day": 13
+    },
+    "endDate": {
+      "year": 2021,
+      "month": 3,
+      "day": 13
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133146-ZB6OmDiMTD1D.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx133146-ZB6OmDiMTD1D.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx133146-ZB6OmDiMTD1D.png",
+      "color": "#f17850"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Music"
+    ],
+    "synonyms": [],
+    "averageScore": 55,
+    "meanScore": 61,
+    "popularity": 509,
+    "trending": 1,
+    "favourites": 15,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "vBnSA-zKb0I",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/vBnSA-zKb0I/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=vBnSA-zKb0I",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "http://fukakai2.kamitsubaki.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 127041,
+            "title": {
+              "romaji": "Monogatari wo kimi e. - Fukakai 2 Q1 Ending Animation",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2020,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx127041-HR9Q2iimt3ql.png"
+            }
+          }
+        },
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 136128,
+            "title": {
+              "romaji": "Dennou",
+              "english": "Cyberbrains"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx136128-owivWjBw83qq.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1047,
+        "name": "VTuber",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6687,
+            "name": "FLAT STUDIO"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6688,
+            "name": "KAMITSUBAKI STUDIO"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 199204,
+            "name": {
+              "full": "KAF",
+              "native": "花譜"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 168254,
+              "name": {
+                "full": "KAF",
+                "native": "花譜"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 199205,
+            "name": {
+              "full": "RIM",
+              "native": "理芽"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 249497,
+              "name": {
+                "full": "RIM",
+                "native": "理芽"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 199206,
+            "name": {
+              "full": "HARUSARUHI",
+              "native": "春猿火"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 262530,
+              "name": {
+                "full": "Harusaruhi",
+                "native": "春猿火"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 199207,
+            "name": {
+              "full": "ISEKAIJOUCHO",
+              "native": "ヰ世界情緒"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 273976,
+              "name": {
+                "full": "Isekaijoucho",
+                "native": "ヰ世界情緒"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 221276,
+            "name": {
+              "full": "KOKO",
+              "native": "幸祜"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 250353,
+              "name": {
+                "full": "KOKO",
+                "native": "幸祜"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787565682,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }

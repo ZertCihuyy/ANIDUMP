@@ -290,7 +290,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 21366,
-    "trending": 3,
+    "trending": 4,
     "favourites": 286,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -325,7 +325,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1790262000,
-      "timeUntilAiring": 2697834,
+      "timeUntilAiring": 2694530,
       "episode": 1
     },
     "relations": {
@@ -553,7 +553,7 @@
         }
       ]
     },
-    "updatedAt": 1787562331,
+    "updatedAt": 1787565638,
     "idTmdb": 45790,
     "idImdb": "tt2359704",
     "idTvdb": 262954,
@@ -1409,7 +1409,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 54396,
-    "trending": 184,
+    "trending": 159,
     "favourites": 1024,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1444,7 +1444,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788076800,
-      "timeUntilAiring": 512635,
+      "timeUntilAiring": 509289,
       "episode": 9
     },
     "relations": {
@@ -1775,7 +1775,7 @@
         }
       ]
     },
-    "updatedAt": 1787562361,
+    "updatedAt": 1787565605,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1985,7 +1985,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 4457,
-    "trending": 0,
+    "trending": 1,
     "favourites": 25,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2122,7 +2122,7 @@
         }
       ]
     },
-    "updatedAt": 1787562355,
+    "updatedAt": 1787565696,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2468,7 +2468,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787751000,
-      "timeUntilAiring": 186834,
+      "timeUntilAiring": 183453,
       "episode": 14
     },
     "relations": {
@@ -4320,5 +4320,109 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 63854
+  },
+  "210465": {
+    "id": 210465,
+    "idMal": 62715,
+    "title": {
+      "romaji": "Sheng Xu",
+      "english": null,
+      "native": "圣墟"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "NOT_YET_RELEASED",
+    "description": "The vast sea turns to dust, the thunder and lightning cease, and the mist approaches the earth once again. The shackles of the world are once again unlocked, and a brand new world unveils a mysterious corner...<br><br>(Source: Tencent, translated)",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2026,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210465-nfyPPD27dou5.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210465-nfyPPD27dou5.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210465-nfyPPD27dou5.jpg",
+      "color": "#f1bb5d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "The Sacred Ruins"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 143,
+    "trending": 1,
+    "favourites": 3,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://v.qq.com/x/cover/mzc002005skjl5b/k4101ce0qi1.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://m.weibo.cn/u/2116992501",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6448,
+            "name": "Build Dream"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6382,
+            "name": "Tencent Penguin Pictures"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787565652,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 62715
   }
 }
