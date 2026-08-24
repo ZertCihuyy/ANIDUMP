@@ -17204,8 +17204,8 @@
     ],
     "averageScore": 76,
     "meanScore": 76,
-    "popularity": 29694,
-    "trending": 3,
+    "popularity": 29709,
+    "trending": 1,
     "favourites": 643,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -17744,7 +17744,7 @@
         }
       ]
     },
-    "updatedAt": 1787497627,
+    "updatedAt": 1787537819,
     "idTmdb": 5857,
     "idImdb": "tt1216150",
     "idTvdb": 81086,
@@ -43219,8 +43219,8 @@
     ],
     "averageScore": 71,
     "meanScore": 71,
-    "popularity": 25920,
-    "trending": 1,
+    "popularity": 25924,
+    "trending": 2,
     "favourites": 273,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -43582,7 +43582,7 @@
         }
       ]
     },
-    "updatedAt": 1787486496,
+    "updatedAt": 1787537799,
     "idTmdb": 37264,
     "idImdb": "tt1245698",
     "idTvdb": 82884,
@@ -90230,5 +90230,302 @@
     "traktSlug": "dogtanian-and-the-three-muskehounds",
     "idSimkl": 36506,
     "idShikimori": 3761
+  },
+  "3152": {
+    "id": 3152,
+    "idMal": 3152,
+    "title": {
+      "romaji": "Download: Namu Amida Butsu wa Ai no Uta",
+      "english": null,
+      "native": "ダウンロード -南無阿弥陀仏は愛の詩-"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "An exciting cyberpunk romp directed by Rintaro with veteran animator Kanada Yoshinori about a genius hacker and a gang of hot-rodders.",
+    "episodes": 1,
+    "duration": 47,
+    "season": "FALL",
+    "seasonYear": 1992,
+    "startDate": {
+      "year": 1992,
+      "month": 12,
+      "day": 18
+    },
+    "endDate": {
+      "year": 1992,
+      "month": 12,
+      "day": 18
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3152.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3152.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3152.jpg",
+      "color": "#e4d628"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3152-WmTaMyZ46y6p.jpg",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "Download: Devil's Circuit",
+      "Download: Song in Loving Homage to Amida Buddha"
+    ],
+    "averageScore": 59,
+    "meanScore": 60,
+    "popularity": 3490,
+    "trending": 1,
+    "favourites": 32,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 108,
+        "name": "Cyberpunk",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 386,
+        "name": "Software Development",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 615,
+        "name": "Death Game",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 173,
+        "name": "Motorcycles",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 489,
+        "name": "Drugs",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 11,
+            "name": "MADHOUSE"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6905,
+            "name": "NEC Avenue"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6906,
+            "name": "Sofix"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 241304,
+            "name": {
+              "full": "Sid",
+              "native": "シド"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95129,
+              "name": {
+                "full": "Toshihiko Seki",
+                "native": "関俊彦"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 241305,
+            "name": {
+              "full": "Namiho",
+              "native": "ナミホ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95571,
+              "name": {
+                "full": "Mami Koyama",
+                "native": "小山茉美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 241306,
+            "name": {
+              "full": "Youko",
+              "native": "ヨーコ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96408,
+              "name": {
+                "full": "Shino Kakinuma",
+                "native": "柿沼紫乃"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 241312,
+            "name": {
+              "full": "Shun",
+              "native": "シュン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 241313,
+              "name": {
+                "full": "Shinichirou Hara",
+                "native": "原慎一郎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 241307,
+            "name": {
+              "full": "Echigoya",
+              "native": "エチゴヤ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96036,
+              "name": {
+                "full": "Seizou Katou",
+                "native": "加藤精三"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 241308,
+            "name": {
+              "full": "Youko no Chichi",
+              "native": "ヨーコの父"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105076,
+              "name": {
+                "full": "Kouichi Kitamura",
+                "native": "北村弘一 "
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 241309,
+            "name": {
+              "full": "Kyokuchou",
+              "native": "局長"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95357,
+              "name": {
+                "full": "Unshou Ishizuka",
+                "native": "石塚運昇"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 241310,
+            "name": {
+              "full": "Pinky",
+              "native": "ピンキー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95629,
+              "name": {
+                "full": "Issei Futamata",
+                "native": "二又一成"
+              }
+            }
+          ]
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 241311,
+            "name": {
+              "full": "Angel",
+              "native": "エンジェル"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787537778,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 1571691,
+    "idShikimori": 3152
   }
 }
