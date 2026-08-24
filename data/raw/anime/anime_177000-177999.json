@@ -4002,7 +4002,7 @@
     "averageScore": 75,
     "meanScore": 75,
     "popularity": 29519,
-    "trending": 1,
+    "trending": 2,
     "favourites": 662,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4554,7 +4554,7 @@
         }
       ]
     },
-    "updatedAt": 1787554908,
+    "updatedAt": 1787558469,
     "idTmdb": 278050,
     "idImdb": "tt35351359",
     "idTvdb": 449306,
@@ -7101,7 +7101,7 @@
     "averageScore": 64,
     "meanScore": 64,
     "popularity": 56121,
-    "trending": 3,
+    "trending": 2,
     "favourites": 876,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7537,7 +7537,7 @@
         }
       ]
     },
-    "updatedAt": 1787547696,
+    "updatedAt": 1787558473,
     "idTmdb": 258994,
     "idImdb": "tt32550272",
     "idTvdb": 449988,
@@ -7595,7 +7595,7 @@
     "averageScore": 87,
     "meanScore": 87,
     "popularity": 49451,
-    "trending": 4,
+    "trending": 2,
     "favourites": 3103,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8001,7 +8001,7 @@
         }
       ]
     },
-    "updatedAt": 1787551257,
+    "updatedAt": 1787558488,
     "idTmdb": 253476,
     "idImdb": "tt32336365",
     "idTvdb": 449723,
@@ -8085,7 +8085,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788103800,
-      "timeUntilAiring": 542987,
+      "timeUntilAiring": 539378,
       "episode": 9
     },
     "relations": {
@@ -11922,7 +11922,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787666400,
-      "timeUntilAiring": 105600,
+      "timeUntilAiring": 101989,
       "episode": 8
     },
     "relations": {
@@ -13608,7 +13608,7 @@
     "averageScore": 52,
     "meanScore": 52,
     "popularity": 24499,
-    "trending": 2,
+    "trending": 0,
     "favourites": 322,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13911,7 +13911,7 @@
         }
       ]
     },
-    "updatedAt": 1787554872,
+    "updatedAt": 1787558520,
     "idTmdb": 254174,
     "idImdb": "tt36270030",
     "idTvdb": 449914,
@@ -25897,5 +25897,94 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 58430
+  },
+  "177407": {
+    "id": 177407,
+    "idMal": 58790,
+    "title": {
+      "romaji": "Flatwoods no Monster Mitai ni",
+      "english": "Like The Flatwoods Monster",
+      "native": "フラットウッズのモンスターみたいに"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video directed by Satomi Maiya for the song <i>Flatwoods no Monster Mitai ni</i> by Eve & Deu. The song is a collaboration between Eve and Deu (PEOPLE 1).",
+    "episodes": 1,
+    "duration": 3,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2024,
+      "month": 5,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 5,
+      "day": 3
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177407-FVsKMiw1kVMt.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177407-FVsKMiw1kVMt.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177407-FVsKMiw1kVMt.jpg",
+      "color": "#e4c90d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177407-TmCBcABRceej.jpg",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Eve x Deu"
+    ],
+    "averageScore": 59,
+    "meanScore": 66,
+    "popularity": 361,
+    "trending": 1,
+    "favourites": 6,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "Kt491Acrw1c",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/Kt491Acrw1c/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=Kt491Acrw1c",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 569,
+            "name": "MAPPA"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787558467,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 58790
   }
 }
