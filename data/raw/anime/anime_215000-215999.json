@@ -386,7 +386,7 @@
     "meanScore": null,
     "popularity": 563,
     "trending": 0,
-    "favourites": 9,
+    "favourites": 10,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "MANGA",
@@ -465,7 +465,7 @@
         }
       ]
     },
-    "updatedAt": 1787497819
+    "updatedAt": 1787536934
   },
   "215695": {
     "id": 215695,
@@ -641,7 +641,7 @@
     "meanScore": 74,
     "popularity": 43,
     "trending": 1,
-    "favourites": 2,
+    "favourites": 3,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "ORIGINAL",
@@ -718,7 +718,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787504587,
+    "updatedAt": 1787536886,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2192,8 +2192,8 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 639,
-    "trending": 21,
-    "favourites": 2,
+    "trending": 10,
+    "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "VIDEO_GAME",
@@ -2303,7 +2303,7 @@
         }
       ]
     },
-    "updatedAt": 1787504472
+    "updatedAt": 1787537760
   },
   "215856": {
     "id": 215856,
@@ -2345,8 +2345,8 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 0,
-    "trending": 133,
-    "favourites": 0,
+    "trending": 43,
+    "favourites": 6,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": null,
@@ -2402,7 +2402,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787504427
+    "updatedAt": 1787537707
   },
   "215855": {
     "id": 215855,
@@ -2444,8 +2444,8 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 0,
-    "trending": 226,
-    "favourites": 0,
+    "trending": 43,
+    "favourites": 10,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": null,
@@ -2498,7 +2498,7 @@
       {
         "id": 201,
         "name": "Pirates",
-        "rank": 20,
+        "rank": 80,
         "isMediaSpoiler": false
       }
     ],
@@ -2542,6 +2542,101 @@
         }
       ]
     },
-    "updatedAt": 1787497506
+    "updatedAt": 1787537707
+  },
+  "215891": {
+    "id": 215891,
+    "idMal": 63591,
+    "title": {
+      "romaji": "Pure",
+      "english": "Pure",
+      "native": "ピュア"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video for the song Pure by PAS TASTA featuring Eriko Hashimoto. The song was used as the ending theme of the anime <i>Seihantai na Kimi to Boku</i>.",
+    "episodes": 1,
+    "duration": 3,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2026,
+      "month": 3,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 3,
+      "day": 4
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b215891-uA5zl7xbm015.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b215891-uA5zl7xbm015.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b215891-uA5zl7xbm015.png",
+      "color": "#bb7828"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 0,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "ZUTDe90QrsU",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/ZUTDe90QrsU/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=ZUTDe90QrsU",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 184951,
+            "title": {
+              "romaji": "Seihantai na Kimi to Boku",
+              "english": "You and I Are Polar Opposites"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184951-s8Lg2muPBhdX.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7547,
+            "name": "mimoid"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787537789
   }
 }
