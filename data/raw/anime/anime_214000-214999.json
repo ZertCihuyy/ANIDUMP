@@ -1725,7 +1725,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 2454,
-    "trending": 1,
+    "trending": 0,
     "favourites": 46,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1811,7 +1811,7 @@
         }
       ]
     },
-    "updatedAt": 1787565705,
+    "updatedAt": 1787575326,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2161,7 +2161,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3740,
-    "trending": 1,
+    "trending": 0,
     "favourites": 37,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2298,7 +2298,7 @@
         }
       ]
     },
-    "updatedAt": 1787572917,
+    "updatedAt": 1787576603,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -8843,5 +8843,109 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 62218
+  },
+  "214539": {
+    "id": 214539,
+    "idMal": null,
+    "title": {
+      "romaji": "Stella Sora Anime PVs",
+      "english": null,
+      "native": "ステラソラ アニメPVs"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "RELEASING",
+    "description": "Animated promotional videos for the smartphone game Stella Sora.\n<br><br>\n1) アニメPV (18 December 2024)<br>\n2) キケン？冒険？蒼海の幽霊船伝説！ (26 October 2025)<br>\n3) ワーキングサマーバケーション (19 July 2026)<br>",
+    "episodes": null,
+    "duration": 1,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2024,
+      "month": 12,
+      "day": 18
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214539-l42Phh0RVi0A.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214539-l42Phh0RVi0A.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214539-l42Phh0RVi0A.jpg",
+      "color": "#5daee4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 75,
+    "popularity": 49,
+    "trending": 1,
+    "favourites": 2,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": {
+      "id": "2maS81RBdPI",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/2maS81RBdPI/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://x.com/StellaSoraJP",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://x.com/StellaSoraEN",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.youtube.com/@StellaSoraJP",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7577,
+            "name": "studio Stellation"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7307,
+            "name": "Yostar"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6371,
+            "name": "Yostar Pictures"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787575321
   }
 }
