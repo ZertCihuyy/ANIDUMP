@@ -46,7 +46,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 47147,
-    "trending": 2,
+    "trending": 3,
     "favourites": 714,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -316,7 +316,7 @@
         }
       ]
     },
-    "updatedAt": 1787554876,
+    "updatedAt": 1787558468,
     "idTmdb": 235758,
     "idImdb": "tt31131295",
     "idTvdb": 432531,
@@ -1303,7 +1303,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 16177,
-    "trending": 1,
+    "trending": 0,
     "favourites": 179,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1502,7 +1502,7 @@
         }
       ]
     },
-    "updatedAt": 1787554835,
+    "updatedAt": 1787558520,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1552,7 +1552,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 46713,
-    "trending": 1,
+    "trending": 3,
     "favourites": 1741,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1995,7 +1995,7 @@
         }
       ]
     },
-    "updatedAt": 1787554899,
+    "updatedAt": 1787558456,
     "idTmdb": 272118,
     "idImdb": "tt33472011",
     "idTvdb": 454726,
@@ -2496,7 +2496,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 205029,
-    "trending": 17,
+    "trending": 13,
     "favourites": 11736,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2896,7 +2896,7 @@
         }
       ]
     },
-    "updatedAt": 1787554821,
+    "updatedAt": 1787558449,
     "idTmdb": 271607,
     "idImdb": "tt36592690",
     "idTvdb": 454524,
@@ -2953,7 +2953,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 41769,
-    "trending": 4,
+    "trending": 1,
     "favourites": 629,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3299,7 +3299,7 @@
         }
       ]
     },
-    "updatedAt": 1787554893,
+    "updatedAt": 1787558468,
     "idTmdb": 65844,
     "idImdb": null,
     "idTvdb": null,
@@ -3353,7 +3353,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 9906,
-    "trending": 0,
+    "trending": 1,
     "favourites": 144,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3721,7 +3721,7 @@
         }
       ]
     },
-    "updatedAt": 1787554919,
+    "updatedAt": 1787558512,
     "idTmdb": 303870,
     "idImdb": "tt39443868",
     "idTvdb": 456679,
@@ -7880,5 +7880,154 @@
     "traktSlug": null,
     "idSimkl": 2531786,
     "idShikimori": 59178
+  },
+  "181868": {
+    "id": 181868,
+    "idMal": 48904,
+    "title": {
+      "romaji": "Digital Tokoro-san",
+      "english": null,
+      "native": "デジタル所さん"
+    },
+    "type": "ANIME",
+    "format": "TV_SHORT",
+    "status": "FINISHED",
+    "description": "CGI shorts about famous Japanese comedian George Tokoro.",
+    "episodes": 245,
+    "duration": 3,
+    "season": "FALL",
+    "seasonYear": 2000,
+    "startDate": {
+      "year": 2000,
+      "month": 10,
+      "day": 2
+    },
+    "endDate": {
+      "year": 2001,
+      "month": 9,
+      "day": 28
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181868-Xxf4i2qiMzFM.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx181868-Xxf4i2qiMzFM.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181868-Xxf4i2qiMzFM.png",
+      "color": "#f1c91a"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [
+      "Mr.Digital Tokoro"
+    ],
+    "averageScore": null,
+    "meanScore": 63,
+    "popularity": 54,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 103324,
+            "title": {
+              "romaji": "Aruite Mikka!",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/103324-aTu6a4H8HONJ.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 79,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6067,
+            "name": "POLYGON PICTURES"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 29,
+            "name": "VAP"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 345872,
+            "name": {
+              "full": "George Tokoro",
+              "native": "所ジョージ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 143804,
+              "name": {
+                "full": "George Tokoro",
+                "native": "所ジョージ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 345873,
+            "name": {
+              "full": "Indy",
+              "native": "インディ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95399,
+              "name": {
+                "full": "Mitsuo Iwata",
+                "native": "岩田光央"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787558467,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 48904
   }
 }
