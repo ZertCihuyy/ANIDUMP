@@ -3288,7 +3288,7 @@
         }
       ]
     },
-    "updatedAt": 1787605244,
+    "updatedAt": 1787612537,
     "idTmdb": 139060,
     "idImdb": "tt16156736",
     "idTvdb": 412656,
@@ -5330,7 +5330,7 @@
         }
       ]
     },
-    "updatedAt": 1787604543,
+    "updatedAt": 1787612541,
     "idTmdb": 249545,
     "idImdb": "tt32856718",
     "idTvdb": 447749,
@@ -6069,7 +6069,7 @@
         }
       ]
     },
-    "updatedAt": 1787601758,
+    "updatedAt": 1787612507,
     "idTmdb": 250994,
     "idImdb": "tt33384314",
     "idTvdb": 448477,
@@ -6576,7 +6576,7 @@
         }
       ]
     },
-    "updatedAt": 1787601760,
+    "updatedAt": 1787612561,
     "idTmdb": 218493,
     "idImdb": "tt30488398",
     "idTvdb": 429825,
@@ -7039,7 +7039,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 37246,
-    "trending": 0,
+    "trending": 2,
     "favourites": 493,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7522,7 +7522,7 @@
         }
       ]
     },
-    "updatedAt": 1787605337,
+    "updatedAt": 1787612511,
     "idTmdb": 38464,
     "idImdb": "tt1799631",
     "idTvdb": 248035,
@@ -9532,7 +9532,7 @@
     "averageScore": 73,
     "meanScore": 75,
     "popularity": 2625,
-    "trending": 0,
+    "trending": 1,
     "favourites": 37,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9826,7 +9826,7 @@
         }
       ]
     },
-    "updatedAt": 1787598148,
+    "updatedAt": 1787612529,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -10489,7 +10489,7 @@
         }
       ]
     },
-    "updatedAt": 1787601770,
+    "updatedAt": 1787612578,
     "idTmdb": 1263421,
     "idImdb": "tt31869664",
     "idTvdb": null,
@@ -12772,7 +12772,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 17245,
-    "trending": 1,
+    "trending": 3,
     "favourites": 256,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13237,7 +13237,7 @@
         }
       ]
     },
-    "updatedAt": 1787609150,
+    "updatedAt": 1787612496,
     "idTmdb": 256109,
     "idImdb": "tt32514593",
     "idTvdb": 448537,
@@ -18677,5 +18677,103 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 58638
+  },
+  "176859": {
+    "id": 176859,
+    "idMal": null,
+    "title": {
+      "romaji": "Wu Shan Wu Xing: Feng Jie Da Zhan",
+      "english": null,
+      "native": "雾山五行·封界大战"
+    },
+    "type": "ANIME",
+    "format": null,
+    "status": "NOT_YET_RELEASED",
+    "description": "Final chapter of <i>Wu Shan Wu Xing</i>.",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176859-ZBvodnWNxlST.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176859-ZBvodnWNxlST.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176859-ZBvodnWNxlST.jpg",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Fog Hill of Five Elements Final Chapter",
+      "雾山五行 最终篇",
+      "雾山五行3"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 1203,
+    "trending": 0,
+    "favourites": 17,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.weibo.com/u/6569999648",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 122585,
+            "title": {
+              "romaji": "Wu Shan Wu Xing: Xi Chuan Huan Zi Lin",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx122585-y2uQETSGj66X.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787612578,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }

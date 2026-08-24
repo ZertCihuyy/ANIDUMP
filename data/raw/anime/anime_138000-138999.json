@@ -1178,7 +1178,7 @@
         }
       ]
     },
-    "updatedAt": 1787580120,
+    "updatedAt": 1787612573,
     "idTmdb": 100281,
     "idImdb": null,
     "idTvdb": null,
@@ -2192,7 +2192,7 @@
         }
       ]
     },
-    "updatedAt": 1787598050,
+    "updatedAt": 1787612557,
     "idTmdb": 133197,
     "idImdb": "tt21230432",
     "idTvdb": 409723,
@@ -5413,7 +5413,7 @@
         }
       ]
     },
-    "updatedAt": 1787598148,
+    "updatedAt": 1787612578,
     "idTmdb": 114478,
     "idImdb": "tt13622982",
     "idTvdb": 393190,
@@ -11156,7 +11156,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 26193,
-    "trending": 0,
+    "trending": 1,
     "favourites": 392,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11647,7 +11647,7 @@
         }
       ]
     },
-    "updatedAt": 1787601770,
+    "updatedAt": 1787612528,
     "idTmdb": 132917,
     "idImdb": "tt15378218",
     "idTvdb": 409650,
@@ -12875,7 +12875,7 @@
         }
       ]
     },
-    "updatedAt": 1787587306,
+    "updatedAt": 1787612554,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -14936,6 +14936,297 @@
     "idTrakt": null,
     "traktSlug": null,
     "idSimkl": 1571831,
+    "idShikimori": null
+  },
+  "138804": {
+    "id": 138804,
+    "idMal": 30965,
+    "title": {
+      "romaji": "Ninpuu Kamui Gaiden: Tsukihigai no Maki",
+      "english": null,
+      "native": "忍風カムイ外伝 月日貝の巻"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "A theatrical edited release of episode 21-26, which depicts the fierce battle between the main character Kamui and the the ninja pursuing him.",
+    "episodes": 1,
+    "duration": 90,
+    "season": "SPRING",
+    "seasonYear": 1971,
+    "startDate": {
+      "year": 1971,
+      "month": 3,
+      "day": 20
+    },
+    "endDate": {
+      "year": 1971,
+      "month": 3,
+      "day": 20
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138804-spnGwpsuUpLE.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138804-spnGwpsuUpLE.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b138804-spnGwpsuUpLE.jpg",
+      "color": "#e4ae78"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "synonyms": [
+      "Kamui the Ninja Movie"
+    ],
+    "averageScore": null,
+    "meanScore": 37,
+    "popularity": 212,
+    "trending": 0,
+    "favourites": 2,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 5023,
+            "title": {
+              "romaji": "Ninpuu Kamui Gaiden",
+              "english": "The Legend of Ninja Kamui"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 1969,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx5023-iSXRK58Swz4V.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 79,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 17653,
+            "name": {
+              "full": "Kamui",
+              "native": "カムイ"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787612578,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 41706,
+    "idShikimori": 30965
+  },
+  "138891": {
+    "id": 138891,
+    "idMal": 25093,
+    "title": {
+      "romaji": "Shiawase no Ouji",
+      "english": null,
+      "native": "しあわせの王子"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "Based on the story by written Oscar Wilde. It won the 17th Ministry of Health and Welfare Child Welfare Culture Award for Best Educational Film.",
+    "episodes": 1,
+    "duration": 19,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 1974,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": 1974,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138891-RXtjYFwImxaT.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138891-RXtjYFwImxaT.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx138891-RXtjYFwImxaT.png",
+      "color": "#e4a15d"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [
+      "The Happy Prince"
+    ],
+    "averageScore": null,
+    "meanScore": 48,
+    "popularity": 216,
+    "trending": 0,
+    "favourites": 4,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 227,
+        "name": "Classic Literature",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 198,
+        "name": "Foreign",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 25,
+        "name": "Historical",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 391,
+        "name": "Philosophy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 450,
+            "name": "Wako Production"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787612578,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 516150,
+    "idShikimori": 25093
+  },
+  "138673": {
+    "id": 138673,
+    "idMal": null,
+    "title": {
+      "romaji": "Qin Mo Zhuan",
+      "english": null,
+      "native": "擒魔传"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "Puppetry show based on the novel <i>Fengshen Yanyi (封神演义 - Investiture of the Gods)</i>.\n\n",
+    "episodes": 6,
+    "duration": 26,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 1987,
+      "month": 11,
+      "day": null
+    },
+    "endDate": {
+      "year": 1987,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138673-Ltj7UaxS5QzB.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx138673-Ltj7UaxS5QzB.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx138673-Ltj7UaxS5QzB.png",
+      "color": "#f1f1c9"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Fantasy"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 34,
+    "popularity": 53,
+    "trending": 0,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 325,
+        "name": "Puppetry",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 323,
+        "name": "Stop Motion",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787612578,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
     "idShikimori": null
   }
 }

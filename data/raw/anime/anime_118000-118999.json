@@ -608,7 +608,7 @@
     "averageScore": 77,
     "meanScore": 78,
     "popularity": 4875,
-    "trending": 1,
+    "trending": 0,
     "favourites": 156,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -994,7 +994,7 @@
         }
       ]
     },
-    "updatedAt": 1787609121,
+    "updatedAt": 1787612578,
     "idTmdb": 749401,
     "idImdb": "tt13898164",
     "idTvdb": null,
@@ -5163,7 +5163,7 @@
         }
       ]
     },
-    "updatedAt": 1787604573,
+    "updatedAt": 1787612578,
     "idTmdb": 112624,
     "idImdb": "tt12279682",
     "idTvdb": 400015,
@@ -5218,7 +5218,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 95804,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1479,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5767,7 +5767,7 @@
         }
       ]
     },
-    "updatedAt": 1787604573,
+    "updatedAt": 1787612471,
     "idTmdb": 103319,
     "idImdb": "tt12305588",
     "idTvdb": 384757,
@@ -10388,7 +10388,7 @@
     "averageScore": 68,
     "meanScore": 69,
     "popularity": 4417,
-    "trending": 0,
+    "trending": 1,
     "favourites": 172,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -10607,7 +10607,7 @@
         }
       ]
     },
-    "updatedAt": 1787572456,
+    "updatedAt": 1787612558,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -13216,5 +13216,95 @@
     "traktSlug": null,
     "idSimkl": 1305925,
     "idShikimori": 41529
+  },
+  "118078": {
+    "id": 118078,
+    "idMal": 39213,
+    "title": {
+      "romaji": "Dekkai Totto March",
+      "english": null,
+      "native": "デッカイ トット マーチ"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "A music video for the song Dekkai Totto March by Duke Aces that was featured on NHK's Minna no Uta program.",
+    "episodes": 1,
+    "duration": 2,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 1980,
+      "month": 8,
+      "day": 7
+    },
+    "endDate": {
+      "year": 1980,
+      "month": 8,
+      "day": 7
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118078-z4CtSwJEQc40.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118078-z4CtSwJEQc40.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118078-z4CtSwJEQc40.png",
+      "color": "#e4bb43"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [
+      "Minna no Uta",
+      "March of the Big Totto"
+    ],
+    "averageScore": 40,
+    "meanScore": 40,
+    "popularity": 165,
+    "trending": 0,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.nhk.or.jp/minna/songs/MIN198008_02/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 28,
+        "name": "Kids",
+        "rank": 79,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 111,
+            "name": "NHK"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787612578,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 39213
   }
 }

@@ -2657,7 +2657,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787598148,
+    "updatedAt": 1787612578,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3798,7 +3798,7 @@
     "averageScore": 71,
     "meanScore": 73,
     "popularity": 1932,
-    "trending": 0,
+    "trending": 1,
     "favourites": 26,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4203,7 +4203,7 @@
         }
       ]
     },
-    "updatedAt": 1787572115,
+    "updatedAt": 1787612517,
     "idTmdb": 790092,
     "idImdb": "tt13385804",
     "idTvdb": null,
@@ -10212,5 +10212,105 @@
     "traktSlug": null,
     "idSimkl": 1353793,
     "idShikimori": 42057
+  },
+  "121041": {
+    "id": 121041,
+    "idMal": 39225,
+    "title": {
+      "romaji": "Watashi no Kamifuusen",
+      "english": null,
+      "native": "わたしの紙風船"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "The original rendition of Watashi no Kamifuusen sung by Akai Tori and animated by Mouri Atsushi. Due to the copyright law of the time, price of film reels, and overwriting tapes, Watashi no Kamifuusen from 1971 remains to be one that is missing both its audio tape and video tape, as such the music video as a whole is considered lost media.",
+    "episodes": 1,
+    "duration": 2,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 1971,
+      "month": 2,
+      "day": 3
+    },
+    "endDate": {
+      "year": 1971,
+      "month": 2,
+      "day": 3
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121041-p7KO76AmeAKt.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121041-p7KO76AmeAKt.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b121041-p7KO76AmeAKt.jpg",
+      "color": "#35aeae"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "averageScore": null,
+    "meanScore": 35,
+    "popularity": 110,
+    "trending": 0,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.nhk.or.jp/minna/songs/MIN197102_05/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 103435,
+            "title": {
+              "romaji": "Watashi no Kamifuusen (1983)",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/103435-WyOgQiNtZMMX.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 111,
+            "name": "NHK"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787612578,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 39225
   }
 }

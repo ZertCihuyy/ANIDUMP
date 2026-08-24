@@ -50,7 +50,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 333878,
-    "trending": 2,
+    "trending": 3,
     "favourites": 8307,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -633,7 +633,7 @@
         }
       ]
     },
-    "updatedAt": 1787605275,
+    "updatedAt": 1787612482,
     "idTmdb": 97860,
     "idImdb": "tt12057106",
     "idTvdb": 376729,
@@ -689,7 +689,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 79181,
-    "trending": 2,
+    "trending": 1,
     "favourites": 1769,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1254,7 +1254,7 @@
         }
       ]
     },
-    "updatedAt": 1787605259,
+    "updatedAt": 1787612554,
     "idTmdb": 102086,
     "idImdb": "tt12642654",
     "idTvdb": 380477,
@@ -1309,7 +1309,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 149712,
-    "trending": 6,
+    "trending": 2,
     "favourites": 2832,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1744,7 +1744,7 @@
         }
       ]
     },
-    "updatedAt": 1787605225,
+    "updatedAt": 1787612524,
     "idTmdb": 98986,
     "idImdb": "tt12464182",
     "idTvdb": 381406,
@@ -2813,7 +2813,7 @@
     "averageScore": 65,
     "meanScore": 66,
     "popularity": 3467,
-    "trending": 0,
+    "trending": 1,
     "favourites": 117,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -3024,7 +3024,7 @@
         }
       ]
     },
-    "updatedAt": 1787587335,
+    "updatedAt": 1787612511,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -5312,7 +5312,7 @@
         }
       ]
     },
-    "updatedAt": 1787598050,
+    "updatedAt": 1787612563,
     "idTmdb": 99099,
     "idImdb": "tt12415634",
     "idTvdb": 397250,
@@ -13877,5 +13877,88 @@
     "traktSlug": "troublesome-old-man",
     "idSimkl": 1227903,
     "idShikimori": 40893
+  },
+  "115403": {
+    "id": 115403,
+    "idMal": 40531,
+    "title": {
+      "romaji": "Akai Yama Aoi Yama Shiroi Yama",
+      "english": null,
+      "native": "赤い山 青い山 白い山"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video for Rumiko Koyanagi's rendition of Akai Yama Aoi Yama Shiroi Yama that was featured in NHK's Minna no Uta program. Warabe uta are traditional Japanese songs, similar to nursery rhymes, that have been passed down through the ages. This song originated from Hokkaido. The video was animated by Seiichi Hayashi and is his first contribution to the Minna no Uta program.",
+    "episodes": 1,
+    "duration": 2,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 1974,
+      "month": 10,
+      "day": null
+    },
+    "endDate": {
+      "year": 1974,
+      "month": 10,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b115403-imBTlpFd9Ak5.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b115403-imBTlpFd9Ak5.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b115403-imBTlpFd9Ak5.png",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [
+      "Minna no Uta",
+      "Red Mountain Blue Mountain White Mountain"
+    ],
+    "averageScore": 44,
+    "meanScore": 47,
+    "popularity": 199,
+    "trending": 0,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.nhk.or.jp/minna/songs/MIN197410_01/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 111,
+            "name": "NHK"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787612578,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 40531
   }
 }
