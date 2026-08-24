@@ -1222,7 +1222,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 105691,
-    "trending": 2,
+    "trending": 6,
     "favourites": 2090,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1672,7 +1672,7 @@
         }
       ]
     },
-    "updatedAt": 1787601732,
+    "updatedAt": 1787604483,
     "idTmdb": 97525,
     "idImdb": "tt12063450",
     "idTvdb": 375271,
@@ -2235,7 +2235,7 @@
     "averageScore": 75,
     "meanScore": 75,
     "popularity": 62423,
-    "trending": 3,
+    "trending": 2,
     "favourites": 1157,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2705,7 +2705,7 @@
         }
       ]
     },
-    "updatedAt": 1787601704,
+    "updatedAt": 1787604477,
     "idTmdb": 114868,
     "idImdb": "tt13676344",
     "idTvdb": 393810,
@@ -5455,7 +5455,7 @@
     "averageScore": 47,
     "meanScore": 51,
     "popularity": 382,
-    "trending": 0,
+    "trending": 1,
     "favourites": 2,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5591,7 +5591,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787481633,
+    "updatedAt": 1787604564,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6034,7 +6034,7 @@
     "averageScore": 83,
     "meanScore": 83,
     "popularity": 30607,
-    "trending": 0,
+    "trending": 2,
     "favourites": 863,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6358,7 +6358,7 @@
         }
       ]
     },
-    "updatedAt": 1787568412,
+    "updatedAt": 1787605252,
     "idTmdb": 938567,
     "idImdb": "tt15313532",
     "idTvdb": null,
@@ -14805,6 +14805,124 @@
     "idTrakt": null,
     "traktSlug": null,
     "idSimkl": null,
+    "idShikimori": null
+  },
+  "138874": {
+    "id": 138874,
+    "idMal": null,
+    "title": {
+      "romaji": "GO! Wrestler Gundan",
+      "english": null,
+      "native": "GO! レスラー軍団"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 21,
+    "duration": 25,
+    "season": "SPRING",
+    "seasonYear": 1989,
+    "startDate": {
+      "year": 1989,
+      "month": 4,
+      "day": 18
+    },
+    "endDate": {
+      "year": 1989,
+      "month": 10,
+      "day": 12
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138874-z6PdT4h3G7Ne.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138874-z6PdT4h3G7Ne.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b138874-z6PdT4h3G7Ne.jpg",
+      "color": "#fec950"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "synonyms": [
+      "Go! Wrestler Army"
+    ],
+    "averageScore": null,
+    "meanScore": 31,
+    "popularity": 51,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 7419,
+            "title": {
+              "romaji": "Wrestler Gundan Seisenshi Robin Jr.",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 1989,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/7419.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 231,
+        "name": "Wrestling",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 65,
+            "name": "Tokyo Movie Shinsha"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 16,
+            "name": "TV Tokyo"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 159,
+            "name": "Kodansha"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787604507,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 1571831,
     "idShikimori": null
   }
 }
