@@ -1440,7 +1440,7 @@
     "averageScore": 79,
     "meanScore": 80,
     "popularity": 7715,
-    "trending": 0,
+    "trending": 1,
     "favourites": 182,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1827,7 +1827,7 @@
         }
       ]
     },
-    "updatedAt": 1787580159,
+    "updatedAt": 1787598113,
     "idTmdb": 728754,
     "idImdb": "tt13428402",
     "idTvdb": null,
@@ -9616,7 +9616,7 @@
     "averageScore": 73,
     "meanScore": 74,
     "popularity": 10547,
-    "trending": 1,
+    "trending": 0,
     "favourites": 192,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10138,7 +10138,7 @@
         }
       ]
     },
-    "updatedAt": 1787590979,
+    "updatedAt": 1787594551,
     "idTmdb": 71493,
     "idImdb": "tt3981902",
     "idTvdb": 284263,
@@ -15142,5 +15142,90 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 39476
+  },
+  "122738": {
+    "id": 122738,
+    "idMal": null,
+    "title": {
+      "romaji": "Inochi Bakkari",
+      "english": "It's Just Life",
+      "native": "命ばっかり"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video directed and animated by avogado6 for the song <i>It's Just Life</i> by nulut featuring Yukari Yuzuki and flower.",
+    "episodes": 1,
+    "duration": 4,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 4
+    },
+    "endDate": {
+      "year": 2017,
+      "month": 8,
+      "day": 4
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122738-LEKAL7lWRjSP.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122738-LEKAL7lWRjSP.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx122738-LEKAL7lWRjSP.png",
+      "color": null
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/122738-z2zoHFGmgUzO.jpg",
+    "genres": [
+      "Psychological"
+    ],
+    "synonyms": [],
+    "averageScore": 57,
+    "meanScore": 69,
+    "popularity": 181,
+    "trending": 1,
+    "favourites": 6,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "YDnZFwlZa1g",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/YDnZFwlZa1g/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=YDnZFwlZa1g",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 1690,
+        "name": "Vocal Synth",
+        "rank": 79,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787598102,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }
