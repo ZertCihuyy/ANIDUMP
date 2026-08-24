@@ -550,7 +550,7 @@
     "averageScore": 74,
     "meanScore": 75,
     "popularity": 95031,
-    "trending": 4,
+    "trending": 1,
     "favourites": 2371,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -914,7 +914,7 @@
         }
       ]
     },
-    "updatedAt": 1787567115,
+    "updatedAt": 1787569281,
     "idTmdb": 201889,
     "idImdb": "tt21844614",
     "idTvdb": 420084,
@@ -968,7 +968,7 @@
     "averageScore": 61,
     "meanScore": 61,
     "popularity": 55958,
-    "trending": 3,
+    "trending": 1,
     "favourites": 782,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1447,7 +1447,7 @@
         }
       ]
     },
-    "updatedAt": 1787567167,
+    "updatedAt": 1787569266,
     "idTmdb": 201363,
     "idImdb": "tt27990591",
     "idTvdb": 419854,
@@ -1498,7 +1498,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 78546,
-    "trending": 3,
+    "trending": 5,
     "favourites": 1412,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1941,7 +1941,7 @@
         }
       ]
     },
-    "updatedAt": 1787567226,
+    "updatedAt": 1787569226,
     "idTmdb": 200777,
     "idImdb": "tt25531288",
     "idTvdb": 419502,
@@ -2648,7 +2648,7 @@
     "averageScore": 63,
     "meanScore": 64,
     "popularity": 58212,
-    "trending": 1,
+    "trending": 2,
     "favourites": 828,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3142,7 +3142,7 @@
         }
       ]
     },
-    "updatedAt": 1787567228,
+    "updatedAt": 1787569250,
     "idTmdb": 200750,
     "idImdb": "tt19853780",
     "idTvdb": 419500,
@@ -7488,7 +7488,7 @@
     "synonyms": [],
     "averageScore": 71,
     "meanScore": 71,
-    "popularity": 6400,
+    "popularity": 6402,
     "trending": 0,
     "favourites": 110,
     "isAdult": false,
@@ -7673,7 +7673,7 @@
         }
       ]
     },
-    "updatedAt": 1787558520,
+    "updatedAt": 1787567260,
     "idTmdb": 199928,
     "idImdb": "tt21244528",
     "idTvdb": 419448,
@@ -11107,5 +11107,481 @@
     "traktSlug": null,
     "idSimkl": 829305,
     "idShikimori": 32821
+  },
+  "148903": {
+    "id": 148903,
+    "idMal": 28073,
+    "title": {
+      "romaji": "Papa Mama Bye Bye",
+      "english": null,
+      "native": "パパママバイバイ"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "Based on the \"1977 Yokohama F-4 crash\" real life incident when a US jet force-landed in Yokohama.<br>\n<br>\nDungaree-wearing teenage tomboy Kaori lives next door to the brothers Ko and Yasu. One day as Kaori is walking to school, a US jet crashes near the boy's house.<br>\n<br>\n(Source: The Anime Encyclopedia)",
+    "episodes": 1,
+    "duration": 75,
+    "season": "SUMMER",
+    "seasonYear": 1984,
+    "startDate": {
+      "year": 1984,
+      "month": 7,
+      "day": 8
+    },
+    "endDate": {
+      "year": 1984,
+      "month": 7,
+      "day": 8
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148903-hNxON6y9E3o5.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148903-hNxON6y9E3o5.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b148903-hNxON6y9E3o5.jpg",
+      "color": "#5daee4"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 33,
+    "popularity": 132,
+    "trending": 1,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 25,
+        "name": "Historical",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 239,
+        "name": "Biographical",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 274783,
+            "name": {
+              "full": "Yuu",
+              "native": "ユー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95638,
+              "name": {
+                "full": "Yuuko Iguchi",
+                "native": "井口友子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 274782,
+            "name": {
+              "full": "Yasu",
+              "native": "ヤス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 274784,
+              "name": {
+                "full": "Hideo Nagai",
+                "native": "永井秀男"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 274785,
+            "name": {
+              "full": "Papa",
+              "native": "パパ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95142,
+              "name": {
+                "full": "Takeshi Aono",
+                "native": "青野武"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 274786,
+            "name": {
+              "full": "Mama",
+              "native": "ママ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 214259,
+              "name": {
+                "full": "Tomoe Hiiro",
+                "native": "日色ともゑ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 274787,
+            "name": {
+              "full": "Obaachan",
+              "native": "おばあちゃん"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96574,
+              "name": {
+                "full": "Taeko Nakanishi",
+                "native": "中西妙子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 274788,
+            "name": {
+              "full": "Oniichan",
+              "native": "お兄ちゃん"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95326,
+              "name": {
+                "full": "Tooru Furuya",
+                "native": "古谷徹"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 274789,
+            "name": {
+              "full": "Kaori",
+              "native": "かおり"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95637,
+              "name": {
+                "full": "Miina Tominaga",
+                "native": "冨永みーな"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787569270,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 37499,
+    "idShikimori": 28073
+  },
+  "148002": {
+    "id": 148002,
+    "idMal": 49501,
+    "title": {
+      "romaji": "Katarina Nounai Kaigi X",
+      "english": null,
+      "native": "カタリナ脳内会議 X"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Short posted on the official twitter account where the \"Katarina Five\" introduces My Next Life as a Villainess: All Routes Lead to Doom! X.",
+    "episodes": 23,
+    "duration": 1,
+    "season": "SUMMER",
+    "seasonYear": 2021,
+    "startDate": {
+      "year": 2021,
+      "month": 6,
+      "day": 21
+    },
+    "endDate": {
+      "year": 2021,
+      "month": 9,
+      "day": 17
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148002-ECx3QD47Ts5h.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148002-ECx3QD47Ts5h.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx148002-ECx3QD47Ts5h.jpg",
+      "color": "#d61a1a"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [
+      "Katarina's Brain Conference X"
+    ],
+    "averageScore": 53,
+    "meanScore": 55,
+    "popularity": 1020,
+    "trending": 0,
+    "favourites": 3,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "LIGHT_NOVEL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/hamehura/status/1406944992644374537?t=xgbKk7RUrs9vQ_moLJ3eig&s=19",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 120209,
+            "title": {
+              "romaji": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X",
+              "english": "My Next Life as a Villainess: All Routes Lead to Doom! X"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2021,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx120209-7eQk3UKmkQun.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 116922,
+            "title": {
+              "romaji": "Katarina Nounai Kaigi",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2020,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx116922-dZAcMkAOW6wy.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1752,
+        "name": "Medieval",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 244,
+        "name": "Isekai",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 324,
+        "name": "Chibi",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6417,
+            "name": "AQUA ARIS"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 129137,
+            "name": {
+              "full": "Katarina Claes",
+              "native": "カタリナ・クラエス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 108639,
+              "name": {
+                "full": "Maaya Uchida",
+                "native": "内田真礼"
+              }
+            }
+          ]
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 129134,
+            "name": {
+              "full": "Gerald Stuart",
+              "native": "ジオルド・スティアート"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 129135,
+            "name": {
+              "full": "Keith Claes",
+              "native": "キース・クラエス"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 129136,
+            "name": {
+              "full": "Alan Stuart",
+              "native": "アラン・ステイア一 ト"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 129138,
+            "name": {
+              "full": "Nicol Ascart",
+              "native": "ニコル・アスカルト"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 129139,
+            "name": {
+              "full": "Mary Hunt",
+              "native": "メアリ･ハント"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 129140,
+            "name": {
+              "full": "Sophia Ascart",
+              "native": "ソフィア･アスカルト"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 129141,
+            "name": {
+              "full": "Maria Campbell",
+              "native": "マリアキャンベル"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 129142,
+            "name": {
+              "full": "Sirius Deek",
+              "native": "シリウス･ディーク"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 162908,
+            "name": {
+              "full": "Anne Shelly",
+              "native": "アン・シェリー"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787567265,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 49501
   }
 }
