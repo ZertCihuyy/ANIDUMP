@@ -242,7 +242,7 @@
     "averageScore": 69,
     "meanScore": 73,
     "popularity": 2181,
-    "trending": 1,
+    "trending": 0,
     "favourites": 26,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -521,7 +521,7 @@
         }
       ]
     },
-    "updatedAt": 1787580137,
+    "updatedAt": 1787591088,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -571,7 +571,7 @@
     "averageScore": 67,
     "meanScore": 87,
     "popularity": 921,
-    "trending": 2,
+    "trending": 0,
     "favourites": 31,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -709,7 +709,7 @@
         }
       ]
     },
-    "updatedAt": 1787587324,
+    "updatedAt": 1787591088,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -759,7 +759,7 @@
     "averageScore": null,
     "meanScore": 72,
     "popularity": 261,
-    "trending": 0,
+    "trending": 1,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -811,7 +811,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787562599,
+    "updatedAt": 1787591023,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -861,7 +861,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3316,
-    "trending": 1,
+    "trending": 2,
     "favourites": 26,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -956,6 +956,24 @@
       {
         "id": 50,
         "name": "Seinen",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 145,
+        "name": "Work",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 153,
+        "name": "Time Skip",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -1058,7 +1076,7 @@
         }
       ]
     },
-    "updatedAt": 1787583671,
+    "updatedAt": 1787590942,
     "idTmdb": 311842,
     "idImdb": null,
     "idTvdb": null,
@@ -1243,7 +1261,7 @@
     "averageScore": 45,
     "meanScore": 45,
     "popularity": 10149,
-    "trending": 1,
+    "trending": 0,
     "favourites": 171,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -1590,7 +1608,7 @@
         }
       ]
     },
-    "updatedAt": 1787583695,
+    "updatedAt": 1787587335,
     "idTmdb": 316427,
     "idImdb": "tt39673615",
     "idTvdb": 473930,
@@ -1647,7 +1665,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 6934,
-    "trending": 0,
+    "trending": 1,
     "favourites": 91,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1731,7 +1749,7 @@
         }
       ]
     },
-    "updatedAt": 1787575326,
+    "updatedAt": 1787591010,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1788,7 +1806,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 20387,
-    "trending": 3,
+    "trending": 0,
     "favourites": 453,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2257,7 +2275,7 @@
         }
       ]
     },
-    "updatedAt": 1787587296,
+    "updatedAt": 1787591088,
     "idTmdb": 312522,
     "idImdb": "tt40547960",
     "idTvdb": 473229,
@@ -2311,7 +2329,7 @@
     "averageScore": null,
     "meanScore": 82,
     "popularity": 421,
-    "trending": 1,
+    "trending": 0,
     "favourites": 17,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -2386,7 +2404,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787587315,
+    "updatedAt": 1787591088,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2755,7 +2773,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 56054,
-    "trending": 4,
+    "trending": 6,
     "favourites": 1852,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3149,7 +3167,7 @@
         }
       ]
     },
-    "updatedAt": 1787587279,
+    "updatedAt": 1787590904,
     "idTmdb": 312474,
     "idImdb": "tt40548519",
     "idTvdb": 473228,
@@ -3330,7 +3348,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1434,
-    "trending": 0,
+    "trending": 1,
     "favourites": 8,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3450,7 +3468,7 @@
         }
       ]
     },
-    "updatedAt": 1787562605,
+    "updatedAt": 1787591080,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3535,7 +3553,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788010200,
-      "timeUntilAiring": 421328,
+      "timeUntilAiring": 417594,
       "episode": 9
     },
     "relations": {
@@ -3909,7 +3927,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791289560,
-      "timeUntilAiring": 3704140,
+      "timeUntilAiring": 3697287,
       "episode": 1
     },
     "relations": {
@@ -4074,7 +4092,7 @@
         }
       ]
     },
-    "updatedAt": 1787583749,
+    "updatedAt": 1787591051,
     "idTmdb": 312850,
     "idImdb": null,
     "idTvdb": null,
@@ -4123,7 +4141,7 @@
     "averageScore": 71,
     "meanScore": 73,
     "popularity": 20781,
-    "trending": 98,
+    "trending": 101,
     "favourites": 174,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4168,7 +4186,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788181200,
-      "timeUntilAiring": 592257,
+      "timeUntilAiring": 588739,
       "episode": 10
     },
     "relations": {
@@ -4563,7 +4581,7 @@
         }
       ]
     },
-    "updatedAt": 1787587211,
+    "updatedAt": 1787590858,
     "idTmdb": 312020,
     "idImdb": "tt41279522",
     "idTvdb": 473018,
@@ -4756,7 +4774,7 @@
     "averageScore": null,
     "meanScore": 54,
     "popularity": 174,
-    "trending": 2,
+    "trending": 1,
     "favourites": 3,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -4800,7 +4818,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787587275,
+    "updatedAt": 1787591074,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6732,7 +6750,7 @@
     "averageScore": 55,
     "meanScore": 65,
     "popularity": 808,
-    "trending": 1,
+    "trending": 0,
     "favourites": 11,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -6885,7 +6903,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787587309,
+    "updatedAt": 1787591088,
     "idTmdb": 320598,
     "idImdb": null,
     "idTvdb": 477366,
@@ -6938,7 +6956,7 @@
     "averageScore": null,
     "meanScore": 68,
     "popularity": 72,
-    "trending": 0,
+    "trending": 1,
     "favourites": 2,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -6978,7 +6996,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787490250,
+    "updatedAt": 1787591082,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -8469,7 +8487,7 @@
     "averageScore": null,
     "meanScore": 54,
     "popularity": 164,
-    "trending": 2,
+    "trending": 0,
     "favourites": 3,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8524,7 +8542,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787587235,
+    "updatedAt": 1787591088,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9265,7 +9283,7 @@
     "averageScore": null,
     "meanScore": 55,
     "popularity": 111,
-    "trending": 2,
+    "trending": 0,
     "favourites": 0,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9295,7 +9313,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788040800,
-      "timeUntilAiring": 451851,
+      "timeUntilAiring": 448624,
       "episode": 21
     },
     "relations": {
@@ -9442,7 +9460,7 @@
         }
       ]
     },
-    "updatedAt": 1787587206,
+    "updatedAt": 1787591088,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9489,7 +9507,7 @@
     "averageScore": null,
     "meanScore": 60,
     "popularity": 165,
-    "trending": 1,
+    "trending": 0,
     "favourites": 0,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9561,7 +9579,7 @@
         }
       ]
     },
-    "updatedAt": 1787587237,
+    "updatedAt": 1787591088,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -11663,7 +11681,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 301,
-    "trending": 1,
+    "trending": 0,
     "favourites": 2,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -11715,7 +11733,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787580154,
+    "updatedAt": 1787587335,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -12389,7 +12407,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 185,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -12519,7 +12537,7 @@
         }
       ]
     },
-    "updatedAt": 1787587271,
+    "updatedAt": 1787591088,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -12527,5 +12545,108 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": null
+  },
+  "206256": {
+    "id": 206256,
+    "idMal": 62167,
+    "title": {
+      "romaji": "Piaomiao Jian Xian Zhuan",
+      "english": null,
+      "native": "缥缈剑仙传"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Dongfang Shaohong, possessing two Dao bodies, but lacking the spiritual roots to awaken his spirit body, is ridiculed by his own clan and even betrayed by his fiancée. Troubles pile up one after another. Dongfang Shaohong's father, imprisoned for possessing the secret to entering the Cangyu Immortal Palace, is trapped by the Immortal Alliance. In the midst of his clan's crisis, Dongfang Shaohong inadvertently uses his own blood to activate the Dao Stone of Immortal Source within him, repelling the Immortal Alliance and saving the clan from the brink. In these dire straits, Dongfang Shaohong is fortunately rescued by his father's friend, Master Ji Yin, and is offered refuge within the Piaomiao Sect. Within the Taiyin Mountain ravine of the Piaomiao Sect, Dongfang Shaohong diligently cultivates, but possessing the Dark Night Dao Body of the Nether Clan is viewed as an anomaly among the human race and constantly harassed by his fellow disciples. Dongfang Shaohong realizes that only by becoming powerful enough can he rescue his father, clear his name, and expose the Immortal Alliance's conspiracy.<br><br>(Source: Bangumi, translated)",
+    "episodes": 40,
+    "duration": 10,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2025,
+      "month": 8,
+      "day": 6
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 7
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206256-W1oLDfTA8NCl.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206256-W1oLDfTA8NCl.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206256-W1oLDfTA8NCl.jpg",
+      "color": "#5daee4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Legend of the Misty Sword Immortal"
+    ],
+    "averageScore": null,
+    "meanScore": 56,
+    "popularity": 69,
+    "trending": 1,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": null,
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://m.iqiyi.com/a_1c3f103dm81.html",
+        "site": "iQIYI",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://v.qq.com/x/cover/mzc00200hr21ari/y4101zh8f54.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.bilibili.com/bangumi/media/md27109550",
+        "site": "Bilibili",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6475,
+            "name": "Ruo Hong Culture"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787591063,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2858434,
+    "idShikimori": 62167
   }
 }
