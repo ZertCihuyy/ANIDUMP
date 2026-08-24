@@ -150,7 +150,7 @@
     "averageScore": 56,
     "meanScore": 72,
     "popularity": 286,
-    "trending": 2,
+    "trending": 1,
     "favourites": 1,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -236,7 +236,14 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787493768
+    "updatedAt": 1787547698,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 64797
   },
   "215523": {
     "id": 215523,
@@ -385,7 +392,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 563,
-    "trending": 0,
+    "trending": 1,
     "favourites": 10,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -465,7 +472,7 @@
         }
       ]
     },
-    "updatedAt": 1787536934
+    "updatedAt": 1787551240
   },
   "215695": {
     "id": 215695,
@@ -2192,7 +2199,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 639,
-    "trending": 12,
+    "trending": 5,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2303,7 +2310,14 @@
         }
       ]
     },
-    "updatedAt": 1787544026
+    "updatedAt": 1787551255,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   },
   "215856": {
     "id": 215856,
@@ -2345,7 +2359,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 0,
-    "trending": 33,
+    "trending": 29,
     "favourites": 6,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2402,7 +2416,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787544007
+    "updatedAt": 1787551219
   },
   "215855": {
     "id": 215855,
@@ -2444,7 +2458,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 0,
-    "trending": 42,
+    "trending": 28,
     "favourites": 10,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2542,7 +2556,7 @@
         }
       ]
     },
-    "updatedAt": 1787544005
+    "updatedAt": 1787551224
   },
   "215891": {
     "id": 215891,
@@ -2638,5 +2652,131 @@
       "edges": []
     },
     "updatedAt": 1787544069
+  },
+  "215878": {
+    "id": 215878,
+    "idMal": 64840,
+    "title": {
+      "romaji": "Angry Rabbit",
+      "english": null,
+      "native": "Angry Rabbit"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "A rabbit gets angry.",
+    "episodes": 1,
+    "duration": 6,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2026,
+      "month": 8,
+      "day": 21
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 8,
+      "day": 21
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx215878-KyXGok4wMdtQ.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx215878-KyXGok4wMdtQ.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx215878-KyXGok4wMdtQ.png",
+      "color": "#781a0d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/215878-FncROuo6W4XN.jpg",
+    "genres": [
+      "Horror"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 0,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "W8IWHw15O_g",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/W8IWHw15O_g/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=W8IWHw15O_g",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 1304,
+        "name": "Anthropomorphism",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 648,
+        "name": "Crime",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1601,
+        "name": "Primarily Animal Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 323,
+        "name": "Stop Motion",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 94,
+        "name": "Gore",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 104,
+        "name": "Anti-Hero",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 252,
+        "name": "Revenge",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787551238
   }
 }

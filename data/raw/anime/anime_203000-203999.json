@@ -516,7 +516,7 @@
         }
       ]
     },
-    "updatedAt": 1787476410,
+    "updatedAt": 1787551317,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -756,7 +756,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 5801,
-    "trending": 1,
+    "trending": 0,
     "favourites": 73,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -863,7 +863,7 @@
         }
       ]
     },
-    "updatedAt": 1787544046,
+    "updatedAt": 1787551317,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -914,7 +914,7 @@
     "averageScore": 65,
     "meanScore": 66,
     "popularity": 12248,
-    "trending": 11,
+    "trending": 21,
     "favourites": 168,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -944,7 +944,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787833800,
-      "timeUntilAiring": 287433,
+      "timeUntilAiring": 280296,
       "episode": 9
     },
     "relations": {
@@ -1345,7 +1345,7 @@
         }
       ]
     },
-    "updatedAt": 1787544015,
+    "updatedAt": 1787551227,
     "idTmdb": 312507,
     "idImdb": null,
     "idTvdb": null,
@@ -1398,7 +1398,7 @@
     "averageScore": 68,
     "meanScore": 70,
     "popularity": 8929,
-    "trending": 8,
+    "trending": 11,
     "favourites": 122,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1428,7 +1428,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787929200,
-      "timeUntilAiring": 382862,
+      "timeUntilAiring": 375706,
       "episode": 9
     },
     "relations": {
@@ -1782,7 +1782,7 @@
         }
       ]
     },
-    "updatedAt": 1787544030,
+    "updatedAt": 1787551234,
     "idTmdb": 307585,
     "idImdb": "tt41293320",
     "idTvdb": 471296,
@@ -2497,8 +2497,8 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1183,
-    "trending": 0,
-    "favourites": 16,
+    "trending": 1,
+    "favourites": 17,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -2594,7 +2594,7 @@
         }
       ]
     },
-    "updatedAt": 1787476409,
+    "updatedAt": 1787551310,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4210,5 +4210,303 @@
     "traktSlug": null,
     "idSimkl": 2950426,
     "idShikimori": 63035
+  },
+  "203100": {
+    "id": 203100,
+    "idMal": 63033,
+    "title": {
+      "romaji": "Himitsu no AiPri: Mankai Buzzrium Live!",
+      "english": null,
+      "native": "ひみつのアイプリ まんかいバズリウムライブ！"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "Movie of <i>Himitsu no AiPri</i>, first announced at the Pretty Series Crossing Live 2025.",
+    "episodes": null,
+    "duration": null,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 3,
+      "day": 13
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 3,
+      "day": 13
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203100-RBKJFcTcGS82.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203100-RBKJFcTcGS82.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203100-RBKJFcTcGS82.jpg",
+      "color": "#50bbfe"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Music"
+    ],
+    "synonyms": [
+      "Himitsu no AiPri Movie"
+    ],
+    "averageScore": null,
+    "meanScore": 64,
+    "popularity": 352,
+    "trending": 1,
+    "favourites": 6,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "521T9qSpfVE",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/521T9qSpfVE/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 184470,
+            "title": {
+              "romaji": "Himitsu no AiPri: Ring-hen",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184470-m2izEvBeO49C.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 28,
+            "name": "OLM"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6206,
+            "name": "Dongwoo Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 325001,
+            "name": {
+              "full": "Himari Aozora",
+              "native": "青空ひまり"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 206623,
+              "name": {
+                "full": "Minori Fujidera",
+                "native": "藤寺美徳"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 325002,
+            "name": {
+              "full": "Mitsuki Hoshikawa",
+              "native": "星川みつき"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 294238,
+              "name": {
+                "full": "Sae Hiratsuka",
+                "native": "平塚紗依"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 327540,
+            "name": {
+              "full": "Tsumugi Suzukaze",
+              "native": "鈴風つむぎ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 112209,
+              "name": {
+                "full": "Yurika Kubo",
+                "native": "久保ユリカ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 327541,
+            "name": {
+              "full": "Sakura Ichijouji",
+              "native": "一条寺サクラ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 302370,
+              "name": {
+                "full": "Yuriko Hibi",
+                "native": "日比優理香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 327542,
+            "name": {
+              "full": "Tamaki Nikaidou",
+              "native": "二階堂タマキ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 242054,
+              "name": {
+                "full": "Anna Suzuki",
+                "native": "鈴木杏奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 327543,
+            "name": {
+              "full": "Airi Mitsuba",
+              "native": "三ツ葉アイリ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106361,
+              "name": {
+                "full": "Sora Tokui",
+                "native": "徳井青空"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 327544,
+            "name": {
+              "full": "Rinrin Shinomiya",
+              "native": "四之宮リンリン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 152199,
+              "name": {
+                "full": "Misaki Watada",
+                "native": "和多田美咲"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 327545,
+            "name": {
+              "full": "Chii Mamiya",
+              "native": "真実夜チィ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 109251,
+              "name": {
+                "full": "You Taichi",
+                "native": "大地葉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 356233,
+            "name": {
+              "full": "Ring Clover",
+              "native": "リング・クローバー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95413,
+              "name": {
+                "full": "Eri Kitamura",
+                "native": "喜多村英梨"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 356234,
+            "name": {
+              "full": "Juria Igarashi",
+              "native": "五十嵐じゅりあ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 198603,
+              "name": {
+                "full": "Rio Tsuchiya",
+                "native": "土屋李央"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787551290,
+    "idTmdb": 1589925,
+    "idImdb": "tt39060110",
+    "idTvdb": null,
+    "idTrakt": 1321214,
+    "traktSlug": "himitsu-no-aipri-movie-mankai-buzzlume-live-2026",
+    "idSimkl": 2950428,
+    "idShikimori": 63033
   }
 }

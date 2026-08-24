@@ -814,7 +814,7 @@
     "averageScore": 45,
     "meanScore": 46,
     "popularity": 4393,
-    "trending": 0,
+    "trending": 1,
     "favourites": 68,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -941,7 +941,7 @@
         }
       ]
     },
-    "updatedAt": 1787504638,
+    "updatedAt": 1787547630,
     "idTmdb": 313395,
     "idImdb": null,
     "idTvdb": 473668,
@@ -992,7 +992,7 @@
     "averageScore": 49,
     "meanScore": 49,
     "popularity": 8959,
-    "trending": 0,
+    "trending": 1,
     "favourites": 122,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1355,7 +1355,7 @@
         }
       ]
     },
-    "updatedAt": 1787544126,
+    "updatedAt": 1787551283,
     "idTmdb": 310921,
     "idImdb": "tt39673631",
     "idTvdb": 472764,
@@ -1409,7 +1409,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 53941,
-    "trending": 286,
+    "trending": 224,
     "favourites": 1024,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1444,7 +1444,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788076800,
-      "timeUntilAiring": 530421,
+      "timeUntilAiring": 523277,
       "episode": 9
     },
     "relations": {
@@ -1775,7 +1775,7 @@
         }
       ]
     },
-    "updatedAt": 1787544006,
+    "updatedAt": 1787551213,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1932,7 +1932,7 @@
         }
       ]
     },
-    "updatedAt": 1787482873,
+    "updatedAt": 1787551240,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2175,7 +2175,7 @@
     "averageScore": 73,
     "meanScore": 74,
     "popularity": 7369,
-    "trending": 2,
+    "trending": 1,
     "favourites": 110,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2399,7 +2399,7 @@
         }
       ]
     },
-    "updatedAt": 1787544023,
+    "updatedAt": 1787547654,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3207,7 +3207,7 @@
         }
       ]
     },
-    "updatedAt": 1787536911,
+    "updatedAt": 1787547705,
     "idTmdb": 123542,
     "idImdb": null,
     "idTvdb": 402033,
@@ -4162,5 +4162,163 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 63946
+  },
+  "210115": {
+    "id": 210115,
+    "idMal": 63854,
+    "title": {
+      "romaji": "Tower Dungeon Volume 6 Release Commemorative PV",
+      "english": null,
+      "native": "タワーダンジョン｜6巻発売記念PV"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 1,
+    "duration": 2,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2026,
+      "month": 3,
+      "day": 31
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 3,
+      "day": 31
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210115-q1KHm4P3ZyPw.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210115-q1KHm4P3ZyPw.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210115-q1KHm4P3ZyPw.jpg",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [],
+    "averageScore": 59,
+    "meanScore": 78,
+    "popularity": 276,
+    "trending": 1,
+    "favourites": 5,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": {
+      "id": "QxTnn7qnorg",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/QxTnn7qnorg/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://youtu.be/QxTnn7qnorg",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 170399,
+            "title": {
+              "romaji": "Tower Dungeon",
+              "english": "Tower Dungeon"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx170399-YYy0AhHxo8xt.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 604,
+        "name": "Dungeon",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 505,
+        "name": "Advertisement",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7800,
+            "name": "studio keel"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 333217,
+            "name": {
+              "full": "Yuva",
+              "native": "ユーヴァ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 336647,
+            "name": {
+              "full": "Lilicen",
+              "native": "リリセン"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 368309,
+            "name": {
+              "full": "Eriquo",
+              "native": "エリクォ"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787551288,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 63854
   }
 }
