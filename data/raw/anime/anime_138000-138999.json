@@ -44,7 +44,7 @@
     "averageScore": 62,
     "meanScore": 69,
     "popularity": 996,
-    "trending": 0,
+    "trending": 1,
     "favourites": 12,
     "isAdult": false,
     "countryOfOrigin": "KR",
@@ -73,7 +73,13 @@
               "romaji": "Super Secret",
               "english": "Super Secret"
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx97865-449EaRa3Myy4.jpg"
+            }
           }
         }
       ]
@@ -273,7 +279,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787609146,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2786362,
+    "idShikimori": 42004
   },
   "138714": {
     "id": 138714,
@@ -14850,7 +14863,7 @@
     "averageScore": null,
     "meanScore": 31,
     "popularity": 51,
-    "trending": 1,
+    "trending": 0,
     "favourites": 0,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -14916,7 +14929,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787604507,
+    "updatedAt": 1787609156,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

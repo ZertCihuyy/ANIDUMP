@@ -13776,7 +13776,7 @@
     "averageScore": null,
     "meanScore": 53,
     "popularity": 54,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13810,7 +13810,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787604504,
+    "updatedAt": 1787609156,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -13863,7 +13863,7 @@
     "averageScore": null,
     "meanScore": 68,
     "popularity": 53,
-    "trending": 1,
+    "trending": 0,
     "favourites": 0,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13904,7 +13904,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787604503,
+    "updatedAt": 1787609156,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -13912,5 +13912,96 @@
     "traktSlug": null,
     "idSimkl": 1572125,
     "idShikimori": 27965
+  },
+  "182145": {
+    "id": 182145,
+    "idMal": 21485,
+    "title": {
+      "romaji": "Dokkan! Robotendon",
+      "english": null,
+      "native": "ドッカン! ロボ天どん"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 26,
+    "duration": 25,
+    "season": "FALL",
+    "seasonYear": 1995,
+    "startDate": {
+      "year": 1995,
+      "month": 10,
+      "day": 5
+    },
+    "endDate": {
+      "year": 1996,
+      "month": 3,
+      "day": 28
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b182145-SYtsgxyX41PH.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b182145-SYtsgxyX41PH.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b182145-SYtsgxyX41PH.png",
+      "color": "#35a1e4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure",
+      "Slice of Life"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 63,
+    "popularity": 50,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": null,
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 64,
+            "name": "Sotsu"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 103,
+            "name": "Tatsunoko Production"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 103,
+            "name": "Tatsunoko Production"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787609119,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 872905,
+    "idShikimori": 21485
   }
 }

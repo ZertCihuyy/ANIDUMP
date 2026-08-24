@@ -866,7 +866,7 @@
     "averageScore": 86,
     "meanScore": 87,
     "popularity": 12139,
-    "trending": 2,
+    "trending": 1,
     "favourites": 281,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1109,7 +1109,7 @@
         }
       ]
     },
-    "updatedAt": 1787601735,
+    "updatedAt": 1787609117,
     "idTmdb": 232230,
     "idImdb": "tt28618556",
     "idTvdb": 464419,
@@ -5505,7 +5505,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 16136,
-    "trending": 1,
+    "trending": 0,
     "favourites": 170,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5822,7 +5822,7 @@
         }
       ]
     },
-    "updatedAt": 1787601639,
+    "updatedAt": 1787609156,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6251,7 +6251,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 7510,
-    "trending": 1,
+    "trending": 2,
     "favourites": 58,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6558,7 +6558,7 @@
         }
       ]
     },
-    "updatedAt": 1787601730,
+    "updatedAt": 1787609120,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -8937,7 +8937,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787572928,
+    "updatedAt": 1787609146,
     "idTmdb": 280095,
     "idImdb": null,
     "idTvdb": 474763,
@@ -13621,5 +13621,121 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 61568
+  },
+  "199008": {
+    "id": 199008,
+    "idMal": 62523,
+    "title": {
+      "romaji": "Uso Tantei Tomanto",
+      "english": null,
+      "native": "うそ探偵トマント"
+    },
+    "type": "ANIME",
+    "format": "TV_SHORT",
+    "status": "FINISHED",
+    "description": "Tomanto and friends as they solve mysteries using vegetable and fruit trivia.\n<br><br>\n(Source: Anime News Network)",
+    "episodes": 26,
+    "duration": 1,
+    "season": "FALL",
+    "seasonYear": 2025,
+    "startDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 6
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 4,
+      "day": 5
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199008-P45zksUSzTWD.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199008-P45zksUSzTWD.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199008-P45zksUSzTWD.png",
+      "color": "#e4865d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Mystery"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 51,
+    "popularity": 143,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "zxWwgXlhDSg",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/zxWwgXlhDSg/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://x.com/tomanto1010",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.san-x.co.jp/tomanto/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLQHgyFFC_PG3jG-Ek2Q8mQLlyQ7xI9Tax&si=CRhVA9_2yo9C6DJD",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 28,
+        "name": "Kids",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 694,
+        "name": "Detective",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 866,
+            "name": "Fanworks"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 261,
+            "name": "San-X"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787609115,
+    "idTmdb": 301127,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": 299427,
+    "traktSlug": "uso-tantei-tomanto",
+    "idSimkl": 3010580,
+    "idShikimori": 62523
   }
 }

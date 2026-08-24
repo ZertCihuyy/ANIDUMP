@@ -6388,7 +6388,7 @@
     "status": "FINISHED",
     "description": "The sixth season of <i>Yi Ren Zhi Xia</i>.",
     "episodes": 26,
-    "duration": null,
+    "duration": 25,
     "season": null,
     "seasonYear": null,
     "startDate": {
@@ -6410,6 +6410,7 @@
     "bannerImage": null,
     "genres": [
       "Action",
+      "Drama",
       "Supernatural"
     ],
     "synonyms": [
@@ -6508,9 +6509,120 @@
       ]
     },
     "characters": {
-      "edges": []
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 126183,
+            "name": {
+              "full": "Baobao Feng",
+              "native": "冯宝宝"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 173574,
+            "name": {
+              "full": "Chulan  Zhang",
+              "native": "张楚岚"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 248973,
+            "name": {
+              "full": "Zhenqiu Wang",
+              "native": "王震球"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 173566,
+            "name": {
+              "full": "San Xu",
+              "native": "徐三"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 173570,
+            "name": {
+              "full": "Si Xu",
+              "native": "徐四"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 173571,
+            "name": {
+              "full": "Lingyu Zhang",
+              "native": "张灵玉"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 173573,
+            "name": {
+              "full": "Liang Lü",
+              "native": "吕良"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 203963,
+            "name": {
+              "full": "Ye Wang",
+              "native": "王也"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 220990,
+            "name": {
+              "full": "Qing Zhuge",
+              "native": "诸葛青"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 248971,
+            "name": {
+              "full": "Zizai Xiao",
+              "native": "肖自在"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
     },
-    "updatedAt": 1787601762,
+    "updatedAt": 1787609151,
     "idTmdb": 67063,
     "idImdb": "tt12882132",
     "idTvdb": 313488,
@@ -10358,7 +10470,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1763,
-    "trending": 0,
+    "trending": 1,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10636,7 +10748,7 @@
         }
       ]
     },
-    "updatedAt": 1787563081,
+    "updatedAt": 1787609131,
     "idTmdb": 300700,
     "idImdb": null,
     "idTvdb": null,
@@ -12282,7 +12394,7 @@
     "averageScore": null,
     "meanScore": 44,
     "popularity": 379,
-    "trending": 1,
+    "trending": 0,
     "favourites": 3,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -12568,7 +12680,7 @@
         }
       ]
     },
-    "updatedAt": 1787604564,
+    "updatedAt": 1787609156,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
