@@ -680,7 +680,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 89615,
-    "trending": 1,
+    "trending": 2,
     "favourites": 1589,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1150,7 +1150,7 @@
         }
       ]
     },
-    "updatedAt": 1787591046,
+    "updatedAt": 1787594465,
     "idTmdb": 104711,
     "idImdb": "tt13167196",
     "idTvdb": 388645,
@@ -1205,7 +1205,7 @@
     "averageScore": 60,
     "meanScore": 60,
     "popularity": 43608,
-    "trending": 3,
+    "trending": 2,
     "favourites": 570,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1671,7 +1671,7 @@
         }
       ]
     },
-    "updatedAt": 1787587220,
+    "updatedAt": 1787594547,
     "idTmdb": 104032,
     "idImdb": "tt14960284",
     "idTvdb": 400134,
@@ -1733,7 +1733,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 304458,
-    "trending": 10,
+    "trending": 22,
     "favourites": 11157,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2424,7 +2424,7 @@
         }
       ]
     },
-    "updatedAt": 1787590831,
+    "updatedAt": 1787594424,
     "idTmdb": 65942,
     "idImdb": "tt5607616",
     "idTvdb": 305089,
@@ -6758,7 +6758,7 @@
     "averageScore": 63,
     "meanScore": 64,
     "popularity": 3880,
-    "trending": 0,
+    "trending": 1,
     "favourites": 169,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -6980,7 +6980,7 @@
         }
       ]
     },
-    "updatedAt": 1787572365,
+    "updatedAt": 1787594545,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -12863,5 +12863,104 @@
     "traktSlug": null,
     "idSimkl": 1168529,
     "idShikimori": 21545
+  },
+  "119819": {
+    "id": 119819,
+    "idMal": null,
+    "title": {
+      "romaji": "Takosuchumu de odorimasen ka",
+      "english": "Shall we dance with Octopustume",
+      "native": "タコスチュームでおどりませんか"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "Manabu Himeda's graduation work from 2012 at Tama Art University.",
+    "episodes": 1,
+    "duration": 2,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2012,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": 2012,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119819-ZfLtt60ixKpF.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx119819-ZfLtt60ixKpF.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx119819-ZfLtt60ixKpF.jpg",
+      "color": "#0d93fe"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/119819-wmToKKIXSAxE.jpg",
+    "genres": [
+      "Psychological"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 45,
+    "popularity": 55,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "suN48_HNGT0",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/suN48_HNGT0/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://vimeo.com/104364604",
+        "site": "Vimeo",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 209,
+        "name": "Dancing",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 265,
+        "name": "Musical Theater",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6939,
+            "name": "Tama Art University"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787594483,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }

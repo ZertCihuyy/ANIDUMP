@@ -479,7 +479,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 15207,
-    "trending": 2,
+    "trending": 1,
     "favourites": 183,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -809,7 +809,7 @@
         }
       ]
     },
-    "updatedAt": 1787587222,
+    "updatedAt": 1787594471,
     "idTmdb": 293010,
     "idImdb": "tt37532040",
     "idTvdb": 440965,
@@ -4149,5 +4149,123 @@
     "traktSlug": "tooi-san-wa-seishun-shitai-baka-to-smartphone-to-romance-to-2025",
     "idSimkl": null,
     "idShikimori": 61367
+  },
+  "193907": {
+    "id": 193907,
+    "idMal": null,
+    "title": {
+      "romaji": "Azur Lane: 3 Shuunen Kinen Anime PV",
+      "english": null,
+      "native": "アズールレーン 3周年記念アニメPV"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "Animated trailer celebrating Azur Lane's 3rd Anniversary.",
+    "episodes": 1,
+    "duration": 2,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2020,
+      "month": 9,
+      "day": 15
+    },
+    "endDate": {
+      "year": 2020,
+      "month": 9,
+      "day": 15
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193907-NP7JxXP7W1gM.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193907-NP7JxXP7W1gM.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193907-NP7JxXP7W1gM.png",
+      "color": "#f1bb86"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193907-ZWzj50I1zJlX.jpg",
+    "genres": [],
+    "synonyms": [
+      "Azur Lane: 3rd Anniversary Anime PV"
+    ],
+    "averageScore": null,
+    "meanScore": 71,
+    "popularity": 172,
+    "trending": 1,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": {
+      "id": "9hn3kWDafiQ",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/9hn3kWDafiQ/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/watch?v=9hn3kWDafiQ",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 124082,
+            "title": {
+              "romaji": "Azur Lane Anime PVs",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx124082-ex34xC20rmHW.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 11,
+            "name": "MADHOUSE"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7307,
+            "name": "Yostar"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787594522,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }
