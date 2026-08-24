@@ -641,7 +641,7 @@
     "averageScore": 86,
     "meanScore": 86,
     "popularity": 25113,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1264,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1113,7 +1113,7 @@
         }
       ]
     },
-    "updatedAt": 1787598115,
+    "updatedAt": 1787601770,
     "idTmdb": 80732,
     "idImdb": "tt9005728",
     "idTvdb": 341295,
@@ -1712,7 +1712,7 @@
     "averageScore": 79,
     "meanScore": 80,
     "popularity": 59613,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1259,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2459,7 +2459,7 @@
         }
       ]
     },
-    "updatedAt": 1787598148,
+    "updatedAt": 1787601698,
     "idTmdb": 91768,
     "idImdb": "tt10885406",
     "idTvdb": 366263,
@@ -4252,7 +4252,7 @@
     "averageScore": 68,
     "meanScore": 69,
     "popularity": 2054,
-    "trending": 0,
+    "trending": 1,
     "favourites": 20,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4489,7 +4489,7 @@
         }
       ]
     },
-    "updatedAt": 1787399358,
+    "updatedAt": 1787601751,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9973,5 +9973,244 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 42012
+  },
+  "121684": {
+    "id": 121684,
+    "idMal": 42057,
+    "title": {
+      "romaji": "Kyoshin to Hyouka no Shiro",
+      "english": null,
+      "native": "巨神と氷華の城"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "The story is set in Nagasaki prefecture in Minami Shimabara city, the fabled origin of the Shimabara Rebellion that sent shockwaves through all of Japan in the early Edo period. It is also where a third-year junior high school student named Shirou spends his days with his school friends.\n<br><br>\nOne summer day, Shirou's older childhood friend Akane returns to Minami Shimabara from Tokyo. Shirou and Akane take a stroll around Minami Shimabara with another longtime friend, Tokiya. While these friends are dealing with nostalgia and more complex feelings, a mysterious creature named Goron suddenly appears before them. This encounter with a mere little creature causes great events to unfold once more in this city...<br><br>(Source: Anime News Network)",
+    "episodes": 4,
+    "duration": 1,
+    "season": "SUMMER",
+    "seasonYear": 2020,
+    "startDate": {
+      "year": 2020,
+      "month": 8,
+      "day": 8
+    },
+    "endDate": {
+      "year": 2020,
+      "month": 12,
+      "day": 19
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121684-VOEm4ipW5uoA.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121684-VOEm4ipW5uoA.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx121684-VOEm4ipW5uoA.png",
+      "color": "#50c9fe"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/121684-ZzFDvvuRizcC.jpg",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "synonyms": [],
+    "averageScore": 53,
+    "meanScore": 54,
+    "popularity": 1579,
+    "trending": 1,
+    "favourites": 8,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "vEqYA1Dqg4Y",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/vEqYA1Dqg4Y/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.ncctv.co.jp/minamishimabara/anime.html",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLtKZFY8M6JSWFwgusWrLLEU4gdzouPXQk",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 276,
+        "name": "Kaiju",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 10,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 10,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6225,
+            "name": "TriF studio"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 181836,
+            "name": {
+              "full": "Tokiya",
+              "native": "時八"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 110919,
+              "name": {
+                "full": "Ayumu Murase",
+                "native": "村瀬歩"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 181838,
+            "name": {
+              "full": "Goron",
+              "native": "ゴロン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 106817,
+              "name": {
+                "full": "Yoshitsugu Matsuoka",
+                "native": "松岡禎丞"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 181839,
+            "name": {
+              "full": "Shirou",
+              "native": "志郎"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 181840,
+              "name": {
+                "full": "Yuuki Ootani",
+                "native": "大谷祐貴"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 181837,
+            "name": {
+              "full": "Akane",
+              "native": "茜"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 117003,
+              "name": {
+                "full": "Minami Takahashi",
+                "native": "髙橋ミナミ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 181844,
+            "name": {
+              "full": "Shirou Amakusa",
+              "native": "天草四郎"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95082,
+              "name": {
+                "full": "Romi Park",
+                "native": "朴璐美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 181845,
+            "name": {
+              "full": "Matsujii",
+              "native": "マツジイ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 100691,
+              "name": {
+                "full": "Youhei Tadano",
+                "native": "多田野曜平 "
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787601748,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 1353793,
+    "idShikimori": 42057
   }
 }
