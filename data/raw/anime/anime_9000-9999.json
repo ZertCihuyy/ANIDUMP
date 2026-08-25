@@ -42,8 +42,8 @@
     ],
     "averageScore": 63,
     "meanScore": 69,
-    "popularity": 680,
-    "trending": 0,
+    "popularity": 681,
+    "trending": 1,
     "favourites": 23,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -62,7 +62,13 @@
               "romaji": "Sanrio Anime Sekai Gekijou",
               "english": "Hello Kitty’s Animation Theater"
             },
-            "type": "ANIME"
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2001,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx4024-IzecGdpwRWrg.jpg"
+            }
           }
         },
         {
@@ -73,7 +79,13 @@
               "romaji": "HELLO KITTY",
               "english": null
             },
-            "type": "MANGA"
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx207837-j7I2rTxZ24t5.jpg"
+            }
           }
         }
       ]
@@ -185,7 +197,14 @@
         }
       ]
     },
-    "updatedAt": 1787349759
+    "updatedAt": 1787677310,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 37359,
+    "idShikimori": 9770
   },
   "9515": {
     "id": 9515,
@@ -4865,7 +4884,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 59954,
-    "trending": 0,
+    "trending": 2,
     "favourites": 343,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5212,7 +5231,7 @@
         }
       ]
     },
-    "updatedAt": 1787670112,
+    "updatedAt": 1787677269,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6093,7 +6112,7 @@
     "averageScore": 72,
     "meanScore": 73,
     "popularity": 459236,
-    "trending": 4,
+    "trending": 8,
     "favourites": 9165,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6686,7 +6705,7 @@
         }
       ]
     },
-    "updatedAt": 1787670082,
+    "updatedAt": 1787677225,
     "idTmdb": 38464,
     "idImdb": "tt1799631",
     "idTvdb": 248035,
@@ -9318,7 +9337,7 @@
         }
       ]
     },
-    "updatedAt": 1787637711,
+    "updatedAt": 1787677210,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9372,7 +9391,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 40451,
-    "trending": 1,
+    "trending": 0,
     "favourites": 367,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9720,7 +9739,7 @@
         }
       ]
     },
-    "updatedAt": 1787670101,
+    "updatedAt": 1787677319,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9784,7 +9803,7 @@
     "averageScore": 83,
     "meanScore": 83,
     "popularity": 324064,
-    "trending": 11,
+    "trending": 14,
     "favourites": 23887,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10565,7 +10584,7 @@
         }
       ]
     },
-    "updatedAt": 1787670048,
+    "updatedAt": 1787677225,
     "idTmdb": 39218,
     "idImdb": "tt1773185",
     "idTvdb": 219181,
@@ -10622,7 +10641,7 @@
     "averageScore": 89,
     "meanScore": 89,
     "popularity": 590784,
-    "trending": 24,
+    "trending": 20,
     "favourites": 56138,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11493,7 +11512,7 @@
         }
       ]
     },
-    "updatedAt": 1787670041,
+    "updatedAt": 1787677220,
     "idTmdb": 42509,
     "idImdb": "tt1910272",
     "idTvdb": 244061,
@@ -12979,7 +12998,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 57348,
-    "trending": 1,
+    "trending": 2,
     "favourites": 516,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13341,7 +13360,7 @@
         }
       ]
     },
-    "updatedAt": 1787670092,
+    "updatedAt": 1787677282,
     "idTmdb": 38441,
     "idImdb": "tt1909463",
     "idTvdb": 219701,
@@ -13401,7 +13420,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 392444,
-    "trending": 12,
+    "trending": 8,
     "favourites": 12709,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13923,7 +13942,7 @@
         }
       ]
     },
-    "updatedAt": 1787670040,
+    "updatedAt": 1787677228,
     "idTmdb": 39434,
     "idImdb": "tt1913273",
     "idTvdb": 247958,
@@ -15487,7 +15506,7 @@
     "averageScore": 83,
     "meanScore": 83,
     "popularity": 166021,
-    "trending": 2,
+    "trending": 1,
     "favourites": 4611,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -15826,7 +15845,7 @@
         }
       ]
     },
-    "updatedAt": 1787670032,
+    "updatedAt": 1787677239,
     "idTmdb": 357786,
     "idImdb": "tt3138698",
     "idTvdb": null,
@@ -20647,7 +20666,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 27523,
-    "trending": 0,
+    "trending": 1,
     "favourites": 155,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -20990,7 +21009,7 @@
         }
       ]
     },
-    "updatedAt": 1787644946,
+    "updatedAt": 1787677315,
     "idTmdb": 38671,
     "idImdb": "tt2119364",
     "idTvdb": 219351,
@@ -21050,7 +21069,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 69986,
-    "trending": 0,
+    "trending": 1,
     "favourites": 670,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -21615,7 +21634,7 @@
         }
       ]
     },
-    "updatedAt": 1787670112,
+    "updatedAt": 1787677282,
     "idTmdb": 65356,
     "idImdb": "tt2697872",
     "idTvdb": 247934,
@@ -21673,7 +21692,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 27708,
-    "trending": 0,
+    "trending": 1,
     "favourites": 250,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -22096,7 +22115,7 @@
         }
       ]
     },
-    "updatedAt": 1787666732,
+    "updatedAt": 1787677250,
     "idTmdb": 95170,
     "idImdb": "tt1974262",
     "idTvdb": null,
@@ -30405,7 +30424,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 32921,
-    "trending": 1,
+    "trending": 3,
     "favourites": 316,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -30845,7 +30864,7 @@
         }
       ]
     },
-    "updatedAt": 1787670085,
+    "updatedAt": 1787677230,
     "idTmdb": 60572,
     "idImdb": "tt0168366",
     "idTvdb": 76703,
@@ -30897,7 +30916,7 @@
     "averageScore": 71,
     "meanScore": 72,
     "popularity": 3472,
-    "trending": 0,
+    "trending": 1,
     "favourites": 30,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -31159,7 +31178,7 @@
         }
       ]
     },
-    "updatedAt": 1787597127,
+    "updatedAt": 1787677269,
     "idTmdb": 24392,
     "idImdb": null,
     "idTvdb": null,
@@ -37490,7 +37509,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 18943,
-    "trending": 0,
+    "trending": 1,
     "favourites": 235,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -37866,7 +37885,7 @@
         }
       ]
     },
-    "updatedAt": 1787662668,
+    "updatedAt": 1787677264,
     "idTmdb": 93013,
     "idImdb": "tt2113091",
     "idTvdb": null,
@@ -51327,7 +51346,7 @@
     "averageScore": 63,
     "meanScore": 65,
     "popularity": 1903,
-    "trending": 0,
+    "trending": 1,
     "favourites": 14,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -51435,7 +51454,7 @@
         }
       ]
     },
-    "updatedAt": 1787596796,
+    "updatedAt": 1787677311,
     "idTmdb": 379152,
     "idImdb": "tt0829187",
     "idTvdb": null,
@@ -62664,7 +62683,7 @@
     "averageScore": 77,
     "meanScore": 78,
     "popularity": 8888,
-    "trending": 0,
+    "trending": 1,
     "favourites": 64,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -62931,7 +62950,7 @@
         }
       ]
     },
-    "updatedAt": 1787604573,
+    "updatedAt": 1787677283,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -71499,7 +71518,7 @@
     "averageScore": 65,
     "meanScore": 66,
     "popularity": 2757,
-    "trending": 1,
+    "trending": 0,
     "favourites": 15,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -71759,7 +71778,7 @@
         }
       ]
     },
-    "updatedAt": 1787670084,
+    "updatedAt": 1787677319,
     "idTmdb": 35138,
     "idImdb": null,
     "idTvdb": null,
@@ -71903,7 +71922,7 @@
     "averageScore": 60,
     "meanScore": 66,
     "popularity": 415,
-    "trending": 1,
+    "trending": 0,
     "favourites": 11,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -71940,7 +71959,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787670067,
+    "updatedAt": 1787677319,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -71948,5 +71967,315 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 9445
+  },
+  "9495": {
+    "id": 9495,
+    "idMal": 9495,
+    "title": {
+      "romaji": "Inochi no Chikyuu: Dioxin no Natsu",
+      "english": "The Summer of Dioxin",
+      "native": "いのちの地球 ダイオキシンの夏"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "This film was based on a real-life 1976 accident in Italy, when deadly dioxins threatened the area surrounding a biological research laboratory where an explosion took place.",
+    "episodes": 1,
+    "duration": 83,
+    "season": "SUMMER",
+    "seasonYear": 2001,
+    "startDate": {
+      "year": 2001,
+      "month": 8,
+      "day": 18
+    },
+    "endDate": {
+      "year": 2001,
+      "month": 8,
+      "day": 18
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9495.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9495.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9495.jpg",
+      "color": "#e4bb5d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Drama"
+    ],
+    "synonyms": [],
+    "averageScore": 56,
+    "meanScore": 60,
+    "popularity": 769,
+    "trending": 1,
+    "favourites": 3,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": null,
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 25,
+        "name": "Historical",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 342,
+        "name": "Environmental",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 198,
+        "name": "Foreign",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 648,
+        "name": "Crime",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1219,
+        "name": "Disability",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 103,
+        "name": "Politics",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 207,
+            "name": "Magic Bus"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 320647,
+            "name": {
+              "full": "Angelo",
+              "native": "アンジェロ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105066,
+              "name": {
+                "full": "Chihiro Kusaka",
+                "native": "日下ちひろ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 320648,
+            "name": {
+              "full": "Enrico",
+              "native": "エンリコ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95208,
+              "name": {
+                "full": "Ai Orikasa",
+                "native": "折笠愛"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 320650,
+            "name": {
+              "full": "Giulia",
+              "native": "ジュリア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 261135,
+              "name": {
+                "full": "Nobuko Sakuma",
+                "native": "佐久間信子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 320654,
+            "name": {
+              "full": "Maria",
+              "native": "マリア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95291,
+              "name": {
+                "full": "Yuri Shiratori",
+                "native": "白鳥由里"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 320656,
+            "name": {
+              "full": "Lucio",
+              "native": "リチオ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95041,
+              "name": {
+                "full": "Takako Honda",
+                "native": "本田貴子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 320649,
+            "name": {
+              "full": "Sonia",
+              "native": "ソニア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96056,
+              "name": {
+                "full": "Chieko Baishou",
+                "native": "倍賞千恵子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 320651,
+            "name": {
+              "full": "Anna",
+              "native": "アンナ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95485,
+              "name": {
+                "full": "Yuuko Mizutani",
+                "native": "水谷優子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 320652,
+            "name": {
+              "full": "Marco",
+              "native": "マルコ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95149,
+              "name": {
+                "full": "Sanae Kobayashi",
+                "native": "小林沙苗"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 320653,
+            "name": {
+              "full": "Antonio",
+              "native": "アントニオ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96543,
+              "name": {
+                "full": "Takehiro Murozono",
+                "native": "室園丈裕"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 320655,
+            "name": {
+              "full": "Shichou",
+              "native": "市長"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95761,
+              "name": {
+                "full": "Tesshou Genda",
+                "native": "玄田哲章"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787677309,
+    "idTmdb": 608396,
+    "idImdb": "tt0829134",
+    "idTvdb": null,
+    "idTrakt": 453379,
+    "traktSlug": "tracing-the-gray-summer-2001",
+    "idSimkl": 38157,
+    "idShikimori": 9495
   }
 }

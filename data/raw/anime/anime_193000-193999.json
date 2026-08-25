@@ -240,7 +240,7 @@
         }
       ]
     },
-    "updatedAt": 1787649858,
+    "updatedAt": 1787677244,
     "idTmdb": 292731,
     "idImdb": null,
     "idTvdb": null,
@@ -809,7 +809,7 @@
         }
       ]
     },
-    "updatedAt": 1787666629,
+    "updatedAt": 1787677233,
     "idTmdb": 293010,
     "idImdb": "tt37532040",
     "idTvdb": 440965,
@@ -3301,7 +3301,7 @@
     "averageScore": null,
     "meanScore": 58,
     "popularity": 86,
-    "trending": 0,
+    "trending": 1,
     "favourites": 0,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3386,7 +3386,7 @@
         }
       ]
     },
-    "updatedAt": 1787477050,
+    "updatedAt": 1787677210,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -5465,5 +5465,180 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 58933
+  },
+  "193295": {
+    "id": 193295,
+    "idMal": 61261,
+    "title": {
+      "romaji": "Okaimono Panda! (ONA)",
+      "english": null,
+      "native": "お買いものパンダ！(ONA)"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Streaming exclusive episodes of <i>Okaimono Panda!</i>.",
+    "episodes": 4,
+    "duration": 3,
+    "season": "FALL",
+    "seasonYear": 2024,
+    "startDate": {
+      "year": 2024,
+      "month": 12,
+      "day": 20
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 3,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193295-oaIFFx0Jtm5o.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193295-oaIFFx0Jtm5o.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193295-oaIFFx0Jtm5o.jpg",
+      "color": "#f1a15d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "Rakuten Panda!",
+      "Shopping Panda"
+    ],
+    "averageScore": null,
+    "meanScore": 56,
+    "popularity": 82,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 177603,
+            "title": {
+              "romaji": "Okaimono Panda!",
+              "english": "Okaimono Panda"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177603-OLyvQoVBW101.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 247,
+            "name": "Shin-Ei Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 336041,
+            "name": {
+              "full": "Okaimono Panda",
+              "native": "お買いものパンダ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95128,
+              "name": {
+                "full": "Ikue Ootani",
+                "native": "大谷育江"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 341751,
+            "name": {
+              "full": "Mugi",
+              "native": "むぎ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101182,
+              "name": {
+                "full": "Yuria Kouzuki",
+                "native": "神月柚莉愛"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 341752,
+            "name": {
+              "full": "Kopanda",
+              "native": "小パンダ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95589,
+              "name": {
+                "full": "Neeko",
+                "native": "ニーコ "
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 341753,
+            "name": {
+              "full": "Puchomaru",
+              "native": "ぷちょまる"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 110919,
+              "name": {
+                "full": "Ayumu Murase",
+                "native": "村瀬歩"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787677207,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 61261
   }
 }

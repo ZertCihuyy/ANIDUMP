@@ -331,7 +331,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 36240,
-    "trending": 2,
+    "trending": 4,
     "favourites": 930,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -806,7 +806,7 @@
         }
       ]
     },
-    "updatedAt": 1787670078,
+    "updatedAt": 1787677236,
     "idTmdb": 132664,
     "idImdb": "tt15353550",
     "idTvdb": 409529,
@@ -861,7 +861,7 @@
     "averageScore": 77,
     "meanScore": 78,
     "popularity": 17810,
-    "trending": 0,
+    "trending": 1,
     "favourites": 245,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1178,7 +1178,7 @@
         }
       ]
     },
-    "updatedAt": 1787655718,
+    "updatedAt": 1787677272,
     "idTmdb": 100281,
     "idImdb": null,
     "idTvdb": null,
@@ -1235,7 +1235,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 105729,
-    "trending": 1,
+    "trending": 2,
     "favourites": 2090,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1685,7 +1685,7 @@
         }
       ]
     },
-    "updatedAt": 1787670108,
+    "updatedAt": 1787677270,
     "idTmdb": 97525,
     "idImdb": "tt12063450",
     "idTvdb": 375271,
@@ -2772,7 +2772,7 @@
     "averageScore": 61,
     "meanScore": 62,
     "popularity": 5013,
-    "trending": 1,
+    "trending": 0,
     "favourites": 37,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -2900,7 +2900,7 @@
         }
       ]
     },
-    "updatedAt": 1787670056,
+    "updatedAt": 1787677319,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4412,7 +4412,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 56285,
-    "trending": 3,
+    "trending": 4,
     "favourites": 1521,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4853,7 +4853,7 @@
         }
       ]
     },
-    "updatedAt": 1787659287,
+    "updatedAt": 1787677235,
     "idTmdb": 75865,
     "idImdb": "tt7808344",
     "idTvdb": 337936,
@@ -6371,7 +6371,7 @@
         }
       ]
     },
-    "updatedAt": 1787659289,
+    "updatedAt": 1787677274,
     "idTmdb": 938567,
     "idImdb": "tt15313532",
     "idTvdb": null,
@@ -15346,5 +15346,79 @@
     "traktSlug": null,
     "idSimkl": 1572295,
     "idShikimori": 22653
+  },
+  "138779": {
+    "id": 138779,
+    "idMal": 43250,
+    "title": {
+      "romaji": "Dalie Ji",
+      "english": null,
+      "native": "打猎记"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "The puppet film tells about the adventures of the lazy, inept hunter Cheng Sang, who hoped for a successful hunt, without trying to put the necessary work into it.",
+    "episodes": 1,
+    "duration": 17,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 1958,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": 1958,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138779-y2CPfkf5qMOw.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138779-y2CPfkf5qMOw.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b138779-y2CPfkf5qMOw.png",
+      "color": "#a15d1a"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 37,
+    "popularity": 122,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": null,
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 471,
+            "name": "Shanghai Animation Film Studio"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787677232,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 43250
   }
 }
