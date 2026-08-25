@@ -273,7 +273,7 @@
     "averageScore": 71,
     "meanScore": 75,
     "popularity": 2656,
-    "trending": 0,
+    "trending": 1,
     "favourites": 64,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -621,7 +621,7 @@
         }
       ]
     },
-    "updatedAt": 1787572427,
+    "updatedAt": 1787652049,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -680,7 +680,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 89615,
-    "trending": 2,
+    "trending": 0,
     "favourites": 1589,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1150,7 +1150,7 @@
         }
       ]
     },
-    "updatedAt": 1787644873,
+    "updatedAt": 1787652104,
     "idTmdb": 104711,
     "idImdb": "tt13167196",
     "idTvdb": 388645,
@@ -1205,7 +1205,7 @@
     "averageScore": 60,
     "meanScore": 60,
     "popularity": 43608,
-    "trending": 2,
+    "trending": 0,
     "favourites": 570,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1671,7 +1671,7 @@
         }
       ]
     },
-    "updatedAt": 1787644895,
+    "updatedAt": 1787652104,
     "idTmdb": 104032,
     "idImdb": "tt14960284",
     "idTvdb": 400134,
@@ -1733,7 +1733,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 304458,
-    "trending": 9,
+    "trending": 7,
     "favourites": 11162,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2424,7 +2424,7 @@
         }
       ]
     },
-    "updatedAt": 1787644871,
+    "updatedAt": 1787652063,
     "idTmdb": 65942,
     "idImdb": "tt5607616",
     "idTvdb": 305089,
@@ -13645,5 +13645,87 @@
     "traktSlug": null,
     "idSimkl": 39766,
     "idShikimori": 23013
+  },
+  "119787": {
+    "id": 119787,
+    "idMal": 36357,
+    "title": {
+      "romaji": "Chibikko Cowboy",
+      "english": null,
+      "native": "ちびっこカウボーイ"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "A little boy has fun being a cowboy out in the Wild West.",
+    "episodes": 1,
+    "duration": 2,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 1966,
+      "month": 8,
+      "day": 25
+    },
+    "endDate": {
+      "year": 1966,
+      "month": 8,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119787-kPbyrNrtnMxv.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119787-kPbyrNrtnMxv.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b119787-kPbyrNrtnMxv.jpg",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "averageScore": 38,
+    "meanScore": 37,
+    "popularity": 173,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.nhk.or.jp/minna/songs/MIN196608_02/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 111,
+            "name": "NHK"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787652088,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 36357
   }
 }
