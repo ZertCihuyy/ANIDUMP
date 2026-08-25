@@ -46,7 +46,7 @@
     "averageScore": 71,
     "meanScore": 72,
     "popularity": 78699,
-    "trending": 2,
+    "trending": 3,
     "favourites": 1492,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -541,7 +541,7 @@
         }
       ]
     },
-    "updatedAt": 1787594476,
+    "updatedAt": 1787612463,
     "idTmdb": 115236,
     "idImdb": "tt13049906",
     "idTvdb": 397831,
@@ -598,8 +598,8 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 28440,
-    "trending": 1,
-    "favourites": 621,
+    "trending": 0,
+    "favourites": 620,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -1116,7 +1116,7 @@
         }
       ]
     },
-    "updatedAt": 1787604500,
+    "updatedAt": 1787616503,
     "idTmdb": 88806,
     "idImdb": "tt10417572",
     "idTvdb": 363143,
@@ -1406,7 +1406,7 @@
     "meanScore": 68,
     "popularity": 2054,
     "trending": 0,
-    "favourites": 24,
+    "favourites": 23,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -1766,7 +1766,7 @@
         }
       ]
     },
-    "updatedAt": 1787571563,
+    "updatedAt": 1787616503,
     "idTmdb": 67249,
     "idImdb": null,
     "idTvdb": null,
@@ -5070,7 +5070,7 @@
     "meanScore": 64,
     "popularity": 264,
     "trending": 0,
-    "favourites": 3,
+    "favourites": 4,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": null,
@@ -5219,7 +5219,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787571547,
+    "updatedAt": 1787616503,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7758,7 +7758,7 @@
     "averageScore": 53,
     "meanScore": 55,
     "popularity": 1976,
-    "trending": 0,
+    "trending": 1,
     "favourites": 50,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -7858,7 +7858,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787483470,
+    "updatedAt": 1787612554,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -10119,5 +10119,113 @@
     "traktSlug": null,
     "idSimkl": 1036823,
     "idShikimori": 39222
+  },
+  "123119": {
+    "id": 123119,
+    "idMal": 41475,
+    "title": {
+      "romaji": "Hulu Xiao Jingang",
+      "english": null,
+      "native": "葫芦小金刚"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 6,
+    "duration": 18,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 1989,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": 1991,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123119-NSCfsp6ojHDP.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx123119-NSCfsp6ojHDP.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx123119-NSCfsp6ojHDP.png",
+      "color": "#f1bb5d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "synonyms": [
+      "ヒョウタン小金剛"
+    ],
+    "averageScore": null,
+    "meanScore": 47,
+    "popularity": 121,
+    "trending": 0,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.bilibili.com/bangumi/media/md2520",
+        "site": "Bilibili",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL5X7W6vC47xXG4J02UBVsLigtjOfQ86Rr",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 9950,
+            "title": {
+              "romaji": "Hulu Xiongdi",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx9950-hxP08MO2Jwck.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 471,
+            "name": "Shanghai Animation Film Studio"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787612578,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 1572367,
+    "idShikimori": 41475
   }
 }
