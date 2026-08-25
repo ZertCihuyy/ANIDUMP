@@ -680,7 +680,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 89645,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1589,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1150,7 +1150,7 @@
         }
       ]
     },
-    "updatedAt": 1787677319,
+    "updatedAt": 1787684820,
     "idTmdb": 104711,
     "idImdb": "tt13167196",
     "idTvdb": 388645,
@@ -1733,7 +1733,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 304598,
-    "trending": 13,
+    "trending": 12,
     "favourites": 11162,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2424,7 +2424,7 @@
         }
       ]
     },
-    "updatedAt": 1787680808,
+    "updatedAt": 1787684767,
     "idTmdb": 65942,
     "idImdb": "tt5607616",
     "idTvdb": 305089,
@@ -2814,7 +2814,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 43248,
-    "trending": 0,
+    "trending": 1,
     "favourites": 361,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3163,7 +3163,7 @@
         }
       ]
     },
-    "updatedAt": 1787677319,
+    "updatedAt": 1787684984,
     "idTmdb": 64710,
     "idImdb": null,
     "idTvdb": null,
@@ -14679,5 +14679,148 @@
     "traktSlug": null,
     "idSimkl": 38915,
     "idShikimori": 21547
+  },
+  "119873": {
+    "id": 119873,
+    "idMal": 35329,
+    "title": {
+      "romaji": "Ultrasonico",
+      "english": null,
+      "native": "ウルトラソニコ"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "2017 April Fools' Day event where Nitro+ mascot Super Sonico is becoming an Ultraman-esque superhero, \"Ultrasonico.\"",
+    "episodes": 1,
+    "duration": 2,
+    "season": "SPRING",
+    "seasonYear": 2017,
+    "startDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 1
+    },
+    "endDate": {
+      "year": 2017,
+      "month": 4,
+      "day": 1
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119873-F8BngBviK9OU.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119873-F8BngBviK9OU.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b119873-F8BngBviK9OU.jpg",
+      "color": "#1a5078"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [],
+    "averageScore": 43,
+    "meanScore": 44,
+    "popularity": 554,
+    "trending": 1,
+    "favourites": 4,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 20455,
+            "title": {
+              "romaji": "SoniAni: SUPER SONICO THE ANIMATION",
+              "english": "Soni-Ani: SUPER SONICO THE ANIMATION"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2014,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20455-idVtmB4eERac.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 90,
+        "name": "CGI",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 276,
+        "name": "Kaiju",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 513,
+        "name": "Tokusatsu",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 172,
+        "name": "Superhero",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 39,
+        "name": "Parody",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 459,
+            "name": "Nitroplus"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 41646,
+            "name": {
+              "full": "Super Sonico",
+              "native": "すーぱーそに子"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787684776,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 798737,
+    "idShikimori": 35329
   }
 }
