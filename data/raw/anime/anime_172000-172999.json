@@ -42,7 +42,7 @@
     "averageScore": 75,
     "meanScore": 76,
     "popularity": 23435,
-    "trending": 2,
+    "trending": 0,
     "favourites": 361,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -523,7 +523,7 @@
         }
       ]
     },
-    "updatedAt": 1787630479,
+    "updatedAt": 1787634186,
     "idTmdb": 216523,
     "idImdb": "tt29370857",
     "idTvdb": 427919,
@@ -2511,7 +2511,7 @@
     "averageScore": 79,
     "meanScore": 79,
     "popularity": 77471,
-    "trending": 10,
+    "trending": 7,
     "favourites": 2169,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3125,7 +3125,7 @@
         }
       ]
     },
-    "updatedAt": 1787630477,
+    "updatedAt": 1787634035,
     "idTmdb": 223564,
     "idImdb": "tt28919914",
     "idTvdb": 432050,
@@ -4362,7 +4362,7 @@
     "averageScore": 86,
     "meanScore": 86,
     "popularity": 253414,
-    "trending": 21,
+    "trending": 17,
     "favourites": 9811,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4906,7 +4906,7 @@
         }
       ]
     },
-    "updatedAt": 1787630435,
+    "updatedAt": 1787634050,
     "idTmdb": 95479,
     "idImdb": "tt12343534",
     "idTvdb": 377543,
@@ -4960,7 +4960,7 @@
     "averageScore": 50,
     "meanScore": 52,
     "popularity": 4306,
-    "trending": 0,
+    "trending": 1,
     "favourites": 64,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5444,7 +5444,7 @@
         }
       ]
     },
-    "updatedAt": 1787623317,
+    "updatedAt": 1787634155,
     "idTmdb": 245884,
     "idImdb": "tt32160126",
     "idTvdb": 444577,
@@ -5496,7 +5496,7 @@
     "averageScore": 56,
     "meanScore": 57,
     "popularity": 32498,
-    "trending": 2,
+    "trending": 1,
     "favourites": 458,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5964,7 +5964,7 @@
         }
       ]
     },
-    "updatedAt": 1787630452,
+    "updatedAt": 1787634084,
     "idTmdb": 244620,
     "idImdb": "tt32332992",
     "idTvdb": 443862,
@@ -10046,5 +10046,265 @@
     "traktSlug": null,
     "idSimkl": 2340882,
     "idShikimori": 57753
+  },
+  "172393": {
+    "id": 172393,
+    "idMal": 57622,
+    "title": {
+      "romaji": "Uta no☆Prince-sama♪ TABOO NIGHT XXXX",
+      "english": null,
+      "native": "うたの☆プリンスさまっ♪ TABOO NIGHT XXXX"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "The third movie in the UtaPri franchise, spotlighting the idol group QUARTET NIGHT.",
+    "episodes": 1,
+    "duration": 56,
+    "season": "SPRING",
+    "seasonYear": 2025,
+    "startDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 9
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 9
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172393-8dwjbJYYGi9W.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172393-8dwjbJYYGi9W.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172393-8dwjbJYYGi9W.jpg",
+      "color": "#f1f1c9"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Music"
+    ],
+    "synonyms": [
+      "うた☆プリ QUARTET NIGHT",
+      "UtaPri Movie 3",
+      "うたの☆プリンスさまっ♪ タブーナイト キスィズ",
+      "Uta no☆Prince-sama♪ TABOO NIGHT KISSES",
+      "UTA☆PRI TABOO NIGHT XXXX"
+    ],
+    "averageScore": 58,
+    "meanScore": 69,
+    "popularity": 988,
+    "trending": 1,
+    "favourites": 15,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "trailer": {
+      "id": "g9HDXo-ZA9A",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/g9HDXo-ZA9A/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/utapriMAJILOVE",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "http://utapri-movie.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 132055,
+            "title": {
+              "romaji": "Uta no☆Prince-sama♪ Maji LOVE ST☆RISH Tours",
+              "english": "Utano☆Princesama Maji LOVE ST☆RISH Tours"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx132055-HK87BHlrfWYE.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 12711,
+            "title": {
+              "romaji": "Uta no☆Prince-sama♪ Maji LOVE 2000%",
+              "english": "Uta no Prince Sama 2"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2013,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx12711-L2zKL1kjYMio.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 115,
+        "name": "Idol",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 90,
+        "name": "CGI",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 105,
+        "name": "Ensemble Cast",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 209,
+        "name": "Dancing",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 109,
+            "name": "Shouchiku"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 561,
+            "name": "A-1 Pictures"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6202,
+            "name": "King Records"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 63181,
+            "name": {
+              "full": "Reiji Kotobuki",
+              "native": "寿嶺二"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95178,
+              "name": {
+                "full": "Shoutarou Morikubo",
+                "native": "森久保祥太郎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 63177,
+            "name": {
+              "full": "Ranmaru Kurosaki",
+              "native": "黒崎蘭丸"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95735,
+              "name": {
+                "full": "Tatsuhisa Suzuki",
+                "native": "鈴木達央"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 63141,
+            "name": {
+              "full": "Ai Mikaze",
+              "native": "美風藍"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 109879,
+              "name": {
+                "full": "Shouta Aoi",
+                "native": "蒼井翔太"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 64881,
+            "name": {
+              "full": "Camus",
+              "native": "カミュ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96489,
+              "name": {
+                "full": "Tomoaki Maeno",
+                "native": "前野智昭"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787634153,
+    "idTmdb": 1448628,
+    "idImdb": "tt35652414",
+    "idTvdb": null,
+    "idTrakt": 1185518,
+    "traktSlug": "uta-no-prince-sama-movie-taboo-night-kisses-2025",
+    "idSimkl": 2626444,
+    "idShikimori": 57622
   }
 }
