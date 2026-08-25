@@ -4249,7 +4249,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 23623,
-    "trending": 1,
+    "trending": 0,
     "favourites": 188,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4628,7 +4628,7 @@
         }
       ]
     },
-    "updatedAt": 1787659308,
+    "updatedAt": 1787662668,
     "idTmdb": 53020,
     "idImdb": "tt2390066",
     "idTvdb": 262856,
@@ -6001,7 +6001,7 @@
     "averageScore": 75,
     "meanScore": 75,
     "popularity": 394270,
-    "trending": 1,
+    "trending": 5,
     "favourites": 7480,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6540,7 +6540,7 @@
         }
       ]
     },
-    "updatedAt": 1787655690,
+    "updatedAt": 1787662837,
     "idTmdb": 45997,
     "idImdb": "tt2622982",
     "idTvdb": 267441,
@@ -7684,7 +7684,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 78508,
-    "trending": 1,
+    "trending": 4,
     "favourites": 965,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8126,7 +8126,7 @@
         }
       ]
     },
-    "updatedAt": 1787659338,
+    "updatedAt": 1787662876,
     "idTmdb": 53594,
     "idImdb": "tt2552262",
     "idTvdb": 264049,
@@ -10642,7 +10642,7 @@
         }
       ]
     },
-    "updatedAt": 1787659302,
+    "updatedAt": 1787662872,
     "idTmdb": 45950,
     "idImdb": "tt2230051",
     "idTvdb": 254653,
@@ -11127,7 +11127,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 63628,
-    "trending": 2,
+    "trending": 0,
     "favourites": 1530,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11479,7 +11479,7 @@
         }
       ]
     },
-    "updatedAt": 1787659328,
+    "updatedAt": 1787662921,
     "idTmdb": 378108,
     "idImdb": "tt4769824",
     "idTvdb": null,
@@ -14710,7 +14710,7 @@
     "averageScore": 74,
     "meanScore": 75,
     "popularity": 33146,
-    "trending": 1,
+    "trending": 0,
     "favourites": 224,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -15075,7 +15075,7 @@
         }
       ]
     },
-    "updatedAt": 1787659286,
+    "updatedAt": 1787662668,
     "idTmdb": 56351,
     "idImdb": null,
     "idTvdb": null,
@@ -20257,7 +20257,7 @@
         }
       ]
     },
-    "updatedAt": 1787659324,
+    "updatedAt": 1787662916,
     "idTmdb": 45854,
     "idImdb": "tt2363624",
     "idTvdb": 248049,
@@ -38620,5 +38620,100 @@
     "traktSlug": "lupin-the-third-the-secret-page-of-marco-polo-2012",
     "idSimkl": 40371,
     "idShikimori": 15783
+  },
+  "15993": {
+    "id": 15993,
+    "idMal": 15993,
+    "title": {
+      "romaji": "Ginga e Kickoff!!: Natsuyasumi Special",
+      "english": null,
+      "native": "夏休みスペシャル 銀河へキックオフ!!"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "Clip show with soccer commentators providing commentary. <br>",
+    "episodes": 1,
+    "duration": 28,
+    "season": "SUMMER",
+    "seasonYear": 2012,
+    "startDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 25
+    },
+    "endDate": {
+      "year": 2012,
+      "month": 8,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15993.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15993.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/15993.jpg",
+      "color": "#43bbe4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Sports"
+    ],
+    "synonyms": [
+      "Ginga e Kickoff!! Special"
+    ],
+    "averageScore": 52,
+    "meanScore": 55,
+    "popularity": 434,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": null,
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 12875,
+            "title": {
+              "romaji": "Ginga e Kickoff!!",
+              "english": "Galaxy Kickoff!!"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2012,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx12875-AJxPZ23esr7w.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 148,
+        "name": "Football",
+        "rank": 79,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787662920,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 15993
   }
 }
