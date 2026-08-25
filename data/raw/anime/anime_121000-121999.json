@@ -641,7 +641,7 @@
     "averageScore": 86,
     "meanScore": 86,
     "popularity": 25121,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1265,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1113,7 +1113,7 @@
         }
       ]
     },
-    "updatedAt": 1787690485,
+    "updatedAt": 1787695416,
     "idTmdb": 80732,
     "idImdb": "tt9005728",
     "idTvdb": 341295,
@@ -1712,7 +1712,7 @@
     "averageScore": 79,
     "meanScore": 80,
     "popularity": 59642,
-    "trending": 5,
+    "trending": 2,
     "favourites": 1261,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2459,7 +2459,7 @@
         }
       ]
     },
-    "updatedAt": 1787691676,
+    "updatedAt": 1787698849,
     "idTmdb": 91768,
     "idImdb": "tt10885406",
     "idTvdb": 366263,
@@ -3386,7 +3386,7 @@
         }
       ]
     },
-    "updatedAt": 1787572027,
+    "updatedAt": 1787695416,
     "idTmdb": 94209,
     "idImdb": "tt15393416",
     "idTvdb": 379528,
@@ -4606,7 +4606,7 @@
     "averageScore": 58,
     "meanScore": 60,
     "popularity": 3262,
-    "trending": 1,
+    "trending": 0,
     "favourites": 39,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4764,7 +4764,7 @@
         }
       ]
     },
-    "updatedAt": 1787691727,
+    "updatedAt": 1787695416,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -10598,5 +10598,217 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 27567
+  },
+  "121536": {
+    "id": 121536,
+    "idMal": 25033,
+    "title": {
+      "romaji": "Chiisana Koi no Monogatari: Chitchi to Sally Hatsukoi no Shiki",
+      "english": null,
+      "native": "小さな恋のものがたり チッチとサリー初恋の四季"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "Tiny schoolgirl Chiiko develops a crush on older boy Sally and believes herself to be his girlfriend, although Sally is already involved in a love triangle with a girl called Tonko.\n<br><br>\n(Source: The Anime Encyclopedia)",
+    "episodes": 1,
+    "duration": 71,
+    "season": "WINTER",
+    "seasonYear": 1984,
+    "startDate": {
+      "year": 1984,
+      "month": 3,
+      "day": 20
+    },
+    "endDate": {
+      "year": 1984,
+      "month": 3,
+      "day": 20
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121536-4fFVXM4wyOPu.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121536-4fFVXM4wyOPu.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b121536-4fFVXM4wyOPu.jpg",
+      "color": "#5da1e4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "Little Love Story: Chitchi and Sally, The Four Seasons of First Love"
+    ],
+    "averageScore": 54,
+    "meanScore": 58,
+    "popularity": 578,
+    "trending": 0,
+    "favourites": 7,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 92162,
+            "title": {
+              "romaji": "Chiisana Koi no Monogatari",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b92162-jEHA4Nn7gR2I.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 53,
+        "name": "Shoujo",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 81,
+        "name": "Iyashikei",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 46,
+        "name": "School",
+        "rank": 53,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 145,
+            "name": "TBS"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 181341,
+            "name": {
+              "full": "Chiiko Ogawa",
+              "native": "小川チイコ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107491,
+              "name": {
+                "full": "Tsukasa Itou",
+                "native": "伊藤つかさ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 181342,
+            "name": {
+              "full": "Satoshi Murakami",
+              "native": "村上サトシ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95673,
+              "name": {
+                "full": "Toshio Furukawa",
+                "native": "古川登志夫"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 181343,
+            "name": {
+              "full": "Yamashita",
+              "native": "山下"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95572,
+              "name": {
+                "full": "Hirotaka Suzuoki",
+                "native": "鈴置洋孝"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 181345,
+            "name": {
+              "full": "Tonko",
+              "native": "トンコ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95920,
+              "name": {
+                "full": "Rihoko Yoshida",
+                "native": "吉田理保子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 181344,
+            "name": {
+              "full": "Chitchi's mother",
+              "native": "チッチの母"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101504,
+              "name": {
+                "full": "Reiko Suzuki",
+                "native": "鈴木れい子"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787698965,
+    "idTmdb": 522503,
+    "idImdb": "tt1831606",
+    "idTvdb": null,
+    "idTrakt": 370673,
+    "traktSlug": "little-love-story-chitchi-and-sally-four-seasons-of-first-love-1984",
+    "idSimkl": 36998,
+    "idShikimori": 25033
   }
 }
