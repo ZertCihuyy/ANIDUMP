@@ -288,7 +288,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 82,
-    "trending": 0,
+    "trending": 1,
     "favourites": 4,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -340,7 +340,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787677319,
+    "updatedAt": 1787691740,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1643,7 +1643,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 68,
-    "trending": 1,
+    "trending": 0,
     "favourites": 2,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1690,7 +1690,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787688116,
+    "updatedAt": 1787691741,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2227,7 +2227,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1163,
-    "trending": 5,
+    "trending": 1,
     "favourites": 6,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2338,7 +2338,7 @@
         }
       ]
     },
-    "updatedAt": 1787688009,
+    "updatedAt": 1787691615,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2387,7 +2387,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3160,
-    "trending": 19,
+    "trending": 12,
     "favourites": 9,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2444,7 +2444,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787688033
+    "updatedAt": 1787691640
   },
   "215855": {
     "id": 215855,
@@ -2486,7 +2486,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3640,
-    "trending": 24,
+    "trending": 22,
     "favourites": 20,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2594,8 +2594,14 @@
       {
         "id": 85,
         "name": "Tragedy",
-        "rank": 40,
+        "rank": 50,
         "isMediaSpoiler": true
+      },
+      {
+        "id": 226,
+        "name": "Fugitive",
+        "rank": 30,
+        "isMediaSpoiler": false
       },
       {
         "id": 66,
@@ -2606,12 +2612,6 @@
       {
         "id": 305,
         "name": "Ships",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 226,
-        "name": "Fugitive",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -2656,7 +2656,7 @@
         }
       ]
     },
-    "updatedAt": 1787688011
+    "updatedAt": 1787691616
   },
   "215891": {
     "id": 215891,
