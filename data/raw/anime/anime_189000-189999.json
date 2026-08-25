@@ -1596,7 +1596,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 22660,
-    "trending": 0,
+    "trending": 1,
     "favourites": 177,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1803,7 +1803,7 @@
         }
       ]
     },
-    "updatedAt": 1787650119,
+    "updatedAt": 1787655677,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1887,7 +1887,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791099000,
-      "timeUntilAiring": 3445604,
+      "timeUntilAiring": 3441981,
       "episode": 1
     },
     "relations": {
@@ -2232,7 +2232,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 37196,
-    "trending": 6,
+    "trending": 9,
     "favourites": 819,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2691,7 +2691,7 @@
         }
       ]
     },
-    "updatedAt": 1787652040,
+    "updatedAt": 1787655615,
     "idTmdb": 288551,
     "idImdb": "tt39443960",
     "idTvdb": 462400,
@@ -2744,7 +2744,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 27662,
-    "trending": 1,
+    "trending": 2,
     "favourites": 365,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3040,7 +3040,7 @@
         }
       ]
     },
-    "updatedAt": 1787652088,
+    "updatedAt": 1787655627,
     "idTmdb": 285743,
     "idImdb": "tt38253018",
     "idTvdb": 462226,
@@ -3542,7 +3542,7 @@
     "averageScore": 90,
     "meanScore": 90,
     "popularity": 133126,
-    "trending": 64,
+    "trending": 60,
     "favourites": 6647,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3617,7 +3617,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787749200,
-      "timeUntilAiring": 95629,
+      "timeUntilAiring": 92281,
       "episode": 14
     },
     "relations": {
@@ -4097,7 +4097,7 @@
         }
       ]
     },
-    "updatedAt": 1787652005,
+    "updatedAt": 1787655603,
     "idTmdb": 65942,
     "idImdb": "tt5607616",
     "idTvdb": 305089,
@@ -4152,7 +4152,7 @@
     "averageScore": 85,
     "meanScore": 85,
     "popularity": 86373,
-    "trending": 2,
+    "trending": 3,
     "favourites": 1987,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4725,7 +4725,7 @@
         }
       ]
     },
-    "updatedAt": 1787652007,
+    "updatedAt": 1787655666,
     "idTmdb": 86031,
     "idImdb": "tt9679542",
     "idTvdb": 355774,
@@ -10040,5 +10040,286 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 61363
+  },
+  "189736": {
+    "id": 189736,
+    "idMal": 61310,
+    "title": {
+      "romaji": "Go! Go! Vehicle Zoo (ONA)",
+      "english": null,
+      "native": "ゴー！ゴー！びーくるずー (ONA)"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Follow-up to the original <i>Go! Go! Vehicle Zoo</i>. This series introduces a couple new characters, including a dog named Moko who specializes in tracking, her partner, a fire truck named Fine, and an antagonist named Guutan.",
+    "episodes": 4,
+    "duration": 8,
+    "season": "SUMMER",
+    "seasonYear": 2024,
+    "startDate": {
+      "year": 2024,
+      "month": 6,
+      "day": 19
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 10,
+      "day": 26
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189736-obJ9cUhKSzYK.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189736-obJ9cUhKSzYK.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189736-obJ9cUhKSzYK.png",
+      "color": "#f1bb28"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Slice of Life"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 54,
+    "popularity": 64,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "D7iWCHMZ3GE",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/D7iWCHMZ3GE/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/playlist?list=https://www.youtube.com/playlist?list=PLhWipIfRhqz366k5mW6fi13OmUHl0N6_T",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 188661,
+            "title": {
+              "romaji": "Go! Go! Vehicle Zoo: Norimono Star-hen",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188661-I48XaB1Bvkju.png"
+            }
+          }
+        },
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 168001,
+            "title": {
+              "romaji": "Go! Go! Vehicle Zoo",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2023,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b168001-kPT2uZCAKgJz.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 276,
+            "name": "DLE"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6635,
+            "name": "Infinity Vision"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 311779,
+            "name": {
+              "full": "Rettsu",
+              "native": "レッツ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 125030,
+              "name": {
+                "full": "Hana Satou",
+                "native": "佐藤はな"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 311780,
+            "name": {
+              "full": "Burun",
+              "native": "ブルン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 285364,
+              "name": {
+                "full": "Satomi Ootani",
+                "native": "大谷理美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 311781,
+            "name": {
+              "full": "Pao",
+              "native": "パオ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 311783,
+              "name": {
+                "full": "Anju Shiranami",
+                "native": "白那美アンジュ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 311784,
+            "name": {
+              "full": "Garun",
+              "native": "ガルン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 134432,
+              "name": {
+                "full": "Yuusuke Tonozaki",
+                "native": "外崎友亮"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 311785,
+            "name": {
+              "full": "Mimi",
+              "native": "ミミィ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119153,
+              "name": {
+                "full": "Misako Tomioka",
+                "native": "冨岡美沙子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 311789,
+            "name": {
+              "full": "Gao-nii",
+              "native": "ガオにぃ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 134432,
+              "name": {
+                "full": "Yuusuke Tonozaki",
+                "native": "外崎友亮"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 311790,
+            "name": {
+              "full": "Kyurun",
+              "native": "キュルン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 115100,
+              "name": {
+                "full": "Arisa Kiyoto",
+                "native": "清都ありさ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 311786,
+            "name": {
+              "full": "Gotton",
+              "native": "ゴットン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 311787,
+              "name": {
+                "full": "Takanori Kino",
+                "native": "紀ノ貴紀"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787655635,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2832394,
+    "idShikimori": 61310
   }
 }
