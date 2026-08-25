@@ -1130,7 +1130,7 @@
     "averageScore": 62,
     "meanScore": 68,
     "popularity": 1976,
-    "trending": 0,
+    "trending": 1,
     "favourites": 34,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1209,7 +1209,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787623317,
+    "updatedAt": 1787624154,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1261,7 +1261,7 @@
     "averageScore": 45,
     "meanScore": 45,
     "popularity": 10149,
-    "trending": 0,
+    "trending": 1,
     "favourites": 171,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -1608,7 +1608,7 @@
         }
       ]
     },
-    "updatedAt": 1787609156,
+    "updatedAt": 1787624155,
     "idTmdb": 316427,
     "idImdb": "tt39673615",
     "idTvdb": 473930,
@@ -3167,7 +3167,7 @@
         }
       ]
     },
-    "updatedAt": 1787616646,
+    "updatedAt": 1787624098,
     "idTmdb": 312474,
     "idImdb": "tt40548519",
     "idTvdb": 473228,
@@ -3927,7 +3927,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791289560,
-      "timeUntilAiring": 3665316,
+      "timeUntilAiring": 3660151,
       "episode": 1
     },
     "relations": {
@@ -4141,7 +4141,7 @@
     "averageScore": 71,
     "meanScore": 73,
     "popularity": 20781,
-    "trending": 67,
+    "trending": 60,
     "favourites": 175,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4186,7 +4186,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788181200,
-      "timeUntilAiring": 563038,
+      "timeUntilAiring": 551883,
       "episode": 10
     },
     "relations": {
@@ -4581,7 +4581,7 @@
         }
       ]
     },
-    "updatedAt": 1787616646,
+    "updatedAt": 1787624067,
     "idTmdb": 312020,
     "idImdb": "tt41279522",
     "idTvdb": 473018,
@@ -5023,7 +5023,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788049800,
-      "timeUntilAiring": 425541,
+      "timeUntilAiring": 420379,
       "episode": 22
     },
     "relations": {
@@ -11070,7 +11070,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787562563,
+    "updatedAt": 1787624165,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -12848,5 +12848,107 @@
     "traktSlug": null,
     "idSimkl": 1192435,
     "idShikimori": 43613
+  },
+  "206855": {
+    "id": 206855,
+    "idMal": 48271,
+    "title": {
+      "romaji": "Sinbi Apateu: Haneuldokkaebi Dae Yoleumungandeu",
+      "english": "The Haunted House: The Sky Ghost VS Jormungandr",
+      "native": "신비아파트 극장판 하늘도깨비 대 요르문간드"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 1,
+    "duration": 97,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 19
+    },
+    "endDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 19
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206855-NNFnAtb2ir8u.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b206855-NNFnAtb2ir8u.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b206855-NNFnAtb2ir8u.png",
+      "color": "#e4c950"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Mystery",
+      "Supernatural"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 53,
+    "popularity": 48,
+    "trending": 0,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "KR",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 130226,
+            "title": {
+              "romaji": "Sinbi Apateu: Ghost Ball-ui Bimil",
+              "english": "The Haunted House: The Secret of the Ghost Ball"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx130226-8YUCCuPWAEHt.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7774,
+            "name": "Studio BAZOOKA"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 7775,
+            "name": "CJ ENM"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787624165,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 48271
   }
 }
