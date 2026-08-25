@@ -41,7 +41,7 @@
     "averageScore": 76,
     "meanScore": 78,
     "popularity": 8212,
-    "trending": 1,
+    "trending": 0,
     "favourites": 70,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -262,7 +262,7 @@
         }
       ]
     },
-    "updatedAt": 1787685098,
+    "updatedAt": 1787688127,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -5303,7 +5303,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 285,
-    "trending": 0,
+    "trending": 1,
     "favourites": 4,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5350,32 +5350,14 @@
     },
     "tags": [
       {
+        "id": 322,
+        "name": "Assassins",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 50,
         "name": "Seinen",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 281,
-        "name": "Surreal Comedy",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 82,
-        "name": "Male Protagonist",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 157,
-        "name": "Guns",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 43,
-        "name": "Swordplay",
         "rank": 20,
         "isMediaSpoiler": false
       },
@@ -5386,8 +5368,26 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 322,
-        "name": "Assassins",
+        "id": 43,
+        "name": "Swordplay",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -5433,7 +5433,7 @@
         }
       ]
     },
-    "updatedAt": 1787648489,
+    "updatedAt": 1787688086,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

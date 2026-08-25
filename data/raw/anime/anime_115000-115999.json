@@ -50,7 +50,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 333964,
-    "trending": 5,
+    "trending": 3,
     "favourites": 8311,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -633,7 +633,7 @@
         }
       ]
     },
-    "updatedAt": 1787684778,
+    "updatedAt": 1787688119,
     "idTmdb": 97860,
     "idImdb": "tt12057106",
     "idTvdb": 376729,
@@ -689,7 +689,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 79207,
-    "trending": 5,
+    "trending": 0,
     "favourites": 1771,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1254,7 +1254,7 @@
         }
       ]
     },
-    "updatedAt": 1787685058,
+    "updatedAt": 1787688127,
     "idTmdb": 102086,
     "idImdb": "tt12642654",
     "idTvdb": 380477,
@@ -4445,7 +4445,7 @@
     "averageScore": 68,
     "meanScore": 69,
     "popularity": 5154,
-    "trending": 0,
+    "trending": 1,
     "favourites": 281,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -4690,7 +4690,7 @@
         }
       ]
     },
-    "updatedAt": 1787660633,
+    "updatedAt": 1787688030,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -14546,7 +14546,7 @@
     "averageScore": 57,
     "meanScore": 60,
     "popularity": 1129,
-    "trending": 1,
+    "trending": 0,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -14681,7 +14681,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787685056,
+    "updatedAt": 1787688127,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -14689,5 +14689,450 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 31785
+  },
+  "115830": {
+    "id": 115830,
+    "idMal": 45195,
+    "title": {
+      "romaji": "An Jie Shen Shi",
+      "english": null,
+      "native": "暗界神使"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 22,
+    "duration": 20,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2020,
+      "month": 12,
+      "day": 25
+    },
+    "endDate": {
+      "year": 2021,
+      "month": 5,
+      "day": 21
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115830-WKP9dO2qja4o.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115830-WKP9dO2qja4o.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx115830-WKP9dO2qja4o.png",
+      "color": "#c950e4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Agents in Otherworld"
+    ],
+    "averageScore": null,
+    "meanScore": 64,
+    "popularity": 273,
+    "trending": 1,
+    "favourites": 12,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.bilibili.com/bangumi/media/md28221945/",
+        "site": "Bilibili",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://ajss-jp.bandainamcoent.com.cn/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://weibo.com/u/6362954524",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6234,
+            "name": "Coastline Animation Studio"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6402,
+            "name": "Bandai Namco Entertainment"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 249309,
+            "name": {
+              "full": "Yao Jing",
+              "native": "姜爻"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95118,
+              "name": {
+                "full": "Hiroshi Kamiya",
+                "native": "神谷浩史"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 249310,
+            "name": {
+              "full": "Taotie",
+              "native": "饕餮"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95086,
+              "name": {
+                "full": "Jun Fukuyama",
+                "native": "福山潤"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 249311,
+            "name": {
+              "full": "Jianyun Mu",
+              "native": "沐剑云"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96489,
+              "name": {
+                "full": "Tomoaki Maeno",
+                "native": "前野智昭"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 249313,
+            "name": {
+              "full": "Wentao Zhou",
+              "native": "周文涛"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95792,
+              "name": {
+                "full": "Shinnosuke Tachibana",
+                "native": "立花慎之介"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 249314,
+            "name": {
+              "full": "Zhi Bai",
+              "native": "白雉"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95062,
+              "name": {
+                "full": "Junko Minagawa",
+                "native": "皆川純子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 249315,
+            "name": {
+              "full": "Jiu Ya",
+              "native": "九牙"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 162161,
+              "name": {
+                "full": "Seira Ryuu",
+                "native": "劉セイラ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 249316,
+            "name": {
+              "full": "Jingyi Lu",
+              "native": "陆境仪"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95160,
+              "name": {
+                "full": "Takehito Koyasu",
+                "native": "子安武人"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 249317,
+            "name": {
+              "full": "Yuna Xiao",
+              "native": "萧远"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95074,
+              "name": {
+                "full": "Kenji Nojima",
+                "native": "野島健児"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 249318,
+            "name": {
+              "full": "Wujiu Fan",
+              "native": "范无救"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95183,
+              "name": {
+                "full": "Daisuke Hirakawa",
+                "native": "平川大輔"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 249319,
+            "name": {
+              "full": "Bian Xie",
+              "native": "谢必安"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95042,
+              "name": {
+                "full": "Masaya Matsukaze",
+                "native": "松風雅也"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787688109,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 1525693,
+    "idShikimori": 45195
+  },
+  "115836": {
+    "id": 115836,
+    "idMal": 42952,
+    "title": {
+      "romaji": "Wo Wei Ge Kuang: Xuanlu Chongqi",
+      "english": "Music Up: Reborn",
+      "native": "我为歌狂之旋律重启"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 12,
+    "duration": 23,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2020,
+      "month": 10,
+      "day": 2
+    },
+    "endDate": {
+      "year": 2020,
+      "month": 12,
+      "day": 11
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115836-tvTVtXuRYs55.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx115836-tvTVtXuRYs55.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx115836-tvTVtXuRYs55.jpg",
+      "color": "#5dd6f1"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Music",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "我为歌狂II",
+      "Music Up! 2",
+      "Music Up! I'm Back!",
+      "Wo Wei Ge Kuang 2",
+      "我为歌狂2"
+    ],
+    "averageScore": null,
+    "meanScore": 51,
+    "popularity": 228,
+    "trending": 1,
+    "favourites": 2,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "Q8weoofd_rk",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/Q8weoofd_rk/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.bilibili.com/bangumi/media/md28223062/",
+        "site": "Bilibili",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://v.qq.com/detail/v/v944ee7t20una0u.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.weibo.com/u/6358898419",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfiHOg2tA0XMNBF4WZ1M235E",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.bilibili.tv/media/35290",
+        "site": "Bilibili TV",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 9948,
+            "title": {
+              "romaji": "Wo Wei Ge Kuang",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/9948.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 110,
+        "name": "Band",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6162,
+            "name": "Foch"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 471,
+            "name": "Shanghai Animation Film Studio"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787688077,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 1449431,
+    "idShikimori": 42952
   }
 }
