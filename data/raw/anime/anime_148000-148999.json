@@ -1498,7 +1498,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 78546,
-    "trending": 2,
+    "trending": 4,
     "favourites": 1411,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1941,7 +1941,7 @@
         }
       ]
     },
-    "updatedAt": 1787634110,
+    "updatedAt": 1787637633,
     "idTmdb": 200777,
     "idImdb": "tt25531288",
     "idTvdb": 419502,
@@ -2003,7 +2003,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 85320,
-    "trending": 1,
+    "trending": 2,
     "favourites": 1548,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2591,7 +2591,7 @@
         }
       ]
     },
-    "updatedAt": 1787619699,
+    "updatedAt": 1787637630,
     "idTmdb": 199920,
     "idImdb": "tt27419998",
     "idTvdb": 419126,
@@ -3142,7 +3142,7 @@
         }
       ]
     },
-    "updatedAt": 1787630467,
+    "updatedAt": 1787637631,
     "idTmdb": 200750,
     "idImdb": "tt19853780",
     "idTvdb": 419500,
@@ -3198,7 +3198,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 33012,
-    "trending": 1,
+    "trending": 0,
     "favourites": 588,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3585,7 +3585,7 @@
         }
       ]
     },
-    "updatedAt": 1787630539,
+    "updatedAt": 1787637742,
     "idTmdb": 218843,
     "idImdb": "tt20228550",
     "idTvdb": 420018,
@@ -3643,7 +3643,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 18700,
-    "trending": 0,
+    "trending": 1,
     "favourites": 234,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4010,7 +4010,7 @@
         }
       ]
     },
-    "updatedAt": 1787634186,
+    "updatedAt": 1787637715,
     "idTmdb": 1231574,
     "idImdb": "tt31788773",
     "idTvdb": null,
@@ -7799,7 +7799,7 @@
     "averageScore": 81,
     "meanScore": 82,
     "popularity": 5962,
-    "trending": 1,
+    "trending": 0,
     "favourites": 118,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7998,7 +7998,7 @@
         }
       ]
     },
-    "updatedAt": 1787634054,
+    "updatedAt": 1787637742,
     "idTmdb": 1030422,
     "idImdb": "tt32909366",
     "idTvdb": null,
@@ -12342,5 +12342,116 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 49198
+  },
+  "148825": {
+    "id": 148825,
+    "idMal": null,
+    "title": {
+      "romaji": "Gaitou to Neko",
+      "english": "The streetlight and the cat",
+      "native": "街灯と猫"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "Graduation work of Akitsu Fukuchi at Tama Art University.",
+    "episodes": 1,
+    "duration": 5,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2022,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": 2022,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148825-fTRtsTgUymPV.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148825-fTRtsTgUymPV.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx148825-fTRtsTgUymPV.png",
+      "color": "#5daee4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Slice of Life"
+    ],
+    "synonyms": [],
+    "averageScore": 58,
+    "meanScore": 71,
+    "popularity": 174,
+    "trending": 1,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "7if_8WijFYE",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/7if_8WijFYE/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://youtu.be/7if_8WijFYE",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 433,
+        "name": "Animals",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 341,
+        "name": "No Dialogue",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1277,
+        "name": "Found Family",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6939,
+            "name": "Tama Art University"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787637608,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }
