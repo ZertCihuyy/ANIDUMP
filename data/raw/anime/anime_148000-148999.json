@@ -43,7 +43,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 68616,
-    "trending": 4,
+    "trending": 3,
     "favourites": 1116,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -495,7 +495,7 @@
         }
       ]
     },
-    "updatedAt": 1787749714,
+    "updatedAt": 1787752923,
     "idTmdb": 200732,
     "idImdb": "tt21844706",
     "idTvdb": 419490,
@@ -550,7 +550,7 @@
     "averageScore": 74,
     "meanScore": 75,
     "popularity": 95122,
-    "trending": 2,
+    "trending": 5,
     "favourites": 2373,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -914,7 +914,7 @@
         }
       ]
     },
-    "updatedAt": 1787749717,
+    "updatedAt": 1787752896,
     "idTmdb": 201889,
     "idImdb": "tt21844614",
     "idTvdb": 420084,
@@ -1498,7 +1498,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 78639,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1413,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1941,7 +1941,7 @@
         }
       ]
     },
-    "updatedAt": 1787742056,
+    "updatedAt": 1787749834,
     "idTmdb": 200777,
     "idImdb": "tt25531288",
     "idTvdb": 419502,
@@ -3198,7 +3198,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 33049,
-    "trending": 1,
+    "trending": 2,
     "favourites": 589,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3585,7 +3585,7 @@
         }
       ]
     },
-    "updatedAt": 1787742037,
+    "updatedAt": 1787753044,
     "idTmdb": 218843,
     "idImdb": "tt20228550",
     "idTvdb": 420018,
@@ -3643,7 +3643,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 18713,
-    "trending": 2,
+    "trending": 0,
     "favourites": 234,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4010,7 +4010,7 @@
         }
       ]
     },
-    "updatedAt": 1787745653,
+    "updatedAt": 1787749834,
     "idTmdb": 1231574,
     "idImdb": "tt31788773",
     "idTvdb": null,
@@ -13799,5 +13799,91 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 39173
+  },
+  "148835": {
+    "id": 148835,
+    "idMal": null,
+    "title": {
+      "romaji": "Ame, nochi",
+      "english": "After the rain",
+      "native": "雨、のち"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "Graduation work of Chihiro Hirosawa at Tama Art University.",
+    "episodes": 1,
+    "duration": 4,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2022,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": 2022,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148835-zKiES8icWZXc.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx148835-zKiES8icWZXc.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx148835-zKiES8icWZXc.png",
+      "color": "#e4e45d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/148835-viLNTvYnqLrC.jpg",
+    "genres": [
+      "Slice of Life"
+    ],
+    "synonyms": [],
+    "averageScore": 50,
+    "meanScore": 59,
+    "popularity": 263,
+    "trending": 1,
+    "favourites": 3,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "deavWLBUNzY",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/deavWLBUNzY/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://youtu.be/deavWLBUNzY",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6939,
+            "name": "Tama Art University"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787753024,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }

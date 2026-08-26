@@ -1453,7 +1453,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 48272,
-    "trending": 2,
+    "trending": 1,
     "favourites": 1249,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1831,7 +1831,7 @@
         }
       ]
     },
-    "updatedAt": 1787745673,
+    "updatedAt": 1787753020,
     "idTmdb": 68854,
     "idImdb": "tt1745240",
     "idTvdb": 117801,
@@ -1887,7 +1887,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 54350,
-    "trending": 4,
+    "trending": 2,
     "favourites": 1185,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2369,7 +2369,7 @@
         }
       ]
     },
-    "updatedAt": 1787745708,
+    "updatedAt": 1787753021,
     "idTmdb": 248817,
     "idImdb": "tt32812118",
     "idTvdb": 438125,
@@ -2425,7 +2425,7 @@
     "averageScore": 64,
     "meanScore": 69,
     "popularity": 3245,
-    "trending": 0,
+    "trending": 1,
     "favourites": 73,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -2562,7 +2562,7 @@
         }
       ]
     },
-    "updatedAt": 1787738374,
+    "updatedAt": 1787753019,
     "idTmdb": 283322,
     "idImdb": null,
     "idTvdb": 461561,
@@ -3228,7 +3228,7 @@
     "averageScore": 75,
     "meanScore": 75,
     "popularity": 87730,
-    "trending": 1,
+    "trending": 5,
     "favourites": 2615,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3825,7 +3825,7 @@
         }
       ]
     },
-    "updatedAt": 1787749809,
+    "updatedAt": 1787752920,
     "idTmdb": 232926,
     "idImdb": "tt28685624",
     "idTvdb": 435005,
@@ -5593,7 +5593,7 @@
     "averageScore": 69,
     "meanScore": 69,
     "popularity": 30930,
-    "trending": 1,
+    "trending": 0,
     "favourites": 539,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6271,7 +6271,7 @@
         }
       ]
     },
-    "updatedAt": 1787749740,
+    "updatedAt": 1787753105,
     "idTmdb": 234995,
     "idImdb": "tt30325850",
     "idTvdb": 438151,
@@ -10083,7 +10083,7 @@
     "averageScore": 65,
     "meanScore": 68,
     "popularity": 1928,
-    "trending": 0,
+    "trending": 1,
     "favourites": 36,
     "isAdult": false,
     "countryOfOrigin": "KR",
@@ -10182,7 +10182,7 @@
         }
       ]
     },
-    "updatedAt": 1787738313,
+    "updatedAt": 1787753030,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -16561,5 +16561,139 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 56719
+  },
+  "168576": {
+    "id": 168576,
+    "idMal": null,
+    "title": {
+      "romaji": "Mahoujin Guru Guru Pilot Film",
+      "english": null,
+      "native": "魔法陣グルグル パイロットフィルム"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "Pilot film that was included in the Mahoujin Guru Guru LD-BOX.",
+    "episodes": 1,
+    "duration": 5,
+    "season": "SUMMER",
+    "seasonYear": 1996,
+    "startDate": {
+      "year": 1996,
+      "month": 7,
+      "day": 21
+    },
+    "endDate": {
+      "year": 1996,
+      "month": 7,
+      "day": 21
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b168576-HJxNiWCVrihy.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b168576-HJxNiWCVrihy.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b168576-HJxNiWCVrihy.jpg",
+      "color": "#e4bb35"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Magical Circle Guru Guru Pilot Film"
+    ],
+    "averageScore": null,
+    "meanScore": 39,
+    "popularity": 60,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 34080,
+            "title": {
+              "romaji": "Mahoujin Guru Guru",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx34080-fAOLdrXI6sNs.png"
+            }
+          }
+        },
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 331,
+            "title": {
+              "romaji": "Mahoujin Guru Guru",
+              "english": "Magical Circle Guru Guru"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 1994,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx331-BzpIrGJZePCA.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 43,
+        "name": "Swordplay",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1455,
+        "name": "Fairy",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 22,
+            "name": "Nippon Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1787753016,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }
