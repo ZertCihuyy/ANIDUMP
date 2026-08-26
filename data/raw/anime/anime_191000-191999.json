@@ -584,7 +584,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 14205,
-    "trending": 3,
+    "trending": 1,
     "favourites": 152,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -878,7 +878,7 @@
         }
       ]
     },
-    "updatedAt": 1787695326,
+    "updatedAt": 1787709708,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -932,7 +932,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 9021,
-    "trending": 3,
+    "trending": 6,
     "favourites": 74,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -962,7 +962,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791041400,
-      "timeUntilAiring": 3341045,
+      "timeUntilAiring": 3330669,
       "episode": 1
     },
     "relations": {
@@ -1189,7 +1189,7 @@
         }
       ]
     },
-    "updatedAt": 1787695318,
+    "updatedAt": 1787710441,
     "idTmdb": 283938,
     "idImdb": null,
     "idTvdb": null,
@@ -1241,7 +1241,7 @@
     "averageScore": 84,
     "meanScore": 88,
     "popularity": 14752,
-    "trending": 12,
+    "trending": 4,
     "favourites": 275,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -1271,7 +1271,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787886000,
-      "timeUntilAiring": 181385,
+      "timeUntilAiring": 175210,
       "episode": 4
     },
     "relations": {
@@ -1437,7 +1437,7 @@
         }
       ]
     },
-    "updatedAt": 1787702902,
+    "updatedAt": 1787710402,
     "idTmdb": 123542,
     "idImdb": "tt14976292",
     "idTvdb": 402033,
@@ -2017,7 +2017,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 37900,
-    "trending": 4,
+    "trending": 5,
     "favourites": 718,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2451,7 +2451,7 @@
         }
       ]
     },
-    "updatedAt": 1787702901,
+    "updatedAt": 1787710413,
     "idTmdb": 288589,
     "idImdb": "tt38977386",
     "idTvdb": 462789,
@@ -7881,5 +7881,310 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 61555
+  },
+  "191059": {
+    "id": 191059,
+    "idMal": 61671,
+    "title": {
+      "romaji": "Charisma Jamboree",
+      "english": null,
+      "native": "カリスマジャンボリー"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video for the \"superhuman share house story\" Charisma project's song <i>Charisma Jamboree</i>, also the title of their 2nd album.",
+    "episodes": 1,
+    "duration": 5,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2024,
+      "month": 3,
+      "day": 21
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 3,
+      "day": 21
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191059-QDzqArJRxmPe.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191059-QDzqArJRxmPe.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191059-QDzqArJRxmPe.jpg",
+      "color": "#ffa143"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191059-aPTPJIxCuyqQ.jpg",
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [
+      "Charisma Jbr",
+      "Charismatic Jamboree"
+    ],
+    "averageScore": null,
+    "meanScore": 58,
+    "popularity": 121,
+    "trending": 0,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "Uy6-F00pleo",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/Uy6-F00pleo/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://crsm.lnk.to/crsmjmbPR",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Uy6-F00pleo&feature=youtu.be",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 156133,
+            "title": {
+              "romaji": "Charisma: Kyou mo Heiwa desu",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx156133-yUAcWOgUPNqx.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 156132,
+            "title": {
+              "romaji": "Charisma: Charisma na Karera wa Charisma House de Karizumai Chuu",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx156132-p488cVxSOO0g.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 203116,
+            "title": {
+              "romaji": "Charisma",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": "WINTER",
+            "seasonYear": 2027,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203116-VTXVyj1BizOQ.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1742,
+        "name": "Mixed Media",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 209,
+        "name": "Dancing",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 39,
+        "name": "Parody",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6617,
+            "name": "Dazed"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 315658,
+            "name": {
+              "full": "Amahiko Tendou",
+              "native": "天堂天彦"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 110005,
+              "name": {
+                "full": "Tomohisa Hashizume",
+                "native": "橋詰知久"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 315660,
+            "name": {
+              "full": "Kei Sarukawa",
+              "native": "猿川慧"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 314632,
+              "name": {
+                "full": "Kenta Hosoda",
+                "native": "細田健太"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 315662,
+            "name": {
+              "full": "Iori Motohashi",
+              "native": "本橋依央利"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 122731,
+              "name": {
+                "full": "Katsumi Fukuhara",
+                "native": "福原かつみ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 315665,
+            "name": {
+              "full": "Fumiya Itou",
+              "native": "伊藤ふみや"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96154,
+              "name": {
+                "full": "Yuuki Ono",
+                "native": "小野友樹"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 315666,
+            "name": {
+              "full": "Rikai Kusanagi",
+              "native": "草薙理解"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101982,
+              "name": {
+                "full": "Masahiro Yamanaka",
+                "native": "山中真尋"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 315670,
+            "name": {
+              "full": "Oose Minato",
+              "native": "湊大瀬"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 314069,
+              "name": {
+                "full": "Hyuuga Saku",
+                "native": "日向朔公"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 315672,
+            "name": {
+              "full": "Terra",
+              "native": "テラ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 114946,
+              "name": {
+                "full": "Genki Okawa",
+                "native": "大河元気"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787709720,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 61671
   }
 }
