@@ -423,7 +423,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787834400,
-      "timeUntilAiring": 73705,
+      "timeUntilAiring": 64025,
       "episode": 9
     },
     "relations": {
@@ -760,7 +760,7 @@
         }
       ]
     },
-    "updatedAt": 1787760224,
+    "updatedAt": 1787767308,
     "idTmdb": 110837,
     "idImdb": "tt13192574",
     "idTvdb": 392195,
@@ -814,7 +814,7 @@
     "averageScore": 70,
     "meanScore": 71,
     "popularity": 39270,
-    "trending": 34,
+    "trending": 37,
     "favourites": 577,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -849,7 +849,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788025080,
-      "timeUntilAiring": 264182,
+      "timeUntilAiring": 254537,
       "episode": 9
     },
     "relations": {
@@ -1185,7 +1185,7 @@
         }
       ]
     },
-    "updatedAt": 1787760064,
+    "updatedAt": 1787767210,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3437,6 +3437,297 @@
     "idShikimori": 42163
   },
   {
+    "id": 4459,
+    "idMal": 4459,
+    "title": {
+      "romaji": "Ojarumaru",
+      "english": "Prince Mackaroo",
+      "native": "おじゃる丸"
+    },
+    "type": "ANIME",
+    "format": "TV_SHORT",
+    "status": "RELEASING",
+    "description": "In the Heian era, around 1000 years ago, a young boy of noble family named Ojarumaru is bored with his life of privilege. Meanwhile, three demons steal the power-stick of Enma, king of demons, and then lose it. Ojarumaru finds it, and uses it to transport himself to the present time. Here, he is befriended by a young boy named Kazuma, and becomes a member of his family. As time goes on, Ojarumaru makes many new friends, while dodging the comedic efforts of the three demons, Akane, Kisuke, and Aobee, as they try to recover the stick. \n<br><br>\n(Source: Anime News Network)",
+    "episodes": null,
+    "duration": 10,
+    "season": "FALL",
+    "seasonYear": 1998,
+    "startDate": {
+      "year": 1998,
+      "month": 10,
+      "day": 5
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4459.jpg",
+      "color": "#e4bb1a"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "synonyms": [],
+    "averageScore": 54,
+    "meanScore": 60,
+    "popularity": 678,
+    "trending": 0,
+    "favourites": 6,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "http://www9.nhk.or.jp/anime/ojaru/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 16480,
+            "title": {
+              "romaji": "Ojarumaru Yakusoku no Natsu Ojaru to Semira Movie",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2000,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/16480.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 16482,
+            "title": {
+              "romaji": "Ojarumaru: Mangetsu Road Kiki Ippatsu - Tama ni wa Maro mo Daibouken",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2007,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/16482.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 200645,
+            "title": {
+              "romaji": "Ojarumaru no Koutsuu Anzen",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b200645-El1kG5w1Rkn2.png"
+            }
+          }
+        },
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 200647,
+            "title": {
+              "romaji": "Ojarumaru: Heianchou Onigami Kessen",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b200647-Klkzd6HtkX1I.png"
+            }
+          }
+        },
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 200648,
+            "title": {
+              "romaji": "Ojarumaru: Wasureta Mori no Hinata",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2015,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b200648-hDzbaDjYC5MC.png"
+            }
+          }
+        },
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 200646,
+            "title": {
+              "romaji": "Ojarumaru: Chitchai Mono no Ookina Chikara",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b200646-qYnI9TMoER7c.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 28,
+        "name": "Kids",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 25,
+        "name": "Historical",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 36,
+            "name": "Studio Gallop"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 311,
+            "name": "Enoki Films"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 41398,
+            "name": {
+              "full": "Sakanoue Ojarumaru",
+              "native": "坂ノ上おじゃる丸"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95553,
+              "name": {
+                "full": "Chinami Nishimura",
+                "native": "西村ちなみ"
+              }
+            },
+            {
+              "id": 96545,
+              "name": {
+                "full": "Hiroko Konishi",
+                "native": "小西寛子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 331906,
+            "name": {
+              "full": "Nise Ojarumaru",
+              "native": "偽おじゃる丸"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107241,
+              "name": {
+                "full": "Sayako Toujou",
+                "native": "東城咲耶子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 331907,
+            "name": {
+              "full": "Shin Oni",
+              "native": "新オニ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107241,
+              "name": {
+                "full": "Sayako Toujou",
+                "native": "東城咲耶子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 331909,
+            "name": {
+              "full": "Mesukousei",
+              "native": "女子高生"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107241,
+              "name": {
+                "full": "Sayako Toujou",
+                "native": "東城咲耶子"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787765439,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 37549,
+    "idShikimori": 4459
+  },
+  {
     "id": 155723,
     "idMal": null,
     "title": {
@@ -5684,7 +5975,7 @@
     "averageScore": null,
     "meanScore": 80,
     "popularity": 197,
-    "trending": 0,
+    "trending": 1,
     "favourites": 14,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -5777,7 +6068,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787760244,
+    "updatedAt": 1787767323,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6263,7 +6554,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 130757,
-    "trending": 100,
+    "trending": 111,
     "favourites": 2817,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6313,7 +6604,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788013800,
-      "timeUntilAiring": 252850,
+      "timeUntilAiring": 243257,
       "episode": 21
     },
     "relations": {
@@ -6680,7 +6971,7 @@
         }
       ]
     },
-    "updatedAt": 1787760034,
+    "updatedAt": 1787767209,
     "idTmdb": 260463,
     "idImdb": "tt37532356",
     "idTvdb": 452711,
@@ -7295,7 +7586,7 @@
     "averageScore": 84,
     "meanScore": 85,
     "popularity": 10755,
-    "trending": 5,
+    "trending": 7,
     "favourites": 1032,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7335,7 +7626,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787870400,
-      "timeUntilAiring": 109278,
+      "timeUntilAiring": 99896,
       "episode": 373
     },
     "relations": {
@@ -7684,7 +7975,7 @@
         }
       ]
     },
-    "updatedAt": 1787756797,
+    "updatedAt": 1787767235,
     "idTmdb": 194916,
     "idImdb": "tt26997679",
     "idTvdb": 415509,
@@ -7738,7 +8029,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 46889,
-    "trending": 17,
+    "trending": 29,
     "favourites": 692,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7768,7 +8059,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787842800,
-      "timeUntilAiring": 81894,
+      "timeUntilAiring": 72267,
       "episode": 10
     },
     "relations": {
@@ -8191,7 +8482,7 @@
         }
       ]
     },
-    "updatedAt": 1787760057,
+    "updatedAt": 1787767213,
     "idTmdb": 314554,
     "idImdb": "tt40550160",
     "idTvdb": 474303,
@@ -8244,7 +8535,7 @@
     "averageScore": 64,
     "meanScore": 66,
     "popularity": 11267,
-    "trending": 6,
+    "trending": 8,
     "favourites": 126,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8284,7 +8575,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788021000,
-      "timeUntilAiring": 260122,
+      "timeUntilAiring": 250490,
       "episode": 9
     },
     "relations": {
@@ -8634,7 +8925,7 @@
         }
       ]
     },
-    "updatedAt": 1787760080,
+    "updatedAt": 1787767228,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -8687,7 +8978,7 @@
     "averageScore": 56,
     "meanScore": 65,
     "popularity": 1335,
-    "trending": 0,
+    "trending": 1,
     "favourites": 32,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -8717,7 +9008,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788105600,
-      "timeUntilAiring": 345023,
+      "timeUntilAiring": 335205,
       "episode": 7
     },
     "relations": {
@@ -8828,7 +9119,7 @@
         }
       ]
     },
-    "updatedAt": 1787760244,
+    "updatedAt": 1787767295,
     "idTmdb": 325473,
     "idImdb": null,
     "idTvdb": 474990,
@@ -8881,7 +9172,7 @@
     "averageScore": 53,
     "meanScore": 62,
     "popularity": 738,
-    "trending": 1,
+    "trending": 2,
     "favourites": 8,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9122,7 +9413,7 @@
         }
       ]
     },
-    "updatedAt": 1787760132,
+    "updatedAt": 1787767281,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9353,7 +9644,7 @@
     "averageScore": 70,
     "meanScore": 76,
     "popularity": 1131,
-    "trending": 0,
+    "trending": 1,
     "favourites": 71,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -9525,7 +9816,7 @@
         }
       ]
     },
-    "updatedAt": 1787735266,
+    "updatedAt": 1787767333,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9965,7 +10256,7 @@
     "averageScore": 62,
     "meanScore": 68,
     "popularity": 3846,
-    "trending": 4,
+    "trending": 3,
     "favourites": 41,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9995,7 +10286,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788105600,
-      "timeUntilAiring": 344471,
+      "timeUntilAiring": 335133,
       "episode": 9
     },
     "relations": {
@@ -10292,7 +10583,7 @@
         }
       ]
     },
-    "updatedAt": 1787756793,
+    "updatedAt": 1787767261,
     "idTmdb": 109805,
     "idImdb": "tt13084120",
     "idTvdb": 392491,
@@ -10349,7 +10640,7 @@
     "averageScore": 58,
     "meanScore": 59,
     "popularity": 23235,
-    "trending": 35,
+    "trending": 43,
     "favourites": 243,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -10379,7 +10670,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788177420,
-      "timeUntilAiring": 416502,
+      "timeUntilAiring": 406887,
       "episode": 9
     },
     "relations": {
@@ -10734,7 +11025,7 @@
         }
       ]
     },
-    "updatedAt": 1787760050,
+    "updatedAt": 1787767213,
     "idTmdb": 284581,
     "idImdb": "tt32862795",
     "idTvdb": 476185,
@@ -10817,7 +11108,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788186600,
-      "timeUntilAiring": 425657,
+      "timeUntilAiring": 416056,
       "episode": 9
     },
     "relations": {
@@ -11093,7 +11384,7 @@
         }
       ]
     },
-    "updatedAt": 1787760039,
+    "updatedAt": 1787767209,
     "idTmdb": 250008,
     "idImdb": "tt41278615",
     "idTvdb": 467401,
@@ -11860,7 +12151,7 @@
     "averageScore": 80,
     "meanScore": 81,
     "popularity": 40118,
-    "trending": 15,
+    "trending": 25,
     "favourites": 885,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11915,7 +12206,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787995560,
-      "timeUntilAiring": 234623,
+      "timeUntilAiring": 225032,
       "episode": 20
     },
     "relations": {
@@ -12253,7 +12544,7 @@
         }
       ]
     },
-    "updatedAt": 1787760039,
+    "updatedAt": 1787767218,
     "idTmdb": 91801,
     "idImdb": "tt11034066",
     "idTvdb": 369144,
@@ -12307,7 +12598,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 31192,
-    "trending": 33,
+    "trending": 171,
     "favourites": 411,
     "isAdult": false,
     "countryOfOrigin": "KR",
@@ -12347,7 +12638,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788365700,
-      "timeUntilAiring": 604757,
+      "timeUntilAiring": 595184,
       "episode": 9
     },
     "relations": {
@@ -12684,7 +12975,7 @@
         }
       ]
     },
-    "updatedAt": 1787760036,
+    "updatedAt": 1787767224,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -14576,7 +14867,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788013800,
-      "timeUntilAiring": 252856,
+      "timeUntilAiring": 243256,
       "episode": 10
     },
     "relations": {
@@ -15024,7 +15315,7 @@
         }
       ]
     },
-    "updatedAt": 1787760035,
+    "updatedAt": 1787767209,
     "idTmdb": 288971,
     "idImdb": "tt39281887",
     "idTvdb": 462561,
@@ -15429,7 +15720,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788141600,
-      "timeUntilAiring": 380806,
+      "timeUntilAiring": 371255,
       "episode": 156
     },
     "relations": {
@@ -15607,7 +15898,7 @@
         }
       ]
     },
-    "updatedAt": 1787760137,
+    "updatedAt": 1787767326,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -15897,7 +16188,7 @@
     "averageScore": 74,
     "meanScore": 75,
     "popularity": 52076,
-    "trending": 82,
+    "trending": 95,
     "favourites": 907,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -15927,7 +16218,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788265800,
-      "timeUntilAiring": 504843,
+      "timeUntilAiring": 495261,
       "episode": 9
     },
     "relations": {
@@ -16344,7 +16635,7 @@
         }
       ]
     },
-    "updatedAt": 1787760027,
+    "updatedAt": 1787767210,
     "idTmdb": 285574,
     "idImdb": "tt36056731",
     "idTvdb": 460899,
@@ -16902,7 +17193,7 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 62940,
-    "trending": 41,
+    "trending": 42,
     "favourites": 902,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -16967,7 +17258,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788008400,
-      "timeUntilAiring": 247441,
+      "timeUntilAiring": 237902,
       "episode": 9
     },
     "relations": {
@@ -17290,7 +17581,7 @@
         }
       ]
     },
-    "updatedAt": 1787760024,
+    "updatedAt": 1787767241,
     "idTmdb": 285993,
     "idImdb": "tt37532893",
     "idTvdb": 461194,
@@ -17515,7 +17806,7 @@
     "averageScore": 84,
     "meanScore": 88,
     "popularity": 14821,
-    "trending": 9,
+    "trending": 8,
     "favourites": 275,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -17545,7 +17836,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787886000,
-      "timeUntilAiring": 125056,
+      "timeUntilAiring": 115528,
       "episode": 4
     },
     "relations": {
@@ -17711,7 +18002,7 @@
         }
       ]
     },
-    "updatedAt": 1787760034,
+    "updatedAt": 1787767258,
     "idTmdb": 123542,
     "idImdb": "tt14976292",
     "idTvdb": 402033,
@@ -18081,7 +18372,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787841000,
-      "timeUntilAiring": 80094,
+      "timeUntilAiring": 70540,
       "episode": 8
     },
     "relations": {
@@ -18459,7 +18750,7 @@
         }
       ]
     },
-    "updatedAt": 1787760060,
+    "updatedAt": 1787767267,
     "idTmdb": 98865,
     "idImdb": null,
     "idTvdb": null,
@@ -18510,7 +18801,7 @@
     "averageScore": 81,
     "meanScore": 85,
     "popularity": 11282,
-    "trending": 9,
+    "trending": 16,
     "favourites": 236,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -18540,7 +18831,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788062400,
-      "timeUntilAiring": 301443,
+      "timeUntilAiring": 291852,
       "episode": 7
     },
     "relations": {
@@ -18783,7 +19074,7 @@
         }
       ]
     },
-    "updatedAt": 1787760027,
+    "updatedAt": 1787767206,
     "idTmdb": 280564,
     "idImdb": "tt38754770",
     "idTvdb": 461549,
@@ -19581,7 +19872,7 @@
     "averageScore": 77,
     "meanScore": 78,
     "popularity": 35782,
-    "trending": 38,
+    "trending": 51,
     "favourites": 633,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -19631,7 +19922,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788101160,
-      "timeUntilAiring": 340231,
+      "timeUntilAiring": 330612,
       "episode": 8
     },
     "relations": {
@@ -19724,7 +20015,7 @@
       {
         "id": 29,
         "name": "Magic",
-        "rank": 75,
+        "rank": 68,
         "isMediaSpoiler": false
       },
       {
@@ -19979,7 +20270,7 @@
         }
       ]
     },
-    "updatedAt": 1787760045,
+    "updatedAt": 1787767207,
     "idTmdb": 286345,
     "idImdb": "tt41293157",
     "idTvdb": 461544,
@@ -20554,7 +20845,7 @@
     "averageScore": 76,
     "meanScore": 78,
     "popularity": 10159,
-    "trending": 5,
+    "trending": 10,
     "favourites": 122,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -20599,7 +20890,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787927400,
-      "timeUntilAiring": 166543,
+      "timeUntilAiring": 156883,
       "episode": 8
     },
     "relations": {
@@ -20956,7 +21247,7 @@
         }
       ]
     },
-    "updatedAt": 1787760095,
+    "updatedAt": 1787767222,
     "idTmdb": 287028,
     "idImdb": "tt36290385",
     "idTvdb": 461714,
@@ -21337,7 +21628,7 @@
     "averageScore": 54,
     "meanScore": 64,
     "popularity": 584,
-    "trending": 2,
+    "trending": 0,
     "favourites": 10,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -21372,7 +21663,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788346800,
-      "timeUntilAiring": 586027,
+      "timeUntilAiring": 576511,
       "episode": 47
     },
     "relations": {
@@ -21551,7 +21842,7 @@
         }
       ]
     },
-    "updatedAt": 1787760158,
+    "updatedAt": 1787767344,
     "idTmdb": 297743,
     "idImdb": null,
     "idTvdb": 459743,
@@ -22109,8 +22400,8 @@
     "synonyms": [],
     "averageScore": 77,
     "meanScore": 77,
-    "popularity": 19784,
-    "trending": 1,
+    "popularity": 19786,
+    "trending": 0,
     "favourites": 1036,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -22136,7 +22427,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787988600,
-      "timeUntilAiring": 233343,
+      "timeUntilAiring": 218389,
       "episode": 1350
     },
     "relations": {
@@ -23142,7 +23433,7 @@
         }
       ]
     },
-    "updatedAt": 1787749833,
+    "updatedAt": 1787768540,
     "idTmdb": 30623,
     "idImdb": "tt12853970",
     "idTvdb": 79654,
@@ -23207,8 +23498,8 @@
     ],
     "averageScore": 81,
     "meanScore": 82,
-    "popularity": 79331,
-    "trending": 19,
+    "popularity": 79353,
+    "trending": 20,
     "favourites": 6005,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -24834,7 +25125,7 @@
     ],
     "nextAiringEpisode": {
       "airingAt": 1787994000,
-      "timeUntilAiring": 233082,
+      "timeUntilAiring": 223818,
       "episode": 1211
     },
     "relations": {
@@ -26529,7 +26820,7 @@
         }
       ]
     },
-    "updatedAt": 1787760050,
+    "updatedAt": 1787769839,
     "idTmdb": 30983,
     "idImdb": "tt0131179",
     "idTvdb": 72454,
@@ -26594,7 +26885,7 @@
     "averageScore": 87,
     "meanScore": 87,
     "popularity": 744730,
-    "trending": 290,
+    "trending": 283,
     "favourites": 110213,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -27090,7 +27381,7 @@
     ],
     "nextAiringEpisode": {
       "airingAt": 1788099360,
-      "timeUntilAiring": 338402,
+      "timeUntilAiring": 328812,
       "episode": 1176
     },
     "relations": {
@@ -28992,7 +29283,7 @@
         }
       ]
     },
-    "updatedAt": 1787760026,
+    "updatedAt": 1787767207,
     "idTmdb": 37854,
     "idImdb": "tt0388629",
     "idTvdb": 81797,
@@ -29427,7 +29718,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787756852,
+    "updatedAt": 1787767326,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -29985,7 +30276,7 @@
     "averageScore": 71,
     "meanScore": 72,
     "popularity": 20908,
-    "trending": 14,
+    "trending": 25,
     "favourites": 176,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -30030,7 +30321,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788181200,
-      "timeUntilAiring": 426021,
+      "timeUntilAiring": 410672,
       "episode": 10
     },
     "relations": {
@@ -30425,7 +30716,7 @@
         }
       ]
     },
-    "updatedAt": 1787752875,
+    "updatedAt": 1787767217,
     "idTmdb": 312020,
     "idImdb": "tt41279522",
     "idTvdb": 473018,
@@ -30478,7 +30769,7 @@
     "averageScore": null,
     "meanScore": 54,
     "popularity": 191,
-    "trending": 1,
+    "trending": 2,
     "favourites": 3,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -30500,7 +30791,14 @@
     "relations": {
       "edges": []
     },
-    "tags": [],
+    "tags": [
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
     "studios": {
       "edges": [
         {
@@ -30522,7 +30820,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787745699,
+    "updatedAt": 1787767328,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -30702,7 +31000,7 @@
     "averageScore": 54,
     "meanScore": 62,
     "popularity": 776,
-    "trending": 2,
+    "trending": 1,
     "favourites": 10,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -30727,7 +31025,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788049800,
-      "timeUntilAiring": 289061,
+      "timeUntilAiring": 279450,
       "episode": 22
     },
     "relations": {
@@ -31093,7 +31391,7 @@
         }
       ]
     },
-    "updatedAt": 1787760184,
+    "updatedAt": 1787767324,
     "idTmdb": 312123,
     "idImdb": "tt40548570",
     "idTvdb": 474655,
@@ -31775,7 +32073,7 @@
     "averageScore": 76,
     "meanScore": 77,
     "popularity": 37799,
-    "trending": 19,
+    "trending": 18,
     "favourites": 646,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -31805,7 +32103,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788597000,
-      "timeUntilAiring": 836064,
+      "timeUntilAiring": 826472,
       "episode": 20
     },
     "relations": {
@@ -32258,7 +32556,7 @@
         }
       ]
     },
-    "updatedAt": 1787760041,
+    "updatedAt": 1787767217,
     "idTmdb": 91768,
     "idImdb": "tt10885406",
     "idTvdb": 366263,
@@ -33503,7 +33801,7 @@
     "averageScore": 75,
     "meanScore": 75,
     "popularity": 36085,
-    "trending": 20,
+    "trending": 21,
     "favourites": 605,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -33543,7 +33841,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787848080,
-      "timeUntilAiring": 86952,
+      "timeUntilAiring": 77541,
       "episode": 9
     },
     "relations": {
@@ -33962,7 +34260,7 @@
         }
       ]
     },
-    "updatedAt": 1787756796,
+    "updatedAt": 1787767211,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -35524,7 +35822,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 49826,
-    "trending": 146,
+    "trending": 524,
     "favourites": 767,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -35559,7 +35857,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788359400,
-      "timeUntilAiring": 598442,
+      "timeUntilAiring": 588856,
       "episode": 9
     },
     "relations": {
@@ -35936,7 +36234,7 @@
         }
       ]
     },
-    "updatedAt": 1787760026,
+    "updatedAt": 1787767209,
     "idTmdb": 139512,
     "idImdb": "tt16255458",
     "idTvdb": 412826,
@@ -36570,7 +36868,7 @@
     "averageScore": 70,
     "meanScore": 72,
     "popularity": 8930,
-    "trending": 9,
+    "trending": 7,
     "favourites": 96,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -36600,7 +36898,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788015600,
-      "timeUntilAiring": 254729,
+      "timeUntilAiring": 245133,
       "episode": 9
     },
     "relations": {
@@ -36939,7 +37237,7 @@
         }
       ]
     },
-    "updatedAt": 1787760084,
+    "updatedAt": 1787767263,
     "idTmdb": 296101,
     "idImdb": "tt41047955",
     "idTvdb": 465802,
@@ -36991,7 +37289,7 @@
     "averageScore": 62,
     "meanScore": 63,
     "popularity": 23243,
-    "trending": 9,
+    "trending": 8,
     "favourites": 262,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -37026,7 +37324,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788100200,
-      "timeUntilAiring": 339249,
+      "timeUntilAiring": 329690,
       "episode": 21
     },
     "relations": {
@@ -37431,7 +37729,7 @@
         }
       ]
     },
-    "updatedAt": 1787760029,
+    "updatedAt": 1787767229,
     "idTmdb": 297557,
     "idImdb": "tt39123043",
     "idTvdb": 466524,
@@ -37486,7 +37784,7 @@
     "averageScore": 65,
     "meanScore": 66,
     "popularity": 18807,
-    "trending": 14,
+    "trending": 11,
     "favourites": 239,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -37551,7 +37849,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788014760,
-      "timeUntilAiring": 253889,
+      "timeUntilAiring": 244256,
       "episode": 22
     },
     "relations": {
@@ -37881,7 +38179,7 @@
         }
       ]
     },
-    "updatedAt": 1787760083,
+    "updatedAt": 1787767236,
     "idTmdb": 295999,
     "idImdb": "tt37577523",
     "idTvdb": 465787,
@@ -37937,7 +38235,7 @@
     "averageScore": 64,
     "meanScore": 66,
     "popularity": 11277,
-    "trending": 82,
+    "trending": 73,
     "favourites": 103,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -37987,7 +38285,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788359400,
-      "timeUntilAiring": 598449,
+      "timeUntilAiring": 588877,
       "episode": 9
     },
     "relations": {
@@ -38397,7 +38695,7 @@
         }
       ]
     },
-    "updatedAt": 1787760030,
+    "updatedAt": 1787767220,
     "idTmdb": 298103,
     "idImdb": "tt37674481",
     "idTvdb": 466092,
@@ -38450,7 +38748,7 @@
     "averageScore": 63,
     "meanScore": 64,
     "popularity": 19022,
-    "trending": 60,
+    "trending": 52,
     "favourites": 207,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -38480,7 +38778,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788267600,
-      "timeUntilAiring": 506642,
+      "timeUntilAiring": 497077,
       "episode": 10
     },
     "relations": {
@@ -38840,7 +39138,7 @@
         }
       ]
     },
-    "updatedAt": 1787760026,
+    "updatedAt": 1787767219,
     "idTmdb": 296436,
     "idImdb": "tt41278636",
     "idTvdb": 465988,
@@ -38897,7 +39195,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 111091,
-    "trending": 63,
+    "trending": 57,
     "favourites": 3310,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -38932,7 +39230,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787842560,
-      "timeUntilAiring": 81609,
+      "timeUntilAiring": 72017,
       "episode": 8
     },
     "relations": {
@@ -39240,7 +39538,7 @@
         }
       ]
     },
-    "updatedAt": 1787760030,
+    "updatedAt": 1787767209,
     "idTmdb": 296286,
     "idImdb": "tt37614297",
     "idTvdb": 465973,
@@ -39299,7 +39597,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 29198,
-    "trending": 20,
+    "trending": 15,
     "favourites": 370,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -39334,7 +39632,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787923800,
-      "timeUntilAiring": 162850,
+      "timeUntilAiring": 153252,
       "episode": 9
     },
     "relations": {
@@ -39731,7 +40029,7 @@
         }
       ]
     },
-    "updatedAt": 1787760031,
+    "updatedAt": 1787767208,
     "idTmdb": 296437,
     "idImdb": null,
     "idTvdb": null,
@@ -40616,7 +40914,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 24153,
-    "trending": 5,
+    "trending": 4,
     "favourites": 757,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -40646,7 +40944,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787910900,
-      "timeUntilAiring": 149787,
+      "timeUntilAiring": 140413,
       "episode": 147
     },
     "relations": {
@@ -41648,7 +41946,7 @@
         }
       ]
     },
-    "updatedAt": 1787756814,
+    "updatedAt": 1787767248,
     "idTmdb": 220150,
     "idImdb": "tt26692417",
     "idTvdb": 433862,
@@ -42035,7 +42333,7 @@
     "averageScore": 57,
     "meanScore": 58,
     "popularity": 18142,
-    "trending": 6,
+    "trending": 10,
     "favourites": 259,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -42070,7 +42368,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787934600,
-      "timeUntilAiring": 173671,
+      "timeUntilAiring": 164083,
       "episode": 9
     },
     "relations": {
@@ -42340,7 +42638,7 @@
         }
       ]
     },
-    "updatedAt": 1787760045,
+    "updatedAt": 1787767223,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -43372,7 +43670,7 @@
     "averageScore": 52,
     "meanScore": 56,
     "popularity": 1933,
-    "trending": 2,
+    "trending": 8,
     "favourites": 17,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -43406,9 +43704,9 @@
     ],
     "streamingEpisodes": [],
     "nextAiringEpisode": {
-      "airingAt": 1787759040,
-      "timeUntilAiring": 4028,
-      "episode": 8
+      "airingAt": 1788363840,
+      "timeUntilAiring": 593369,
+      "episode": 9
     },
     "relations": {
       "edges": [
@@ -43798,7 +44096,7 @@
         }
       ]
     },
-    "updatedAt": 1787753017,
+    "updatedAt": 1787767259,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -44272,7 +44570,7 @@
     "averageScore": 70,
     "meanScore": 71,
     "popularity": 20244,
-    "trending": 268,
+    "trending": 228,
     "favourites": 265,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -44302,7 +44600,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788355800,
-      "timeUntilAiring": 594843,
+      "timeUntilAiring": 585251,
       "episode": 11
     },
     "relations": {
@@ -44670,7 +44968,7 @@
         }
       ]
     },
-    "updatedAt": 1787760028,
+    "updatedAt": 1787767206,
     "idTmdb": 286346,
     "idImdb": null,
     "idTvdb": null,
@@ -45351,7 +45649,7 @@
     "averageScore": 71,
     "meanScore": 73,
     "popularity": 14209,
-    "trending": 50,
+    "trending": 33,
     "favourites": 165,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -45391,7 +45689,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788274800,
-      "timeUntilAiring": 513843,
+      "timeUntilAiring": 504290,
       "episode": 9
     },
     "relations": {
@@ -45436,7 +45734,7 @@
       {
         "id": 1277,
         "name": "Found Family",
-        "rank": 82,
+        "rank": 85,
         "isMediaSpoiler": false
       },
       {
@@ -45740,7 +46038,7 @@
         }
       ]
     },
-    "updatedAt": 1787760028,
+    "updatedAt": 1787767228,
     "idTmdb": 302519,
     "idImdb": "tt38273525",
     "idTvdb": 468049,
@@ -46401,7 +46699,7 @@
     "averageScore": 55,
     "meanScore": 56,
     "popularity": 26023,
-    "trending": 19,
+    "trending": 31,
     "favourites": 287,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -46446,7 +46744,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788094800,
-      "timeUntilAiring": 333857,
+      "timeUntilAiring": 324267,
       "episode": 9
     },
     "relations": {
@@ -46728,7 +47026,7 @@
         }
       ]
     },
-    "updatedAt": 1787760038,
+    "updatedAt": 1787767213,
     "idTmdb": 300267,
     "idImdb": "tt41293112",
     "idTvdb": 467882,
@@ -47676,7 +47974,7 @@
     "averageScore": 68,
     "meanScore": 87,
     "popularity": 490,
-    "trending": 0,
+    "trending": 2,
     "favourites": 35,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -47757,7 +48055,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787735613,
+    "updatedAt": 1787767269,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -47812,7 +48110,7 @@
     "averageScore": 79,
     "meanScore": 80,
     "popularity": 40455,
-    "trending": 48,
+    "trending": 74,
     "favourites": 772,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -47852,7 +48150,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788177600,
-      "timeUntilAiring": 416642,
+      "timeUntilAiring": 407067,
       "episode": 9
     },
     "relations": {
@@ -48088,7 +48386,7 @@
         }
       ]
     },
-    "updatedAt": 1787760025,
+    "updatedAt": 1787767214,
     "idTmdb": 309974,
     "idImdb": "tt39304754",
     "idTvdb": 470520,
@@ -48554,7 +48852,7 @@
     "averageScore": 75,
     "meanScore": 77,
     "popularity": 6154,
-    "trending": 2,
+    "trending": 11,
     "favourites": 158,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -48589,7 +48887,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788046200,
-      "timeUntilAiring": 285377,
+      "timeUntilAiring": 275677,
       "episode": 31
     },
     "relations": {
@@ -49327,7 +49625,7 @@
         }
       ]
     },
-    "updatedAt": 1787760119,
+    "updatedAt": 1787767221,
     "idTmdb": 306721,
     "idImdb": "tt39047437",
     "idTvdb": 470961,
@@ -49946,7 +50244,7 @@
     "averageScore": 61,
     "meanScore": 62,
     "popularity": 41628,
-    "trending": 25,
+    "trending": 38,
     "favourites": 476,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -49986,7 +50284,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788188400,
-      "timeUntilAiring": 427450,
+      "timeUntilAiring": 417861,
       "episode": 22
     },
     "relations": {
@@ -50296,7 +50594,7 @@
         }
       ]
     },
-    "updatedAt": 1787760033,
+    "updatedAt": 1787767212,
     "idTmdb": 300126,
     "idImdb": "tt39229633",
     "idTvdb": 467209,
@@ -50348,7 +50646,7 @@
     "averageScore": 60,
     "meanScore": 61,
     "popularity": 34997,
-    "trending": 54,
+    "trending": 300,
     "favourites": 457,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -50378,7 +50676,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788361200,
-      "timeUntilAiring": 600249,
+      "timeUntilAiring": 590652,
       "episode": 11
     },
     "relations": {
@@ -50753,7 +51051,7 @@
         }
       ]
     },
-    "updatedAt": 1787760031,
+    "updatedAt": 1787767207,
     "idTmdb": 298994,
     "idImdb": "tt38262097",
     "idTvdb": 467127,
@@ -50811,7 +51109,7 @@
     "averageScore": 90,
     "meanScore": 90,
     "popularity": 133382,
-    "trending": 1420,
+    "trending": 1438,
     "favourites": 6662,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -50886,7 +51184,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788354000,
-      "timeUntilAiring": 593041,
+      "timeUntilAiring": 583451,
       "episode": 15
     },
     "relations": {
@@ -51038,7 +51336,7 @@
       {
         "id": 1045,
         "name": "Heterosexual",
-        "rank": 69,
+        "rank": 70,
         "isMediaSpoiler": false
       },
       {
@@ -51072,10 +51370,22 @@
         "isMediaSpoiler": true
       },
       {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 61,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 772,
         "name": "Shapeshifting",
         "rank": 60,
         "isMediaSpoiler": true
+      },
+      {
+        "id": 1937,
+        "name": "Interspecies",
+        "rank": 60,
+        "isMediaSpoiler": false
       },
       {
         "id": 1771,
@@ -51090,8 +51400,8 @@
         "isMediaSpoiler": true
       },
       {
-        "id": 23,
-        "name": "Female Harem",
+        "id": 1292,
+        "name": "Spearplay",
         "rank": 55,
         "isMediaSpoiler": false
       },
@@ -51099,12 +51409,6 @@
         "id": 50,
         "name": "Seinen",
         "rank": 53,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 1292,
-        "name": "Spearplay",
-        "rank": 48,
         "isMediaSpoiler": false
       },
       {
@@ -51366,7 +51670,7 @@
         }
       ]
     },
-    "updatedAt": 1787760024,
+    "updatedAt": 1787767206,
     "idTmdb": 65942,
     "idImdb": "tt5607616",
     "idTvdb": 305089,
@@ -51417,7 +51721,7 @@
     "averageScore": 74,
     "meanScore": 75,
     "popularity": 26290,
-    "trending": 42,
+    "trending": 56,
     "favourites": 306,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -51447,7 +51751,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788262200,
-      "timeUntilAiring": 501250,
+      "timeUntilAiring": 491672,
       "episode": 9
     },
     "relations": {
@@ -51817,7 +52121,7 @@
         }
       ]
     },
-    "updatedAt": 1787760031,
+    "updatedAt": 1787767218,
     "idTmdb": 117120,
     "idImdb": "tt37015024",
     "idTvdb": 402642,
@@ -53065,7 +53369,7 @@
     "averageScore": 77,
     "meanScore": 78,
     "popularity": 22033,
-    "trending": 11,
+    "trending": 19,
     "favourites": 358,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -53105,7 +53409,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788004800,
-      "timeUntilAiring": 243895,
+      "timeUntilAiring": 234302,
       "episode": 10
     },
     "relations": {
@@ -53556,7 +53860,7 @@
         }
       ]
     },
-    "updatedAt": 1787760061,
+    "updatedAt": 1787767240,
     "idTmdb": 284029,
     "idImdb": "tt41278620",
     "idTvdb": 460501,
@@ -54542,7 +54846,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787756848,
+    "updatedAt": 1787767327,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -54887,7 +55191,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787760036,
+    "updatedAt": 1787767244,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -54940,7 +55244,7 @@
     "averageScore": 80,
     "meanScore": 86,
     "popularity": 1891,
-    "trending": 2,
+    "trending": 1,
     "favourites": 169,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -55079,7 +55383,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787756848,
+    "updatedAt": 1787767220,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -55682,7 +55986,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788019200,
-      "timeUntilAiring": 258330,
+      "timeUntilAiring": 248702,
       "episode": 9
     },
     "relations": {
@@ -56105,7 +56409,7 @@
         }
       ]
     },
-    "updatedAt": 1787760086,
+    "updatedAt": 1787767241,
     "idTmdb": 287075,
     "idImdb": null,
     "idTvdb": null,
@@ -56641,7 +56945,7 @@
     "averageScore": 65,
     "meanScore": 68,
     "popularity": 6896,
-    "trending": 8,
+    "trending": 2,
     "favourites": 69,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -56671,7 +56975,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788623700,
-      "timeUntilAiring": 862816,
+      "timeUntilAiring": 853218,
       "episode": 9
     },
     "relations": {
@@ -57032,7 +57336,7 @@
         }
       ]
     },
-    "updatedAt": 1787760076,
+    "updatedAt": 1787767252,
     "idTmdb": 240576,
     "idImdb": "tt30476504",
     "idTvdb": 442767,
@@ -57088,7 +57392,7 @@
     "averageScore": 90,
     "meanScore": 90,
     "popularity": 78754,
-    "trending": 79,
+    "trending": 96,
     "favourites": 2841,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -57138,7 +57442,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788012000,
-      "timeUntilAiring": 251049,
+      "timeUntilAiring": 241452,
       "episode": 6
     },
     "relations": {
@@ -57485,7 +57789,7 @@
         }
       ]
     },
-    "updatedAt": 1787760029,
+    "updatedAt": 1787767207,
     "idTmdb": 30984,
     "idImdb": "tt0434665",
     "idTvdb": 74796,
@@ -58235,7 +58539,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788080400,
-      "timeUntilAiring": 319784,
+      "timeUntilAiring": 310123,
       "episode": 381
     },
     "relations": {
@@ -61127,7 +61431,7 @@
         }
       ]
     },
-    "updatedAt": 1787760244,
+    "updatedAt": 1787767344,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -61610,7 +61914,7 @@
     "averageScore": null,
     "meanScore": 60,
     "popularity": 209,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -61650,7 +61954,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787959800,
-      "timeUntilAiring": 266509,
+      "timeUntilAiring": 189449,
       "episode": 9
     },
     "relations": {
@@ -61733,7 +62037,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787688127,
+    "updatedAt": 1787767323,
     "idTmdb": 327228,
     "idImdb": null,
     "idTvdb": 479365,
@@ -62508,7 +62812,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 7766,
-    "trending": 1,
+    "trending": 0,
     "favourites": 377,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -62549,7 +62853,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787990400,
-      "timeUntilAiring": 235368,
+      "timeUntilAiring": 219720,
       "episode": 930
     },
     "relations": {
@@ -63245,7 +63549,7 @@
         }
       ]
     },
-    "updatedAt": 1787753006,
+    "updatedAt": 1787764184,
     "idTmdb": 65733,
     "idImdb": "tt4083422",
     "idTvdb": 281405,
@@ -63414,7 +63718,7 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 10474,
-    "trending": 0,
+    "trending": 1,
     "favourites": 684,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -63714,7 +64018,7 @@
         }
       ]
     },
-    "updatedAt": 1787760244,
+    "updatedAt": 1787767333,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -63765,7 +64069,7 @@
     "averageScore": 65,
     "meanScore": 66,
     "popularity": 12402,
-    "trending": 7,
+    "trending": 3,
     "favourites": 172,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -63795,7 +64099,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787833800,
-      "timeUntilAiring": 72908,
+      "timeUntilAiring": 63284,
       "episode": 9
     },
     "relations": {
@@ -64196,7 +64500,7 @@
         }
       ]
     },
-    "updatedAt": 1787760070,
+    "updatedAt": 1787767225,
     "idTmdb": 312507,
     "idImdb": null,
     "idTvdb": null,
@@ -64249,7 +64553,7 @@
     "averageScore": 68,
     "meanScore": 70,
     "popularity": 9029,
-    "trending": 5,
+    "trending": 7,
     "favourites": 122,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -64279,7 +64583,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787929200,
-      "timeUntilAiring": 168427,
+      "timeUntilAiring": 158652,
       "episode": 9
     },
     "relations": {
@@ -64633,7 +64937,7 @@
         }
       ]
     },
-    "updatedAt": 1787760158,
+    "updatedAt": 1787767206,
     "idTmdb": 307585,
     "idImdb": "tt41293320",
     "idTvdb": 471296,
@@ -65949,7 +66253,7 @@
     "averageScore": 61,
     "meanScore": 62,
     "popularity": 13242,
-    "trending": 16,
+    "trending": 22,
     "favourites": 134,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -65989,7 +66293,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788184800,
-      "timeUntilAiring": 423908,
+      "timeUntilAiring": 414251,
       "episode": 9
     },
     "relations": {
@@ -66342,7 +66646,7 @@
         }
       ]
     },
-    "updatedAt": 1787760069,
+    "updatedAt": 1787767206,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -66397,7 +66701,7 @@
     "averageScore": 68,
     "meanScore": 71,
     "popularity": 6599,
-    "trending": 7,
+    "trending": 76,
     "favourites": 95,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -66437,7 +66741,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788364800,
-      "timeUntilAiring": 603864,
+      "timeUntilAiring": 594252,
       "episode": 11
     },
     "relations": {
@@ -66793,7 +67097,7 @@
         }
       ]
     },
-    "updatedAt": 1787760043,
+    "updatedAt": 1787767208,
     "idTmdb": 254492,
     "idImdb": "tt38646611",
     "idTvdb": 450072,
@@ -66847,7 +67151,7 @@
     "averageScore": 72,
     "meanScore": 73,
     "popularity": 36061,
-    "trending": 22,
+    "trending": 30,
     "favourites": 556,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -66882,7 +67186,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787932800,
-      "timeUntilAiring": 171908,
+      "timeUntilAiring": 162303,
       "episode": 9
     },
     "relations": {
@@ -67264,7 +67568,7 @@
         }
       ]
     },
-    "updatedAt": 1787760067,
+    "updatedAt": 1787767242,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -67948,7 +68252,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787756869,
+    "updatedAt": 1787767344,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -68143,7 +68447,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787735163,
+    "updatedAt": 1787767344,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -68410,7 +68714,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 21135,
-    "trending": 41,
+    "trending": 44,
     "favourites": 206,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -68440,7 +68744,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788183000,
-      "timeUntilAiring": 427820,
+      "timeUntilAiring": 412456,
       "episode": 9
     },
     "relations": {
@@ -68513,6 +68817,12 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 104,
+        "name": "Anti-Hero",
+        "rank": 66,
+        "isMediaSpoiler": true
+      },
+      {
         "id": 1327,
         "name": "Royal Affairs",
         "rank": 64,
@@ -68541,12 +68851,6 @@
         "name": "Nun",
         "rank": 50,
         "isMediaSpoiler": false
-      },
-      {
-        "id": 104,
-        "name": "Anti-Hero",
-        "rank": 50,
-        "isMediaSpoiler": true
       },
       {
         "id": 248,
@@ -68854,7 +69158,7 @@
         }
       ]
     },
-    "updatedAt": 1787752872,
+    "updatedAt": 1787767209,
     "idTmdb": 298831,
     "idImdb": "tt39551287",
     "idTvdb": 467005,
@@ -69463,7 +69767,7 @@
     "averageScore": 63,
     "meanScore": 64,
     "popularity": 36893,
-    "trending": 21,
+    "trending": 24,
     "favourites": 467,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -69498,7 +69802,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787923800,
-      "timeUntilAiring": 162943,
+      "timeUntilAiring": 153267,
       "episode": 9
     },
     "relations": {
@@ -69839,7 +70143,7 @@
         }
       ]
     },
-    "updatedAt": 1787760093,
+    "updatedAt": 1787767214,
     "idTmdb": 302051,
     "idImdb": null,
     "idTvdb": null,
@@ -69893,7 +70197,7 @@
     "averageScore": 68,
     "meanScore": 69,
     "popularity": 22181,
-    "trending": 23,
+    "trending": 19,
     "favourites": 250,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -69928,7 +70232,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788022800,
-      "timeUntilAiring": 261865,
+      "timeUntilAiring": 252284,
       "episode": 8
     },
     "relations": {
@@ -70296,7 +70600,7 @@
         }
       ]
     },
-    "updatedAt": 1787760044,
+    "updatedAt": 1787767224,
     "idTmdb": 312266,
     "idImdb": "tt41276828",
     "idTvdb": 468399,
@@ -70870,7 +71174,7 @@
     "averageScore": 56,
     "meanScore": 58,
     "popularity": 5452,
-    "trending": 3,
+    "trending": 4,
     "favourites": 49,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -70905,7 +71209,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788075000,
-      "timeUntilAiring": 314136,
+      "timeUntilAiring": 304496,
       "episode": 9
     },
     "relations": {
@@ -71239,7 +71543,7 @@
         }
       ]
     },
-    "updatedAt": 1787760089,
+    "updatedAt": 1787767236,
     "idTmdb": 302824,
     "idImdb": null,
     "idTvdb": null,
@@ -71293,7 +71597,7 @@
     "averageScore": 79,
     "meanScore": 80,
     "popularity": 37401,
-    "trending": 26,
+    "trending": 34,
     "favourites": 764,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -71338,7 +71642,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788096600,
-      "timeUntilAiring": 335664,
+      "timeUntilAiring": 326061,
       "episode": 9
     },
     "relations": {
@@ -71748,7 +72052,7 @@
         }
       ]
     },
-    "updatedAt": 1787760040,
+    "updatedAt": 1787767211,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -72065,7 +72369,7 @@
     ],
     "averageScore": 71,
     "meanScore": 75,
-    "popularity": 1859,
+    "popularity": 1860,
     "trending": 0,
     "favourites": 57,
     "isAdult": false,
@@ -72587,7 +72891,7 @@
         }
       ]
     },
-    "updatedAt": 1787684132,
+    "updatedAt": 1787765085,
     "idTmdb": 57775,
     "idImdb": "tt0220204",
     "idTvdb": 167131,
@@ -72988,7 +73292,7 @@
     "averageScore": 49,
     "meanScore": 53,
     "popularity": 2637,
-    "trending": 7,
+    "trending": 4,
     "favourites": 29,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -73018,7 +73322,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788267300,
-      "timeUntilAiring": 506408,
+      "timeUntilAiring": 496795,
       "episode": 9
     },
     "relations": {
@@ -73222,7 +73526,7 @@
         }
       ]
     },
-    "updatedAt": 1787760069,
+    "updatedAt": 1787767233,
     "idTmdb": 326191,
     "idImdb": "tt41358179",
     "idTvdb": 476227,
@@ -73274,7 +73578,7 @@
     "averageScore": 53,
     "meanScore": 58,
     "popularity": 2516,
-    "trending": 14,
+    "trending": 6,
     "favourites": 26,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -73314,7 +73618,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788354000,
-      "timeUntilAiring": 593074,
+      "timeUntilAiring": 583461,
       "episode": 9
     },
     "relations": {
@@ -73436,7 +73740,7 @@
         }
       ]
     },
-    "updatedAt": 1787760049,
+    "updatedAt": 1787767210,
     "idTmdb": 314561,
     "idImdb": "tt43587112",
     "idTvdb": 479026,
@@ -73487,7 +73791,7 @@
     "averageScore": 62,
     "meanScore": 67,
     "popularity": 3198,
-    "trending": 3,
+    "trending": 5,
     "favourites": 44,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -73517,7 +73821,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787889600,
-      "timeUntilAiring": 128861,
+      "timeUntilAiring": 119146,
       "episode": 20
     },
     "relations": {
@@ -73753,7 +74057,7 @@
         }
       ]
     },
-    "updatedAt": 1787760186,
+    "updatedAt": 1787767268,
     "idTmdb": 326844,
     "idImdb": "tt43609776",
     "idTvdb": 479833,
@@ -74267,7 +74571,7 @@
     "averageScore": null,
     "meanScore": 52,
     "popularity": 59,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -74294,7 +74598,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787648556,
+    "updatedAt": 1787767323,
     "idTmdb": 326697,
     "idImdb": "tt43306485",
     "idTvdb": 479768,
@@ -74344,7 +74648,7 @@
     "averageScore": null,
     "meanScore": 66,
     "popularity": 788,
-    "trending": 8,
+    "trending": 9,
     "favourites": 8,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -74374,7 +74678,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788361200,
-      "timeUntilAiring": 600274,
+      "timeUntilAiring": 590652,
       "episode": 9
     },
     "relations": {
@@ -74550,7 +74854,7 @@
         }
       ]
     },
-    "updatedAt": 1787760048,
+    "updatedAt": 1787767207,
     "idTmdb": 69346,
     "idImdb": null,
     "idTvdb": 315500,
@@ -74601,7 +74905,7 @@
     "averageScore": null,
     "meanScore": 65,
     "popularity": 133,
-    "trending": 2,
+    "trending": 1,
     "favourites": 4,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -74641,7 +74945,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788314400,
-      "timeUntilAiring": 553516,
+      "timeUntilAiring": 544000,
       "episode": 6
     },
     "relations": {
@@ -74846,7 +75150,7 @@
         }
       ]
     },
-    "updatedAt": 1787760076,
+    "updatedAt": 1787767293,
     "idTmdb": 139168,
     "idImdb": "tt32894936",
     "idTvdb": 439866,
@@ -75216,7 +75520,7 @@
     "averageScore": null,
     "meanScore": 55,
     "popularity": 275,
-    "trending": 0,
+    "trending": 3,
     "favourites": 3,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -75318,7 +75622,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787756869,
+    "updatedAt": 1787767207,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -75401,7 +75705,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788114000,
-      "timeUntilAiring": 453137,
+      "timeUntilAiring": 343649,
       "episode": 8
     },
     "relations": {
@@ -75467,7 +75771,7 @@
         }
       ]
     },
-    "updatedAt": 1787659267,
+    "updatedAt": 1787767323,
     "idTmdb": 56559,
     "idImdb": "tt3111906",
     "idTvdb": 271591,
@@ -75721,7 +76025,7 @@
     "averageScore": 75,
     "meanScore": 76,
     "popularity": 52732,
-    "trending": 50,
+    "trending": 38,
     "favourites": 581,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -75786,7 +76090,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788098400,
-      "timeUntilAiring": 337442,
+      "timeUntilAiring": 327852,
       "episode": 9
     },
     "relations": {
@@ -76149,7 +76453,7 @@
         }
       ]
     },
-    "updatedAt": 1787760026,
+    "updatedAt": 1787767208,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -76206,7 +76510,7 @@
     "averageScore": 76,
     "meanScore": 77,
     "popularity": 25417,
-    "trending": 19,
+    "trending": 20,
     "favourites": 227,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -76246,7 +76550,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787927400,
-      "timeUntilAiring": 166486,
+      "timeUntilAiring": 156856,
       "episode": 7
     },
     "relations": {
@@ -76595,7 +76899,7 @@
         }
       ]
     },
-    "updatedAt": 1787760053,
+    "updatedAt": 1787767208,
     "idTmdb": 222623,
     "idImdb": "tt27187054",
     "idTvdb": 432455,
@@ -76654,7 +76958,7 @@
     "averageScore": 83,
     "meanScore": 83,
     "popularity": 129560,
-    "trending": 93,
+    "trending": 87,
     "favourites": 4482,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -76711,7 +77015,7 @@
     ],
     "nextAiringEpisode": {
       "airingAt": 1787925600,
-      "timeUntilAiring": 170298,
+      "timeUntilAiring": 155057,
       "episode": 20
     },
     "relations": {
@@ -77178,7 +77482,7 @@
         }
       ]
     },
-    "updatedAt": 1787749665,
+    "updatedAt": 1787767209,
     "idTmdb": 82684,
     "idImdb": "tt9054364",
     "idTvdb": 352408,
@@ -78637,7 +78941,7 @@
     "averageScore": 76,
     "meanScore": 77,
     "popularity": 29637,
-    "trending": 22,
+    "trending": 31,
     "favourites": 476,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -78667,7 +78971,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788103800,
-      "timeUntilAiring": 342950,
+      "timeUntilAiring": 333272,
       "episode": 9
     },
     "relations": {
@@ -78753,14 +79057,14 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 179,
-        "name": "Witch",
-        "rank": 60,
+        "id": 294,
+        "name": "Bisexual",
+        "rank": 62,
         "isMediaSpoiler": false
       },
       {
-        "id": 294,
-        "name": "Bisexual",
+        "id": 179,
+        "name": "Witch",
         "rank": 60,
         "isMediaSpoiler": false
       },
@@ -78797,7 +79101,7 @@
       {
         "id": 1456,
         "name": "Femboy",
-        "rank": 32,
+        "rank": 30,
         "isMediaSpoiler": false
       },
       {
@@ -79080,7 +79384,7 @@
         }
       ]
     },
-    "updatedAt": 1787760098,
+    "updatedAt": 1787767217,
     "idTmdb": 295071,
     "idImdb": "tt38049145",
     "idTvdb": 450228,
@@ -79137,7 +79441,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 49905,
-    "trending": 99,
+    "trending": 125,
     "favourites": 857,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -79187,7 +79491,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788271200,
-      "timeUntilAiring": 510256,
+      "timeUntilAiring": 500656,
       "episode": 9
     },
     "relations": {
@@ -79667,7 +79971,7 @@
         }
       ]
     },
-    "updatedAt": 1787760035,
+    "updatedAt": 1787767209,
     "idTmdb": 255358,
     "idImdb": "tt36517689",
     "idTvdb": 450475,
@@ -80109,7 +80413,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 148084,
-    "trending": 189,
+    "trending": 172,
     "favourites": 4553,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -80159,7 +80463,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788102000,
-      "timeUntilAiring": 341041,
+      "timeUntilAiring": 331457,
       "episode": 10
     },
     "relations": {
@@ -80672,7 +80976,7 @@
         }
       ]
     },
-    "updatedAt": 1787760025,
+    "updatedAt": 1787767209,
     "idTmdb": 94664,
     "idImdb": "tt13293588",
     "idTvdb": 371310,
@@ -81723,7 +82027,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787963160,
-      "timeUntilAiring": 202450,
+      "timeUntilAiring": 192673,
       "episode": 22
     },
     "relations": {
@@ -81896,7 +82200,7 @@
         }
       ]
     },
-    "updatedAt": 1787760211,
+    "updatedAt": 1787767250,
     "idTmdb": 299144,
     "idImdb": "tt41448834",
     "idTvdb": 472971,
@@ -82332,7 +82636,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 89153,
-    "trending": 492,
+    "trending": 505,
     "favourites": 1724,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -82367,7 +82671,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788352200,
-      "timeUntilAiring": 591241,
+      "timeUntilAiring": 581651,
       "episode": 9
     },
     "relations": {
@@ -82815,7 +83119,7 @@
         }
       ]
     },
-    "updatedAt": 1787760025,
+    "updatedAt": 1787767206,
     "idTmdb": 69346,
     "idImdb": "tt6455986",
     "idTvdb": 315500,
@@ -87008,7 +87312,7 @@
     "averageScore": 68,
     "meanScore": 69,
     "popularity": 19757,
-    "trending": 15,
+    "trending": 14,
     "favourites": 361,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -87038,7 +87342,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788017400,
-      "timeUntilAiring": 256272,
+      "timeUntilAiring": 246902,
       "episode": 9
     },
     "relations": {
@@ -87388,7 +87692,7 @@
         }
       ]
     },
-    "updatedAt": 1787756796,
+    "updatedAt": 1787767241,
     "idTmdb": 293489,
     "idImdb": null,
     "idTvdb": null,
@@ -87443,7 +87747,7 @@
     "averageScore": 70,
     "meanScore": 71,
     "popularity": 40825,
-    "trending": 142,
+    "trending": 458,
     "favourites": 536,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -87498,7 +87802,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788360360,
-      "timeUntilAiring": 599444,
+      "timeUntilAiring": 589812,
       "episode": 9
     },
     "relations": {
@@ -87855,7 +88159,7 @@
         }
       ]
     },
-    "updatedAt": 1787760051,
+    "updatedAt": 1787767207,
     "idTmdb": 260823,
     "idImdb": "tt35346717",
     "idTvdb": 452710,
@@ -88312,7 +88616,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 54896,
-    "trending": 77,
+    "trending": 72,
     "favourites": 1047,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -88347,7 +88651,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788076800,
-      "timeUntilAiring": 315850,
+      "timeUntilAiring": 306267,
       "episode": 9
     },
     "relations": {
@@ -88678,7 +88982,7 @@
         }
       ]
     },
-    "updatedAt": 1787760032,
+    "updatedAt": 1787767214,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -89385,7 +89689,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 56519,
-    "trending": 31,
+    "trending": 37,
     "favourites": 935,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -89430,7 +89734,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1787844360,
-      "timeUntilAiring": 83231,
+      "timeUntilAiring": 73827,
       "episode": 9
     },
     "relations": {
@@ -89804,7 +90108,7 @@
         }
       ]
     },
-    "updatedAt": 1787756789,
+    "updatedAt": 1787767214,
     "idTmdb": 270603,
     "idImdb": "tt33334216",
     "idTvdb": 453028,

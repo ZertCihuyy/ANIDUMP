@@ -861,7 +861,7 @@
         }
       ]
     },
-    "updatedAt": 1787756869,
+    "updatedAt": 1787767344,
     "idTmdb": 289217,
     "idImdb": "tt37532849",
     "idTvdb": 459058,
@@ -915,7 +915,7 @@
     "averageScore": 69,
     "meanScore": 70,
     "popularity": 16859,
-    "trending": 0,
+    "trending": 3,
     "favourites": 259,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1299,7 +1299,7 @@
         }
       ]
     },
-    "updatedAt": 1787760244,
+    "updatedAt": 1787767219,
     "idTmdb": 284568,
     "idImdb": "tt40546998",
     "idTvdb": 460313,
@@ -2294,7 +2294,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 4413,
-    "trending": 0,
+    "trending": 1,
     "favourites": 36,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2319,7 +2319,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791559800,
-      "timeUntilAiring": 3799185,
+      "timeUntilAiring": 3789256,
       "episode": 1
     },
     "relations": {
@@ -2513,7 +2513,7 @@
         }
       ]
     },
-    "updatedAt": 1787760244,
+    "updatedAt": 1787767208,
     "idTmdb": 284580,
     "idImdb": null,
     "idTvdb": null,
@@ -3480,7 +3480,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 82986,
-    "trending": 3,
+    "trending": 8,
     "favourites": 1444,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3956,7 +3956,7 @@
         }
       ]
     },
-    "updatedAt": 1787760067,
+    "updatedAt": 1787767245,
     "idTmdb": 284644,
     "idImdb": "tt36230718",
     "idTvdb": 460341,
@@ -4009,7 +4009,7 @@
     "averageScore": 64,
     "meanScore": 64,
     "popularity": 23512,
-    "trending": 2,
+    "trending": 3,
     "favourites": 308,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4318,7 +4318,7 @@
         }
       ]
     },
-    "updatedAt": 1787756797,
+    "updatedAt": 1787767313,
     "idTmdb": 283705,
     "idImdb": "tt35677101",
     "idTvdb": 459970,
@@ -4631,7 +4631,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3907,
-    "trending": 1,
+    "trending": 2,
     "favourites": 40,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4767,7 +4767,7 @@
         }
       ]
     },
-    "updatedAt": 1787760089,
+    "updatedAt": 1787767301,
     "idTmdb": 284563,
     "idImdb": null,
     "idTvdb": null,
@@ -4817,7 +4817,7 @@
     "averageScore": 77,
     "meanScore": 78,
     "popularity": 22033,
-    "trending": 11,
+    "trending": 19,
     "favourites": 358,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4857,7 +4857,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788004800,
-      "timeUntilAiring": 243895,
+      "timeUntilAiring": 234302,
       "episode": 10
     },
     "relations": {
@@ -5308,7 +5308,7 @@
         }
       ]
     },
-    "updatedAt": 1787760061,
+    "updatedAt": 1787767240,
     "idTmdb": 284029,
     "idImdb": "tt41278620",
     "idTvdb": 460501,
@@ -6453,39 +6453,51 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 81,
+        "name": "Iyashikei",
+        "rank": 83,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 98,
         "name": "Female Protagonist",
         "rank": 82,
         "isMediaSpoiler": false
       },
       {
-        "id": 81,
-        "name": "Iyashikei",
-        "rank": 80,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 1228,
-        "name": "Primarily Teen Cast",
-        "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 324,
         "name": "Chibi",
-        "rank": 73,
+        "rank": 77,
         "isMediaSpoiler": false
       },
       {
         "id": 46,
         "name": "School",
-        "rank": 70,
+        "rank": 76,
         "isMediaSpoiler": false
       },
       {
         "id": 82,
         "name": "Male Protagonist",
-        "rank": 70,
+        "rank": 74,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 92,
+        "name": "Cute Girls Doing Cute Things",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 60,
         "isMediaSpoiler": false
       },
       {
@@ -6495,33 +6507,21 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 254,
+        "name": "Kemonomimi",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 779,
         "name": "Kuudere",
-        "rank": 45,
+        "rank": 56,
         "isMediaSpoiler": false
       },
       {
         "id": 1045,
         "name": "Heterosexual",
-        "rank": 43,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 281,
-        "name": "Surreal Comedy",
-        "rank": 40,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 92,
-        "name": "Cute Girls Doing Cute Things",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 254,
-        "name": "Kemonomimi",
-        "rank": 20,
+        "rank": 51,
         "isMediaSpoiler": false
       }
     ],
@@ -6800,7 +6800,7 @@
         }
       ]
     },
-    "updatedAt": 1787756857,
+    "updatedAt": 1787767335,
     "idTmdb": 283689,
     "idImdb": "tt38412257",
     "idTvdb": 466129,
@@ -6853,7 +6853,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 36189,
-    "trending": 1,
+    "trending": 2,
     "favourites": 483,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7271,7 +7271,7 @@
         }
       ]
     },
-    "updatedAt": 1787760222,
+    "updatedAt": 1787767218,
     "idTmdb": 282946,
     "idImdb": "tt38646949",
     "idTvdb": 459339,
@@ -7882,7 +7882,7 @@
     "averageScore": 83,
     "meanScore": 83,
     "popularity": 74095,
-    "trending": 15,
+    "trending": 25,
     "favourites": 2976,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8268,7 +8268,7 @@
         }
       ]
     },
-    "updatedAt": 1787760066,
+    "updatedAt": 1787767207,
     "idTmdb": 283428,
     "idImdb": "tt39123061",
     "idTvdb": 459627,
@@ -9145,7 +9145,7 @@
         }
       ]
     },
-    "updatedAt": 1787742041,
+    "updatedAt": 1787767283,
     "idTmdb": 283692,
     "idImdb": "tt41298100",
     "idTvdb": 459942,
@@ -9316,7 +9316,7 @@
     "averageScore": 68,
     "meanScore": 69,
     "popularity": 10256,
-    "trending": 1,
+    "trending": 0,
     "favourites": 150,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9641,7 +9641,7 @@
         }
       ]
     },
-    "updatedAt": 1787756857,
+    "updatedAt": 1787767344,
     "idTmdb": 283704,
     "idImdb": "tt36131958",
     "idTvdb": 458232,
@@ -10447,7 +10447,7 @@
         }
       ]
     },
-    "updatedAt": 1787738456,
+    "updatedAt": 1787767294,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -15354,7 +15354,7 @@
     "averageScore": 75,
     "meanScore": 82,
     "popularity": 4803,
-    "trending": 0,
+    "trending": 1,
     "favourites": 44,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -15641,7 +15641,7 @@
         }
       ]
     },
-    "updatedAt": 1787756869,
+    "updatedAt": 1787767287,
     "idTmdb": 1431083,
     "idImdb": "tt38590089",
     "idTvdb": null,
