@@ -45,7 +45,7 @@
     "averageScore": 62,
     "meanScore": 62,
     "popularity": 60805,
-    "trending": 2,
+    "trending": 1,
     "favourites": 1118,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -601,7 +601,7 @@
         }
       ]
     },
-    "updatedAt": 1787706133,
+    "updatedAt": 1787716849,
     "idTmdb": 72505,
     "idImdb": "tt7088332",
     "idTvdb": 329992,
@@ -1174,7 +1174,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 83288,
-    "trending": 7,
+    "trending": 2,
     "favourites": 1939,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1692,7 +1692,7 @@
         }
       ]
     },
-    "updatedAt": 1787710440,
+    "updatedAt": 1787716815,
     "idTmdb": 197848,
     "idImdb": "tt30177477",
     "idTvdb": 419112,
@@ -1751,7 +1751,7 @@
     "averageScore": 85,
     "meanScore": 85,
     "popularity": 219417,
-    "trending": 28,
+    "trending": 22,
     "favourites": 10995,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2247,7 +2247,7 @@
         }
       ]
     },
-    "updatedAt": 1787710397,
+    "updatedAt": 1787716835,
     "idTmdb": 196950,
     "idImdb": "tt32550889",
     "idTvdb": 418666,
@@ -3534,7 +3534,7 @@
     "averageScore": 67,
     "meanScore": 68,
     "popularity": 7702,
-    "trending": 1,
+    "trending": 0,
     "favourites": 101,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3657,7 +3657,7 @@
         }
       ]
     },
-    "updatedAt": 1787709714,
+    "updatedAt": 1787716892,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9218,5 +9218,155 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": null
+  },
+  "147511": {
+    "id": 147511,
+    "idMal": 52680,
+    "title": {
+      "romaji": "Wu Geng Ji 4 Part 2",
+      "english": null,
+      "native": "武庚纪 第四季 下"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 18,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2023,
+      "month": 1,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 4,
+      "day": 25
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147511-HOyisHUxp7DX.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx147511-HOyisHUxp7DX.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147511-HOyisHUxp7DX.png",
+      "color": "#e48628"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "武庚纪之归墟秘境",
+      "武庚纪之绝境涅槃"
+    ],
+    "averageScore": 59,
+    "meanScore": 73,
+    "popularity": 333,
+    "trending": 1,
+    "favourites": 17,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "MANGA",
+    "trailer": {
+      "id": "L_wTS46BK5Q",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/L_wTS46BK5Q/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://v.qq.com/detail/t/ipmc5u3dwb48mv2.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://weibo.com/u/5583730037",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 136461,
+            "title": {
+              "romaji": "Wu Geng Ji 4 Part 1",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx136461-feN8yKgeYRBW.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 74711,
+            "title": {
+              "romaji": "Feng Shen Ji III",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx74711-mhOQjwLb0DFQ.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6382,
+            "name": "Tencent Penguin Pictures"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6393,
+            "name": "Sparkly Key Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 80677,
+            "name": {
+              "full": "Geng Wu",
+              "native": "武庚"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787716860,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2132156,
+    "idShikimori": 52680
   }
 }
