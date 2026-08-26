@@ -16860,7 +16860,7 @@
         }
       ]
     },
-    "updatedAt": 1787695374,
+    "updatedAt": 1787709671,
     "idTmdb": 34708,
     "idImdb": "tt0473578",
     "idTvdb": 78919,
@@ -25595,7 +25595,7 @@
         }
       ]
     },
-    "updatedAt": 1787695416,
+    "updatedAt": 1787709720,
     "idTmdb": 35472,
     "idImdb": "tt1411810",
     "idTvdb": 82167,
@@ -52488,7 +52488,7 @@
         }
       ]
     },
-    "updatedAt": 1787686405,
+    "updatedAt": 1787709720,
     "idTmdb": 75571,
     "idImdb": "tt0313441",
     "idTvdb": null,
@@ -53317,7 +53317,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 10101,
-    "trending": 0,
+    "trending": 1,
     "favourites": 141,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -53770,7 +53770,7 @@
         }
       ]
     },
-    "updatedAt": 1787686089,
+    "updatedAt": 1787709709,
     "idTmdb": 72249,
     "idImdb": "tt1118543",
     "idTvdb": 81375,
@@ -234296,5 +234296,150 @@
     "traktSlug": "delinquent-in-drag-1992",
     "idSimkl": 41630,
     "idShikimori": 2790
+  },
+  "2456": {
+    "id": 2456,
+    "idMal": 2456,
+    "title": {
+      "romaji": "Mori no Densetsu",
+      "english": "Legend of the Forest",
+      "native": "森の伝説"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "A tranquil forest and all of its residents must face the destruction of man. A squirrel, born and raised in the forrest, fights to defend his home and faces trials and adversities along the way.\n<br><br>\n(Source: Anime News Network)",
+    "episodes": 1,
+    "duration": 31,
+    "season": "FALL",
+    "seasonYear": 1987,
+    "startDate": {
+      "year": 1987,
+      "month": 12,
+      "day": 18
+    },
+    "endDate": {
+      "year": 1987,
+      "month": 12,
+      "day": 18
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2456-YezL4LPk9Rfv.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2456-YezL4LPk9Rfv.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b2456-YezL4LPk9Rfv.jpg",
+      "color": "#e4ae5d"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2456-lkWi4Vv8b3Ze.jpg",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Music"
+    ],
+    "synonyms": [
+      "Mori no Densetsu PART-1",
+      "Legend of the Forest PART-1"
+    ],
+    "averageScore": 56,
+    "meanScore": 58,
+    "popularity": 879,
+    "trending": 0,
+    "favourites": 3,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 103323,
+            "title": {
+              "romaji": "Mori no Densetsu: Dai Ni Gakushou",
+              "english": "Legend of the Forest: 2nd Movement"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/103323-VyMOYXmc1gWL.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 342,
+        "name": "Environmental",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 433,
+        "name": "Animals",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 341,
+        "name": "No Dialogue",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 710,
+        "name": "Achromatic",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 200,
+            "name": "Tezuka Productions"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 33637,
+            "name": {
+              "full": "Leo",
+              "native": "レオ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 271151,
+              "name": {
+                "full": "Kyouko No",
+                "native": "野恭子"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1787709720,
+    "idTmdb": 85793,
+    "idImdb": "tt0093399",
+    "idTvdb": null,
+    "idTrakt": 64474,
+    "traktSlug": "legend-of-the-forest-1987",
+    "idSimkl": 40328,
+    "idShikimori": 2456
   }
 }
