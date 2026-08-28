@@ -50,8 +50,8 @@
     ],
     "averageScore": 76,
     "meanScore": 76,
-    "popularity": 132456,
-    "trending": 1,
+    "popularity": 132499,
+    "trending": 6,
     "favourites": 3248,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -552,7 +552,7 @@
         }
       ]
     },
-    "updatedAt": 1787900503,
+    "updatedAt": 1787943733,
     "idTmdb": 127714,
     "idImdb": "tt15219320",
     "idTvdb": 405214,
@@ -604,8 +604,8 @@
     ],
     "averageScore": 71,
     "meanScore": 71,
-    "popularity": 51257,
-    "trending": 0,
+    "popularity": 51271,
+    "trending": 2,
     "favourites": 769,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1070,7 +1070,7 @@
         }
       ]
     },
-    "updatedAt": 1787832129,
+    "updatedAt": 1787943747,
     "idTmdb": 194665,
     "idImdb": "tt25275610",
     "idTvdb": 404525,
@@ -2402,8 +2402,8 @@
     ],
     "averageScore": 81,
     "meanScore": 81,
-    "popularity": 89398,
-    "trending": 65,
+    "popularity": 89585,
+    "trending": 88,
     "favourites": 1745,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2438,7 +2438,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788352200,
-      "timeUntilAiring": 449731,
+      "timeUntilAiring": 405545,
       "episode": 9
     },
     "relations": {
@@ -2886,7 +2886,7 @@
         }
       ]
     },
-    "updatedAt": 1787900405,
+    "updatedAt": 1787943661,
     "idTmdb": 69346,
     "idImdb": "tt6455986",
     "idTvdb": 315500,
@@ -6936,7 +6936,7 @@
     "averageScore": 57,
     "meanScore": 68,
     "popularity": 239,
-    "trending": 0,
+    "trending": 1,
     "favourites": 8,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -7082,7 +7082,7 @@
         }
       ]
     },
-    "updatedAt": 1787569087,
+    "updatedAt": 1787943722,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -12052,5 +12052,249 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 42390
+  },
+  "135571": {
+    "id": 135571,
+    "idMal": null,
+    "title": {
+      "romaji": "Tie Jie Gang Bing",
+      "english": null,
+      "native": "铁姬钢兵"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "College graduate Mu Siyun submitted his resume and suddenly became the head of a space fleet, leading thousands of mecha girl soldiers to conquer the universe!\n<br><br>\n(Source: WeComics)",
+    "episodes": 24,
+    "duration": 7,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2021,
+      "month": 2,
+      "day": 8
+    },
+    "endDate": {
+      "year": 2021,
+      "month": 4,
+      "day": 12
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135571-l0bAt9r3UEe4.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx135571-l0bAt9r3UEe4.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx135571-l0bAt9r3UEe4.png",
+      "color": "#a13578"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "synonyms": [
+      "Metal Goddess Soldier"
+    ],
+    "averageScore": null,
+    "meanScore": 59,
+    "popularity": 272,
+    "trending": 0,
+    "favourites": 8,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://v.qq.com/detail/m/mzc002000ncjaih.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 106014,
+            "title": {
+              "romaji": "Tie Ji Gang Bing",
+              "english": "Metal Goddess Soldier"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/n106014-r6XJ91VzIJ1E.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 135572,
+            "title": {
+              "romaji": "Tie Jie Gang Bing 2",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx135572-idGCRCLBza7X.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 63,
+        "name": "Space",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 104,
+        "name": "Anti-Hero",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 34,
+        "name": "Military",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 111,
+        "name": "War",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 191,
+        "name": "Aliens",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 801,
+        "name": "Cyborg",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 217,
+        "name": "Dystopian",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 94,
+        "name": "Gore",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 103,
+        "name": "Politics",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 160,
+        "name": "Real Robot",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 285,
+        "name": "Terrorism",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1304,
+        "name": "Anthropomorphism",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 335,
+        "name": "Tanned Skin",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 632,
+        "name": "Centaur",
+        "rank": 20,
+        "isMediaSpoiler": true
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 142797,
+            "name": {
+              "full": "Dingyuan",
+              "native": "定远"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 142799,
+            "name": {
+              "full": "Siyun Mu",
+              "native": "慕斯云"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1787943788,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }
