@@ -1685,7 +1685,7 @@
     "averageScore": 80,
     "meanScore": 80,
     "popularity": 236361,
-    "trending": 5,
+    "trending": 6,
     "favourites": 4342,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2424,7 +2424,7 @@
         }
       ]
     },
-    "updatedAt": 1788012231,
+    "updatedAt": 1788026619,
     "idTmdb": 120089,
     "idImdb": "tt13706018",
     "idTvdb": 405920,
@@ -2482,7 +2482,7 @@
     "averageScore": 74,
     "meanScore": 75,
     "popularity": 74994,
-    "trending": 4,
+    "trending": 7,
     "favourites": 1742,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2971,7 +2971,7 @@
         }
       ]
     },
-    "updatedAt": 1788012247,
+    "updatedAt": 1788026473,
     "idTmdb": 216467,
     "idImdb": "tt31131310",
     "idTvdb": 424019,
@@ -3693,7 +3693,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 24185,
-    "trending": 4,
+    "trending": 14,
     "favourites": 757,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3723,7 +3723,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788515700,
-      "timeUntilAiring": 500766,
+      "timeUntilAiring": 488665,
       "episode": 148
     },
     "relations": {
@@ -4725,7 +4725,7 @@
         }
       ]
     },
-    "updatedAt": 1788012304,
+    "updatedAt": 1788026590,
     "idTmdb": 220150,
     "idImdb": "tt26692417",
     "idTvdb": 433862,
@@ -6288,7 +6288,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 58140,
-    "trending": 2,
+    "trending": 0,
     "favourites": 1118,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6761,7 +6761,7 @@
         }
       ]
     },
-    "updatedAt": 1788012225,
+    "updatedAt": 1788023089,
     "idTmdb": 216523,
     "idImdb": "tt29370857",
     "idTvdb": 427919,
@@ -7390,7 +7390,7 @@
     ],
     "averageScore": 72,
     "meanScore": 72,
-    "popularity": 78643,
+    "popularity": 78663,
     "trending": 2,
     "favourites": 1488,
     "isAdult": false,
@@ -7884,7 +7884,7 @@
         }
       ]
     },
-    "updatedAt": 1787969859,
+    "updatedAt": 1788022910,
     "idTmdb": 215799,
     "idImdb": "tt28082379",
     "idTvdb": 428030,
@@ -18141,5 +18141,90 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 45626
+  },
+  "158564": {
+    "id": 158564,
+    "idMal": null,
+    "title": {
+      "romaji": "Baby I Hate You",
+      "english": null,
+      "native": "ベイビーあいへいちゅー"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video animated by MoriG for the song <i>Baby I Hate You</i> by Nanawo Akari.",
+    "episodes": 1,
+    "duration": 3,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2022,
+      "month": 4,
+      "day": 20
+    },
+    "endDate": {
+      "year": 2022,
+      "month": 4,
+      "day": 20
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158564-ZsJgd1A9CB3Q.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx158564-ZsJgd1A9CB3Q.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158564-ZsJgd1A9CB3Q.png",
+      "color": "#e45d93"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Romance"
+    ],
+    "synonyms": [],
+    "averageScore": 52,
+    "meanScore": 64,
+    "popularity": 154,
+    "trending": 0,
+    "favourites": 3,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "aprOk-w2lxE",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/aprOk-w2lxE/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://youtu.be/aprOk-w2lxE",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 164,
+        "name": "Tsundere",
+        "rank": 79,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1788023089,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }

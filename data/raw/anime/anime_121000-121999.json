@@ -13237,5 +13237,129 @@
     "traktSlug": null,
     "idSimkl": 48836,
     "idShikimori": 23511
+  },
+  "121237": {
+    "id": 121237,
+    "idMal": 33753,
+    "title": {
+      "romaji": "Tianxin Gege 2",
+      "english": null,
+      "native": "甜心格格 第2季"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "FINISHED",
+    "description": "The second season of <i>Tianxin Gege</i>.",
+    "episodes": 52,
+    "duration": 22,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2012,
+      "month": 9,
+      "day": 27
+    },
+    "endDate": {
+      "year": 2012,
+      "month": 11,
+      "day": 12
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121237-CkkjSc3ZwSoq.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121237-CkkjSc3ZwSoq.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx121237-CkkjSc3ZwSoq.jpg",
+      "color": "#f1ae50"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [
+      "Ori-Princess 2"
+    ],
+    "averageScore": null,
+    "meanScore": 62,
+    "popularity": 122,
+    "trending": 0,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "http://www.oriprincess.com/en/qq.asp",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://v.qq.com/detail/f/fittap2v6pqy8f3.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 121235,
+            "title": {
+              "romaji": "Tianxin Gege",
+              "english": "Ori-Princess"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx121235-8Fgwa7hTdrlv.png"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 121293,
+            "title": {
+              "romaji": "Tianxin Gege 3",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx121293-5hXWGZonOAZo.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 343,
+            "name": "Puzzle Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1788023089,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 775479,
+    "idShikimori": 33753
   }
 }
