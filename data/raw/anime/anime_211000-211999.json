@@ -39,7 +39,7 @@
     "averageScore": null,
     "meanScore": 75,
     "popularity": 1358,
-    "trending": 0,
+    "trending": 1,
     "favourites": 16,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -100,7 +100,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787994336,
+    "updatedAt": 1788012241,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -153,7 +153,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 27819,
-    "trending": 1,
+    "trending": 4,
     "favourites": 529,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -242,6 +242,12 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 93,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 321,
         "name": "Urban Fantasy",
         "rank": 92,
@@ -254,40 +260,34 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 85,
-        "name": "Tragedy",
-        "rank": 92,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 82,
         "name": "Male Protagonist",
-        "rank": 86,
+        "rank": 88,
         "isMediaSpoiler": false
       },
       {
         "id": 1589,
         "name": "Criminal Organization",
-        "rank": 82,
+        "rank": 84,
         "isMediaSpoiler": false
+      },
+      {
+        "id": 111,
+        "name": "War",
+        "rank": 80,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 456,
+        "name": "Conspiracy",
+        "rank": 77,
+        "isMediaSpoiler": true
       },
       {
         "id": 199,
         "name": "Yakuza",
         "rank": 76,
         "isMediaSpoiler": false
-      },
-      {
-        "id": 456,
-        "name": "Conspiracy",
-        "rank": 76,
-        "isMediaSpoiler": true
-      },
-      {
-        "id": 111,
-        "name": "War",
-        "rank": 76,
-        "isMediaSpoiler": true
       },
       {
         "id": 29,
@@ -456,7 +456,7 @@
         }
       ]
     },
-    "updatedAt": 1787994313,
+    "updatedAt": 1788012210,
     "idTmdb": 320905,
     "idImdb": "tt42171190",
     "idTvdb": 457476,
@@ -509,7 +509,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 806,
-    "trending": 0,
+    "trending": 1,
     "favourites": 8,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -657,7 +657,7 @@
         }
       ]
     },
-    "updatedAt": 1787994347,
+    "updatedAt": 1788012226,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -712,7 +712,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 8675,
-    "trending": 1,
+    "trending": 0,
     "favourites": 113,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -800,7 +800,7 @@
         }
       ]
     },
-    "updatedAt": 1787994313,
+    "updatedAt": 1788012323,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -854,7 +854,7 @@
     "averageScore": 76,
     "meanScore": 76,
     "popularity": 16610,
-    "trending": 4,
+    "trending": 3,
     "favourites": 233,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1167,7 +1167,7 @@
         }
       ]
     },
-    "updatedAt": 1787994298,
+    "updatedAt": 1788008561,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1247,7 +1247,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788015600,
-      "timeUntilAiring": 19732,
+      "timeUntilAiring": 616,
       "episode": 20
     },
     "relations": {
@@ -1347,7 +1347,7 @@
         }
       ]
     },
-    "updatedAt": 1787994338,
+    "updatedAt": 1788012276,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1788,7 +1788,7 @@
         }
       ]
     },
-    "updatedAt": 1787994331,
+    "updatedAt": 1788012273,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2046,7 +2046,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 2936,
-    "trending": 2,
+    "trending": 0,
     "favourites": 25,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2283,7 +2283,7 @@
         }
       ]
     },
-    "updatedAt": 1787994293,
+    "updatedAt": 1788012323,
     "idTmdb": 321518,
     "idImdb": null,
     "idTvdb": null,
@@ -2337,7 +2337,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 5729,
-    "trending": 0,
+    "trending": 1,
     "favourites": 88,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2527,7 +2527,7 @@
         }
       ]
     },
-    "updatedAt": 1787994298,
+    "updatedAt": 1788012284,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2579,7 +2579,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 5989,
-    "trending": 0,
+    "trending": 1,
     "favourites": 53,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2769,7 +2769,7 @@
         }
       ]
     },
-    "updatedAt": 1787994298,
+    "updatedAt": 1788012241,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3013,7 +3013,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 2737,
-    "trending": 0,
+    "trending": 3,
     "favourites": 34,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3172,7 +3172,7 @@
         }
       ]
     },
-    "updatedAt": 1787994331,
+    "updatedAt": 1788012203,
     "idTmdb": 321505,
     "idImdb": null,
     "idTvdb": null,
@@ -3438,7 +3438,7 @@
         }
       ]
     },
-    "updatedAt": 1787994305,
+    "updatedAt": 1788008586,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3747,7 +3747,7 @@
     "averageScore": null,
     "meanScore": 57,
     "popularity": 781,
-    "trending": 0,
+    "trending": 1,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3774,7 +3774,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787994335,
+    "updatedAt": 1788012306,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -5693,7 +5693,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787648693,
+    "updatedAt": 1788008586,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
