@@ -47,7 +47,7 @@
     "averageScore": 61,
     "meanScore": 61,
     "popularity": 127643,
-    "trending": 6,
+    "trending": 1,
     "favourites": 1931,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -551,7 +551,7 @@
         }
       ]
     },
-    "updatedAt": 1788109442,
+    "updatedAt": 1788120110,
     "idTmdb": 103157,
     "idImdb": "tt12728856",
     "idTvdb": 388006,
@@ -1051,7 +1051,7 @@
     "averageScore": 78,
     "meanScore": 79,
     "popularity": 14613,
-    "trending": 9,
+    "trending": 6,
     "favourites": 595,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1067,7 +1067,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788685200,
-      "timeUntilAiring": 574691,
+      "timeUntilAiring": 563128,
       "episode": 382
     },
     "relations": {
@@ -3959,7 +3959,7 @@
         }
       ]
     },
-    "updatedAt": 1788109400,
+    "updatedAt": 1788120104,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4013,7 +4013,7 @@
     "averageScore": 55,
     "meanScore": 55,
     "popularity": 77233,
-    "trending": 3,
+    "trending": 2,
     "favourites": 1049,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -4594,7 +4594,7 @@
         }
       ]
     },
-    "updatedAt": 1788109530,
+    "updatedAt": 1788120175,
     "idTmdb": 103409,
     "idImdb": "tt13411814",
     "idTvdb": 388644,
@@ -7273,7 +7273,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 35977,
-    "trending": 1,
+    "trending": 2,
     "favourites": 568,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8006,7 +8006,7 @@
         }
       ]
     },
-    "updatedAt": 1788109542,
+    "updatedAt": 1788120203,
     "idTmdb": 103254,
     "idImdb": "tt12287748",
     "idTvdb": 384485,
@@ -8834,7 +8834,7 @@
     "averageScore": 55,
     "meanScore": 55,
     "popularity": 23690,
-    "trending": 0,
+    "trending": 1,
     "favourites": 271,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9327,7 +9327,7 @@
         }
       ]
     },
-    "updatedAt": 1788109611,
+    "updatedAt": 1788120216,
     "idTmdb": 102871,
     "idImdb": "tt12787170",
     "idTvdb": 387510,
@@ -15923,5 +15923,141 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 33986
+  },
+  "118042": {
+    "id": 118042,
+    "idMal": null,
+    "title": {
+      "romaji": "KILLING ME/KILLING YOU PV",
+      "english": null,
+      "native": "KILLING ME KILLING YOU PV"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "PV (Promotional Video) for KILLING ME / KILLING YOU, a manga serialized in Young Dragon Age, created by the manga writer Imomushi Narita.",
+    "episodes": 1,
+    "duration": 2,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2020,
+      "month": 2,
+      "day": 23
+    },
+    "endDate": {
+      "year": 2020,
+      "month": 2,
+      "day": 23
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118042-ia4tkxqr7KGr.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx118042-ia4tkxqr7KGr.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118042-ia4tkxqr7KGr.jpg",
+      "color": "#ffe4bb"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118042-RalksVqecMn2.jpg",
+    "genres": [
+      "Fantasy"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 61,
+    "popularity": 272,
+    "trending": 0,
+    "favourites": 6,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "Dfpdn0pAPAI",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/Dfpdn0pAPAI/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 104690,
+            "title": {
+              "romaji": "KILLING ME / KILLING YOU",
+              "english": "KILLING ME / KILLING YOU"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx104690-Pnqu8nvmMc4D.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 505,
+        "name": "Advertisement",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 168522,
+            "name": {
+              "full": "Meteor",
+              "native": "ミーティア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 104876,
+              "name": {
+                "full": "Hiromi Igarashi",
+                "native": "五十嵐裕美"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 168523,
+            "name": {
+              "full": "Youthanasia",
+              "native": "ユースアネイジア"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 168524,
+              "name": {
+                "full": "Wataru Usami",
+                "native": "うさみ航"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1788120235,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 52824
   }
 }
