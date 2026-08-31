@@ -42,7 +42,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 0,
-    "trending": 21,
+    "trending": 13,
     "favourites": 2,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -113,13 +113,13 @@
       {
         "id": 244,
         "name": "Isekai",
-        "rank": 60,
+        "rank": 73,
         "isMediaSpoiler": false
       },
       {
         "id": 30,
         "name": "Martial Arts",
-        "rank": 20,
+        "rank": 60,
         "isMediaSpoiler": false
       }
     ],
@@ -149,6 +149,235 @@
         }
       ]
     },
-    "updatedAt": 1788138032
+    "updatedAt": 1788159622
+  },
+  "216167": {
+    "id": 216167,
+    "idMal": null,
+    "title": {
+      "romaji": "Pokémon: Wild Card",
+      "english": null,
+      "native": "ポケモン：ワイルドカード"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "NOT_YET_RELEASED",
+    "description": "Pokémon: Wild Card tells the exciting story of a Pokémon TCG player and his partner Mimikyu. When the time comes to put their cards on the table, will they have what it takes to achieve their goals?<br><br>\n(Source: The Pokémon Company)",
+    "episodes": 1,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": 2027,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216167-rqCRXovzDMJO.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216167-rqCRXovzDMJO.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx216167-rqCRXovzDMJO.png",
+      "color": "#d6d61a"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [
+      "Pokéca Eiga",
+      "ポケカ映画"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 0,
+    "trending": 56,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "H6_jMQ6whtQ",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/H6_jMQ6whtQ/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.pokemon.co.jp/ex/wildcard/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://x.com/pokemoncard_mov",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 527,
+            "title": {
+              "romaji": "Pocket Monsters",
+              "english": "Pokémon"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 1997,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b527-t6dBVJ5OVcXK.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 178,
+        "name": "Card Battle",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6222,
+            "name": "CloverWorks"
+          }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 6433,
+            "name": "STORY Inc."
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 174858,
+            "name": {
+              "full": "Mimikkyu",
+              "native": "ミミッキュ"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1788159608
+  },
+  "216171": {
+    "id": 216171,
+    "idMal": null,
+    "title": {
+      "romaji": "Majime na Kimi ni Hamaru Karada THE ANIMATION",
+      "english": null,
+      "native": "真面目なキミにハマるカラダ THE ANIMATION"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "NOT_YET_RELEASED",
+    "description": "After entering college, Azusa Shirakawa was enjoying campus life, marking a fresh start from her high school days, when she had devoted herself entirely to judo. But a casual joke from her childhood friend, Sae, ignited a fire within her. <i>“Having a friends-with-benefits relationship isn't so bad, you know?”</i> She had brushed off those words as a joke, but—her “one-time fling” with Takuma, her serious and sincere childhood friend, awakened a desire within Azusa, and her body found itself unable to resist the pleasure. Contrary to her intentions, she found herself losing control time and time again. <i>“I never thought the day would come when I'd be getting my body in shape not for judo competitions, but for sex...”</i> She, who was supposed to be so strong-willed, finds herself “losing” to a man. He—serious yet lecherous—begins to “corrupt” her.\n<br><br>\n(Source: Pinkpineapple, translated)",
+    "episodes": null,
+    "duration": 30,
+    "season": "FALL",
+    "seasonYear": 2026,
+    "startDate": {
+      "year": 2026,
+      "month": 11,
+      "day": 27
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216171-IhhbG5GAio2C.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216171-IhhbG5GAio2C.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx216171-IhhbG5GAio2C.png",
+      "color": "#281a78"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "synonyms": [
+      "Loosen Up"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 0,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": {
+      "airingAt": 1795705200,
+      "timeUntilAiring": 7542149,
+      "episode": 1
+    },
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 196050,
+            "title": {
+              "romaji": "Majime na Kimi ni Hamaru Karada",
+              "english": "Loosen Up"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx196050-vuFLAmHBh8b9.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 45,
+            "name": "Pink Pineapple"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6852,
+            "name": "Studio 1st"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1788156023
   }
 }
