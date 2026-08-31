@@ -42,7 +42,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 522,
-    "trending": 20,
+    "trending": 9,
     "favourites": 2,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -149,7 +149,7 @@
         }
       ]
     },
-    "updatedAt": 1788188536
+    "updatedAt": 1788210032
   },
   "216167": {
     "id": 216167,
@@ -192,7 +192,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 407,
-    "trending": 56,
+    "trending": 38,
     "favourites": 0,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -278,7 +278,7 @@
         }
       ]
     },
-    "updatedAt": 1788188542
+    "updatedAt": 1788210039
   },
   "216171": {
     "id": 216171,
@@ -321,8 +321,8 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 0,
-    "trending": 1,
+    "popularity": 15,
+    "trending": 2,
     "favourites": 0,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -332,7 +332,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1795705200,
-      "timeUntilAiring": 7542149,
+      "timeUntilAiring": 7494127,
       "episode": 1
     },
     "relations": {
@@ -378,7 +378,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788156023
+    "updatedAt": 1788210010
   },
   "216175": {
     "id": 216175,
@@ -513,7 +513,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 230,
-    "trending": 36,
+    "trending": 16,
     "favourites": 0,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -618,6 +618,118 @@
         }
       ]
     },
-    "updatedAt": 1788188532
+    "updatedAt": 1788210047
+  },
+  "216176": {
+    "id": 216176,
+    "idMal": 64451,
+    "title": {
+      "romaji": "Lian Qi Shi Wan Nian Special: Yangji Tianxia",
+      "english": "One Hundred Thousand Years of Qi Training: Yang Ascendant",
+      "native": "炼气十万年特别篇 阳极天下"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "At the dawn of creation, chaos invades the boundless world, quietly seeding a fragment of its power into every being born within it, waiting to harvest that power once it ripens. To stand against the chaos, Jue Tiantong takes on his first disciple, Xu Yin, a young man he pins his greatest hopes on. But Xu Yin betrays him. Millions of years later, Xu Yang leads the Tianlan Sect. When the Five Thrones revive Xu Yin from his long dormancy, he returns wielding a chaos power far more devastating than before. The war between yin and yang begins.<br><br>(Source: WeTV)",
+    "episodes": 1,
+    "duration": 65,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 18
+    },
+    "endDate": {
+      "year": 2026,
+      "month": 7,
+      "day": 18
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216176-C1mL50UgW6fU.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216176-C1mL50UgW6fU.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx216176-C1mL50UgW6fU.jpg",
+      "color": "#e41a1a"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 0,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://wetv.vip/en/album/zdykkr1fhn0enze",
+        "site": "WeTV",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://v.qq.com/x/cover/mzc002005r21yfu/f4102c88kzn.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 165524,
+            "title": {
+              "romaji": "Lian Qi Shiwan Nian",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b165524-XMXXm35IgGAB.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 7003,
+            "name": "Tencent"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 306491,
+            "name": {
+              "full": "Yang Xu",
+              "native": "徐阳"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1788210129
   }
 }
