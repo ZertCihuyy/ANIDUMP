@@ -46,7 +46,7 @@
     "meanScore": 74,
     "popularity": 28765,
     "trending": 1,
-    "favourites": 677,
+    "favourites": 675,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "OTHER",
@@ -417,7 +417,7 @@
         }
       ]
     },
-    "updatedAt": 1788109453,
+    "updatedAt": 1788138126,
     "idTmdb": 107255,
     "idImdb": "tt27442011",
     "idTvdb": 423688,
@@ -1392,7 +1392,7 @@
         }
       ]
     },
-    "updatedAt": 1788089142,
+    "updatedAt": 1788138136,
     "idTmdb": 106402,
     "idImdb": "tt12809744",
     "idTvdb": 380207,
@@ -2504,7 +2504,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 61811,
-    "trending": 1,
+    "trending": 2,
     "favourites": 1188,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2981,7 +2981,7 @@
         }
       ]
     },
-    "updatedAt": 1788109446,
+    "updatedAt": 1788138060,
     "idTmdb": 107001,
     "idImdb": "tt13409388",
     "idTvdb": 401856,
@@ -4962,7 +4962,7 @@
     "meanScore": 59,
     "popularity": 3625,
     "trending": 0,
-    "favourites": 175,
+    "favourites": 176,
     "isAdult": true,
     "countryOfOrigin": "JP",
     "source": "OTHER",
@@ -5143,7 +5143,7 @@
         }
       ]
     },
-    "updatedAt": 1788089172,
+    "updatedAt": 1788134722,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6344,7 +6344,7 @@
     "meanScore": 69,
     "popularity": 3050,
     "trending": 0,
-    "favourites": 142,
+    "favourites": 143,
     "isAdult": true,
     "countryOfOrigin": "JP",
     "source": "VISUAL_NOVEL",
@@ -6520,7 +6520,7 @@
         }
       ]
     },
-    "updatedAt": 1788089173,
+    "updatedAt": 1788134722,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -11013,7 +11013,7 @@
     "meanScore": 82,
     "popularity": 2615,
     "trending": 0,
-    "favourites": 131,
+    "favourites": 132,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "OTHER",
@@ -11146,7 +11146,7 @@
         }
       ]
     },
-    "updatedAt": 1788091302,
+    "updatedAt": 1788134723,
     "idTmdb": 79481,
     "idImdb": "tt12409194",
     "idTvdb": 337284,
@@ -18243,5 +18243,123 @@
     "traktSlug": null,
     "idSimkl": 1573557,
     "idShikimori": 50054
+  },
+  "122572": {
+    "id": 122572,
+    "idMal": null,
+    "title": {
+      "romaji": "Buou Jingling",
+      "english": null,
+      "native": "布偶精灵"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "NOT_YET_RELEASED",
+    "description": null,
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122572-2q6g9HTomvR9.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122572-2q6g9HTomvR9.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx122572-2q6g9HTomvR9.jpg",
+      "color": "#e49350"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mahou Shoujo"
+    ],
+    "synonyms": [
+      "Spilia",
+      "ぬいぐるみの妖精 スピりあ！",
+      "Nuifurumi no Yousei Spilia!"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 591,
+    "trending": 1,
+    "favourites": 6,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "5v_P3gzgGPo",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/5v_P3gzgGPo/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://v.qq.com/detail/j/jvo7ge5bubvvi3a.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      },
+      {
+        "url": "http://spiliayousei.jp/",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 73,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6382,
+            "name": "Tencent Penguin Pictures"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6348,
+            "name": "iDRAGONS Creative Studio"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 37,
+            "name": "Studio DEEN"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1788138103,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }
