@@ -680,7 +680,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 89801,
-    "trending": 1,
+    "trending": 2,
     "favourites": 1595,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1150,7 +1150,7 @@
         }
       ]
     },
-    "updatedAt": 1788271432,
+    "updatedAt": 1788294399,
     "idTmdb": 104711,
     "idImdb": "tt13167196",
     "idTvdb": 388645,
@@ -1733,7 +1733,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 305624,
-    "trending": 9,
+    "trending": 20,
     "favourites": 11192,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2430,7 +2430,7 @@
         }
       ]
     },
-    "updatedAt": 1788274859,
+    "updatedAt": 1788296445,
     "idTmdb": 65942,
     "idImdb": "tt5607616",
     "idTvdb": 305089,
@@ -3355,7 +3355,7 @@
     "averageScore": 64,
     "meanScore": 64,
     "popularity": 78535,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1057,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3862,7 +3862,7 @@
         }
       ]
     },
-    "updatedAt": 1788285842,
+    "updatedAt": 1788296533,
     "idTmdb": 104699,
     "idImdb": "tt12502782",
     "idTvdb": 383837,
@@ -9152,8 +9152,8 @@
     ],
     "averageScore": 71,
     "meanScore": 72,
-    "popularity": 4873,
-    "trending": 0,
+    "popularity": 4874,
+    "trending": 1,
     "favourites": 59,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9536,7 +9536,7 @@
         }
       ]
     },
-    "updatedAt": 1788221280,
+    "updatedAt": 1788294404,
     "idTmdb": 104518,
     "idImdb": "tt12471116",
     "idTvdb": 383488,
@@ -19365,5 +19365,118 @@
     "traktSlug": null,
     "idSimkl": 1395589,
     "idShikimori": 42082
+  },
+  "119689": {
+    "id": 119689,
+    "idMal": null,
+    "title": {
+      "romaji": "Satanika",
+      "english": null,
+      "native": "サタニカ"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "Based on an original character created by Danzig lead singer Glenn Danzig for his comic company Verotik Press.\n\nThe three-minute pilot was created by Madhouse for a planned Satanika OVA series. As Verotik Press encountered financial difficulties and closed, a full-length anime was never produced.",
+    "episodes": 1,
+    "duration": 3,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 1998,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": 1998,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119689-yYuhNawy7V0e.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119689-yYuhNawy7V0e.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b119689-yYuhNawy7V0e.jpg",
+      "color": "#d6351a"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Hentai",
+      "Horror"
+    ],
+    "synonyms": [],
+    "averageScore": 48,
+    "meanScore": 53,
+    "popularity": 252,
+    "trending": 1,
+    "favourites": 7,
+    "isAdult": true,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "trailer": {
+      "id": "9XXbF-riOs8",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/9XXbF-riOs8/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 15,
+        "name": "Demons",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 94,
+        "name": "Gore",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 830,
+        "name": "Group Sex",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 11,
+            "name": "MADHOUSE"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1788296515
   }
 }

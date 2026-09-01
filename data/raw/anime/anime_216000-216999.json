@@ -42,7 +42,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 738,
-    "trending": 6,
+    "trending": 5,
     "favourites": 7,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -149,7 +149,7 @@
         }
       ]
     },
-    "updatedAt": 1788274851
+    "updatedAt": 1788296410
   },
   "216167": {
     "id": 216167,
@@ -192,7 +192,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 1438,
-    "trending": 13,
+    "trending": 12,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -278,7 +278,7 @@
         }
       ]
     },
-    "updatedAt": 1788274827
+    "updatedAt": 1788294299
   },
   "216171": {
     "id": 216171,
@@ -332,7 +332,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1795705200,
-      "timeUntilAiring": 7445581,
+      "timeUntilAiring": 7406765,
       "episode": 1
     },
     "relations": {
@@ -378,7 +378,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788253213
+    "updatedAt": 1788296546
   },
   "216175": {
     "id": 216175,
@@ -513,7 +513,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 853,
-    "trending": 3,
+    "trending": 9,
     "favourites": 4,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -618,7 +618,7 @@
         }
       ]
     },
-    "updatedAt": 1788274898
+    "updatedAt": 1788296446
   },
   "216176": {
     "id": 216176,
@@ -731,5 +731,164 @@
       ]
     },
     "updatedAt": 1788256878
+  },
+  "216272": {
+    "id": 216272,
+    "idMal": 64898,
+    "title": {
+      "romaji": "Tefuda ga Oome no Victoria 2",
+      "english": null,
+      "native": "手札が多めのビクトリア第２期"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "Second season of <i>Tefuda ga Oome no Victoria</i>.",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b216272-hop0wqDKXyew.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b216272-hop0wqDKXyew.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b216272-hop0wqDKXyew.png",
+      "color": "#35a1ff"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "synonyms": [
+      "Victoria of Many Faces 2"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 0,
+    "trending": 71,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "LIGHT_NOVEL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://victoria-anime.com/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://x.com/tefudavictoria",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 198709,
+            "title": {
+              "romaji": "Tefuda ga Oome no Victoria",
+              "english": "Victoria of Many Faces"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198709-3PFLvU6eqPvf.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 163273,
+            "title": {
+              "romaji": "Tefuda ga Oome no Victoria",
+              "english": "Victoria of Many Faces"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx163273-PUzYN3exc9ew.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1277,
+        "name": "Found Family",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 27,
+        "name": "Josei",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 374839,
+            "name": {
+              "full": "Victoria Sellers",
+              "native": "ビクトリア・セラーズ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 374840,
+            "name": {
+              "full": "Jeffrey Asher",
+              "native": "ジェフリー・アッシャー"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 374841,
+            "name": {
+              "full": "Nonna",
+              "native": "ノンナ"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1788296408
   }
 }
