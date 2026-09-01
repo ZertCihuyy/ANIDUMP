@@ -634,7 +634,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 37958,
-    "trending": 0,
+    "trending": 3,
     "favourites": 458,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1008,7 +1008,7 @@
         }
       ]
     },
-    "updatedAt": 1788217413,
+    "updatedAt": 1788238892,
     "idTmdb": 286984,
     "idImdb": "tt36631539",
     "idTvdb": 461708,
@@ -1060,7 +1060,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 7899,
-    "trending": 0,
+    "trending": 2,
     "favourites": 93,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1237,7 +1237,7 @@
         }
       ]
     },
-    "updatedAt": 1788221392,
+    "updatedAt": 1788238891,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1291,7 +1291,7 @@
     "averageScore": 77,
     "meanScore": 78,
     "popularity": 37159,
-    "trending": 122,
+    "trending": 79,
     "favourites": 698,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1341,7 +1341,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788705960,
-      "timeUntilAiring": 481983,
+      "timeUntilAiring": 463818,
       "episode": 9
     },
     "relations": {
@@ -1701,7 +1701,7 @@
         }
       ]
     },
-    "updatedAt": 1788221392,
+    "updatedAt": 1788238810,
     "idTmdb": 286345,
     "idImdb": "tt41293157",
     "idTvdb": 461544,
@@ -1757,7 +1757,7 @@
     "averageScore": 69,
     "meanScore": 70,
     "popularity": 14554,
-    "trending": 16,
+    "trending": 8,
     "favourites": 274,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1792,7 +1792,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788652800,
-      "timeUntilAiring": 428823,
+      "timeUntilAiring": 410689,
       "episode": 46
     },
     "relations": {
@@ -2222,7 +2222,7 @@
         }
       ]
     },
-    "updatedAt": 1788221392,
+    "updatedAt": 1788238822,
     "idTmdb": 286791,
     "idImdb": "tt37499375",
     "idTvdb": 461683,
@@ -2321,7 +2321,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788532200,
-      "timeUntilAiring": 321137,
+      "timeUntilAiring": 290102,
       "episode": 9
     },
     "relations": {
@@ -2506,20 +2506,20 @@
           ]
         },
         {
-          "role": "SUPPORTING",
+          "role": "MAIN",
           "node": {
-            "id": 339248,
+            "id": 339252,
             "name": {
-              "full": "Sachi Akafuku",
-              "native": "赤福幸"
+              "full": "Rei Teshima",
+              "native": "手島零"
             }
           },
           "voiceActors": [
             {
-              "id": 294643,
+              "id": 95869,
               "name": {
-                "full": "Kanon Fujimura",
-                "native": "藤村花音"
+                "full": "Saori Hayami",
+                "native": "早見沙織"
               }
             }
           ]
@@ -2546,6 +2546,25 @@
         {
           "role": "SUPPORTING",
           "node": {
+            "id": 339248,
+            "name": {
+              "full": "Sachi Akafuku",
+              "native": "赤福幸"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 294643,
+              "name": {
+                "full": "Kanon Fujimura",
+                "native": "藤村花音"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
             "id": 339251,
             "name": {
               "full": "Hikaru Sekiryuu",
@@ -2558,44 +2577,6 @@
               "name": {
                 "full": "Inori Minase",
                 "native": "水瀬いのり"
-              }
-            }
-          ]
-        },
-        {
-          "role": "SUPPORTING",
-          "node": {
-            "id": 339252,
-            "name": {
-              "full": "Rei Teshima",
-              "native": "手島零"
-            }
-          },
-          "voiceActors": [
-            {
-              "id": 95869,
-              "name": {
-                "full": "Saori Hayami",
-                "native": "早見沙織"
-              }
-            }
-          ]
-        },
-        {
-          "role": "SUPPORTING",
-          "node": {
-            "id": 394964,
-            "name": {
-              "full": "Hebichika-sensei",
-              "native": "へびちか先生"
-            }
-          },
-          "voiceActors": [
-            {
-              "id": 95195,
-              "name": {
-                "full": "Kikuko Inoue",
-                "native": "井上喜久子"
               }
             }
           ]
@@ -2660,6 +2641,25 @@
         {
           "role": "SUPPORTING",
           "node": {
+            "id": 394964,
+            "name": {
+              "full": "Hebichika-sensei",
+              "native": "へびちか先生"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95195,
+              "name": {
+                "full": "Kikuko Inoue",
+                "native": "井上喜久子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
             "id": 405518,
             "name": {
               "full": "Loups Garous",
@@ -2678,7 +2678,7 @@
         }
       ]
     },
-    "updatedAt": 1788210014,
+    "updatedAt": 1788238828,
     "idTmdb": 287028,
     "idImdb": "tt36290385",
     "idTvdb": 461714,
@@ -2729,7 +2729,7 @@
     "averageScore": 73,
     "meanScore": 77,
     "popularity": 3677,
-    "trending": 0,
+    "trending": 1,
     "favourites": 63,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3119,7 +3119,7 @@
         }
       ]
     },
-    "updatedAt": 1788221392,
+    "updatedAt": 1788238844,
     "idTmdb": 1591447,
     "idImdb": "tt39195826",
     "idTvdb": null,
@@ -6058,7 +6058,7 @@
     ],
     "averageScore": 53,
     "meanScore": 63,
-    "popularity": 586,
+    "popularity": 588,
     "trending": 1,
     "favourites": 11,
     "isAdult": false,
@@ -6094,7 +6094,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788346800,
-      "timeUntilAiring": 237074,
+      "timeUntilAiring": 104880,
       "episode": 47
     },
     "relations": {
@@ -6273,7 +6273,7 @@
         }
       ]
     },
-    "updatedAt": 1788109609,
+    "updatedAt": 1788238898,
     "idTmdb": 297743,
     "idImdb": null,
     "idTvdb": 459743,
@@ -9593,7 +9593,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1790737200,
-      "timeUntilAiring": 2526342,
+      "timeUntilAiring": 2494964,
       "episode": 18
     },
     "relations": {
@@ -9861,7 +9861,7 @@
         }
       ]
     },
-    "updatedAt": 1788210148,
+    "updatedAt": 1788235276,
     "idTmdb": 289728,
     "idImdb": "tt37509404",
     "idTvdb": null,
