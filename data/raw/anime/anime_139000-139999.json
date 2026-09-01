@@ -43,7 +43,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 54568,
-    "trending": 1,
+    "trending": 0,
     "favourites": 955,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -332,7 +332,7 @@
         }
       ]
     },
-    "updatedAt": 1788185526,
+    "updatedAt": 1788217413,
     "idTmdb": 874745,
     "idImdb": "tt15450826",
     "idTvdb": null,
@@ -386,7 +386,7 @@
     "meanScore": 74,
     "popularity": 54225,
     "trending": 1,
-    "favourites": 1341,
+    "favourites": 1343,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -892,7 +892,7 @@
         }
       ]
     },
-    "updatedAt": 1788210158,
+    "updatedAt": 1788221320,
     "idTmdb": 135335,
     "idImdb": "tt15538376",
     "idTvdb": 415138,
@@ -950,8 +950,8 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 73241,
-    "trending": 2,
-    "favourites": 2494,
+    "trending": 1,
+    "favourites": 2496,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -1502,7 +1502,7 @@
         }
       ]
     },
-    "updatedAt": 1788210140,
+    "updatedAt": 1788221318,
     "idTmdb": 196400,
     "idImdb": "tt15433166",
     "idTvdb": 418364,
@@ -1556,8 +1556,8 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 28363,
-    "trending": 1,
-    "favourites": 344,
+    "trending": 0,
+    "favourites": 345,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -1964,7 +1964,7 @@
         }
       ]
     },
-    "updatedAt": 1788188726,
+    "updatedAt": 1788221318,
     "idTmdb": 133938,
     "idImdb": "tt19406880",
     "idTvdb": 410147,
@@ -2017,8 +2017,8 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 73415,
-    "trending": 6,
-    "favourites": 1770,
+    "trending": 3,
+    "favourites": 1771,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -2503,7 +2503,7 @@
         }
       ]
     },
-    "updatedAt": 1788210062,
+    "updatedAt": 1788221318,
     "idTmdb": 91801,
     "idImdb": "tt11034066",
     "idTvdb": 369144,
@@ -2560,8 +2560,8 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 113605,
-    "trending": 7,
-    "favourites": 3049,
+    "trending": 3,
+    "favourites": 3053,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -3015,7 +3015,7 @@
         }
       ]
     },
-    "updatedAt": 1788210056,
+    "updatedAt": 1788221319,
     "idTmdb": 134667,
     "idImdb": "tt15483602",
     "idTvdb": 410378,
@@ -3071,8 +3071,8 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 89681,
-    "trending": 5,
-    "favourites": 1517,
+    "trending": 4,
+    "favourites": 1521,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -3508,7 +3508,7 @@
         }
       ]
     },
-    "updatedAt": 1788210070,
+    "updatedAt": 1788221319,
     "idTmdb": 102088,
     "idImdb": "tt13399402",
     "idTvdb": 389422,
@@ -3918,8 +3918,8 @@
     "averageScore": 71,
     "meanScore": 71,
     "popularity": 71514,
-    "trending": 5,
-    "favourites": 1466,
+    "trending": 3,
+    "favourites": 1468,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -4466,7 +4466,7 @@
         }
       ]
     },
-    "updatedAt": 1788210037,
+    "updatedAt": 1788221319,
     "idTmdb": 135334,
     "idImdb": "tt15533960",
     "idTvdb": 411821,
@@ -4759,7 +4759,7 @@
     "meanScore": 82,
     "popularity": 268367,
     "trending": 14,
-    "favourites": 6667,
+    "favourites": 6676,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -5274,7 +5274,7 @@
         }
       ]
     },
-    "updatedAt": 1788210013,
+    "updatedAt": 1788221319,
     "idTmdb": 65930,
     "idImdb": "tt5626028",
     "idTvdb": 305074,
@@ -5330,8 +5330,8 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 119104,
-    "trending": 16,
-    "favourites": 3451,
+    "trending": 7,
+    "favourites": 3453,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -5569,6 +5569,12 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 155,
+        "name": "Rape",
+        "rank": 28,
+        "isMediaSpoiler": true
+      },
+      {
         "id": 639,
         "name": "Body Horror",
         "rank": 20,
@@ -5579,12 +5585,6 @@
         "name": "Achronological Order",
         "rank": 10,
         "isMediaSpoiler": false
-      },
-      {
-        "id": 155,
-        "name": "Rape",
-        "rank": 10,
-        "isMediaSpoiler": true
       }
     ],
     "studios": {
@@ -5876,7 +5876,7 @@
         }
       ]
     },
-    "updatedAt": 1788210056,
+    "updatedAt": 1788221319,
     "idTmdb": 111819,
     "idImdb": "tt13311344",
     "idTvdb": 390832,
@@ -5935,7 +5935,7 @@
     "meanScore": 81,
     "popularity": 65457,
     "trending": 0,
-    "favourites": 2193,
+    "favourites": 2198,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -6288,7 +6288,7 @@
         }
       ]
     },
-    "updatedAt": 1788185601,
+    "updatedAt": 1788221319,
     "idTmdb": 134581,
     "idImdb": "tt15490038",
     "idTvdb": 410466,
@@ -6344,8 +6344,8 @@
     "averageScore": 75,
     "meanScore": 75,
     "popularity": 57806,
-    "trending": 2,
-    "favourites": 1343,
+    "trending": 4,
+    "favourites": 1347,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -6856,7 +6856,7 @@
         }
       ]
     },
-    "updatedAt": 1788210063,
+    "updatedAt": 1788221318,
     "idTmdb": 248947,
     "idImdb": "tt15414478",
     "idTvdb": 410031,
@@ -6920,8 +6920,8 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 35934,
-    "trending": 1,
-    "favourites": 597,
+    "trending": 0,
+    "favourites": 602,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -7275,7 +7275,7 @@
         }
       ]
     },
-    "updatedAt": 1788188650,
+    "updatedAt": 1788221319,
     "idTmdb": 877957,
     "idImdb": "tt15494038",
     "idTvdb": null,
@@ -8360,8 +8360,8 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 43592,
-    "trending": 2,
-    "favourites": 715,
+    "trending": 3,
+    "favourites": 716,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -8857,7 +8857,7 @@
         }
       ]
     },
-    "updatedAt": 1788210137,
+    "updatedAt": 1788221320,
     "idTmdb": 101972,
     "idImdb": "tt12331304",
     "idTvdb": 387027,
@@ -8913,8 +8913,8 @@
     "averageScore": 79,
     "meanScore": 79,
     "popularity": 45363,
-    "trending": 2,
-    "favourites": 913,
+    "trending": 0,
+    "favourites": 915,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -9353,7 +9353,7 @@
         }
       ]
     },
-    "updatedAt": 1788188710,
+    "updatedAt": 1788221318,
     "idTmdb": 111576,
     "idImdb": "tt13362302",
     "idTvdb": 396876,
@@ -10339,7 +10339,7 @@
         }
       ]
     },
-    "updatedAt": 1788210165,
+    "updatedAt": 1788217386,
     "idTmdb": 134742,
     "idImdb": "tt28254942",
     "idTvdb": 410425,
@@ -10391,8 +10391,8 @@
     "averageScore": 64,
     "meanScore": 64,
     "popularity": 23023,
-    "trending": 1,
-    "favourites": 259,
+    "trending": 0,
+    "favourites": 260,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "OTHER",
@@ -10856,7 +10856,7 @@
         }
       ]
     },
-    "updatedAt": 1788188745,
+    "updatedAt": 1788221319,
     "idTmdb": 68455,
     "idImdb": "tt6153026",
     "idTvdb": 318271,
@@ -12215,8 +12215,8 @@
     "averageScore": 77,
     "meanScore": 77,
     "popularity": 104955,
-    "trending": 3,
-    "favourites": 2011,
+    "trending": 4,
+    "favourites": 2013,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -12798,7 +12798,7 @@
         }
       ]
     },
-    "updatedAt": 1788210078,
+    "updatedAt": 1788221319,
     "idTmdb": 876792,
     "idImdb": "tt15467380",
     "idTvdb": null,
@@ -12851,7 +12851,7 @@
     "meanScore": 79,
     "popularity": 10385,
     "trending": 1,
-    "favourites": 195,
+    "favourites": 196,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -13121,7 +13121,7 @@
         }
       ]
     },
-    "updatedAt": 1788210156,
+    "updatedAt": 1788221319,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -14008,7 +14008,7 @@
         }
       ]
     },
-    "updatedAt": 1788188709,
+    "updatedAt": 1788217375,
     "idTmdb": 87978,
     "idImdb": "tt15856874",
     "idTvdb": 358828,
@@ -16004,8 +16004,8 @@
     ],
     "averageScore": 72,
     "meanScore": 73,
-    "popularity": 21378,
-    "trending": 0,
+    "popularity": 21384,
+    "trending": 1,
     "favourites": 203,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -16427,7 +16427,7 @@
         }
       ]
     },
-    "updatedAt": 1788120235,
+    "updatedAt": 1788217380,
     "idTmdb": 997086,
     "idImdb": "tt15447084",
     "idTvdb": null,
@@ -17491,9 +17491,9 @@
     ],
     "averageScore": 66,
     "meanScore": 67,
-    "popularity": 3855,
+    "popularity": 3854,
     "trending": 0,
-    "favourites": 64,
+    "favourites": 65,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "VIDEO_GAME",
@@ -17899,7 +17899,7 @@
         }
       ]
     },
-    "updatedAt": 1788087048,
+    "updatedAt": 1788221319,
     "idTmdb": 135149,
     "idImdb": "tt17066860",
     "idTvdb": 415656,
