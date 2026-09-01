@@ -2848,7 +2848,7 @@
     "averageScore": 69,
     "meanScore": 69,
     "popularity": 25807,
-    "trending": 0,
+    "trending": 1,
     "favourites": 377,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3252,7 +3252,7 @@
         }
       ]
     },
-    "updatedAt": 1788274927,
+    "updatedAt": 1788285788,
     "idTmdb": 255064,
     "idImdb": "tt38980285",
     "idTvdb": 450282,
@@ -13602,7 +13602,7 @@
     "averageScore": 52,
     "meanScore": 52,
     "popularity": 24597,
-    "trending": 0,
+    "trending": 1,
     "favourites": 323,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -13911,7 +13911,7 @@
         }
       ]
     },
-    "updatedAt": 1788274927,
+    "updatedAt": 1788285814,
     "idTmdb": 254174,
     "idImdb": "tt36270030",
     "idTvdb": 449914,
@@ -18082,8 +18082,8 @@
     ],
     "averageScore": 53,
     "meanScore": 61,
-    "popularity": 445,
-    "trending": 1,
+    "popularity": 447,
+    "trending": 0,
     "favourites": 11,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -18192,7 +18192,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788138116,
+    "updatedAt": 1788285842,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -27254,8 +27254,8 @@
     "synonyms": [],
     "averageScore": 56,
     "meanScore": 61,
-    "popularity": 326,
-    "trending": 1,
+    "popularity": 327,
+    "trending": 0,
     "favourites": 3,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -27424,7 +27424,7 @@
         }
       ]
     },
-    "updatedAt": 1788069666,
+    "updatedAt": 1788285842,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -32499,5 +32499,91 @@
     "traktSlug": null,
     "idSimkl": 1571995,
     "idShikimori": 24573
+  },
+  "177463": {
+    "id": 177463,
+    "idMal": null,
+    "title": {
+      "romaji": "You Ming Zhi",
+      "english": null,
+      "native": "幽明志"
+    },
+    "type": "ANIME",
+    "format": null,
+    "status": "NOT_YET_RELEASED",
+    "description": "Adapted from Chinese folk legend \"Zhou Chu & The Three Scourges\"\n",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177463-8FordvNAbHSk.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx177463-8FordvNAbHSk.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177463-8FordvNAbHSk.jpg",
+      "color": "#e4a150"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 82,
+    "trending": 0,
+    "favourites": 2,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": {
+      "id": "FkR_hay9cG0",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/FkR_hay9cG0/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://twitter.com/youmingzhi15590",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.youtube.com/@Youmingzhi11/videos",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://weibo.com/u/7831695698?layerid=4913226736995395",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1788285842,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }

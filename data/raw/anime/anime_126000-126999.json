@@ -211,7 +211,7 @@
     "averageScore": 62,
     "meanScore": 62,
     "popularity": 83224,
-    "trending": 0,
+    "trending": 1,
     "favourites": 1177,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -678,7 +678,7 @@
         }
       ]
     },
-    "updatedAt": 1788274927,
+    "updatedAt": 1788285826,
     "idTmdb": 114198,
     "idImdb": "tt13593022",
     "idTvdb": 395156,
@@ -1818,7 +1818,7 @@
     ],
     "averageScore": 74,
     "meanScore": 74,
-    "popularity": 69539,
+    "popularity": 69571,
     "trending": 1,
     "favourites": 1226,
     "isAdult": false,
@@ -2132,7 +2132,7 @@
         }
       ]
     },
-    "updatedAt": 1788238865,
+    "updatedAt": 1788285788,
     "idTmdb": 98123,
     "idImdb": "tt11755260",
     "idTvdb": 376751,
@@ -7850,7 +7850,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 21669,
-    "trending": 1,
+    "trending": 0,
     "favourites": 320,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -7991,7 +7991,7 @@
         }
       ]
     },
-    "updatedAt": 1788274863,
+    "updatedAt": 1788285842,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -27967,5 +27967,219 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 45584
+  },
+  "126439": {
+    "id": 126439,
+    "idMal": 51558,
+    "title": {
+      "romaji": "Shan Hai Juelun",
+      "english": "Fairy Mountain",
+      "native": "山海绝伦"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 17,
+    "duration": 18,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2022,
+      "month": 8,
+      "day": 23
+    },
+    "endDate": {
+      "year": 2022,
+      "month": 12,
+      "day": 6
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126439-nTeadaJACObX.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx126439-nTeadaJACObX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx126439-nTeadaJACObX.jpg",
+      "color": "#e4bb50"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "仙山缭乱之山海绝伦",
+      "Shan Hai Juelun: Xian Shan Liaoluan"
+    ],
+    "averageScore": null,
+    "meanScore": 57,
+    "popularity": 200,
+    "trending": 0,
+    "favourites": 7,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "z8vIJhK0m84",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/z8vIJhK0m84/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.bilibili.com/bangumi/media/md28230747/",
+        "site": "Bilibili",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://weibo.com/u/7333439014",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.bilibili.tv/media/1064017",
+        "site": "Bilibili TV",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6389,
+            "name": "bilibili"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6661,
+            "name": "KIO STUDIO"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 280129,
+            "name": {
+              "full": "Mao Li",
+              "native": "李茂"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 280125,
+            "name": {
+              "full": "Liangshan Gong",
+              "native": "公良潸"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 280134,
+            "name": {
+              "full": "Xian Wei",
+              "native": "韦贤"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 280133,
+            "name": {
+              "full": "Gugu Lihua",
+              "native": "立花咕咕"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 280124,
+            "name": {
+              "full": "Qu Hong",
+              "native": null
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 280126,
+            "name": {
+              "full": "Shitai Hongyin",
+              "native": "虹引师太"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 280127,
+            "name": {
+              "full": "Fantian Yida",
+              "native": "伊达梵天"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 280128,
+            "name": {
+              "full": "Weimen Luyou",
+              "native": "鹿右卫门"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 280130,
+            "name": {
+              "full": "Li Taihou",
+              "native": "李太后"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1788285842,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 1987082,
+    "idShikimori": 51558
   }
 }

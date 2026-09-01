@@ -5948,6 +5948,229 @@
     "idShikimori": 2406
   },
   {
+    "id": 170497,
+    "idMal": null,
+    "title": {
+      "romaji": "Nandemo Bakukai! Koyori-chan",
+      "english": "Solved with a Bang! Koyori-chan",
+      "native": "なんでも爆解！こよりチャン"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "RELEASING",
+    "description": "A series of shorts starring Hakui Koyori that ends with a bang!",
+    "episodes": null,
+    "duration": 1,
+    "season": "SUMMER",
+    "seasonYear": 2023,
+    "startDate": {
+      "year": 2023,
+      "month": 8,
+      "day": 17
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b170497-aIwCSQZJDAMC.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b170497-aIwCSQZJDAMC.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b170497-aIwCSQZJDAMC.png",
+      "color": "#5de4a1"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 64,
+    "popularity": 214,
+    "trending": 0,
+    "favourites": 2,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "q2T_19WuOfQ",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/q2T_19WuOfQ/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLCxKJRIVDrYF788KwW_zGyQFH1IOiOfzt",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 118123,
+            "title": {
+              "romaji": "Holo no Graffiti",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "SPRING",
+            "seasonYear": 2019,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118123-xqn5fYsjKXJU.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 1047,
+        "name": "VTuber",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 254,
+        "name": "Kemonomimi",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 83,
+        "name": "Slapstick",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 282107,
+            "name": {
+              "full": "Koyori Hakui",
+              "native": "博衣こより"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 282108,
+              "name": {
+                "full": "Koyori Hakui",
+                "native": "博衣こより"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 169483,
+            "name": {
+              "full": "Roboco",
+              "native": "ロボ子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 204882,
+              "name": {
+                "full": "Roboco",
+                "native": "ロボ子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 169504,
+            "name": {
+              "full": "Suisei Hoshimachi",
+              "native": "星街すいせい"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 174835,
+              "name": {
+                "full": "Suisei Hoshimachi",
+                "native": "星街すいせい"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 204877,
+            "name": {
+              "full": "AZKi",
+              "native": "AZKi"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 204886,
+              "name": {
+                "full": "AZKi",
+                "native": "AZKi"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 280955,
+            "name": {
+              "full": "Chloe Sakamata",
+              "native": "沙花叉クロヱ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 280956,
+              "name": {
+                "full": "Chloe Sakamata",
+                "native": "沙花叉クロヱ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1788285842,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 56993
+  },
+  {
     "id": 195885,
     "idMal": null,
     "title": {
@@ -16762,7 +16985,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788440400,
-      "timeUntilAiring": 164032,
+      "timeUntilAiring": 150917,
       "episode": 48
     },
     "relations": {
@@ -17189,7 +17412,7 @@
         }
       ]
     },
-    "updatedAt": 1788271498,
+    "updatedAt": 1788285842,
     "idTmdb": 301747,
     "idImdb": "tt38128496",
     "idTvdb": 469213,
@@ -17858,7 +18081,7 @@
     "averageScore": 84,
     "meanScore": 87,
     "popularity": 15465,
-    "trending": 6,
+    "trending": 9,
     "favourites": 299,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -17888,7 +18111,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788490800,
-      "timeUntilAiring": 214620,
+      "timeUntilAiring": 201262,
       "episode": 5
     },
     "relations": {
@@ -18090,7 +18313,7 @@
         }
       ]
     },
-    "updatedAt": 1788274866,
+    "updatedAt": 1788285621,
     "idTmdb": 123542,
     "idImdb": "tt14976292",
     "idTvdb": 402033,
@@ -20102,7 +20325,7 @@
     "averageScore": 69,
     "meanScore": 70,
     "popularity": 14569,
-    "trending": 8,
+    "trending": 9,
     "favourites": 274,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -20137,7 +20360,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788652800,
-      "timeUntilAiring": 376328,
+      "timeUntilAiring": 363268,
       "episode": 46
     },
     "relations": {
@@ -20567,7 +20790,7 @@
         }
       ]
     },
-    "updatedAt": 1788271381,
+    "updatedAt": 1788285678,
     "idTmdb": 286791,
     "idImdb": "tt37499375",
     "idTvdb": 461683,
@@ -43510,7 +43733,7 @@
     "averageScore": 52,
     "meanScore": 55,
     "popularity": 1968,
-    "trending": 0,
+    "trending": 1,
     "favourites": 17,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -43545,7 +43768,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788363840,
-      "timeUntilAiring": 87891,
+      "timeUntilAiring": 74321,
       "episode": 9
     },
     "relations": {
@@ -43936,7 +44159,7 @@
         }
       ]
     },
-    "updatedAt": 1788274927,
+    "updatedAt": 1788285731,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -62275,7 +62498,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788564600,
-      "timeUntilAiring": 304986,
+      "timeUntilAiring": 275111,
       "episode": 10
     },
     "relations": {
@@ -62358,7 +62581,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788253480,
+    "updatedAt": 1788285842,
     "idTmdb": 327228,
     "idImdb": null,
     "idTvdb": 479365,
@@ -63132,8 +63355,8 @@
     "synonyms": [],
     "averageScore": 77,
     "meanScore": 77,
-    "popularity": 7790,
-    "trending": 0,
+    "popularity": 7792,
+    "trending": 1,
     "favourites": 376,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -63174,7 +63397,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788595200,
-      "timeUntilAiring": 371059,
+      "timeUntilAiring": 306120,
       "episode": 931
     },
     "relations": {
@@ -63870,7 +64093,7 @@
         }
       ]
     },
-    "updatedAt": 1788221059,
+    "updatedAt": 1788287650,
     "idTmdb": 65733,
     "idImdb": "tt4083422",
     "idTvdb": 281405,
@@ -69079,7 +69302,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788253644,
+    "updatedAt": 1788285842,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -73590,7 +73813,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788602400,
-      "timeUntilAiring": 325993,
+      "timeUntilAiring": 312929,
       "episode": 12
     },
     "relations": {
@@ -73655,7 +73878,7 @@
         }
       ]
     },
-    "updatedAt": 1788271498,
+    "updatedAt": 1788285842,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -76426,7 +76649,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788253399,
+    "updatedAt": 1788285842,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -90115,7 +90338,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788355800,
-      "timeUntilAiring": 96186,
+      "timeUntilAiring": 66296,
       "episode": 15
     },
     "relations": {
@@ -90393,7 +90616,7 @@
         }
       ]
     },
-    "updatedAt": 1788253596,
+    "updatedAt": 1788285784,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

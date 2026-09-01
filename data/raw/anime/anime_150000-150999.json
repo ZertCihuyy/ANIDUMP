@@ -385,7 +385,7 @@
         }
       ]
     },
-    "updatedAt": 1788258591,
+    "updatedAt": 1788285842,
     "idTmdb": 203740,
     "idImdb": "tt20672482",
     "idTvdb": 421103,
@@ -928,7 +928,7 @@
         }
       ]
     },
-    "updatedAt": 1788274927,
+    "updatedAt": 1788285842,
     "idTmdb": 203704,
     "idImdb": "tt21856734",
     "idTvdb": 421061,
@@ -10313,7 +10313,7 @@
     "synonyms": [],
     "averageScore": 64,
     "meanScore": 71,
-    "popularity": 439,
+    "popularity": 437,
     "trending": 0,
     "favourites": 8,
     "isAdult": false,
@@ -10416,7 +10416,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787740087,
+    "updatedAt": 1788285842,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -11691,5 +11691,147 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": null
+  },
+  "150947": {
+    "id": 150947,
+    "idMal": 52105,
+    "title": {
+      "romaji": "Shaonian Ge Xing: Feng Hua Xue Yue Pian Special",
+      "english": null,
+      "native": "少年歌行 风花雪月篇 特别篇"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 1,
+    "duration": 23,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2022,
+      "month": 6,
+      "day": 15
+    },
+    "endDate": {
+      "year": 2022,
+      "month": 6,
+      "day": 15
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150947-oVVR1pF0MXwg.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150947-oVVR1pF0MXwg.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx150947-oVVR1pF0MXwg.jpg",
+      "color": "#f16b5d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "synonyms": [
+      "Great Journey Of Teenagers 2 Special",
+      "Youths and Golden Coffin 2 Special"
+    ],
+    "averageScore": null,
+    "meanScore": 68,
+    "popularity": 198,
+    "trending": 0,
+    "favourites": 6,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://www.bilibili.com/bangumi/play/ep516066",
+        "site": "Bilibili",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 141132,
+            "title": {
+              "romaji": "Shaonian Ge Xing: Feng Hua Xue Yue Pian Part 2",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx141132-2onv5qwbRVvr.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6389,
+            "name": "bilibili"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6481,
+            "name": "CG Year"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 137257,
+            "name": {
+              "full": "Wujie Lei",
+              "native": "雷无桀"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 221330,
+            "name": {
+              "full": "Se Xiao",
+              "native": "萧瑟"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1788285842,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2331786,
+    "idShikimori": 52105
   }
 }

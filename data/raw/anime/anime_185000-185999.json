@@ -8727,7 +8727,7 @@
     "averageScore": 83,
     "meanScore": 83,
     "popularity": 224783,
-    "trending": 9,
+    "trending": 10,
     "favourites": 6101,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9289,7 +9289,7 @@
         }
       ]
     },
-    "updatedAt": 1788274833,
+    "updatedAt": 1788285691,
     "idTmdb": 240411,
     "idImdb": "tt30217403",
     "idTvdb": 432832,
@@ -21320,7 +21320,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 969,
-    "trending": 1,
+    "trending": 0,
     "favourites": 9,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -21570,7 +21570,7 @@
         }
       ]
     },
-    "updatedAt": 1788274875,
+    "updatedAt": 1788285842,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -27705,8 +27705,8 @@
     "synonyms": [],
     "averageScore": 62,
     "meanScore": 67,
-    "popularity": 765,
-    "trending": 1,
+    "popularity": 769,
+    "trending": 0,
     "favourites": 9,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -27877,7 +27877,7 @@
         }
       ]
     },
-    "updatedAt": 1787943781,
+    "updatedAt": 1788285842,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -31534,7 +31534,7 @@
     ],
     "averageScore": 65,
     "meanScore": 78,
-    "popularity": 401,
+    "popularity": 402,
     "trending": 0,
     "favourites": 6,
     "isAdult": false,
@@ -31585,7 +31585,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788048800,
+    "updatedAt": 1788285842,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -35669,5 +35669,190 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 59555
+  },
+  "185642": {
+    "id": 185642,
+    "idMal": 56105,
+    "title": {
+      "romaji": "Nanashi Kaidan 2nd Season",
+      "english": "Nanashi Kaidan 2nd Season",
+      "native": "ななし怪談 第2作"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Second season of Nanashi Kaidan.\n<br><br>\nA mysterious man named Mukuroji tells a ghost story that no one knows and should not be known, that is Nanashi Kaidan. A girl named Bon and a boy named Koko join forces to seal away the supernatural.",
+    "episodes": 5,
+    "duration": 6,
+    "season": "SUMMER",
+    "seasonYear": 2023,
+    "startDate": {
+      "year": 2023,
+      "month": 8,
+      "day": 7
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 8,
+      "day": 11
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185642-6q6HLScOrsJl.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185642-6q6HLScOrsJl.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185642-6q6HLScOrsJl.jpg",
+      "color": "#1a436b"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Horror",
+      "Supernatural"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 38,
+    "popularity": 260,
+    "trending": 0,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "ccRN_gNsc_c",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/ccRN_gNsc_c/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PL58O4nPuExbBiaHSLKKVqgM9uQJdv2wLu",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://x.com/nanashikaidan",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 156061,
+            "title": {
+              "romaji": "Nanashi Kaidan",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2022,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx156061-sqfmJZ4htvoS.png"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 185669,
+            "title": {
+              "romaji": "Nanashi Kaidan 3rd Season",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SUMMER",
+            "seasonYear": 2024,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185669-FSL1iKgP3a25.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 62,
+            "name": "Shogakukan-Shueisha Productions"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 351968,
+            "name": {
+              "full": "Kou Mukuroji",
+              "native": "無患子紅"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107480,
+              "name": {
+                "full": "Subaru Kimura",
+                "native": "木村昴"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 351969,
+            "name": {
+              "full": "Bon",
+              "native": "梵"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118475,
+              "name": {
+                "full": "Yoshino Aoyama",
+                "native": "青山吉能"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 351970,
+            "name": {
+              "full": "Koko",
+              "native": "茲"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119812,
+              "name": {
+                "full": "Madoka Asahina",
+                "native": "朝日奈丸佳"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1788285842,
+    "idTmdb": 206388,
+    "idImdb": "tt33131788",
+    "idTvdb": 422579,
+    "idTrakt": 260208,
+    "traktSlug": "nanashi-kaidan",
+    "idSimkl": null,
+    "idShikimori": 56105
   }
 }
