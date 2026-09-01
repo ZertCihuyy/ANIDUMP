@@ -2504,7 +2504,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 61829,
-    "trending": 1,
+    "trending": 0,
     "favourites": 1188,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2981,7 +2981,7 @@
         }
       ]
     },
-    "updatedAt": 1788296481,
+    "updatedAt": 1788300204,
     "idTmdb": 107001,
     "idImdb": "tt13409388",
     "idTvdb": 401856,
@@ -5196,7 +5196,7 @@
     ],
     "averageScore": 71,
     "meanScore": 72,
-    "popularity": 8048,
+    "popularity": 8049,
     "trending": 1,
     "favourites": 362,
     "isAdult": true,
@@ -5478,7 +5478,7 @@
         }
       ]
     },
-    "updatedAt": 1788217400,
+    "updatedAt": 1788303745,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7334,7 +7334,7 @@
     "averageScore": 66,
     "meanScore": 68,
     "popularity": 5747,
-    "trending": 1,
+    "trending": 0,
     "favourites": 74,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -7577,7 +7577,7 @@
         }
       ]
     },
-    "updatedAt": 1788296539,
+    "updatedAt": 1788303871,
     "idTmdb": 67063,
     "idImdb": "tt12882132",
     "idTvdb": 313488,
@@ -14847,7 +14847,7 @@
         }
       ]
     },
-    "updatedAt": 1788256842,
+    "updatedAt": 1788303815,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -18354,6 +18354,108 @@
       "edges": []
     },
     "updatedAt": 1788138103,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
+  },
+  "122034": {
+    "id": 122034,
+    "idMal": null,
+    "title": {
+      "romaji": "Yun Shen Ji",
+      "english": null,
+      "native": "陨神记"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "NOT_YET_RELEASED",
+    "description": null,
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122034-YmmUTE2A7lRw.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx122034-YmmUTE2A7lRw.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx122034-YmmUTE2A7lRw.jpg",
+      "color": "#e4d6a1"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Adventure"
+    ],
+    "synonyms": [
+      "The Mask"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 163,
+    "trending": 1,
+    "favourites": 2,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "trailer": {
+      "id": "vbLTEWxt17I",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/vbLTEWxt17I/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://v.qq.com/detail/4/4a62pg65p1ih851.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 60,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6382,
+            "name": "Tencent Penguin Pictures"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6484,
+            "name": "Original Force"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1788303782,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
