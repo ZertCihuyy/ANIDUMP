@@ -44,8 +44,8 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 8284,
-    "trending": 0,
+    "popularity": 8290,
+    "trending": 1,
     "favourites": 82,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -234,7 +234,7 @@
         }
       ]
     },
-    "updatedAt": 1788325296,
+    "updatedAt": 1788346842,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -289,8 +289,8 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 21916,
-    "trending": 5,
+    "popularity": 21994,
+    "trending": 3,
     "favourites": 297,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -325,7 +325,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1790262000,
-      "timeUntilAiring": 1930862,
+      "timeUntilAiring": 1911965,
       "episode": 1
     },
     "relations": {
@@ -553,7 +553,7 @@
         }
       ]
     },
-    "updatedAt": 1788328819,
+    "updatedAt": 1788346822,
     "idTmdb": 45790,
     "idImdb": "tt2359704",
     "idTvdb": 262954,
@@ -604,7 +604,7 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 3318,
+    "popularity": 3335,
     "trending": 0,
     "favourites": 35,
     "isAdult": false,
@@ -761,7 +761,7 @@
         }
       ]
     },
-    "updatedAt": 1788303871,
+    "updatedAt": 1788343277,
     "idTmdb": 285994,
     "idImdb": null,
     "idTvdb": null,
@@ -1408,8 +1408,8 @@
     ],
     "averageScore": 82,
     "meanScore": 82,
-    "popularity": 56417,
-    "trending": 76,
+    "popularity": 56657,
+    "trending": 50,
     "favourites": 1151,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1444,7 +1444,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788681600,
-      "timeUntilAiring": 350426,
+      "timeUntilAiring": 331521,
       "episode": 10
     },
     "relations": {
@@ -1775,7 +1775,7 @@
         }
       ]
     },
-    "updatedAt": 1788328805,
+    "updatedAt": 1788346807,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1984,8 +1984,8 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 4519,
-    "trending": 1,
+    "popularity": 4542,
+    "trending": 0,
     "favourites": 25,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2122,7 +2122,7 @@
         }
       ]
     },
-    "updatedAt": 1788294340,
+    "updatedAt": 1788343277,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2174,8 +2174,8 @@
     ],
     "averageScore": 73,
     "meanScore": 74,
-    "popularity": 7569,
-    "trending": 1,
+    "popularity": 7584,
+    "trending": 2,
     "favourites": 114,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2399,7 +2399,7 @@
         }
       ]
     },
-    "updatedAt": 1788328845,
+    "updatedAt": 1788346827,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2451,8 +2451,8 @@
     ],
     "averageScore": 68,
     "meanScore": 73,
-    "popularity": 2623,
-    "trending": 1,
+    "popularity": 2627,
+    "trending": 2,
     "favourites": 26,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2468,7 +2468,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788355800,
-      "timeUntilAiring": 49624,
+      "timeUntilAiring": 5732,
       "episode": 15
     },
     "relations": {
@@ -2746,7 +2746,7 @@
         }
       ]
     },
-    "updatedAt": 1788303831,
+    "updatedAt": 1788346811,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2800,7 +2800,7 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 3569,
+    "popularity": 3574,
     "trending": 1,
     "favourites": 48,
     "isAdult": false,
@@ -2861,20 +2861,20 @@
     },
     "tags": [
       {
-        "id": 50,
-        "name": "Seinen",
-        "rank": 73,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 199,
         "name": "Yakuza",
-        "rank": 73,
+        "rank": 75,
         "isMediaSpoiler": false
       },
       {
         "id": 322,
         "name": "Assassins",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
         "rank": 73,
         "isMediaSpoiler": false
       },
@@ -2909,16 +2909,16 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 157,
-        "name": "Guns",
-        "rank": 60,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 104,
         "name": "Anti-Hero",
         "rank": 60,
         "isMediaSpoiler": true
+      },
+      {
+        "id": 157,
+        "name": "Guns",
+        "rank": 50,
+        "isMediaSpoiler": false
       }
     ],
     "studios": {
@@ -2954,7 +2954,7 @@
         }
       ]
     },
-    "updatedAt": 1788328827,
+    "updatedAt": 1788346876,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

@@ -41,7 +41,7 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 738,
+    "popularity": 820,
     "trending": 0,
     "favourites": 8,
     "isAdult": false,
@@ -149,7 +149,7 @@
         }
       ]
     },
-    "updatedAt": 1788325296
+    "updatedAt": 1788346879
   },
   "216167": {
     "id": 216167,
@@ -191,8 +191,8 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 1438,
-    "trending": 10,
+    "popularity": 1738,
+    "trending": 6,
     "favourites": 6,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -278,7 +278,7 @@
         }
       ]
     },
-    "updatedAt": 1788328843
+    "updatedAt": 1788346819
   },
   "216171": {
     "id": 216171,
@@ -321,8 +321,8 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 39,
-    "trending": 0,
+    "popularity": 45,
+    "trending": 2,
     "favourites": 0,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -332,7 +332,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1795705200,
-      "timeUntilAiring": 7399150,
+      "timeUntilAiring": 7355126,
       "episode": 1
     },
     "relations": {
@@ -378,7 +378,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788303871
+    "updatedAt": 1788346808
   },
   "216175": {
     "id": 216175,
@@ -512,8 +512,8 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 853,
-    "trending": 3,
+    "popularity": 1017,
+    "trending": 1,
     "favourites": 4,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -618,7 +618,7 @@
         }
       ]
     },
-    "updatedAt": 1788325261
+    "updatedAt": 1788346820
   },
   "216176": {
     "id": 216176,
@@ -776,8 +776,8 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 0,
-    "trending": 19,
+    "popularity": 1225,
+    "trending": 16,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -889,6 +889,122 @@
         }
       ]
     },
-    "updatedAt": 1788328810
+    "updatedAt": 1788346820
+  },
+  "216312": {
+    "id": 216312,
+    "idMal": 64877,
+    "title": {
+      "romaji": "Boku no Suki na Hito ga Suki na Hito",
+      "english": null,
+      "native": "ぼくの好きな人が好きな人"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "When Sora Akizuki confesses his feelings to Miya Fuwa, he gets rejected outright. As it turns out, she likes Asahi Suzukaze, the president of the mysterious “Clinical Trials Club.” When he joins the club to learn more about Asahi, he discovers that she also has a crush on someone else! Could this chain of crushes get any more complicated…?\n<BR><BR>\n(Source: Yen Press)",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216312-HXRqVun8NmC4.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216312-HXRqVun8NmC4.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx216312-HXRqVun8NmC4.jpg",
+      "color": "#e4865d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "synonyms": [
+      "My Crush’s Crush"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 0,
+    "trending": 17,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 156867,
+            "title": {
+              "romaji": "Boku no Suki na Hito ga Suki na Hito",
+              "english": "My Crush’s Crush"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/b156867-h4fzUwVpiy6i.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 322322,
+            "name": {
+              "full": "Sora Akizuki",
+              "native": "秋月奏良"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 322323,
+            "name": {
+              "full": "Miya Fuwa",
+              "native": "不破美夜"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 322324,
+            "name": {
+              "full": "Asahi Suzukaze",
+              "native": "涼風朝陽"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1788346817
   }
 }
