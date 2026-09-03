@@ -540,7 +540,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3868,
-    "trending": 0,
+    "trending": 3,
     "favourites": 49,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -696,7 +696,7 @@
         }
       ]
     },
-    "updatedAt": 1788426503,
+    "updatedAt": 1788444978,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -751,7 +751,7 @@
     ],
     "averageScore": 71,
     "meanScore": 72,
-    "popularity": 8530,
+    "popularity": 8534,
     "trending": 1,
     "favourites": 124,
     "isAdult": false,
@@ -1003,7 +1003,7 @@
         }
       ]
     },
-    "updatedAt": 1788358992,
+    "updatedAt": 1788445141,
     "idTmdb": 316973,
     "idImdb": "tt40356933",
     "idTvdb": 474691,
@@ -1087,7 +1087,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788447600,
-      "timeUntilAiring": 16613,
+      "timeUntilAiring": 380,
       "episode": 11
     },
     "relations": {
@@ -1510,7 +1510,7 @@
         }
       ]
     },
-    "updatedAt": 1788429606,
+    "updatedAt": 1788444265,
     "idTmdb": 314554,
     "idImdb": "tt40550160",
     "idTvdb": 474303,
@@ -4643,7 +4643,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 2861,
-    "trending": 4,
+    "trending": 1,
     "favourites": 13,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4746,7 +4746,7 @@
         }
       ]
     },
-    "updatedAt": 1788429619,
+    "updatedAt": 1788445080,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -5327,10 +5327,10 @@
       "day": null
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208610-vdtaHUmMcPlY.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208610-vdtaHUmMcPlY.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx208610-vdtaHUmMcPlY.jpg",
-      "color": "#1a5d78"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208610-nMDlWpLI5d4J.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx208610-nMDlWpLI5d4J.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx208610-nMDlWpLI5d4J.jpg",
+      "color": null
     },
     "bannerImage": null,
     "genres": [
@@ -5340,7 +5340,9 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "Fungus and Iron"
+    ],
     "averageScore": null,
     "meanScore": null,
     "popularity": 674,
@@ -5387,7 +5389,15 @@
     },
     "tags": [],
     "studios": {
-      "edges": []
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6159,
+            "name": "Yokohama Animation Lab"
+          }
+        }
+      ]
     },
     "characters": {
       "edges": [
@@ -5437,7 +5447,7 @@
         }
       ]
     },
-    "updatedAt": 1788429622,
+    "updatedAt": 1788440768,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
