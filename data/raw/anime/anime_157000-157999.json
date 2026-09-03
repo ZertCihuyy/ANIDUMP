@@ -1175,7 +1175,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 98616,
-    "trending": 1,
+    "trending": 3,
     "favourites": 1656,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1774,7 +1774,7 @@
         }
       ]
     },
-    "updatedAt": 1788458556,
+    "updatedAt": 1788467179,
     "idTmdb": 214540,
     "idImdb": "tt27489241",
     "idTvdb": 427239,
@@ -1829,7 +1829,7 @@
     "averageScore": 65,
     "meanScore": 65,
     "popularity": 87485,
-    "trending": 6,
+    "trending": 2,
     "favourites": 1756,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2215,7 +2215,7 @@
         }
       ]
     },
-    "updatedAt": 1788458452,
+    "updatedAt": 1788467224,
     "idTmdb": 214651,
     "idImdb": "tt28278738",
     "idTvdb": 427358,
@@ -2269,7 +2269,7 @@
     "averageScore": 67,
     "meanScore": 68,
     "popularity": 12487,
-    "trending": 2,
+    "trending": 0,
     "favourites": 206,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2764,7 +2764,7 @@
         }
       ]
     },
-    "updatedAt": 1788458541,
+    "updatedAt": 1788465843,
     "idTmdb": 215429,
     "idImdb": "tt32986702",
     "idTvdb": 427831,
@@ -2820,7 +2820,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 28876,
-    "trending": 0,
+    "trending": 1,
     "favourites": 742,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3265,7 +3265,7 @@
         }
       ]
     },
-    "updatedAt": 1788458615,
+    "updatedAt": 1788467230,
     "idTmdb": 214547,
     "idImdb": "tt23711384",
     "idTvdb": 427276,
@@ -3515,7 +3515,7 @@
     "averageScore": 73,
     "meanScore": 73,
     "popularity": 6333,
-    "trending": 0,
+    "trending": 1,
     "favourites": 75,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3852,7 +3852,7 @@
         }
       ]
     },
-    "updatedAt": 1788430255,
+    "updatedAt": 1788469307,
     "idTmdb": 1053075,
     "idImdb": "tt28228898",
     "idTvdb": null,
@@ -5727,7 +5727,7 @@
         }
       ]
     },
-    "updatedAt": 1788430253,
+    "updatedAt": 1788465843,
     "idTmdb": 107255,
     "idImdb": "tt27442011",
     "idTvdb": 423688,
@@ -11663,5 +11663,146 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 55659
+  },
+  "157071": {
+    "id": 157071,
+    "idMal": 57233,
+    "title": {
+      "romaji": "Jiaonang Jihua 2",
+      "english": null,
+      "native": "胶囊计划 第二届"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "The second instalment of bilibili's \"Capsule Project\".",
+    "episodes": 13,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2023,
+      "month": 12,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 12,
+      "day": 28
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b157071-2oIMxzlpgaa6.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b157071-2oIMxzlpgaa6.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b157071-2oIMxzlpgaa6.png",
+      "color": "#43d6e4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "synonyms": [
+      "CAPSULES 2",
+      "Capsules Project 2",
+      "喵十一",
+      "噬梦菇",
+      "偷桃",
+      "澡堂大冒险",
+      "亮码吧！爸爸",
+      "宿敌",
+      "瓶装闪电",
+      "时间机器",
+      "病毒",
+      "GAME SHOW",
+      "水塘幻想",
+      "Smile",
+      "艾米与蛙先生"
+    ],
+    "averageScore": null,
+    "meanScore": 61,
+    "popularity": 157,
+    "trending": 0,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://weibo.com/u/7796261533",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.bilibili.com/bangumi/media/md21120401",
+        "site": "Bilibili",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 141897,
+            "title": {
+              "romaji": "Jiaonang Jihua",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b141897-UXyWSNuevTzJ.png"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 187833,
+            "title": {
+              "romaji": "Jiaonang Jihua Yingxiong",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187833-a5X3z4s4JlEK.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6389,
+            "name": "bilibili"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1788465843,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 2886828,
+    "idShikimori": 57233
   }
 }
