@@ -452,7 +452,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 27829,
-    "trending": 2,
+    "trending": 3,
     "favourites": 484,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -928,7 +928,7 @@
         }
       ]
     },
-    "updatedAt": 1788483687,
+    "updatedAt": 1788501667,
     "idTmdb": 203704,
     "idImdb": "tt21856734",
     "idTvdb": 421061,
@@ -2163,7 +2163,7 @@
     "averageScore": 66,
     "meanScore": 66,
     "popularity": 15619,
-    "trending": 0,
+    "trending": 1,
     "favourites": 313,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2665,7 +2665,7 @@
         }
       ]
     },
-    "updatedAt": 1788483705,
+    "updatedAt": 1788498067,
     "idTmdb": 203045,
     "idImdb": "tt29514999",
     "idTvdb": 420663,
@@ -2720,7 +2720,7 @@
     "averageScore": 74,
     "meanScore": 74,
     "popularity": 122993,
-    "trending": 4,
+    "trending": 3,
     "favourites": 2046,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3172,7 +3172,7 @@
         }
       ]
     },
-    "updatedAt": 1788476495,
+    "updatedAt": 1788501609,
     "idTmdb": 203040,
     "idImdb": "tt27329086",
     "idTvdb": 420657,
@@ -4611,7 +4611,7 @@
         }
       ]
     },
-    "updatedAt": 1788483691,
+    "updatedAt": 1788501717,
     "idTmdb": 203780,
     "idImdb": "tt21345944",
     "idTvdb": 421092,
@@ -4665,7 +4665,7 @@
     "averageScore": 78,
     "meanScore": 78,
     "popularity": 19408,
-    "trending": 0,
+    "trending": 1,
     "favourites": 226,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5052,7 +5052,7 @@
         }
       ]
     },
-    "updatedAt": 1788480462,
+    "updatedAt": 1788501703,
     "idTmdb": 1108306,
     "idImdb": "tt20860298",
     "idTvdb": null,
@@ -5660,8 +5660,8 @@
     ],
     "averageScore": 70,
     "meanScore": 71,
-    "popularity": 27181,
-    "trending": 0,
+    "popularity": 27188,
+    "trending": 1,
     "favourites": 463,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6123,7 +6123,7 @@
         }
       ]
     },
-    "updatedAt": 1788397331,
+    "updatedAt": 1788501694,
     "idTmdb": 204112,
     "idImdb": "tt26895902",
     "idTvdb": 421273,
@@ -6175,7 +6175,7 @@
     "averageScore": 68,
     "meanScore": 68,
     "popularity": 9419,
-    "trending": 1,
+    "trending": 0,
     "favourites": 104,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -6515,7 +6515,7 @@
         }
       ]
     },
-    "updatedAt": 1788458479,
+    "updatedAt": 1788498120,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -11833,5 +11833,132 @@
     "traktSlug": null,
     "idSimkl": 2331786,
     "idShikimori": 52105
+  },
+  "150079": {
+    "id": 150079,
+    "idMal": 38769,
+    "title": {
+      "romaji": "Compiler: Music Clips in Trackdown",
+      "english": null,
+      "native": "Compiler: Music Clips in Trackdown"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": null,
+    "episodes": 6,
+    "duration": 4,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 1995,
+      "month": 9,
+      "day": 15
+    },
+    "endDate": {
+      "year": 1995,
+      "month": 9,
+      "day": 15
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150079-hv0qy2SrPFUR.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx150079-hv0qy2SrPFUR.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx150079-hv0qy2SrPFUR.jpg",
+      "color": "#bb3550"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "synonyms": [],
+    "averageScore": 48,
+    "meanScore": 54,
+    "popularity": 176,
+    "trending": 0,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 32952,
+            "title": {
+              "romaji": "Compiler",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx32952-oijO3f5EGu4B.png"
+            }
+          }
+        },
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 3026,
+            "title": {
+              "romaji": "Compiler",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 1994,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx3026-G29k40mn9KSq.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 209229,
+            "name": {
+              "full": "Assembler",
+              "native": "アセンブラ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 209233,
+            "name": {
+              "full": "Compiler",
+              "native": "コンパイラ"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1788498120,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 640823,
+    "idShikimori": 38769
   }
 }
