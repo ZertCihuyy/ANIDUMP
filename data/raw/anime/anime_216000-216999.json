@@ -278,7 +278,7 @@
         }
       ]
     },
-    "updatedAt": 1788519622
+    "updatedAt": 1788534134
   },
   "216171": {
     "id": 216171,
@@ -934,7 +934,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 540,
-    "trending": 5,
+    "trending": 1,
     "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1005,7 +1005,7 @@
         }
       ]
     },
-    "updatedAt": 1788519649
+    "updatedAt": 1788530723
   },
   "216346": {
     "id": 216346,
@@ -1051,7 +1051,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3340,
-    "trending": 18,
+    "trending": 31,
     "favourites": 16,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1195,6 +1195,180 @@
         }
       ]
     },
-    "updatedAt": 1788519625
+    "updatedAt": 1788534062
+  },
+  "216404": {
+    "id": 216404,
+    "idMal": 64906,
+    "title": {
+      "romaji": "Aoharu Once More",
+      "english": null,
+      "native": "アオハル・ワンスモア"
+    },
+    "type": "ANIME",
+    "format": null,
+    "status": "NOT_YET_RELEASED",
+    "description": "Hayato Kobayashi dreams of his high school days, of the soft wind blowing by and the light streaming in through the window onto the beautiful Ritsu Onishi, and of his dazzling smile. Ritsu would sit in the empty library, surrounded by an air of still beauty. \n<br><br>\nOne day, as Hayato's eyes are drawn to Ritsu's soft silhouette under the bright sunlight, Hayato's body moves on its own and places a kiss on Ritsu's lips. Since that day, the two became something more than friends, but not yet boyfriends. The two boys live every day like they're walking on clouds through their vague relationship. It was far too late when Hayato finally realized he was in love. Now as an adult, the two had drifted apart after entering different universities and entering the job market. But who knew that Hayato would one day see that beautiful man of his dreams again...?\n<br><br>\n(Source: TOKYOPOP)",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216404-FnJwb9h3Bn0Y.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx216404-FnJwb9h3Bn0Y.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx216404-FnJwb9h3Bn0Y.jpg",
+      "color": "#50a1e4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 0,
+    "trending": 0,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://animationid.com/aoharuoncemore/",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.youtube.com/@BALLOON.project",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.tiktok.com/@balloonpj",
+        "site": "TikTok",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://x.com/BALOON_project",
+        "site": "Twitter",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 182866,
+            "title": {
+              "romaji": "Aoharu Once More",
+              "english": "Aoharu Once More"
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx182866-VAVp6Raiivsj.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 199446,
+            "title": {
+              "romaji": "Saioshi no Gikei wo Mederu Tame, Nagaikishimasu!",
+              "english": "I'll Live a Long Life to Dote on My Favorite Stepbrother!"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199446-2jYnGrTItjyu.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 213666,
+            "title": {
+              "romaji": "Perfect Addiction",
+              "english": "Perfect Addiction"
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": "SUMMER",
+            "seasonYear": 2026,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213666-nnKcumRblZi1.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 7531,
+            "name": "Imageworks Studio"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 7472,
+            "name": "Imagica Infos"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 390243,
+            "name": {
+              "full": "Hayato Kobayashi",
+              "native": "小林隼人"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 390244,
+            "name": {
+              "full": "Ritsu Oonishi",
+              "native": "大西律"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1788532381
   }
 }
