@@ -756,7 +756,7 @@
         }
       ]
     },
-    "updatedAt": 1788530730,
+    "updatedAt": 1788541326,
     "idTmdb": 277665,
     "idImdb": "tt34702901",
     "idTvdb": 456902,
@@ -1121,7 +1121,7 @@
     "averageScore": 78,
     "meanScore": 79,
     "popularity": 4326,
-    "trending": 2,
+    "trending": 1,
     "favourites": 73,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1434,7 +1434,7 @@
         }
       ]
     },
-    "updatedAt": 1788534045,
+    "updatedAt": 1788544864,
     "idTmdb": 241138,
     "idImdb": "tt30400535",
     "idTvdb": 443124,
@@ -2207,7 +2207,7 @@
     "averageScore": 80,
     "meanScore": 81,
     "popularity": 40611,
-    "trending": 13,
+    "trending": 12,
     "favourites": 899,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2262,7 +2262,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788600360,
-      "timeUntilAiring": 64357,
+      "timeUntilAiring": 52663,
       "episode": 21
     },
     "relations": {
@@ -2600,7 +2600,7 @@
         }
       ]
     },
-    "updatedAt": 1788534038,
+    "updatedAt": 1788544820,
     "idTmdb": 91801,
     "idImdb": "tt11034066",
     "idTvdb": 369144,
@@ -2655,7 +2655,7 @@
     "averageScore": 83,
     "meanScore": 83,
     "popularity": 121258,
-    "trending": 18,
+    "trending": 23,
     "favourites": 5142,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3086,7 +3086,7 @@
         }
       ]
     },
-    "updatedAt": 1788534070,
+    "updatedAt": 1788544847,
     "idTmdb": 278043,
     "idImdb": "tt36034547",
     "idTvdb": 457078,
@@ -3136,7 +3136,7 @@
     "averageScore": 61,
     "meanScore": 62,
     "popularity": 21831,
-    "trending": 2,
+    "trending": 1,
     "favourites": 263,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3470,7 +3470,7 @@
         }
       ]
     },
-    "updatedAt": 1788534033,
+    "updatedAt": 1788542169,
     "idTmdb": 286434,
     "idImdb": "tt36592756",
     "idTvdb": 456807,
@@ -3522,7 +3522,7 @@
     "averageScore": 79,
     "meanScore": 79,
     "popularity": 102327,
-    "trending": 7,
+    "trending": 3,
     "favourites": 1789,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3926,7 +3926,7 @@
         }
       ]
     },
-    "updatedAt": 1788534058,
+    "updatedAt": 1788544911,
     "idTmdb": 207332,
     "idImdb": "tt17069148",
     "idTvdb": 423732,
@@ -4333,7 +4333,7 @@
         }
       ]
     },
-    "updatedAt": 1788534196,
+    "updatedAt": 1788542204,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4387,7 +4387,7 @@
     "averageScore": 65,
     "meanScore": 66,
     "popularity": 33034,
-    "trending": 69,
+    "trending": 65,
     "favourites": 445,
     "isAdult": false,
     "countryOfOrigin": "KR",
@@ -4427,7 +4427,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788970500,
-      "timeUntilAiring": 434463,
+      "timeUntilAiring": 422762,
       "episode": 10
     },
     "relations": {
@@ -4784,7 +4784,7 @@
         }
       ]
     },
-    "updatedAt": 1788534029,
+    "updatedAt": 1788544807,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4840,7 +4840,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 61914,
-    "trending": 7,
+    "trending": 4,
     "favourites": 1342,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5311,7 +5311,7 @@
         }
       ]
     },
-    "updatedAt": 1788534034,
+    "updatedAt": 1788544889,
     "idTmdb": 278635,
     "idImdb": "tt36593026",
     "idTvdb": 456730,
@@ -6122,7 +6122,7 @@
         }
       ]
     },
-    "updatedAt": 1788534134,
+    "updatedAt": 1788544938,
     "idTmdb": 277513,
     "idImdb": "tt36592708",
     "idTvdb": 456835,
@@ -6913,7 +6913,7 @@
         }
       ]
     },
-    "updatedAt": 1788534081,
+    "updatedAt": 1788544963,
     "idTmdb": 276288,
     "idImdb": "tt35995459",
     "idTvdb": 456463,
@@ -8016,8 +8016,8 @@
     ],
     "averageScore": 61,
     "meanScore": 61,
-    "popularity": 13715,
-    "trending": 0,
+    "popularity": 13717,
+    "trending": 1,
     "favourites": 114,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8127,6 +8127,12 @@
         "name": "LGBTQ+ Themes",
         "rank": 25,
         "isMediaSpoiler": true
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 20,
+        "isMediaSpoiler": false
       }
     ],
     "studios": {
@@ -8390,7 +8396,7 @@
         }
       ]
     },
-    "updatedAt": 1788455571,
+    "updatedAt": 1788541336,
     "idTmdb": 279216,
     "idImdb": "tt34818628",
     "idTvdb": 457099,
@@ -8444,7 +8450,7 @@
     ],
     "averageScore": 65,
     "meanScore": 65,
-    "popularity": 11984,
+    "popularity": 11988,
     "trending": 1,
     "favourites": 132,
     "isAdult": false,
@@ -8853,7 +8859,7 @@
         }
       ]
     },
-    "updatedAt": 1788476565,
+    "updatedAt": 1788544962,
     "idTmdb": 277581,
     "idImdb": "tt35995444",
     "idTvdb": 456740,
@@ -14965,8 +14971,8 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": 58,
-    "popularity": 165,
-    "trending": 0,
+    "popularity": 167,
+    "trending": 1,
     "favourites": 0,
     "isAdult": false,
     "countryOfOrigin": "KR",
@@ -15026,7 +15032,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787650554,
+    "updatedAt": 1788544971,
     "idTmdb": 325942,
     "idImdb": null,
     "idTvdb": 479408,
@@ -18047,5 +18053,112 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 55724
+  },
+  "184293": {
+    "id": 184293,
+    "idMal": 55723,
+    "title": {
+      "romaji": "Ityeojin Hwangnyeoneun Pyeonghwaropge Salgo Sipeo",
+      "english": null,
+      "native": "잊혀진 황녀는 평화롭게 살고 싶어"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "I'm the daughter of a Duke?!<br>\nWhile locked up in a prison cell, Eluana Vita awakens her alchemy powers and later finds out she's the daughter of a Duke! However, she's in for a rude awakening when she realizes the royal life isn't what she thought it'd be. Join Eluana on her journey to find the peaceful life she's always wanted.<br><br>\n\n(Source: Manta)",
+    "episodes": 10,
+    "duration": 5,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2023,
+      "month": 5,
+      "day": 31
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 5,
+      "day": 31
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184293-xh7UU17iVDqw.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx184293-xh7UU17iVDqw.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184293-xh7UU17iVDqw.jpg",
+      "color": "#ffe493"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "synonyms": [
+      "The Forgotten Princess Just Wants Peace"
+    ],
+    "averageScore": null,
+    "meanScore": 56,
+    "popularity": 186,
+    "trending": 1,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "KR",
+    "source": "OTHER",
+    "trailer": {
+      "id": "ft65VPZTalo",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/ft65VPZTalo/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://laftel.net/item/41448/잊혀진-황녀는-평화롭게-살고-싶어",
+        "site": "Laftel",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 137387,
+            "title": {
+              "romaji": "Ityeojin Hwangnyeoneun Pyeonghwaropge Salgo Sipeo",
+              "english": "The Forgotten Princess Just Wants Peace"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx137387-7omXa3hiFYGF.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6953,
+            "name": "Laftel"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1788544980,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 55723
   }
 }

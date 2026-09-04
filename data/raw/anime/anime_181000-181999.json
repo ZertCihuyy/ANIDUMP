@@ -370,7 +370,7 @@
     "averageScore": 63,
     "meanScore": 63,
     "popularity": 17364,
-    "trending": 2,
+    "trending": 1,
     "favourites": 334,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -732,7 +732,7 @@
         }
       ]
     },
-    "updatedAt": 1788530719,
+    "updatedAt": 1788544883,
     "idTmdb": 271609,
     "idImdb": "tt38646055",
     "idTvdb": 454526,
@@ -1250,7 +1250,7 @@
         }
       ]
     },
-    "updatedAt": 1788534049,
+    "updatedAt": 1788544905,
     "idTmdb": 271605,
     "idImdb": "tt33384856",
     "idTvdb": 454525,
@@ -2057,7 +2057,7 @@
     "averageScore": 82,
     "meanScore": 83,
     "popularity": 26387,
-    "trending": 1,
+    "trending": 2,
     "favourites": 449,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2444,7 +2444,7 @@
         }
       ]
     },
-    "updatedAt": 1788534070,
+    "updatedAt": 1788544928,
     "idTmdb": 1359607,
     "idImdb": "tt36592985",
     "idTvdb": null,
@@ -2502,7 +2502,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 207656,
-    "trending": 13,
+    "trending": 15,
     "favourites": 11867,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2902,7 +2902,7 @@
         }
       ]
     },
-    "updatedAt": 1788534069,
+    "updatedAt": 1788544850,
     "idTmdb": 271607,
     "idImdb": "tt36592690",
     "idTvdb": 454524,
@@ -3778,7 +3778,7 @@
     "averageScore": 81,
     "meanScore": 81,
     "popularity": 24003,
-    "trending": 2,
+    "trending": 0,
     "favourites": 770,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4325,7 +4325,7 @@
         }
       ]
     },
-    "updatedAt": 1788530784,
+    "updatedAt": 1788545001,
     "idTmdb": 243501,
     "idImdb": "tt30844357",
     "idTvdb": 444609,
@@ -5382,7 +5382,7 @@
     "averageScore": 59,
     "meanScore": 70,
     "popularity": 625,
-    "trending": 1,
+    "trending": 2,
     "favourites": 12,
     "isAdult": false,
     "countryOfOrigin": "CN",
@@ -5487,7 +5487,7 @@
         }
       ]
     },
-    "updatedAt": 1788534073,
+    "updatedAt": 1788544835,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -8741,9 +8741,9 @@
       "Heisei Mikoshi Gassen"
     ],
     "averageScore": null,
-    "meanScore": 58,
-    "popularity": 45,
-    "trending": 0,
+    "meanScore": 53,
+    "popularity": 44,
+    "trending": 1,
     "favourites": 0,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8788,7 +8788,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787650744,
+    "updatedAt": 1788544969,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9784,5 +9784,100 @@
     "traktSlug": null,
     "idSimkl": 782801,
     "idShikimori": 37494
+  },
+  "181821": {
+    "id": 181821,
+    "idMal": 39343,
+    "title": {
+      "romaji": "Kobo-chan Special: Yakusoku no Magic Day",
+      "english": null,
+      "native": "コボちゃんスペシャル 約束のマジックディ"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "Kobo-chan televised specials that aired after the TV anime's serialization. The special received some interrupted broadcasts in some parts of Japan due to an earthquake near the Miyagi Prefecture.",
+    "episodes": 1,
+    "duration": 55,
+    "season": "SUMMER",
+    "seasonYear": 1998,
+    "startDate": {
+      "year": 1998,
+      "month": 9,
+      "day": 15
+    },
+    "endDate": {
+      "year": 1998,
+      "month": 9,
+      "day": 15
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b181821-2u5iXOsOLdG4.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b181821-2u5iXOsOLdG4.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b181821-2u5iXOsOLdG4.png",
+      "color": "#f1a15d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 55,
+    "popularity": 21,
+    "trending": 1,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 19585,
+            "title": {
+              "romaji": "Kobo-chan",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 1992,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx19585-wSedJVGXMZGx.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 191,
+            "name": "Eiken"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1788544969,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 872881,
+    "idShikimori": null
   }
 }
