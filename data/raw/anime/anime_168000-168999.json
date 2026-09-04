@@ -1887,7 +1887,7 @@
     "averageScore": 72,
     "meanScore": 72,
     "popularity": 54661,
-    "trending": 0,
+    "trending": 3,
     "favourites": 1187,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2369,7 +2369,7 @@
         }
       ]
     },
-    "updatedAt": 1788545001,
+    "updatedAt": 1788555876,
     "idTmdb": 248817,
     "idImdb": "tt32812118",
     "idTvdb": 438125,
@@ -3228,7 +3228,7 @@
     "averageScore": 75,
     "meanScore": 75,
     "popularity": 88249,
-    "trending": 6,
+    "trending": 4,
     "favourites": 2627,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3825,7 +3825,7 @@
         }
       ]
     },
-    "updatedAt": 1788544908,
+    "updatedAt": 1788555870,
     "idTmdb": 232926,
     "idImdb": "tt28685624",
     "idTvdb": 435005,
@@ -4422,7 +4422,7 @@
         }
       ]
     },
-    "updatedAt": 1788542204,
+    "updatedAt": 1788552213,
     "idTmdb": 88044,
     "idImdb": "tt10443362",
     "idTvdb": 361709,
@@ -5312,7 +5312,7 @@
         }
       ]
     },
-    "updatedAt": 1788516164,
+    "updatedAt": 1788552213,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9491,7 +9491,7 @@
         }
       ]
     },
-    "updatedAt": 1788516153,
+    "updatedAt": 1788552213,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -18816,5 +18816,151 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 61045
+  },
+  "168085": {
+    "id": 168085,
+    "idMal": null,
+    "title": {
+      "romaji": "Dali Si Rizhi 3",
+      "english": null,
+      "native": "大理寺日志 第3季"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "NOT_YET_RELEASED",
+    "description": "The third seasons of <i>Dali Si Rizhi</i>.",
+    "episodes": null,
+    "duration": null,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168085-hPOOODUADp7D.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168085-hPOOODUADp7D.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx168085-hPOOODUADp7D.png",
+      "color": "#e4ae50"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "synonyms": [
+      "White Cat Legend 3",
+      "The Journal of Dali Court 3"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "popularity": 146,
+    "trending": 0,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "MANGA",
+    "trailer": null,
+    "externalLinks": [
+      {
+        "url": "https://weibo.com/u/5644660975",
+        "site": "Weibo",
+        "type": "SOCIAL"
+      },
+      {
+        "url": "https://v.qq.com/x/cover/mzc00200gkkin7o.html",
+        "site": "Tencent Video",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 121514,
+            "title": {
+              "romaji": "Dali Si Rizhi 2",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx121514-H6W7MaGyXWxO.png"
+            }
+          }
+        },
+        {
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 119351,
+            "title": {
+              "romaji": "Dali Si Rizhi",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx119351-pFp3T921pyyg.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6382,
+            "name": "Tencent Penguin Pictures"
+          }
+        },
+        {
+          "isMain": true,
+          "node": {
+            "id": 6247,
+            "name": "Nice Boat Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 228451,
+            "name": {
+              "full": "Bing Li",
+              "native": "李饼"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1788552213,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 60598
   }
 }

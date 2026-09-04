@@ -697,7 +697,7 @@
     "averageScore": 82,
     "meanScore": 82,
     "popularity": 38547,
-    "trending": 2,
+    "trending": 4,
     "favourites": 794,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1083,7 +1083,7 @@
         }
       ]
     },
-    "updatedAt": 1788544948,
+    "updatedAt": 1788555747,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1342,7 +1342,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 21148,
-    "trending": 9,
+    "trending": 6,
     "favourites": 200,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1668,7 +1668,7 @@
         }
       ]
     },
-    "updatedAt": 1788544876,
+    "updatedAt": 1788555736,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1719,7 +1719,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 6098,
-    "trending": 3,
+    "trending": 4,
     "favourites": 65,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1928,7 +1928,7 @@
         }
       ]
     },
-    "updatedAt": 1788541541,
+    "updatedAt": 1788555894,
     "idTmdb": 297903,
     "idImdb": "tt39181351",
     "idTvdb": 471609,
@@ -2133,7 +2133,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 28342,
-    "trending": 0,
+    "trending": 2,
     "favourites": 287,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2492,7 +2492,7 @@
         }
       ]
     },
-    "updatedAt": 1788545001,
+    "updatedAt": 1788555877,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4044,7 +4044,7 @@
     "averageScore": 70,
     "meanScore": 72,
     "popularity": 10257,
-    "trending": 11,
+    "trending": 12,
     "favourites": 108,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4074,7 +4074,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788683400,
-      "timeUntilAiring": 135683,
+      "timeUntilAiring": 127166,
       "episode": 10
     },
     "relations": {
@@ -4415,7 +4415,7 @@
         }
       ]
     },
-    "updatedAt": 1788544812,
+    "updatedAt": 1788555728,
     "idTmdb": 308403,
     "idImdb": "tt42963873",
     "idTvdb": 471657,
@@ -4909,7 +4909,7 @@
     "averageScore": 74,
     "meanScore": 75,
     "popularity": 37419,
-    "trending": 105,
+    "trending": 99,
     "favourites": 634,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -4949,7 +4949,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1789057680,
-      "timeUntilAiring": 509952,
+      "timeUntilAiring": 501369,
       "episode": 11
     },
     "relations": {
@@ -5391,7 +5391,7 @@
         }
       ]
     },
-    "updatedAt": 1788544810,
+    "updatedAt": 1788555635,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -11176,7 +11176,7 @@
     "averageScore": 83,
     "meanScore": 84,
     "popularity": 4854,
-    "trending": 1,
+    "trending": 0,
     "favourites": 172,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11273,7 +11273,7 @@
         }
       ]
     },
-    "updatedAt": 1788534176,
+    "updatedAt": 1788552213,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -12767,7 +12767,7 @@
       "native": "新こちら葛飾区亀有公園前派出所"
     },
     "type": "ANIME",
-    "format": null,
+    "format": "TV",
     "status": "NOT_YET_RELEASED",
     "description": "To commemorate the 50th anniversary of the manga's publication, a new adaptation of Osamu Akimoto's <i>Kochira Katsushikaku Kameari Kouenmae Hashutsujo</i>.",
     "episodes": null,
@@ -12775,7 +12775,7 @@
     "season": null,
     "seasonYear": null,
     "startDate": {
-      "year": null,
+      "year": 2027,
       "month": null,
       "day": null
     },
@@ -12899,11 +12899,76 @@
               "native": "両津勘吉"
             }
           },
-          "voiceActors": []
+          "voiceActors": [
+            {
+              "id": 119506,
+              "name": {
+                "full": "Fukushi Ochiai",
+                "native": "落合福嗣"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 18080,
+            "name": {
+              "full": "Keiichi Nakagawa",
+              "native": "中川圭一"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 109879,
+              "name": {
+                "full": "Shouta Aoi",
+                "native": "蒼井翔太"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 19409,
+            "name": {
+              "full": "Reiko Akimoto",
+              "native": "秋本・カトリーヌ・麗子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118510,
+              "name": {
+                "full": "Mao Ichimichi",
+                "native": "市道真央"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 33608,
+            "name": {
+              "full": "Daijirou Ohara",
+              "native": "大原大次郎"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107654,
+              "name": {
+                "full": "Raikou Sakamoto",
+                "native": "坂本頼光"
+              }
+            }
+          ]
         }
       ]
     },
-    "updatedAt": 1788254051,
+    "updatedAt": 1788555815,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -15205,7 +15270,7 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 232,
+    "popularity": 234,
     "trending": 0,
     "favourites": 3,
     "isAdult": false,
@@ -15274,7 +15339,7 @@
         }
       ]
     },
-    "updatedAt": 1787649144,
+    "updatedAt": 1788552213,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
