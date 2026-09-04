@@ -2459,7 +2459,7 @@
         }
       ]
     },
-    "updatedAt": 1788545001,
+    "updatedAt": 1788562939,
     "idTmdb": 91768,
     "idImdb": "tt10885406",
     "idTvdb": 366263,
@@ -16657,6 +16657,94 @@
       "edges": []
     },
     "updatedAt": 1788552213,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
+  },
+  "121180": {
+    "id": 121180,
+    "idMal": null,
+    "title": {
+      "romaji": "Xiao Hua Xian 5: Sishi Hua Yu - Chun Xia 2: Xia",
+      "english": null,
+      "native": "小花仙 第五季 四时花语 - 春夏 2: 夏"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "This is the first part of a 4 parts story which consist of \"spring\" (season 5 part 1), \"summer\" (this season), \"fall\" (season 6 part 1), \"winter\" (season 6 part 2)",
+    "episodes": 26,
+    "duration": 13,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2021,
+      "month": 6,
+      "day": 25
+    },
+    "endDate": {
+      "year": 2021,
+      "month": 7,
+      "day": 15
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121180-OmuxQX3AGgMD.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx121180-OmuxQX3AGgMD.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx121180-OmuxQX3AGgMD.png",
+      "color": "#f1c950"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Mahou Shoujo"
+    ],
+    "synonyms": [
+      "Flower Angel"
+    ],
+    "averageScore": null,
+    "meanScore": 46,
+    "popularity": 76,
+    "trending": 0,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "CN",
+    "source": "VIDEO_GAME",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 121179,
+            "title": {
+              "romaji": "Xiao Hua Xian 5: Sishi Hua Yu - Chun Xia 1: Chun",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx121179-mmxcwQ0PJrSI.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": []
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1788562939,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

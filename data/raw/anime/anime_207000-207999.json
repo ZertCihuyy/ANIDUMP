@@ -42,7 +42,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3783,
-    "trending": 3,
+    "trending": 0,
     "favourites": 57,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -281,7 +281,7 @@
         }
       ]
     },
-    "updatedAt": 1788555839,
+    "updatedAt": 1788562939,
     "idTmdb": 313215,
     "idImdb": null,
     "idTvdb": null,
@@ -613,7 +613,7 @@
         }
       ]
     },
-    "updatedAt": 1788555868,
+    "updatedAt": 1788562850,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -670,7 +670,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 12996,
-    "trending": 1,
+    "trending": 0,
     "favourites": 156,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -820,7 +820,7 @@
         }
       ]
     },
-    "updatedAt": 1788534167,
+    "updatedAt": 1788562939,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1322,7 +1322,7 @@
     "averageScore": 57,
     "meanScore": 58,
     "popularity": 18981,
-    "trending": 64,
+    "trending": 45,
     "favourites": 273,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1357,7 +1357,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1789144200,
-      "timeUntilAiring": 587873,
+      "timeUntilAiring": 578966,
       "episode": 11
     },
     "relations": {
@@ -1627,7 +1627,7 @@
         }
       ]
     },
-    "updatedAt": 1788555623,
+    "updatedAt": 1788562811,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1731,7 +1731,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1789054200,
-      "timeUntilAiring": 497872,
+      "timeUntilAiring": 488965,
       "episode": 10
     },
     "relations": {
@@ -1846,6 +1846,12 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 80,
         "name": "Satire",
         "rank": 66,
@@ -1855,12 +1861,6 @@
         "id": 395,
         "name": "Delinquents",
         "rank": 66,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 100,
-        "name": "Nudity",
-        "rank": 65,
         "isMediaSpoiler": false
       },
       {
@@ -2122,8 +2122,8 @@
           "node": {
             "id": 389138,
             "name": {
-              "full": "Penpenneko",
-              "native": "ペンペンねこ"
+              "full": "Nazuna Kujou",
+              "native": "九条ナズナ"
             }
           },
           "voiceActors": [
@@ -2141,7 +2141,7 @@
           "node": {
             "id": 404687,
             "name": {
-              "full": "Eiko Kaku",
+              "full": "Yomuko Kaku",
               "native": "賀来詠子"
             }
           },
@@ -2157,7 +2157,7 @@
         }
       ]
     },
-    "updatedAt": 1788555613,
+    "updatedAt": 1788562811,
     "idTmdb": 312949,
     "idImdb": "tt39551330",
     "idTvdb": 473423,
@@ -2247,7 +2247,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788885300,
-      "timeUntilAiring": 337651,
+      "timeUntilAiring": 320089,
       "episode": 10
     },
     "relations": {
@@ -2626,7 +2626,7 @@
         }
       ]
     },
-    "updatedAt": 1788544835,
+    "updatedAt": 1788562822,
     "idTmdb": 314054,
     "idImdb": "tt41278592",
     "idTvdb": 474027,
@@ -2712,7 +2712,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1788968640,
-      "timeUntilAiring": 412389,
+      "timeUntilAiring": 403675,
       "episode": 10
     },
     "relations": {
@@ -3103,7 +3103,7 @@
         }
       ]
     },
-    "updatedAt": 1788555699,
+    "updatedAt": 1788562909,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3156,7 +3156,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 8570,
-    "trending": 1,
+    "trending": 2,
     "favourites": 70,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3186,7 +3186,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791471600,
-      "timeUntilAiring": 2935245,
+      "timeUntilAiring": 2906476,
       "episode": 1
     },
     "relations": {
@@ -3447,7 +3447,7 @@
         }
       ]
     },
-    "updatedAt": 1788530776,
+    "updatedAt": 1788562854,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3504,7 +3504,7 @@
     "averageScore": null,
     "meanScore": null,
     "popularity": 3460,
-    "trending": 2,
+    "trending": 4,
     "favourites": 43,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3796,7 +3796,7 @@
         }
       ]
     },
-    "updatedAt": 1788555799,
+    "updatedAt": 1788562914,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4475,7 +4475,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788530716,
+    "updatedAt": 1788562907,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

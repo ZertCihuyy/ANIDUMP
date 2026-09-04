@@ -680,7 +680,7 @@
     "averageScore": 70,
     "meanScore": 70,
     "popularity": 89858,
-    "trending": 1,
+    "trending": 2,
     "favourites": 1594,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1150,7 +1150,7 @@
         }
       ]
     },
-    "updatedAt": 1788544912,
+    "updatedAt": 1788562881,
     "idTmdb": 104711,
     "idImdb": "tt13167196",
     "idTvdb": 388645,
@@ -1205,7 +1205,7 @@
     "averageScore": 60,
     "meanScore": 60,
     "popularity": 43763,
-    "trending": 1,
+    "trending": 0,
     "favourites": 572,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -1671,7 +1671,7 @@
         }
       ]
     },
-    "updatedAt": 1788544990,
+    "updatedAt": 1788562939,
     "idTmdb": 104032,
     "idImdb": "tt14960284",
     "idTvdb": 400134,
@@ -1733,7 +1733,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 306082,
-    "trending": 12,
+    "trending": 24,
     "favourites": 11203,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2430,7 +2430,7 @@
         }
       ]
     },
-    "updatedAt": 1788555743,
+    "updatedAt": 1788562834,
     "idTmdb": 65942,
     "idImdb": "tt5607616",
     "idTvdb": 305089,
@@ -3355,7 +3355,7 @@
     "averageScore": 64,
     "meanScore": 64,
     "popularity": 78572,
-    "trending": 1,
+    "trending": 2,
     "favourites": 1058,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3862,7 +3862,7 @@
         }
       ]
     },
-    "updatedAt": 1788544952,
+    "updatedAt": 1788562881,
     "idTmdb": 104699,
     "idImdb": "tt12502782",
     "idTvdb": 383837,
@@ -19942,5 +19942,177 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": null
+  },
+  "119134": {
+    "id": 119134,
+    "idMal": 21121,
+    "title": {
+      "romaji": "Heart Cocktail Again",
+      "english": null,
+      "native": "ハートカクテルアゲイン"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": "An OVA produced to celebrate the 20th anniversary of Watase Seizou's Heart Cocktail manga.",
+    "episodes": 1,
+    "duration": 41,
+    "season": "FALL",
+    "seasonYear": 2003,
+    "startDate": {
+      "year": 2003,
+      "month": 10,
+      "day": 22
+    },
+    "endDate": {
+      "year": 2003,
+      "month": 10,
+      "day": 22
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119134-JvypIHUPL4n2.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119134-JvypIHUPL4n2.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b119134-JvypIHUPL4n2.jpg",
+      "color": "#e4505d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Romance"
+    ],
+    "synonyms": [],
+    "averageScore": 50,
+    "meanScore": 57,
+    "popularity": 323,
+    "trending": 0,
+    "favourites": 4,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 103376,
+            "title": {
+              "romaji": "Heart Cocktail",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/103376-bx3pnthhHsSq.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SIDE_STORY",
+          "node": {
+            "id": 208054,
+            "title": {
+              "romaji": "Heart Cocktail Again: Koi no Rensa",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 2003,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208054-jXlGZPyguypK.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 122,
+        "name": "Trains",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 81,
+        "name": "Iyashikei",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 109,
+        "name": "Primarily Adult Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 193,
+        "name": "Episodic",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 176,
+        "name": "Mopeds",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 173,
+        "name": "Motorcycles",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1537,
+        "name": "Coastal",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 250,
+        "name": "Rural",
+        "rank": 40,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 34,
+            "name": "Hal Film Maker"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1788562939,
+    "idTmdb": 806075,
+    "idImdb": "tt31947486",
+    "idTvdb": null,
+    "idTrakt": 640274,
+    "traktSlug": "heart-cocktail-again-2003",
+    "idSimkl": 40859,
+    "idShikimori": 21121
   }
 }
