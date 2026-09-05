@@ -267,7 +267,8 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/119080-zFaYijQ7c4NH.jpg",
     "genres": [
       "Action",
-      "Fantasy"
+      "Fantasy",
+      "Sci-Fi"
     ],
     "synonyms": [],
     "averageScore": 71,
@@ -621,7 +622,7 @@
         }
       ]
     },
-    "updatedAt": 1788544946,
+    "updatedAt": 1788606089,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1150,7 +1151,7 @@
         }
       ]
     },
-    "updatedAt": 1788588023,
+    "updatedAt": 1788606042,
     "idTmdb": 104711,
     "idImdb": "tt13167196",
     "idTvdb": 388645,
@@ -1733,7 +1734,7 @@
     "averageScore": 84,
     "meanScore": 84,
     "popularity": 306082,
-    "trending": 9,
+    "trending": 10,
     "favourites": 11207,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2430,7 +2431,7 @@
         }
       ]
     },
-    "updatedAt": 1788588006,
+    "updatedAt": 1788606074,
     "idTmdb": 65942,
     "idImdb": "tt5607616",
     "idTvdb": 305089,
@@ -2484,7 +2485,7 @@
     "averageScore": 67,
     "meanScore": 67,
     "popularity": 21514,
-    "trending": 0,
+    "trending": 1,
     "favourites": 143,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -2765,7 +2766,7 @@
         }
       ]
     },
-    "updatedAt": 1788522333,
+    "updatedAt": 1788606054,
     "idTmdb": 62640,
     "idImdb": null,
     "idTvdb": null,
@@ -5528,7 +5529,7 @@
     "averageScore": 53,
     "meanScore": 53,
     "popularity": 5710,
-    "trending": 0,
+    "trending": 1,
     "favourites": 51,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -5900,7 +5901,7 @@
         }
       ]
     },
-    "updatedAt": 1788522464,
+    "updatedAt": 1788606083,
     "idTmdb": 104155,
     "idImdb": "tt12415562",
     "idTvdb": 391883,
@@ -20114,5 +20115,174 @@
     "traktSlug": "heart-cocktail-again-2003",
     "idSimkl": 40859,
     "idShikimori": 21121
+  },
+  "119919": {
+    "id": 119919,
+    "idMal": 41806,
+    "title": {
+      "romaji": "Musekinin Kanchou Tylor Complete Collection \"Music Clip\"",
+      "english": null,
+      "native": "無責任艦長タイラー コンプリート・コレクション「ミュージック・クリップ」"
+    },
+    "type": "ANIME",
+    "format": "SPECIAL",
+    "status": "FINISHED",
+    "description": "It is a compilation of songs from The Irresposible Captain Tylor with new original animation.",
+    "episodes": 1,
+    "duration": 40,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 1994,
+      "month": 8,
+      "day": 1
+    },
+    "endDate": {
+      "year": 1994,
+      "month": 8,
+      "day": 1
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119919-ATnVuyBTALpE.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119919-ATnVuyBTALpE.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b119919-ATnVuyBTALpE.png",
+      "color": "#ae7835"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/119919-kP8YBau518zM.jpg",
+    "genres": [
+      "Music"
+    ],
+    "synonyms": [
+      "The Irresponsible Captain Tylor Complete Collection \"Music Clip\" "
+    ],
+    "averageScore": null,
+    "meanScore": 63,
+    "popularity": 194,
+    "trending": 1,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "LIGHT_NOVEL",
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 569,
+            "title": {
+              "romaji": "Musekinin Kanchou Tylor",
+              "english": "The Irresponsible Captain Tylor"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "WINTER",
+            "seasonYear": 1993,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx569-xlw4m3TkFBll.png"
+            }
+          }
+        },
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 1168,
+            "title": {
+              "romaji": "Musekinin Kanchou Tylor OVA",
+              "english": "Irresponsible Captain Tylor OVA"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "FALL",
+            "seasonYear": 1994,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1168-PIeqe2W74s7F.jpg"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 103,
+            "name": "Tatsunoko Production"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 3643,
+            "name": {
+              "full": "Justy Ueki Tylor",
+              "native": "ジャスティ・ウエキ・タイラー"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 10324,
+            "name": {
+              "full": "Yuriko Star",
+              "native": "ユリコ・スター"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 15060,
+            "name": {
+              "full": "Azalyn Goza",
+              "native": "アザリン"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 36608,
+            "name": {
+              "full": "Harumi Nakagawa",
+              "native": "中川 ハルミ"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 52747,
+            "name": {
+              "full": "Hidezaburo Kitaguchi",
+              "native": "ヒデサブロー・キタグチ"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1788606050,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": 41806
   }
 }
