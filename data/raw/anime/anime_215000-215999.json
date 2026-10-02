@@ -940,7 +940,7 @@
   },
   "215582": {
     "id": 215582,
-    "idMal": null,
+    "idMal": 64802,
     "title": {
       "romaji": "Fate/Grand Order Exhibition: Hoshimi no Kairo",
       "english": null,
@@ -973,11 +973,11 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/215582-QrsBnHX2M3va.jpg",
     "genres": [],
     "synonyms": [],
-    "averageScore": null,
+    "averageScore": 57,
     "meanScore": 73,
-    "popularity": 151,
-    "trending": 1,
-    "favourites": 3,
+    "popularity": 213,
+    "trending": 0,
+    "favourites": 4,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "VIDEO_GAME",
@@ -1193,7 +1193,7 @@
         }
       ]
     },
-    "updatedAt": 1788649307
+    "updatedAt": 1790895761
   },
   "215790": {
     "id": 215790,
@@ -1428,13 +1428,14 @@
       "Fantasy"
     ],
     "synonyms": [
-      "原神 最後の遺産"
+      "原神 最後の遺産",
+      "마지막 유산"
     ],
-    "averageScore": 64,
-    "meanScore": 80,
-    "popularity": 232,
+    "averageScore": 67,
+    "meanScore": 82,
+    "popularity": 284,
     "trending": 0,
-    "favourites": 9,
+    "favourites": 10,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "VIDEO_GAME",
@@ -1469,15 +1470,15 @@
     },
     "tags": [
       {
-        "id": 76,
-        "name": "Yuri",
-        "rank": 60,
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 79,
         "isMediaSpoiler": false
       },
       {
         "id": 98,
         "name": "Female Protagonist",
-        "rank": 20,
+        "rank": 60,
         "isMediaSpoiler": false
       },
       {
@@ -1509,7 +1510,15 @@
               "native": "桑多涅"
             }
           },
-          "voiceActors": []
+          "voiceActors": [
+            {
+              "id": 103805,
+              "name": {
+                "full": "Mariko Honda",
+                "native": "本多真梨子"
+              }
+            }
+          ]
         },
         {
           "role": "SUPPORTING",
@@ -1520,7 +1529,15 @@
               "native": "哥伦比娅"
             }
           },
-          "voiceActors": []
+          "voiceActors": [
+            {
+              "id": 118806,
+              "name": {
+                "full": "Lynn",
+                "native": null
+              }
+            }
+          ]
         },
         {
           "role": "SUPPORTING",
@@ -1531,7 +1548,15 @@
               "native": "阿蕾奇诺"
             }
           },
-          "voiceActors": []
+          "voiceActors": [
+            {
+              "id": 118454,
+              "name": {
+                "full": "Nanako Mori",
+                "native": "森なな子"
+              }
+            }
+          ]
         },
         {
           "role": "SUPPORTING",
@@ -1542,7 +1567,15 @@
               "native": "女士"
             }
           },
-          "voiceActors": []
+          "voiceActors": [
+            {
+              "id": 106289,
+              "name": {
+                "full": "Yui Shouji",
+                "native": "庄子裕衣"
+              }
+            }
+          ]
         },
         {
           "role": "SUPPORTING",
@@ -1553,7 +1586,15 @@
               "native": "阿兰・吉约丹"
             }
           },
-          "voiceActors": []
+          "voiceActors": [
+            {
+              "id": 403721,
+              "name": {
+                "full": "Tsuyoshi Hayakawa",
+                "native": "早川剛史"
+              }
+            }
+          ]
         },
         {
           "role": "BACKGROUND",
@@ -1575,7 +1616,15 @@
               "native": "达达利亚"
             }
           },
-          "voiceActors": []
+          "voiceActors": [
+            {
+              "id": 96762,
+              "name": {
+                "full": "Ryouhei Kimura",
+                "native": "木村良平"
+              }
+            }
+          ]
         },
         {
           "role": "BACKGROUND",
@@ -1586,7 +1635,15 @@
               "native": "潘塔罗涅"
             }
           },
-          "voiceActors": []
+          "voiceActors": [
+            {
+              "id": 96052,
+              "name": {
+                "full": "Takanori Hoshino",
+                "native": "星野貴紀"
+              }
+            }
+          ]
         },
         {
           "role": "BACKGROUND",
@@ -1597,7 +1654,15 @@
               "native": "博士"
             }
           },
-          "voiceActors": []
+          "voiceActors": [
+            {
+              "id": 95129,
+              "name": {
+                "full": "Toshihiko Seki",
+                "native": "関俊彦"
+              }
+            }
+          ]
         },
         {
           "role": "BACKGROUND",
@@ -1608,18 +1673,19 @@
               "native": "皮耶罗"
             }
           },
-          "voiceActors": []
+          "voiceActors": [
+            {
+              "id": 104677,
+              "name": {
+                "full": "Yasuhiro Mamiya",
+                "native": "間宮康弘"
+              }
+            }
+          ]
         }
       ]
     },
-    "updatedAt": 1788498120,
-    "idTmdb": null,
-    "idImdb": null,
-    "idTvdb": null,
-    "idTrakt": null,
-    "traktSlug": null,
-    "idSimkl": null,
-    "idShikimori": 64403
+    "updatedAt": 1790897406
   },
   "215617": {
     "id": 215617,
@@ -2022,22 +2088,22 @@
     "id": 215527,
     "idMal": 64823,
     "title": {
-      "romaji": "Kajitsu",
+      "romaji": "Kajitsu The Animation",
       "english": null,
-      "native": "夏日"
+      "native": "夏日 The Animation"
     },
     "type": "ANIME",
     "format": "OVA",
     "status": "NOT_YET_RELEASED",
-    "description": null,
+    "description": "Takeru, a married salaryman on a business trip to the countryside, meets Nazuna Tokiwa—a \"gal\"—through a dating app. Nazuna is a calculated \"little devil\" type who actively uses her charms to ensnare men. Shortly after meeting, the two engage in a passionate sexual encounter in a “sex den”—a secluded house tucked away in a remote corner of the countryside—\n<br><br>\n(Source: Showten, translated)",
     "episodes": null,
-    "duration": null,
-    "season": null,
-    "seasonYear": null,
+    "duration": 20,
+    "season": "FALL",
+    "seasonYear": 2026,
     "startDate": {
       "year": 2026,
-      "month": null,
-      "day": null
+      "month": 12,
+      "day": 25
     },
     "endDate": {
       "year": null,
@@ -2045,28 +2111,32 @@
       "day": null
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx215527-IuT6btQ4y1tS.png",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx215527-IuT6btQ4y1tS.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx215527-IuT6btQ4y1tS.png",
-      "color": "#c94386"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx215527-OggEWJJVg8pI.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx215527-OggEWJJVg8pI.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx215527-OggEWJJVg8pI.png",
+      "color": "#50aee4"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/215527-c3AZea98ZRFH.jpg",
     "genres": [
       "Hentai"
     ],
     "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 77,
-    "trending": 1,
-    "favourites": 0,
+    "popularity": 154,
+    "trending": 0,
+    "favourites": 1,
     "isAdult": true,
     "countryOfOrigin": "JP",
     "source": "OTHER",
     "trailer": null,
     "externalLinks": [],
     "streamingEpisodes": [],
-    "nextAiringEpisode": null,
+    "nextAiringEpisode": {
+      "airingAt": 1798124400,
+      "timeUntilAiring": 7223690,
+      "episode": 1
+    },
     "relations": {
       "edges": [
         {
@@ -2090,12 +2160,20 @@
     },
     "tags": [],
     "studios": {
-      "edges": []
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6153,
+            "name": "Show-Ten"
+          }
+        }
+      ]
     },
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788397320,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2224,7 +2302,7 @@
     },
     "type": "ANIME",
     "format": "ONA",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "\"Umayuru\" is a short anime series featuring pint-sized Uma Musume! This time, it’s a \"Full-Gate\" three-minute race where *all* the Uma Musume take to the track! A super-sized, laid-back gathering with everyone!",
     "episodes": 26,
     "duration": 3,
@@ -2233,7 +2311,7 @@
     "startDate": {
       "year": 2026,
       "month": 9,
-      "day": null
+      "day": 27
     },
     "endDate": {
       "year": null,
@@ -2252,18 +2330,32 @@
       "Slice of Life"
     ],
     "synonyms": [],
-    "averageScore": null,
-    "meanScore": null,
-    "popularity": 1533,
-    "trending": 1,
-    "favourites": 10,
+    "averageScore": 62,
+    "meanScore": 75,
+    "popularity": 2274,
+    "trending": 4,
+    "favourites": 13,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "VIDEO_GAME",
-    "trailer": null,
-    "externalLinks": [],
+    "trailer": {
+      "id": "rUHYbwZDVVI",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/rUHYbwZDVVI/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLNoVytAHV6zA",
+        "site": "YouTube",
+        "type": "STREAMING"
+      }
+    ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": null,
+    "nextAiringEpisode": {
+      "airingAt": 1791120600,
+      "timeUntilAiring": 219960,
+      "episode": 2
+    },
     "relations": {
       "edges": [
         {
@@ -2306,37 +2398,43 @@
       {
         "id": 324,
         "name": "Chibi",
-        "rank": 73,
+        "rank": 80,
         "isMediaSpoiler": false
       },
       {
         "id": 86,
         "name": "Primarily Female Cast",
-        "rank": 73,
+        "rank": 80,
         "isMediaSpoiler": false
       },
       {
         "id": 254,
         "name": "Kemonomimi",
-        "rank": 73,
+        "rank": 80,
         "isMediaSpoiler": false
       },
       {
         "id": 98,
         "name": "Female Protagonist",
-        "rank": 73,
+        "rank": 80,
         "isMediaSpoiler": false
       },
       {
         "id": 264,
         "name": "Athletics",
-        "rank": 73,
+        "rank": 80,
         "isMediaSpoiler": false
       },
       {
         "id": 92,
         "name": "Cute Girls Doing Cute Things",
-        "rank": 60,
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 142,
+        "name": "Food",
+        "rank": 70,
         "isMediaSpoiler": false
       }
     ],
@@ -2362,11 +2460,133 @@
               "native": "スペシャルウィーク"
             }
           },
-          "voiceActors": []
+          "voiceActors": [
+            {
+              "id": 119517,
+              "name": {
+                "full": "Azumi Waki",
+                "native": "和氣あず未"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 125303,
+            "name": {
+              "full": "El Condor Pasa",
+              "native": "エルコンドルパサー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 117003,
+              "name": {
+                "full": "Minami Takahashi",
+                "native": "髙橋ミナミ"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 125310,
+            "name": {
+              "full": "Seiun Sky",
+              "native": "セイウンスカイ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119722,
+              "name": {
+                "full": "Akari Kitou",
+                "native": "鬼頭明里"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 140848,
+            "name": {
+              "full": "Grass Wonder",
+              "native": "グラスワンダー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 112101,
+              "name": {
+                "full": "Rena Maeda",
+                "native": "前田玲奈"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 164139,
+            "name": {
+              "full": "King Halo",
+              "native": "キングヘイロー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 139844,
+              "name": {
+                "full": "Iori Saeki",
+                "native": "佐伯伊織"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 294348,
+            "name": {
+              "full": "Tsurumaru Tsuyoshi",
+              "native": "ツルマルツヨシ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118475,
+              "name": {
+                "full": "Yoshino Aoyama",
+                "native": "青山吉能"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 409718,
+            "name": {
+              "full": "Phalaenopsis",
+              "native": "ファレノプシス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 148551,
+              "name": {
+                "full": "Haruna Asami",
+                "native": "浅見春那"
+              }
+            }
+          ]
         }
       ]
     },
-    "updatedAt": 1788649319,
+    "updatedAt": 1790897308,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2414,9 +2634,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 4641,
-    "trending": 0,
-    "favourites": 19,
+    "popularity": 5255,
+    "trending": 2,
+    "favourites": 25,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": null,
@@ -2465,14 +2685,21 @@
         }
       ]
     },
-    "tags": [],
+    "tags": [
+      {
+        "id": 56,
+        "name": "Shounen",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
     "studios": {
       "edges": []
     },
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788653428,
+    "updatedAt": 1790897400,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3373,9 +3600,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 55,
-    "trending": 1,
-    "favourites": 2,
+    "popularity": 127,
+    "trending": 0,
+    "favourites": 5,
     "isAdult": true,
     "countryOfOrigin": "JP",
     "source": "VISUAL_NOVEL",
@@ -3384,7 +3611,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1795705200,
-      "timeUntilAiring": 7050715,
+      "timeUntilAiring": 4804490,
       "episode": 1
     },
     "relations": {
@@ -3405,7 +3632,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788649239,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

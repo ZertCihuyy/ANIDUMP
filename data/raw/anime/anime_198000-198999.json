@@ -212,9 +212,9 @@
     ],
     "averageScore": 57,
     "meanScore": 58,
-    "popularity": 7416,
+    "popularity": 7547,
     "trending": 0,
-    "favourites": 100,
+    "favourites": 99,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -476,7 +476,7 @@
         }
       ]
     },
-    "updatedAt": 1788670907,
+    "updatedAt": 1790899855,
     "idTmdb": 297286,
     "idImdb": "tt38572776",
     "idTvdb": 466376,
@@ -490,7 +490,7 @@
     "idMal": 62484,
     "title": {
       "romaji": "Chitose-kun wa Ramune Bin no Naka Part 2",
-      "english": null,
+      "english": "Chitose Is in the Ramune Bottle 2nd Cour",
       "native": "千歳くんはラムネ瓶のなか 2クール"
     },
     "type": "ANIME",
@@ -504,7 +504,7 @@
     "startDate": {
       "year": 2026,
       "month": 10,
-      "day": null
+      "day": 13
     },
     "endDate": {
       "year": null,
@@ -525,21 +525,20 @@
     "synonyms": [
       "Chiramune",
       "チラムネ",
-      "Chitose Is in the Ramune Bottle Part 2",
-      "Chitose Is in the Ramune Bottle Cour 2"
+      "Chitose Is in the Ramune Bottle Part 2"
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 8106,
-    "trending": 4,
-    "favourites": 97,
+    "popularity": 10323,
+    "trending": 2,
+    "favourites": 116,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
     "trailer": {
-      "id": "G14qnuuJWtI",
+      "id": "8RHh2AyKRfY",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/G14qnuuJWtI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/8RHh2AyKRfY/hqdefault.jpg"
     },
     "externalLinks": [
       {
@@ -551,10 +550,19 @@
         "url": "https://x.com/anime_chiramune",
         "site": "Twitter",
         "type": "SOCIAL"
+      },
+      {
+        "url": "https://www.crunchyroll.com/series/GT00364783/chitose-is-in-the-ramune-bottle",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": null,
+    "nextAiringEpisode": {
+      "airingAt": 1791900000,
+      "timeUntilAiring": 999582,
+      "episode": 1
+    },
     "relations": {
       "edges": [
         {
@@ -730,10 +738,29 @@
               }
             }
           ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 268037,
+            "name": {
+              "full": "Mai Toudou",
+              "native": "東堂舞"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 116517,
+              "name": {
+                "full": "Sora Amamiya",
+                "native": "雨宮天"
+              }
+            }
+          ]
         }
       ]
     },
-    "updatedAt": 1788670858,
+    "updatedAt": 1790899858,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1120,9 +1147,9 @@
     ],
     "averageScore": 64,
     "meanScore": 64,
-    "popularity": 17154,
-    "trending": 2,
-    "favourites": 200,
+    "popularity": 17536,
+    "trending": 0,
+    "favourites": 204,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -1520,7 +1547,7 @@
         }
       ]
     },
-    "updatedAt": 1788649267,
+    "updatedAt": 1790895761,
     "idTmdb": 303434,
     "idImdb": "tt38646016",
     "idTvdb": 467839,
@@ -1591,9 +1618,9 @@
     ],
     "averageScore": 79,
     "meanScore": 79,
-    "popularity": 49154,
-    "trending": 0,
-    "favourites": 1092,
+    "popularity": 50177,
+    "trending": 1,
+    "favourites": 1099,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -2253,7 +2280,7 @@
         }
       ]
     },
-    "updatedAt": 1788670907,
+    "updatedAt": 1790899855,
     "idTmdb": 299778,
     "idImdb": "tt38491451",
     "idTvdb": 467641,
@@ -2307,10 +2334,10 @@
       "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3"
     ],
     "averageScore": 67,
-    "meanScore": 67,
-    "popularity": 15764,
-    "trending": 2,
-    "favourites": 201,
+    "meanScore": 68,
+    "popularity": 16233,
+    "trending": 1,
+    "favourites": 214,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -2378,6 +2405,12 @@
     },
     "tags": [
       {
+        "id": 244,
+        "name": "Isekai",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 604,
         "name": "Dungeon",
         "rank": 79,
@@ -2392,12 +2425,6 @@
       {
         "id": 1304,
         "name": "Anthropomorphism",
-        "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 244,
-        "name": "Isekai",
         "rank": 79,
         "isMediaSpoiler": false
       },
@@ -2418,6 +2445,12 @@
         "name": "Skeleton",
         "rank": 79,
         "isMediaSpoiler": false
+      },
+      {
+        "id": 111,
+        "name": "War",
+        "rank": 79,
+        "isMediaSpoiler": true
       },
       {
         "id": 1752,
@@ -2506,12 +2539,6 @@
       {
         "id": 1456,
         "name": "Femboy",
-        "rank": 20,
-        "isMediaSpoiler": true
-      },
-      {
-        "id": 75,
-        "name": "Boys' Love",
         "rank": 20,
         "isMediaSpoiler": true
       }
@@ -2777,7 +2804,7 @@
         }
       ]
     },
-    "updatedAt": 1788670877,
+    "updatedAt": 1790895714,
     "idTmdb": 207564,
     "idImdb": "tt28100731",
     "idTvdb": 423121,
@@ -2829,9 +2856,9 @@
     ],
     "averageScore": 74,
     "meanScore": 74,
-    "popularity": 46931,
-    "trending": 6,
-    "favourites": 831,
+    "popularity": 48685,
+    "trending": 5,
+    "favourites": 863,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -3350,7 +3377,7 @@
         }
       ]
     },
-    "updatedAt": 1788670840,
+    "updatedAt": 1790897349,
     "idTmdb": 300131,
     "idImdb": "tt39443399",
     "idTvdb": 467414,
@@ -3369,7 +3396,7 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "Suddenly thrown together, a group of girls are now debuting as the virtual band, Mugendai Mewtype. They’ve got talent and personality, but no clue how to perform as one. Can they survive, let alone make it to the top in this unforgiving music world?<br>\n<br>\n(Source: Crunchyroll)",
     "episodes": 13,
     "duration": 24,
@@ -3401,11 +3428,11 @@
     "synonyms": [
       "BanG Dream! Yumemita"
     ],
-    "averageScore": 74,
-    "meanScore": 76,
-    "popularity": 7264,
-    "trending": 9,
-    "favourites": 140,
+    "averageScore": 75,
+    "meanScore": 75,
+    "popularity": 7995,
+    "trending": 8,
+    "favourites": 231,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "OTHER",
@@ -3442,11 +3469,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1789048800,
-      "timeUntilAiring": 376834,
-      "episode": 13
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -3458,7 +3481,7 @@
               "english": "GANSO! BanG Dream Chan"
             },
             "type": "ANIME",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "season": "FALL",
             "seasonYear": 2025,
             "coverImage": {
@@ -3475,11 +3498,11 @@
               "english": null
             },
             "type": "MANGA",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "season": null,
             "seasonYear": null,
             "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx214201-9RgWg2sLByqi.png"
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx214201-4HAkbT2W3cPp.jpg"
             }
           }
         },
@@ -3496,7 +3519,7 @@
             "season": null,
             "seasonYear": null,
             "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx215743-lwZEwjyo0Wpb.jpg"
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx215743-iZ7D0Z9iYr0y.jpg"
             }
           }
         }
@@ -3522,27 +3545,27 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 1047,
-        "name": "VTuber",
-        "rank": 89,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 110,
         "name": "Band",
         "rank": 88,
         "isMediaSpoiler": false
       },
       {
+        "id": 1047,
+        "name": "VTuber",
+        "rank": 87,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 89,
         "name": "Full CGI",
-        "rank": 86,
+        "rank": 87,
         "isMediaSpoiler": false
       },
       {
         "id": 309,
         "name": "Blackmail",
-        "rank": 86,
+        "rank": 82,
         "isMediaSpoiler": true
       },
       {
@@ -3572,13 +3595,13 @@
       {
         "id": 76,
         "name": "Yuri",
-        "rank": 66,
+        "rank": 67,
         "isMediaSpoiler": false
       },
       {
         "id": 46,
         "name": "School",
-        "rank": 65,
+        "rank": 67,
         "isMediaSpoiler": false
       },
       {
@@ -3596,7 +3619,7 @@
       {
         "id": 83,
         "name": "Slapstick",
-        "rank": 40,
+        "rank": 46,
         "isMediaSpoiler": false
       },
       {
@@ -3846,7 +3869,7 @@
         }
       ]
     },
-    "updatedAt": 1788670865,
+    "updatedAt": 1790899855,
     "idTmdb": 300112,
     "idImdb": "tt38267477",
     "idTvdb": 467841,
@@ -3901,9 +3924,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 49276,
-    "trending": 3,
-    "favourites": 565,
+    "popularity": 51817,
+    "trending": 4,
+    "favourites": 580,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -4172,7 +4195,7 @@
         }
       ]
     },
-    "updatedAt": 1788670853,
+    "updatedAt": 1790899858,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4223,11 +4246,11 @@
     "synonyms": [
       "วิกตอเรียผู้มีสารพัดไพ่ลับในมือ"
     ],
-    "averageScore": 73,
+    "averageScore": 74,
     "meanScore": 74,
-    "popularity": 15105,
-    "trending": 14,
-    "favourites": 234,
+    "popularity": 16224,
+    "trending": 8,
+    "favourites": 289,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -4324,18 +4347,18 @@
       {
         "id": 1277,
         "name": "Found Family",
-        "rank": 86,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 27,
-        "name": "Josei",
-        "rank": 80,
+        "rank": 88,
         "isMediaSpoiler": false
       },
       {
         "id": 87,
         "name": "Family Life",
+        "rank": 83,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 27,
+        "name": "Josei",
         "rank": 80,
         "isMediaSpoiler": false
       },
@@ -4352,15 +4375,21 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 65,
+        "isMediaSpoiler": true
+      },
+      {
         "id": 1045,
         "name": "Heterosexual",
         "rank": 64,
         "isMediaSpoiler": false
       },
       {
-        "id": 85,
-        "name": "Tragedy",
-        "rank": 53,
+        "id": 1046,
+        "name": "Suicide",
+        "rank": 55,
         "isMediaSpoiler": true
       },
       {
@@ -4376,10 +4405,10 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 1046,
-        "name": "Suicide",
+        "id": 226,
+        "name": "Fugitive",
         "rank": 40,
-        "isMediaSpoiler": true
+        "isMediaSpoiler": false
       },
       {
         "id": 1327,
@@ -4628,7 +4657,7 @@
         }
       ]
     },
-    "updatedAt": 1788667227,
+    "updatedAt": 1790899858,
     "idTmdb": 302519,
     "idImdb": "tt38273525",
     "idTvdb": 468049,
@@ -4647,8 +4676,8 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "RELEASING",
-    "description": "The second season of <i>Clevatess: Majuu no Ou to Akago to Kabane no Yuusha</i>.",
+    "status": "FINISHED",
+    "description": "The war is over, but General Drel's secrets remain. As visitors from Hiden, Boelate, and Eslinn converge on Solsein, Boelate's divine academy, the search for Drel's hidden room begins. Among those drawn into the mystery is Klen, now serving as Luna's magic teacher. But what truth lies at the heart of Drel's secret?\n<br><br>\n(Source: Crunchyroll)",
     "episodes": 13,
     "duration": 24,
     "season": "SUMMER",
@@ -4659,9 +4688,9 @@
       "day": 8
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 9,
+      "day": 30
     },
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198946-IGXmbqBEYRYD.jpg",
@@ -4669,7 +4698,7 @@
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198946-IGXmbqBEYRYD.jpg",
       "color": "#f1bb5d"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198946-mtAaOmyKraEE.jpg",
     "genres": [
       "Action",
       "Drama",
@@ -4680,11 +4709,11 @@
       "Clevatess II: Majuu no Ou to Akago to Kabane no Yuusha 2nd Season",
       "เคลวาเทส อสูรจอมราชัน Ⅱ"
     ],
-    "averageScore": 75,
-    "meanScore": 76,
-    "popularity": 42924,
-    "trending": 42,
-    "favourites": 605,
+    "averageScore": 78,
+    "meanScore": 78,
+    "popularity": 47037,
+    "trending": 171,
+    "favourites": 788,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -4726,11 +4755,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1788955200,
-      "timeUntilAiring": 283128,
-      "episode": 10
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -4771,9 +4796,15 @@
     },
     "tags": [
       {
+        "id": 456,
+        "name": "Conspiracy",
+        "rank": 95,
+        "isMediaSpoiler": true
+      },
+      {
         "id": 1752,
         "name": "Medieval",
-        "rank": 90,
+        "rank": 94,
         "isMediaSpoiler": false
       },
       {
@@ -4783,57 +4814,69 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 772,
-        "name": "Shapeshifting",
-        "rank": 79,
-        "isMediaSpoiler": true
-      },
-      {
-        "id": 456,
-        "name": "Conspiracy",
-        "rank": 79,
-        "isMediaSpoiler": true
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 80,
+        "isMediaSpoiler": false
       },
       {
         "id": 46,
         "name": "School",
-        "rank": 76,
+        "rank": 77,
         "isMediaSpoiler": false
       },
       {
-        "id": 98,
-        "name": "Female Protagonist",
-        "rank": 70,
-        "isMediaSpoiler": false
+        "id": 772,
+        "name": "Shapeshifting",
+        "rank": 64,
+        "isMediaSpoiler": true
       },
       {
         "id": 1090,
         "name": "Monster Boy",
-        "rank": 70,
+        "rank": 63,
         "isMediaSpoiler": false
       },
       {
         "id": 103,
         "name": "Politics",
-        "rank": 60,
+        "rank": 54,
         "isMediaSpoiler": false
       },
       {
-        "id": 931,
-        "name": "Tomboy",
-        "rank": 60,
-        "isMediaSpoiler": false
+        "id": 244,
+        "name": "Isekai",
+        "rank": 53,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 466,
+        "name": "Lost Civilization",
+        "rank": 46,
+        "isMediaSpoiler": true
       },
       {
         "id": 259,
         "name": "Monster Girl",
-        "rank": 50,
+        "rank": 40,
         "isMediaSpoiler": true
+      },
+      {
+        "id": 931,
+        "name": "Tomboy",
+        "rank": 37,
+        "isMediaSpoiler": false
       },
       {
         "id": 75,
         "name": "Boys' Love",
-        "rank": 40,
+        "rank": 37,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 93,
+        "name": "Post-Apocalyptic",
+        "rank": 20,
         "isMediaSpoiler": true
       }
     ],
@@ -4972,7 +5015,53 @@
               "native": "ネルル"
             }
           },
-          "voiceActors": []
+          "voiceActors": [
+            {
+              "id": 101686,
+              "name": {
+                "full": "Aoi Yuuki",
+                "native": "悠木碧"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 366646,
+            "name": {
+              "full": "Margo Glenfall",
+              "native": "マルゴ・グレンフォール"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 158727,
+              "name": {
+                "full": "Miou Tanaka",
+                "native": "田中美央"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 366647,
+            "name": {
+              "full": "Dorel",
+              "native": "ドレル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95025,
+              "name": {
+                "full": "Hiroki Yasumoto",
+                "native": "安元洋貴"
+              }
+            }
+          ]
         },
         {
           "role": "SUPPORTING",
@@ -5049,48 +5138,10 @@
               }
             }
           ]
-        },
-        {
-          "role": "SUPPORTING",
-          "node": {
-            "id": 387282,
-            "name": {
-              "full": "Mary Meriweather",
-              "native": "メアリー・メリーウェイザー"
-            }
-          },
-          "voiceActors": [
-            {
-              "id": 370143,
-              "name": {
-                "full": "Yurina Kikuchi",
-                "native": "菊池ゆりな"
-              }
-            }
-          ]
-        },
-        {
-          "role": "SUPPORTING",
-          "node": {
-            "id": 387284,
-            "name": {
-              "full": "Andrew Whipp",
-              "native": "アンドリュー・ウイップ"
-            }
-          },
-          "voiceActors": [
-            {
-              "id": 137436,
-              "name": {
-                "full": "Tatsumaru Tachibana",
-                "native": "橘龍丸"
-              }
-            }
-          ]
         }
       ]
     },
-    "updatedAt": 1788670820,
+    "updatedAt": 1790899858,
     "idTmdb": 258348,
     "idImdb": "tt32991344",
     "idTvdb": 451793,
@@ -5140,7 +5191,7 @@
     "synonyms": [],
     "averageScore": 60,
     "meanScore": 77,
-    "popularity": 522,
+    "popularity": 532,
     "trending": 0,
     "favourites": 20,
     "isAdult": false,
@@ -5242,7 +5293,7 @@
         }
       ]
     },
-    "updatedAt": 1788562939,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -5261,7 +5312,7 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "After a fatal accident, overworked office worker Arihito Atobe is reborn in the Labyrinth Country as a Seeker with the rare Rearguard class—an all-purpose support role that excels in attack, defense, and healing. Joined by a fierce demi-human mercenary and his former boss, Arihito dives into deadly dungeons and rises through the ranks. The adventure of the strongest support class begins!\n<br><br>\n(Source: Crunchyroll)",
     "episodes": 12,
     "duration": 24,
@@ -5273,9 +5324,9 @@
       "day": 5
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 9,
+      "day": 20
     },
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png",
@@ -5292,11 +5343,11 @@
     "synonyms": [
       "กองหลังที่แกร่งที่สุดในโลก -นักสำรวจหน้าใหม่ ณ แดนเขาวงกต-"
     ],
-    "averageScore": 55,
-    "meanScore": 56,
-    "popularity": 26904,
-    "trending": 8,
-    "favourites": 307,
+    "averageScore": 57,
+    "meanScore": 57,
+    "popularity": 29404,
+    "trending": 16,
+    "favourites": 349,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -5338,11 +5389,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1788699600,
-      "timeUntilAiring": 27558,
-      "episode": 10
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -5385,13 +5432,13 @@
       {
         "id": 244,
         "name": "Isekai",
-        "rank": 64,
+        "rank": 70,
         "isMediaSpoiler": false
       },
       {
         "id": 23,
         "name": "Female Harem",
-        "rank": 62,
+        "rank": 65,
         "isMediaSpoiler": false
       },
       {
@@ -5410,6 +5457,18 @@
         "id": 1752,
         "name": "Medieval",
         "rank": 30,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 604,
+        "name": "Dungeon",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 259,
+        "name": "Monster Girl",
+        "rank": 20,
         "isMediaSpoiler": false
       }
     ],
@@ -5622,7 +5681,7 @@
         }
       ]
     },
-    "updatedAt": 1788670835,
+    "updatedAt": 1790899855,
     "idTmdb": 300267,
     "idImdb": "tt41293112",
     "idTvdb": 467882,
@@ -5674,9 +5733,9 @@
     ],
     "averageScore": 61,
     "meanScore": 78,
-    "popularity": 380,
-    "trending": 0,
-    "favourites": 18,
+    "popularity": 386,
+    "trending": 1,
+    "favourites": 20,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "OTHER",
@@ -5745,7 +5804,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788667307,
+    "updatedAt": 1790899858,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -5797,13 +5856,14 @@
       "Assassination Classroom: Everyone's Time",
       "Ansatsu Kyoushitsu Movie 2",
       "Assassination Classroom Movie 2",
-      "Assassination Classroom: l'ora di tutti noi"
+      "Assassination Classroom: l'ora di tutti noi",
+      "Assassination Classroom: El tiempo que compartimos"
     ],
     "averageScore": 75,
     "meanScore": 77,
-    "popularity": 14561,
-    "trending": 0,
-    "favourites": 130,
+    "popularity": 15119,
+    "trending": 2,
+    "favourites": 143,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -6141,7 +6201,7 @@
         }
       ]
     },
-    "updatedAt": 1788670907,
+    "updatedAt": 1790897327,
     "idTmdb": 1542877,
     "idImdb": "tt38649153",
     "idTvdb": null,
@@ -6711,9 +6771,9 @@
     ],
     "averageScore": 57,
     "meanScore": 58,
-    "popularity": 3084,
-    "trending": 1,
-    "favourites": 64,
+    "popularity": 3150,
+    "trending": 0,
+    "favourites": 63,
     "isAdult": true,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -6931,7 +6991,7 @@
         }
       ]
     },
-    "updatedAt": 1788649308,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7968,11 +8028,11 @@
     },
     "type": "ANIME",
     "format": "MOVIE",
-    "status": "NOT_YET_RELEASED",
+    "status": "FINISHED",
     "description": "Movie of <i>Meitantei Precure!</i>.",
-    "episodes": null,
-    "duration": null,
-    "season": "FALL",
+    "episodes": 1,
+    "duration": 71,
+    "season": "SUMMER",
     "seasonYear": 2026,
     "startDate": {
       "year": 2026,
@@ -7996,10 +8056,10 @@
     ],
     "synonyms": [],
     "averageScore": null,
-    "meanScore": null,
-    "popularity": 641,
-    "trending": 0,
-    "favourites": 3,
+    "meanScore": 70,
+    "popularity": 768,
+    "trending": 1,
+    "favourites": 6,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -8026,11 +8086,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1789657200,
-      "timeUntilAiring": 1226174,
-      "episode": 1
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -8311,7 +8367,7 @@
         }
       ]
     },
-    "updatedAt": 1788427140,
+    "updatedAt": 1790897392,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -8331,7 +8387,7 @@
     "type": "ANIME",
     "format": "MOVIE",
     "status": "FINISHED",
-    "description": "The 29th <i>Detective Conan</i> movie.\n<br><br>\nConan, Ran, Sonoko, and Kogoro were heading to Yokohama's Minato Mirai district with motorcycle enthusiast Masumi Sera for the Kanagawa Motorcycle Festival. Then, a mysterious black motorcycle appeared, leaping over the car carrying Conan and the others. And chasing it was Chihaya Hagiwara of the Kanagawa Prefectural Police Traffic Mobile Unit—the “Goddess of the Wind” Ran had once seen. However, after a fierce car chase, Chihaya's motorcycle was wrecked, and she let the target slip away at the last moment. After arriving at the Yokohama festival venue, Conan and the others witnessed the unveiling of a new police motorcycle equipped with cutting-edge technology, named \"Angel.\" Amidst this, reports surfaced that a runaway \"black motorcycle\" had now appeared in central Tokyo, evading pursuit by the Metropolitan Police Department. The purpose of the rampage remains unknown, but the vehicle's body bears a striking resemblance to \"Angel.\" Police have dubbed the black Angel bike \"Lucifer\" and continue their pursuit.\n<br><br>\n(Source: Official website, translated)",
+    "description": "Conan, Ran, Sonoko, and Kogoro were heading to Yokohama's Minato Mirai district with motorcycle enthusiast Masumi Sera for the Kanagawa Motorcycle Festival. Then, a mysterious black motorcycle appeared, leaping over the car carrying Conan and the others. And chasing it was Chihaya Hagiwara of the Kanagawa Prefectural Police Traffic Mobile Unit—the “Goddess of the Wind” Ran had once seen. However, after a fierce car chase, Chihaya's motorcycle was wrecked, and she let the target slip away at the last moment. After arriving at the Yokohama festival venue, Conan and the others witnessed the unveiling of a new police motorcycle equipped with cutting-edge technology, named \"Angel.\" Amidst this, reports surfaced that a runaway \"black motorcycle\" had now appeared in central Tokyo, evading pursuit by the Metropolitan Police Department. The purpose of the rampage remains unknown, but the vehicle's body bears a striking resemblance to \"Angel.\" Police have dubbed the black Angel bike \"Lucifer\" and continue their pursuit.\n<br><br>\n(Source: Official website, translated)",
     "episodes": 1,
     "duration": 109,
     "season": "SPRING",
@@ -8359,13 +8415,15 @@
     "synonyms": [
       "Meitantei Conan Movie 29",
       "Detective Conan Movie 29",
-      "Detective Conan: Fallen Angel of the Highway"
+      "Detective Conan: Fallen Angel of the Highway",
+      "Detective Conan: El ángel caído de la carretera",
+      "Detectiu Conan: L'ángel caigut de la carretera"
     ],
-    "averageScore": 66,
+    "averageScore": 68,
     "meanScore": 71,
-    "popularity": 2017,
-    "trending": 2,
-    "favourites": 20,
+    "popularity": 2187,
+    "trending": 0,
+    "favourites": 24,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -8431,28 +8489,40 @@
     },
     "tags": [
       {
+        "id": 173,
+        "name": "Motorcycles",
+        "rank": 95,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 694,
         "name": "Detective",
+        "rank": 86,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 648,
+        "name": "Crime",
         "rank": 84,
         "isMediaSpoiler": false
       },
       {
         "id": 40,
         "name": "Police",
-        "rank": 80,
+        "rank": 83,
         "isMediaSpoiler": false
       },
       {
-        "id": 648,
-        "name": "Crime",
-        "rank": 80,
+        "id": 517,
+        "name": "Artificial Intelligence",
+        "rank": 40,
         "isMediaSpoiler": false
       },
       {
-        "id": 173,
-        "name": "Motorcycles",
-        "rank": 79,
-        "isMediaSpoiler": false
+        "id": 252,
+        "name": "Revenge",
+        "rank": 20,
+        "isMediaSpoiler": true
       }
     ],
     "studios": {
@@ -8612,7 +8682,7 @@
         }
       ]
     },
-    "updatedAt": 1788649248,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -10506,16 +10576,16 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 1902,
+    "popularity": 2310,
     "trending": 1,
-    "favourites": 6,
+    "favourites": 8,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
     "trailer": {
-      "id": "RWUIMxHyNoM",
+      "id": "ECavMtVCB08",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/RWUIMxHyNoM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/ECavMtVCB08/hqdefault.jpg"
     },
     "externalLinks": [
       {
@@ -10785,7 +10855,7 @@
         }
       ]
     },
-    "updatedAt": 1788667278,
+    "updatedAt": 1790899858,
     "idTmdb": 300700,
     "idImdb": null,
     "idTvdb": null,
@@ -11579,9 +11649,9 @@
     ],
     "averageScore": 61,
     "meanScore": 75,
-    "popularity": 575,
-    "trending": 0,
-    "favourites": 4,
+    "popularity": 588,
+    "trending": 1,
+    "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "OTHER",
@@ -11618,7 +11688,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788427138,
+    "updatedAt": 1790895728,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

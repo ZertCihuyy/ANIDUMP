@@ -46,9 +46,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 6935,
-    "trending": 3,
-    "favourites": 118,
+    "popularity": 7176,
+    "trending": 0,
+    "favourites": 127,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -353,7 +353,7 @@
         }
       ]
     },
-    "updatedAt": 1788649321,
+    "updatedAt": 1790899849,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -411,9 +411,9 @@
     ],
     "averageScore": 70,
     "meanScore": 70,
-    "popularity": 47131,
-    "trending": 5,
-    "favourites": 821,
+    "popularity": 48528,
+    "trending": 4,
+    "favourites": 844,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -581,6 +581,12 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 128,
+        "name": "Incest",
+        "rank": 65,
+        "isMediaSpoiler": true
+      },
+      {
         "id": 193,
         "name": "Episodic",
         "rank": 64,
@@ -623,6 +629,12 @@
         "isMediaSpoiler": true
       },
       {
+        "id": 294,
+        "name": "Bisexual",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 1228,
         "name": "Primarily Teen Cast",
         "rank": 55,
@@ -633,12 +645,6 @@
         "name": "Angels",
         "rank": 53,
         "isMediaSpoiler": false
-      },
-      {
-        "id": 128,
-        "name": "Incest",
-        "rank": 53,
-        "isMediaSpoiler": true
       },
       {
         "id": 76,
@@ -673,12 +679,6 @@
       {
         "id": 116,
         "name": "Volleyball",
-        "rank": 40,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 294,
-        "name": "Bisexual",
         "rank": 40,
         "isMediaSpoiler": false
       },
@@ -934,7 +934,7 @@
         }
       ]
     },
-    "updatedAt": 1788670828,
+    "updatedAt": 1790899849,
     "idTmdb": 285818,
     "idImdb": "tt37729351",
     "idTvdb": 462598,
@@ -991,9 +991,9 @@
     ],
     "averageScore": 76,
     "meanScore": 76,
-    "popularity": 46149,
-    "trending": 2,
-    "favourites": 1152,
+    "popularity": 47337,
+    "trending": 5,
+    "favourites": 1193,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -1264,7 +1264,7 @@
       {
         "id": 76,
         "name": "Yuri",
-        "rank": 20,
+        "rank": 30,
         "isMediaSpoiler": false
       },
       {
@@ -1521,7 +1521,7 @@
         }
       ]
     },
-    "updatedAt": 1788667256,
+    "updatedAt": 1790899847,
     "idTmdb": 288659,
     "idImdb": "tt39267868",
     "idTvdb": 462446,
@@ -1540,9 +1540,9 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "After losing her mother and her homeland, Sitara’s despair transforms into determination with the power of knowledge. New possibilities unfold when a family of scholars takes her in, deepening her education. Meanwhile, Genghis Khan’s Mongol Empire conquers nation after nation, nearing Sitara’s new home. After the Fourth Prince of the empire takes her captive, a flame of revenge is ignited.<br><br>\n(Source: Crunchyroll)",
-    "episodes": null,
+    "episodes": 12,
     "duration": 23,
     "season": "SUMMER",
     "seasonYear": 2026,
@@ -1552,9 +1552,9 @@
       "day": 4
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 9,
+      "day": 12
     },
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg",
@@ -1571,11 +1571,11 @@
       "A Witch's Life in Mongol",
       "Jaadugar, la légende de Fatima"
     ],
-    "averageScore": 82,
-    "meanScore": 83,
-    "popularity": 40881,
-    "trending": 133,
-    "favourites": 747,
+    "averageScore": 84,
+    "meanScore": 84,
+    "popularity": 45124,
+    "trending": 14,
+    "favourites": 1283,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -1612,11 +1612,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1789223400,
-      "timeUntilAiring": 551315,
-      "episode": 12
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -1640,12 +1636,6 @@
     },
     "tags": [
       {
-        "id": 85,
-        "name": "Tragedy",
-        "rank": 100,
-        "isMediaSpoiler": true
-      },
-      {
         "id": 1327,
         "name": "Royal Affairs",
         "rank": 98,
@@ -1664,12 +1654,6 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 103,
-        "name": "Politics",
-        "rank": 98,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 25,
         "name": "Historical",
         "rank": 95,
@@ -1682,45 +1666,45 @@
         "isMediaSpoiler": true
       },
       {
-        "id": 456,
-        "name": "Conspiracy",
-        "rank": 92,
+        "id": 103,
+        "name": "Politics",
+        "rank": 94,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 93,
         "isMediaSpoiler": true
       },
       {
-        "id": 198,
-        "name": "Foreign",
-        "rank": 91,
+        "id": 111,
+        "name": "War",
+        "rank": 90,
         "isMediaSpoiler": false
       },
       {
         "id": 247,
         "name": "Slavery",
-        "rank": 91,
+        "rank": 89,
         "isMediaSpoiler": false
       },
       {
-        "id": 111,
-        "name": "War",
-        "rank": 91,
+        "id": 456,
+        "name": "Conspiracy",
+        "rank": 86,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 198,
+        "name": "Foreign",
+        "rank": 85,
         "isMediaSpoiler": false
       },
       {
-        "id": 153,
-        "name": "Time Skip",
-        "rank": 90,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 102,
-        "name": "Coming of Age",
-        "rank": 82,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 1403,
-        "name": "Class Struggle",
-        "rank": 81,
+        "id": 239,
+        "name": "Biographical",
+        "rank": 80,
         "isMediaSpoiler": false
       },
       {
@@ -1730,44 +1714,26 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 1310,
-        "name": "Travel",
-        "rank": 80,
+        "id": 1403,
+        "name": "Class Struggle",
+        "rank": 75,
         "isMediaSpoiler": false
       },
       {
-        "id": 310,
-        "name": "Espionage",
-        "rank": 80,
-        "isMediaSpoiler": true
-      },
-      {
-        "id": 239,
-        "name": "Biographical",
-        "rank": 77,
+        "id": 153,
+        "name": "Time Skip",
+        "rank": 74,
         "isMediaSpoiler": false
       },
       {
         "id": 1419,
         "name": "Kingdom Management",
-        "rank": 75,
+        "rank": 73,
         "isMediaSpoiler": false
       },
       {
         "id": 1091,
         "name": "Religion",
-        "rank": 75,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 1382,
-        "name": "Orphan",
-        "rank": 74,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 143,
-        "name": "Survival",
         "rank": 73,
         "isMediaSpoiler": false
       },
@@ -1778,33 +1744,63 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 1578,
-        "name": "Arranged Marriage",
-        "rank": 60,
+        "id": 102,
+        "name": "Coming of Age",
+        "rank": 68,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 310,
+        "name": "Espionage",
+        "rank": 68,
         "isMediaSpoiler": true
       },
       {
-        "id": 1046,
-        "name": "Suicide",
+        "id": 1929,
+        "name": "Middle East",
+        "rank": 68,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1382,
+        "name": "Orphan",
+        "rank": 62,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1310,
+        "name": "Travel",
         "rank": 58,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 143,
+        "name": "Survival",
+        "rank": 58,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1578,
+        "name": "Arranged Marriage",
+        "rank": 57,
         "isMediaSpoiler": true
       },
       {
         "id": 516,
         "name": "Language Barrier",
-        "rank": 57,
+        "rank": 55,
         "isMediaSpoiler": false
       },
       {
-        "id": 1453,
-        "name": "Desert",
-        "rank": 56,
-        "isMediaSpoiler": false
+        "id": 1046,
+        "name": "Suicide",
+        "rank": 48,
+        "isMediaSpoiler": true
       },
       {
-        "id": 1929,
-        "name": "Middle east",
-        "rank": 33,
+        "id": 251,
+        "name": "Archery",
+        "rank": 28,
         "isMediaSpoiler": false
       }
     ],
@@ -2062,7 +2058,7 @@
         }
       ]
     },
-    "updatedAt": 1788670812,
+    "updatedAt": 1790899849,
     "idTmdb": 288971,
     "idImdb": "tt39281887",
     "idTvdb": 462561,
@@ -2082,7 +2078,7 @@
     "type": "ANIME",
     "format": "ONA",
     "status": "FINISHED",
-    "description": "The beginning of the seventh story arc in the long-running <i>JoJo's Bizarre Adventure</i> series.<br><br>\n\nIt’s 1890, in America, the Steel Ball Run — the first horse racing championship across the North American continent — was about to begin. Johnny Joestar, once being hailed as a genius jockey, is now paralysed and lost in despair. He finds hope in the mysterious phenomena caused by Gyro Zeppeli, an outlaw aiming to win the race, and determines to participate in the 4,000 miles of grueling adventure.<br><br>\n\n(Source: STEEL BALL RUN: JoJo no Kimyou na Bouken Site)<br><br>",
+    "description": "It’s 1890, in America, the Steel Ball Run — the first horse racing championship across the North American continent — was about to begin. Johnny Joestar, once being hailed as a genius jockey, is now paralysed and lost in despair. He finds hope in the mysterious phenomena caused by Gyro Zeppeli, an outlaw aiming to win the race, and determines to participate in the 4,000 miles of grueling adventure.<br><br>\n\n(Source: STEEL BALL RUN: JoJo no Kimyou na Bouken Site)<br><br>",
     "episodes": 1,
     "duration": 47,
     "season": "WINTER",
@@ -2120,9 +2116,9 @@
     ],
     "averageScore": 88,
     "meanScore": 88,
-    "popularity": 76797,
-    "trending": 4,
-    "favourites": 3479,
+    "popularity": 80340,
+    "trending": 14,
+    "favourites": 3558,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -2196,11 +2192,11 @@
           "node": {
             "id": 210482,
             "title": {
-              "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE",
+              "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
               "english": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE"
             },
             "type": "ANIME",
-            "status": "NOT_YET_RELEASED",
+            "status": "RELEASING",
             "season": "FALL",
             "seasonYear": 2026,
             "coverImage": {
@@ -2226,7 +2222,7 @@
       {
         "id": 102,
         "name": "Coming of Age",
-        "rank": 94,
+        "rank": 95,
         "isMediaSpoiler": false
       },
       {
@@ -2244,13 +2240,13 @@
       {
         "id": 198,
         "name": "Foreign",
-        "rank": 92,
+        "rank": 91,
         "isMediaSpoiler": false
       },
       {
         "id": 50,
         "name": "Seinen",
-        "rank": 92,
+        "rank": 91,
         "isMediaSpoiler": false
       },
       {
@@ -2286,31 +2282,25 @@
       {
         "id": 88,
         "name": "Primarily Male Cast",
-        "rank": 83,
+        "rank": 82,
         "isMediaSpoiler": false
       },
       {
         "id": 391,
         "name": "Philosophy",
-        "rank": 78,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 1091,
-        "name": "Religion",
-        "rank": 78,
+        "rank": 77,
         "isMediaSpoiler": false
       },
       {
         "id": 1453,
         "name": "Desert",
-        "rank": 77,
+        "rank": 76,
         "isMediaSpoiler": false
       },
       {
-        "id": 103,
-        "name": "Politics",
-        "rank": 77,
+        "id": 1091,
+        "name": "Religion",
+        "rank": 76,
         "isMediaSpoiler": false
       },
       {
@@ -2320,9 +2310,15 @@
         "isMediaSpoiler": true
       },
       {
+        "id": 103,
+        "name": "Politics",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 94,
         "name": "Gore",
-        "rank": 75,
+        "rank": 72,
         "isMediaSpoiler": false
       },
       {
@@ -2565,7 +2561,7 @@
         }
       ]
     },
-    "updatedAt": 1788667207,
+    "updatedAt": 1790899849,
     "idTmdb": 45790,
     "idImdb": "tt2359704",
     "idTvdb": 262954,
@@ -2731,9 +2727,9 @@
     ],
     "averageScore": 84,
     "meanScore": 85,
-    "popularity": 10351,
-    "trending": 2,
-    "favourites": 301,
+    "popularity": 10588,
+    "trending": 1,
+    "favourites": 307,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -3123,7 +3119,7 @@
         }
       ]
     },
-    "updatedAt": 1788615532,
+    "updatedAt": 1790899849,
     "idTmdb": 46437,
     "idImdb": "tt2404499",
     "idTvdb": 259635,
@@ -3137,13 +3133,13 @@
     "idMal": 61440,
     "title": {
       "romaji": "Watashi no Shiawase na Kekkon Tokubetsu-hen",
-      "english": null,
+      "english": "My Happy Marriage Special Episodes",
       "native": "わたしの幸せな結婚 特別篇"
     },
     "type": "ANIME",
     "format": "SPECIAL",
     "status": "NOT_YET_RELEASED",
-    "description": "Special episodes for <i>Watashi no Shiawase na Kekkon.</i>",
+    "description": "As their big day draws closer, Miyo and Kiyoka feel their love deepening. And when Miyo attends a cooking class with Hazuki, she meets an old classmate!\n<br><br>\n(Source: Netflix Anime)",
     "episodes": 3,
     "duration": null,
     "season": "FALL",
@@ -3170,14 +3166,12 @@
       "Romance",
       "Supernatural"
     ],
-    "synonyms": [
-      "My Happy Marriage (New Anime)"
-    ],
+    "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 7324,
-    "trending": 1,
-    "favourites": 65,
+    "popularity": 9312,
+    "trending": 10,
+    "favourites": 82,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": null,
@@ -3216,7 +3210,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1792922400,
-      "timeUntilAiring": 4250518,
+      "timeUntilAiring": 2021978,
       "episode": 1
     },
     "relations": {
@@ -3368,10 +3362,10 @@
           },
           "voiceActors": [
             {
-              "id": 118602,
+              "id": 115156,
               "name": {
-                "full": "Reina Ueda",
-                "native": "上田麗奈"
+                "full": "Kaito Ishikawa",
+                "native": "石川界人"
               }
             }
           ]
@@ -3530,7 +3524,7 @@
         }
       ]
     },
-    "updatedAt": 1788670905,
+    "updatedAt": 1790899847,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

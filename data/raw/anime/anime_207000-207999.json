@@ -41,9 +41,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 3806,
+    "popularity": 4604,
     "trending": 1,
-    "favourites": 58,
+    "favourites": 68,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -281,7 +281,7 @@
         }
       ]
     },
-    "updatedAt": 1788653399,
+    "updatedAt": 1790899874,
     "idTmdb": 313215,
     "idImdb": null,
     "idTvdb": null,
@@ -415,7 +415,7 @@
     "idMal": 63409,
     "title": {
       "romaji": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
-      "english": null,
+      "english": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
       "native": "どうも、好きな人に惚れ薬を依頼された魔女です。"
     },
     "type": "ANIME",
@@ -429,7 +429,7 @@
     "startDate": {
       "year": 2026,
       "month": 10,
-      "day": null
+      "day": 5
     },
     "endDate": {
       "year": null,
@@ -437,10 +437,10 @@
       "day": null
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-JVPvPlAJED4S.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-JVPvPlAJED4S.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207191-JVPvPlAJED4S.jpg",
-      "color": "#6bbbe4"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207191-MV0uJNxN7LNY.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207191-MV0uJNxN7LNY.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b207191-MV0uJNxN7LNY.jpg",
+      "color": null
     },
     "bannerImage": null,
     "genres": [
@@ -449,20 +449,22 @@
     ],
     "synonyms": [
       "Hi, I'm a Witch, and My Crush Wants Me to Make a Love Potion",
-      "I'm a witch who's crush requested a love potion"
+      "I'm a witch who's crush requested a love potion",
+      "惚れ魔女",
+      "Horemajo"
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 5301,
-    "trending": 1,
-    "favourites": 47,
+    "popularity": 10188,
+    "trending": 8,
+    "favourites": 73,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
     "trailer": {
-      "id": "XplGl4tL_8w",
+      "id": "hGRtocAh3iw",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/XplGl4tL_8w/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/hGRtocAh3iw/hqdefault.jpg"
     },
     "externalLinks": [
       {
@@ -474,10 +476,19 @@
         "url": "https://horemajo-anime.com/",
         "site": "Official Site",
         "type": "INFO"
+      },
+      {
+        "url": "https://www.crunchyroll.com",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": null,
+    "nextAiringEpisode": {
+      "airingAt": 1791203400,
+      "timeUntilAiring": 302984,
+      "episode": 1
+    },
     "relations": {
       "edges": [
         {
@@ -524,6 +535,12 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 27,
+        "name": "Josei",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 282,
         "name": "Hikikomori",
         "rank": 60,
@@ -533,12 +550,6 @@
         "id": 98,
         "name": "Female Protagonist",
         "rank": 60,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 27,
-        "name": "Josei",
-        "rank": 20,
         "isMediaSpoiler": false
       },
       {
@@ -610,10 +621,48 @@
               }
             }
           ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 408757,
+            "name": {
+              "full": "Billaura",
+              "native": "ビッラウラ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119155,
+              "name": {
+                "full": "Akira Sekine",
+                "native": "関根明良"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 408758,
+            "name": {
+              "full": "Tien",
+              "native": "ティエン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95356,
+              "name": {
+                "full": "Hiro Shimono",
+                "native": "下野紘"
+              }
+            }
+          ]
         }
       ]
     },
-    "updatedAt": 1788670863,
+    "updatedAt": 1790899874,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -669,9 +718,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 13005,
-    "trending": 0,
-    "favourites": 156,
+    "popularity": 13483,
+    "trending": 1,
+    "favourites": 162,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -820,7 +869,7 @@
         }
       ]
     },
-    "updatedAt": 1788645746,
+    "updatedAt": 1790897387,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -870,8 +919,8 @@
       "ray CPK Ver."
     ],
     "averageScore": 82,
-    "meanScore": 85,
-    "popularity": 2213,
+    "meanScore": 84,
+    "popularity": 2302,
     "trending": 0,
     "favourites": 66,
     "isAdult": false,
@@ -922,7 +971,7 @@
       {
         "id": 76,
         "name": "Yuri",
-        "rank": 85,
+        "rank": 86,
         "isMediaSpoiler": false
       },
       {
@@ -1134,7 +1183,7 @@
         }
       ]
     },
-    "updatedAt": 1788426568,
+    "updatedAt": 1790899874,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1286,7 +1335,7 @@
     },
     "type": "ANIME",
     "format": "TV_SHORT",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "This exorcism is OMFFFFFFFFF!!!! Shizuka is a self-proclaimed ordinary high school girl who \"only\" sees ghosts. Using her unique ability to attract spirits, she works as an assistant to the famous psychic, Kamui. Though Kamui boasts overwhelming spiritual power, his exorcism methods are unprecedented...?! Will Shizuka, tossed about by supernatural disturbances, ever find peace? The curtain rises on \"supreme\" exorcism!! OMFFFFFFFFFG ALMIGHTY!!\n<br><br>\n(Source: OceanVeil)",
     "episodes": 12,
     "duration": 12,
@@ -1319,11 +1368,11 @@
       "從後面來的神威先生",
       "คุณคามุยลุยหลังผี"
     ],
-    "averageScore": 57,
+    "averageScore": 58,
     "meanScore": 58,
-    "popularity": 19167,
-    "trending": 16,
-    "favourites": 281,
+    "popularity": 21188,
+    "trending": 5,
+    "favourites": 328,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -1355,11 +1404,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1789144200,
-      "timeUntilAiring": 472163,
-      "episode": 11
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -1388,7 +1433,7 @@
               "english": "Snack Hazama"
             },
             "type": "ANIME",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "season": "SUMMER",
             "seasonYear": 2026,
             "coverImage": {
@@ -1402,55 +1447,73 @@
       {
         "id": 100,
         "name": "Nudity",
-        "rank": 86,
+        "rank": 87,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 233,
+        "name": "Youkai",
+        "rank": 84,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 79,
         "isMediaSpoiler": false
       },
       {
         "id": 1719,
         "name": "Exorcism",
+        "rank": 78,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 220,
+        "name": "Ghost",
         "rank": 75,
         "isMediaSpoiler": false
       },
       {
         "id": 82,
         "name": "Male Protagonist",
-        "rank": 72,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 220,
-        "name": "Ghost",
-        "rank": 71,
+        "rank": 73,
         "isMediaSpoiler": false
       },
       {
         "id": 98,
         "name": "Female Protagonist",
-        "rank": 70,
+        "rank": 71,
         "isMediaSpoiler": false
       },
       {
         "id": 127,
         "name": "Public Sex",
-        "rank": 67,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 233,
-        "name": "Youkai",
-        "rank": 60,
+        "rank": 70,
         "isMediaSpoiler": false
       },
       {
         "id": 46,
         "name": "School",
-        "rank": 53,
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 45,
         "isMediaSpoiler": false
       },
       {
         "id": 279,
         "name": "Ahegao",
-        "rank": 20,
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 30,
         "isMediaSpoiler": false
       },
       {
@@ -1468,6 +1531,12 @@
       {
         "id": 113,
         "name": "Nekomimi",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 665,
+        "name": "Succubus",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -1624,10 +1693,40 @@
               }
             }
           ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 409927,
+            "name": {
+              "full": "Lily Kisskill",
+              "native": "キスキル=リリー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118738,
+              "name": {
+                "full": "Shizuka Ishigami",
+                "native": "石上静香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "BACKGROUND",
+          "node": {
+            "id": 36309,
+            "name": {
+              "full": "Narrator",
+              "native": "ナレーター"
+            }
+          },
+          "voiceActors": []
         }
       ]
     },
-    "updatedAt": 1788670836,
+    "updatedAt": 1790899874,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1646,9 +1745,9 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "Yani is a catgirl with a seriously bad smoking habit. She smokes so much that her apartment smells like ash and is littered with cigarette butts—and plenty of other trash! Every time she tries to quit, she becomes weak to the cravings and gives in almost instantly. Will she ever get her life together, or is she doomed to live as a chainsmoking slob forever? \n<BR><BR>\n(Source: Seven Seas Entertainment)",
-    "episodes": null,
+    "episodes": 12,
     "duration": 24,
     "season": "SUMMER",
     "seasonYear": 2026,
@@ -1658,9 +1757,9 @@
       "day": 3
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 9,
+      "day": 25
     },
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg",
@@ -1678,11 +1777,11 @@
       "แมวสาวอมควัน",
       "尼古喵喵"
     ],
-    "averageScore": 67,
-    "meanScore": 67,
-    "popularity": 70819,
-    "trending": 61,
-    "favourites": 1286,
+    "averageScore": 71,
+    "meanScore": 71,
+    "popularity": 78485,
+    "trending": 56,
+    "favourites": 1824,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -1729,11 +1828,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1789054200,
-      "timeUntilAiring": 382115,
-      "episode": 10
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -1774,27 +1869,27 @@
     },
     "tags": [
       {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 96,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 489,
         "name": "Drugs",
         "rank": 95,
         "isMediaSpoiler": false
       },
       {
-        "id": 281,
-        "name": "Surreal Comedy",
-        "rank": 95,
+        "id": 113,
+        "name": "Nekomimi",
+        "rank": 93,
         "isMediaSpoiler": false
       },
       {
         "id": 98,
         "name": "Female Protagonist",
         "rank": 93,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 113,
-        "name": "Nekomimi",
-        "rank": 92,
         "isMediaSpoiler": false
       },
       {
@@ -1806,7 +1901,7 @@
       {
         "id": 86,
         "name": "Primarily Female Cast",
-        "rank": 88,
+        "rank": 89,
         "isMediaSpoiler": false
       },
       {
@@ -1818,7 +1913,7 @@
       {
         "id": 1403,
         "name": "Class Struggle",
-        "rank": 82,
+        "rank": 83,
         "isMediaSpoiler": true
       },
       {
@@ -1834,69 +1929,63 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 311,
-        "name": "Rehabilitation",
-        "rank": 71,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 321,
         "name": "Urban Fantasy",
-        "rank": 69,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 100,
-        "name": "Nudity",
-        "rank": 66,
+        "rank": 70,
         "isMediaSpoiler": false
       },
       {
         "id": 50,
         "name": "Seinen",
-        "rank": 65,
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 311,
+        "name": "Rehabilitation",
+        "rank": 68,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 67,
         "isMediaSpoiler": false
       },
       {
         "id": 80,
         "name": "Satire",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 143,
+        "name": "Survival",
         "rank": 65,
         "isMediaSpoiler": false
       },
       {
         "id": 395,
         "name": "Delinquents",
-        "rank": 62,
+        "rank": 65,
         "isMediaSpoiler": false
       },
       {
         "id": 282,
         "name": "Hikikomori",
-        "rank": 61,
+        "rank": 60,
         "isMediaSpoiler": false
       },
       {
         "id": 632,
         "name": "Centaur",
-        "rank": 60,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 387,
-        "name": "Scat",
-        "rank": 60,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 143,
-        "name": "Survival",
-        "rank": 58,
+        "rank": 55,
         "isMediaSpoiler": false
       },
       {
         "id": 92,
         "name": "Cute Girls Doing Cute Things",
-        "rank": 51,
+        "rank": 48,
         "isMediaSpoiler": false
       },
       {
@@ -1906,22 +1995,34 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 117,
-        "name": "Mahjong",
-        "rank": 36,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 76,
         "name": "Yuri",
-        "rank": 35,
+        "rank": 34,
         "isMediaSpoiler": true
       },
       {
         "id": 483,
         "name": "LGBTQ+ Themes",
-        "rank": 30,
+        "rank": 31,
         "isMediaSpoiler": true
+      },
+      {
+        "id": 1596,
+        "name": "Time Loop",
+        "rank": 26,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1456,
+        "name": "Femboy",
+        "rank": 24,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 117,
+        "name": "Mahjong",
+        "rank": 16,
+        "isMediaSpoiler": false
       }
     ],
     "studios": {
@@ -1982,7 +2083,7 @@
           "node": {
             "id": 389134,
             "name": {
-              "full": "Mashiko Koshimaru",
+              "full": "Yakuko Etsushimaru",
               "native": "越司丸益子"
             }
           },
@@ -2157,7 +2258,7 @@
         }
       ]
     },
-    "updatedAt": 1788670813,
+    "updatedAt": 1790899874,
     "idTmdb": 312949,
     "idImdb": "tt39551330",
     "idTvdb": 473423,
@@ -2209,11 +2310,11 @@
     "synonyms": [
       "Anatolia Story"
     ],
-    "averageScore": 61,
+    "averageScore": 62,
     "meanScore": 63,
-    "popularity": 10379,
+    "popularity": 11097,
     "trending": 5,
-    "favourites": 100,
+    "favourites": 114,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -2246,9 +2347,9 @@
     ],
     "streamingEpisodes": [],
     "nextAiringEpisode": {
-      "airingAt": 1788885300,
-      "timeUntilAiring": 213095,
-      "episode": 10
+      "airingAt": 1791304500,
+      "timeUntilAiring": 404084,
+      "episode": 14
     },
     "relations": {
       "edges": [
@@ -2626,7 +2727,7 @@
         }
       ]
     },
-    "updatedAt": 1788667223,
+    "updatedAt": 1790899874,
     "idTmdb": 314054,
     "idImdb": "tt41278592",
     "idTvdb": 474027,
@@ -2645,9 +2746,9 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "Three ordinary schoolboys come into possession of a DVD that supposedly opens a gateway to a parallel universe, but when their backs are turned Pyontaro's little sister Futaba passes through and gets kidnapped by the aliens that have overrun that version of Earth! Discovering that their cartoonish bodies make them supermen in the hyper-realistic parallel universe, the boys set out to rescue Futaba.\n<br><br>\n(Source: Kodansha USA)",
-    "episodes": null,
+    "episodes": 12,
     "duration": 24,
     "season": "SUMMER",
     "seasonYear": 2026,
@@ -2657,9 +2758,9 @@
       "day": 9
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 8,
+      "day": 1
     },
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207254-StcuNpmZTDCL.jpg",
@@ -2675,10 +2776,10 @@
     ],
     "synonyms": [],
     "averageScore": 52,
-    "meanScore": 55,
-    "popularity": 1983,
-    "trending": 3,
-    "favourites": 18,
+    "meanScore": 53,
+    "popularity": 2118,
+    "trending": 8,
+    "favourites": 20,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -2710,11 +2811,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1788968640,
-      "timeUntilAiring": 314200,
-      "episode": 10
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -2733,45 +2830,44 @@
               "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx148439-leEc2ZjulAgn.jpg"
             }
           }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 217595,
+            "title": {
+              "romaji": "Thunder 3 SEASON 2",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx217595-WSmOxRqbpNb3.jpg"
+            }
+          }
         }
       ]
     },
     "tags": [
       {
-        "id": 56,
-        "name": "Shounen",
-        "rank": 80,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 446,
-        "name": "Primarily Child Cast",
+        "id": 90,
+        "name": "CGI",
         "rank": 73,
         "isMediaSpoiler": false
       },
       {
-        "id": 82,
-        "name": "Male Protagonist",
-        "rank": 60,
+        "id": 56,
+        "name": "Shounen",
+        "rank": 64,
         "isMediaSpoiler": false
       },
       {
-        "id": 90,
-        "name": "CGI",
+        "id": 146,
+        "name": "Alternate Universe",
         "rank": 60,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 88,
-        "name": "Primarily Male Cast",
-        "rank": 60,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 281,
-        "name": "Surreal Comedy",
-        "rank": 60,
-        "isMediaSpoiler": false
+        "isMediaSpoiler": true
       },
       {
         "id": 89,
@@ -2780,51 +2876,69 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 146,
-        "name": "Alternate Universe",
-        "rank": 50,
-        "isMediaSpoiler": true
-      },
-      {
-        "id": 595,
-        "name": "Urban",
-        "rank": 46,
+        "id": 446,
+        "name": "Primarily Child Cast",
+        "rank": 55,
         "isMediaSpoiler": false
       },
       {
         "id": 191,
         "name": "Aliens",
-        "rank": 40,
+        "rank": 55,
         "isMediaSpoiler": true
       },
       {
         "id": 244,
         "name": "Isekai",
-        "rank": 33,
+        "rank": 50,
         "isMediaSpoiler": true
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 40,
+        "isMediaSpoiler": false
       },
       {
         "id": 66,
         "name": "Super Power",
-        "rank": 33,
+        "rank": 40,
         "isMediaSpoiler": true
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 35,
+        "isMediaSpoiler": false
       },
       {
         "id": 63,
         "name": "Space",
-        "rank": 20,
+        "rank": 10,
         "isMediaSpoiler": true
       },
       {
         "id": 321,
         "name": "Urban Fantasy",
-        "rank": 20,
+        "rank": 10,
         "isMediaSpoiler": false
       },
       {
         "id": 324,
         "name": "Chibi",
-        "rank": 20,
+        "rank": 10,
         "isMediaSpoiler": false
       }
     ],
@@ -3103,7 +3217,7 @@
         }
       ]
     },
-    "updatedAt": 1788649272,
+    "updatedAt": 1790897285,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3155,9 +3269,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 8618,
-    "trending": 1,
-    "favourites": 72,
+    "popularity": 11187,
+    "trending": 5,
+    "favourites": 96,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -3186,7 +3300,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791471600,
-      "timeUntilAiring": 2799660,
+      "timeUntilAiring": 570953,
       "episode": 1
     },
     "relations": {
@@ -3447,7 +3561,7 @@
         }
       ]
     },
-    "updatedAt": 1788670876,
+    "updatedAt": 1790897294,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3475,7 +3589,7 @@
     "startDate": {
       "year": 2026,
       "month": 10,
-      "day": null
+      "day": 7
     },
     "endDate": {
       "year": null,
@@ -3483,10 +3597,10 @@
       "day": null
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207329-SsC5hikUQJ4I.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207329-SsC5hikUQJ4I.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207329-SsC5hikUQJ4I.jpg",
-      "color": "#e45d6b"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b207329-6VPeZIDfF4Sr.png",
+      "color": "#f1e4c9"
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207329-9IqRSKIsM3TC.jpg",
     "genres": [
@@ -3503,16 +3617,16 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 3512,
-    "trending": 1,
-    "favourites": 44,
+    "popularity": 6525,
+    "trending": 9,
+    "favourites": 75,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "trailer": {
-      "id": "LBvebquURiU",
+      "id": "BJXBr_aFF8s",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/LBvebquURiU/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/BJXBr_aFF8s/hqdefault.jpg"
     },
     "externalLinks": [
       {
@@ -3531,13 +3645,17 @@
         "type": "SOCIAL"
       },
       {
-        "url": "https://www.crunchyroll.com/",
+        "url": "https://crunchyroll.com/series/GT00384016/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life",
         "site": "Crunchyroll",
         "type": "STREAMING"
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": null,
+    "nextAiringEpisode": {
+      "airingAt": 1791298800,
+      "timeUntilAiring": 398384,
+      "episode": 1
+    },
     "relations": {
       "edges": [
         {
@@ -3578,6 +3696,30 @@
     },
     "tags": [
       {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1277,
+        "name": "Found Family",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 29,
+        "name": "Magic",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 56,
         "name": "Shounen",
         "rank": 20,
@@ -3590,8 +3732,26 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 29,
-        "name": "Magic",
+        "id": 395,
+        "name": "Delinquents",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 83,
+        "name": "Slapstick",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 106,
+        "name": "Gangs",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 324,
+        "name": "Chibi",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -3793,10 +3953,29 @@
               }
             }
           ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 408935,
+            "name": {
+              "full": "Barios",
+              "native": "バリオス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95893,
+              "name": {
+                "full": "Taiten Kusunoki",
+                "native": "楠大典"
+              }
+            }
+          ]
         }
       ]
     },
-    "updatedAt": 1788670875,
+    "updatedAt": 1790899874,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4498,11 +4677,11 @@
     "description": "After dying of illness, she has been reincarnated as Celine, the selfish, fat, villainous duchess, sister of the heroine of a popular novel.\nIf she stays this way, she will be killed by the hero prince and die a miserable death, just as in the novel. She vows to reform herself with all her might and begins to struggle, but she finds herself caught up in unexpected doting and obsession..!<br>\nWill Celine be able to find \"peaceful happiness\"?\n<br><br>\nA fantasy love story about a reincarnation in another world where she is loved too much by a Yandere.\n<br><br>\n(Source: Pocket Comics)",
     "episodes": null,
     "duration": null,
-    "season": null,
-    "seasonYear": null,
+    "season": "WINTER",
+    "seasonYear": 2027,
     "startDate": {
-      "year": null,
-      "month": null,
+      "year": 2027,
+      "month": 1,
       "day": null
     },
     "endDate": {
@@ -4511,10 +4690,10 @@
       "day": null
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207782-aaog7JqDuddN.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207782-aaog7JqDuddN.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207782-aaog7JqDuddN.jpg",
-      "color": "#d6a178"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207782-wKac51K7adn3.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207782-wKac51K7adn3.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207782-wKac51K7adn3.jpg",
+      "color": "#43aef1"
     },
     "bannerImage": null,
     "genres": [
@@ -4523,20 +4702,21 @@
     ],
     "synonyms": [
       "The Final-Boss Prince is Somehow Obsessed with the Chubby Villainess: Reincarnated Me",
-      "When I Reincarnated as a Chubby Villainess, For Some Reason, I'm Being Relentlessly Pursued by the Final Boss Prince!"
+      "When I Reincarnated as a Chubby Villainess, For Some Reason, I'm Being Relentlessly Pursued by the Final Boss Prince!",
+      "Odebu Akujo"
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 2360,
-    "trending": 0,
-    "favourites": 34,
+    "popularity": 2561,
+    "trending": 2,
+    "favourites": 36,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "trailer": {
-      "id": "uzM2Fz4jyow",
+      "id": "OL9U8xq13Jo",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/uzM2Fz4jyow/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/OL9U8xq13Jo/hqdefault.jpg"
     },
     "externalLinks": [
       {
@@ -4593,14 +4773,14 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 244,
-        "name": "Isekai",
-        "rank": 20,
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 60,
         "isMediaSpoiler": false
       },
       {
-        "id": 98,
-        "name": "Female Protagonist",
+        "id": 244,
+        "name": "Isekai",
         "rank": 20,
         "isMediaSpoiler": false
       },
@@ -4680,10 +4860,48 @@
               }
             }
           ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 409918,
+            "name": {
+              "full": "Adele",
+              "native": "アデル"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 164145,
+              "name": {
+                "full": "Fuuka Izumi",
+                "native": "和泉風花"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 409919,
+            "name": {
+              "full": "Louis",
+              "native": "ルイス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 123971,
+              "name": {
+                "full": "Shunichi Toki",
+                "native": "土岐隼一"
+              }
+            }
+          ]
         }
       ]
     },
-    "updatedAt": 1788545001,
+    "updatedAt": 1790897356,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4734,9 +4952,9 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 745,
-    "trending": 1,
-    "favourites": 5,
+    "popularity": 902,
+    "trending": 0,
+    "favourites": 6,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -4865,7 +5083,7 @@
         }
       ]
     },
-    "updatedAt": 1788588048,
+    "updatedAt": 1790899874,
     "idTmdb": 313394,
     "idImdb": null,
     "idTvdb": null,
@@ -5417,10 +5635,10 @@
     ],
     "synonyms": [],
     "averageScore": 74,
-    "meanScore": 77,
-    "popularity": 1305,
+    "meanScore": 78,
+    "popularity": 1322,
     "trending": 0,
-    "favourites": 37,
+    "favourites": 40,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -5466,7 +5684,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788653399,
+    "updatedAt": 1790899874,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7435,8 +7653,8 @@
     ],
     "synonyms": [],
     "averageScore": null,
-    "meanScore": 48,
-    "popularity": 92,
+    "meanScore": 50,
+    "popularity": 97,
     "trending": 0,
     "favourites": 1,
     "isAdult": false,
@@ -7533,7 +7751,7 @@
         }
       ]
     },
-    "updatedAt": 1787994610,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -8238,24 +8456,24 @@
   },
   "207217": {
     "id": 207217,
-    "idMal": null,
+    "idMal": 65079,
     "title": {
-      "romaji": "Koneko no Haitatsuin Uunyan New Series (Provisional Title)",
-      "english": null,
-      "native": "子猫配達員うーにゃん 新シリーズ（仮）"
+      "romaji": "Koneko no Haitatsuin Uunyan",
+      "english": "Delivery Kitten Unyan",
+      "native": "子猫の配達員うーにゃん"
     },
     "type": "ANIME",
     "format": "ONA",
-    "status": "NOT_YET_RELEASED",
-    "description": "A new short series for Koneko no Haitatsuin Uunyan.<br><br>\n\n<i>Note: The current title is provisional and may change when more info is announced.</i>",
+    "status": "RELEASING",
+    "description": "Today’s the day Unyan the kitten becomes a delivery courier! Getting dressed, eating breakfast, packing his bag…He’s eager to get started, but there are so many firsts along the way! It’s a busy morning for this little kitten courier!<br><br>\n\n(Source: YouTube)",
     "episodes": 3,
-    "duration": 1,
-    "season": null,
-    "seasonYear": null,
+    "duration": 3,
+    "season": "FALL",
+    "seasonYear": 2026,
     "startDate": {
       "year": 2026,
-      "month": null,
-      "day": null
+      "month": 9,
+      "day": 27
     },
     "endDate": {
       "year": null,
@@ -8263,30 +8481,46 @@
       "day": null
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207217-eEGWQlzwf8CQ.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207217-eEGWQlzwf8CQ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b207217-eEGWQlzwf8CQ.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207217-IxKfwpEZZzLh.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207217-IxKfwpEZZzLh.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b207217-IxKfwpEZZzLh.png",
       "color": "#f1a150"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207217-NemulFw4QSc8.jpg",
     "genres": [
       "Slice of Life"
     ],
     "synonyms": [],
     "averageScore": null,
-    "meanScore": null,
-    "popularity": 55,
+    "meanScore": 60,
+    "popularity": 95,
     "trending": 0,
-    "favourites": 0,
+    "favourites": 3,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
     "trailer": {
-      "id": "1WyioiDYEQE",
+      "id": "Rya5HXrNeww",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/1WyioiDYEQE/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Rya5HXrNeww/hqdefault.jpg"
     },
-    "externalLinks": [],
+    "externalLinks": [
+      {
+        "url": "https://www.studio-nanahoshi.com/unyan-anime-ep01",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Rya5HXrNeww",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.studio-nanahoshi.com/unyan-main",
+        "site": "Official Site",
+        "type": "INFO"
+      }
+    ],
     "streamingEpisodes": [],
     "nextAiringEpisode": null,
     "relations": {
@@ -8312,8 +8546,50 @@
     },
     "tags": [
       {
+        "id": 595,
+        "name": "Urban",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1304,
+        "name": "Anthropomorphism",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1601,
+        "name": "Primarily Animal Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 433,
+        "name": "Animals",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 517,
+        "name": "Artificial Intelligence",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 28,
         "name": "Kids",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 113,
+        "name": "Nekomimi",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -8334,6 +8610,25 @@
         {
           "role": "MAIN",
           "node": {
+            "id": 295351,
+            "name": {
+              "full": "Uunyan",
+              "native": "うーにゃん"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 248418,
+              "name": {
+                "full": "Fukuko Yukimiyama",
+                "native": "雪深山福子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
             "id": 295348,
             "name": {
               "full": "Silva",
@@ -8351,7 +8646,7 @@
           ]
         },
         {
-          "role": "MAIN",
+          "role": "SUPPORTING",
           "node": {
             "id": 295350,
             "name": {
@@ -8365,25 +8660,6 @@
               "name": {
                 "full": "Mai Kadowaki",
                 "native": "門脇舞以"
-              }
-            }
-          ]
-        },
-        {
-          "role": "MAIN",
-          "node": {
-            "id": 295351,
-            "name": {
-              "full": "Uunyan",
-              "native": "うーにゃん"
-            }
-          },
-          "voiceActors": [
-            {
-              "id": 248418,
-              "name": {
-                "full": "Fukuko Yukimiyama",
-                "native": "雪深山福子"
               }
             }
           ]
@@ -8428,14 +8704,14 @@
         }
       ]
     },
-    "updatedAt": 1787648952,
-    "idTmdb": null,
+    "updatedAt": 1790899874,
+    "idTmdb": 336630,
     "idImdb": null,
     "idTvdb": null,
-    "idTrakt": null,
-    "traktSlug": null,
+    "idTrakt": 328839,
+    "traktSlug": "delivery-kitten-unyan",
     "idSimkl": null,
-    "idShikimori": null
+    "idShikimori": 65079
   },
   "207350": {
     "id": 207350,

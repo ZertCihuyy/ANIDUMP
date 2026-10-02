@@ -10,7 +10,7 @@
     "type": "ANIME",
     "format": "TV",
     "status": "FINISHED",
-    "description": "A new adaptation of <i> Akage no Anne (Anne of Green Gables).</i><br><br>\n\nOn the beautiful Prince Edward Island in Canada, an orphan named Anne Shirley is mistakenly sent to Green Gables, the home of Matthew and Marilla Cuthbert. They choose to adopt her anyway, as Anne finds friendship, love, and happiness in her new home. Come along for the story of a purehearted and imaginative girl growing up, leaving for college, and returning home a changed woman.<br><br>\n\n(Source: Crunchyroll)",
+    "description": "On the beautiful Prince Edward Island in Canada, an orphan named Anne Shirley is mistakenly sent to Green Gables, the home of Matthew and Marilla Cuthbert. They choose to adopt her anyway, as Anne finds friendship, love, and happiness in her new home. Come along for the story of a purehearted and imaginative girl growing up, leaving for college, and returning home a changed woman.<br><br>\n\n(Source: Crunchyroll)",
     "episodes": 24,
     "duration": 24,
     "season": "SPRING",
@@ -42,9 +42,9 @@
     ],
     "averageScore": 76,
     "meanScore": 76,
-    "popularity": 22528,
-    "trending": 1,
-    "favourites": 548,
+    "popularity": 22792,
+    "trending": 0,
+    "favourites": 556,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "OTHER",
@@ -756,7 +756,7 @@
         }
       ]
     },
-    "updatedAt": 1788670871,
+    "updatedAt": 1790899828,
     "idTmdb": 277665,
     "idImdb": "tt34702901",
     "idTvdb": 456902,
@@ -805,10 +805,10 @@
     ],
     "synonyms": [],
     "averageScore": 69,
-    "meanScore": 80,
-    "popularity": 1101,
+    "meanScore": 79,
+    "popularity": 1178,
     "trending": 0,
-    "favourites": 25,
+    "favourites": 28,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "OTHER",
@@ -1064,7 +1064,7 @@
         }
       ]
     },
-    "updatedAt": 1788670907,
+    "updatedAt": 1790899828,
     "idTmdb": 92710,
     "idImdb": "tt10623466",
     "idTvdb": 376812,
@@ -1703,9 +1703,9 @@
     ],
     "averageScore": 69,
     "meanScore": 69,
-    "popularity": 20420,
-    "trending": 3,
-    "favourites": 330,
+    "popularity": 20671,
+    "trending": 0,
+    "favourites": 331,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -2154,7 +2154,7 @@
         }
       ]
     },
-    "updatedAt": 1788670848,
+    "updatedAt": 1790899828,
     "idTmdb": 277222,
     "idImdb": "tt35994065",
     "idTvdb": 456678,
@@ -2173,8 +2173,8 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "RELEASING",
-    "description": "The fourth season of <i>Mairimashita! Iruma-kun.</i>\n<br><br>\nSuzuki Iruma and all thirteen students of the Misfit Class must perform to reach Rank 4 at the Music Festival.<br><br>\n(Source: Crunchyroll News)",
+    "status": "FINISHED",
+    "description": "Suzuki Iruma and all thirteen students of the Misfit Class must perform to reach Rank 4 at the Music Festival.\n<br><br>\n(Source: Crunchyroll News)",
     "episodes": 24,
     "duration": 25,
     "season": "SPRING",
@@ -2185,9 +2185,9 @@
       "day": 4
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 9,
+      "day": 26
     },
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg",
@@ -2204,11 +2204,11 @@
     "synonyms": [
       "อิรุมะคุง ผจญในแดนปีศาจ ซีซั่น 4"
     ],
-    "averageScore": 80,
+    "averageScore": 81,
     "meanScore": 81,
-    "popularity": 40657,
-    "trending": 107,
-    "favourites": 904,
+    "popularity": 42679,
+    "trending": 24,
+    "favourites": 1053,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -2260,11 +2260,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1789205160,
-      "timeUntilAiring": 533068,
-      "episode": 22
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -2300,62 +2296,85 @@
               "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx139092-q521Du1fkosV.jpg"
             }
           }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 217427,
+            "title": {
+              "romaji": "Mairimashita! Iruma-kun Movie",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx217427-toXJgZ70AZe4.png"
+            }
+          }
         }
       ]
     },
     "tags": [
       {
-        "id": 46,
-        "name": "School",
-        "rank": 88,
+        "id": 56,
+        "name": "Shounen",
+        "rank": 90,
         "isMediaSpoiler": false
       },
       {
-        "id": 15,
-        "name": "Demons",
-        "rank": 85,
+        "id": 46,
+        "name": "School",
+        "rank": 87,
         "isMediaSpoiler": false
       },
       {
         "id": 29,
         "name": "Magic",
-        "rank": 83,
+        "rank": 85,
         "isMediaSpoiler": false
       },
       {
-        "id": 244,
-        "name": "Isekai",
-        "rank": 82,
+        "id": 15,
+        "name": "Demons",
+        "rank": 84,
         "isMediaSpoiler": false
       },
       {
         "id": 1228,
         "name": "Primarily Teen Cast",
-        "rank": 80,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 56,
-        "name": "Shounen",
-        "rank": 79,
+        "rank": 83,
         "isMediaSpoiler": false
       },
       {
         "id": 82,
         "name": "Male Protagonist",
-        "rank": 75,
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 244,
+        "name": "Isekai",
+        "rank": 77,
         "isMediaSpoiler": false
       },
       {
         "id": 1090,
         "name": "Monster Boy",
-        "rank": 73,
+        "rank": 75,
         "isMediaSpoiler": false
       },
       {
         "id": 259,
         "name": "Monster Girl",
-        "rank": 73,
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1277,
+        "name": "Found Family",
+        "rank": 75,
         "isMediaSpoiler": false
       },
       {
@@ -2365,33 +2384,27 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 1277,
-        "name": "Found Family",
-        "rank": 66,
+        "id": 110,
+        "name": "Band",
+        "rank": 60,
         "isMediaSpoiler": false
       },
       {
         "id": 265,
         "name": "Musical Theater",
-        "rank": 66,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 110,
-        "name": "Band",
-        "rank": 65,
+        "rank": 60,
         "isMediaSpoiler": false
       },
       {
         "id": 186,
         "name": "Crossdressing",
-        "rank": 33,
+        "rank": 48,
         "isMediaSpoiler": true
       },
       {
         "id": 483,
         "name": "LGBTQ+ Themes",
-        "rank": 26,
+        "rank": 33,
         "isMediaSpoiler": false
       }
     ],
@@ -2600,7 +2613,7 @@
         }
       ]
     },
-    "updatedAt": 1788670808,
+    "updatedAt": 1790899828,
     "idTmdb": 91801,
     "idImdb": "tt11034066",
     "idTvdb": 369144,
@@ -2654,9 +2667,9 @@
     ],
     "averageScore": 83,
     "meanScore": 83,
-    "popularity": 121437,
-    "trending": 17,
-    "favourites": 5158,
+    "popularity": 126618,
+    "trending": 16,
+    "favourites": 5315,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -2842,7 +2855,7 @@
       {
         "id": 82,
         "name": "Male Protagonist",
-        "rank": 55,
+        "rank": 57,
         "isMediaSpoiler": false
       }
     ],
@@ -3086,7 +3099,7 @@
         }
       ]
     },
-    "updatedAt": 1788670824,
+    "updatedAt": 1790899830,
     "idTmdb": 278043,
     "idImdb": "tt36034547",
     "idTvdb": 457078,
@@ -3135,9 +3148,9 @@
     "synonyms": [],
     "averageScore": 61,
     "meanScore": 62,
-    "popularity": 21853,
-    "trending": 1,
-    "favourites": 263,
+    "popularity": 22228,
+    "trending": 0,
+    "favourites": 266,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -3231,7 +3244,7 @@
       {
         "id": 244,
         "name": "Isekai",
-        "rank": 88,
+        "rank": 90,
         "isMediaSpoiler": false
       },
       {
@@ -3470,7 +3483,7 @@
         }
       ]
     },
-    "updatedAt": 1788670898,
+    "updatedAt": 1790895761,
     "idTmdb": 286434,
     "idImdb": "tt36592756",
     "idTvdb": 456807,
@@ -3490,7 +3503,7 @@
     "type": "ANIME",
     "format": "ONA",
     "status": "FINISHED",
-    "description": "The second part of <i>SAKAMOTO DAYS</i>.<br><br>\n<i>Note: The series is streaming a week in advance on Netflix Japan starting with episode 2 released alongside episode 1.</i>",
+    "description": "The legendary former hitman Tarou Sakamoto has thwarted numerous assassins after an enormous bounty on his head was issued. But he cannot seem to catch a break and simply take it easy with his beloved family. A mysterious and infamous figure known as Slur has brought a group of insane death row inmates to Japan, who hold back from nothing to eliminate their targets.\n<br><br>\nSakamoto is not the only target—the criminals have been assigned to kill various other people, including the new hires at Sakamoto's convenience store, Shin Asakura and Lu Shaotang. The situation escalates even further when the Order, a group of the most skilled Japanese assassins, becomes involved. As the inmates begin wreaking havoc, Sakamoto and his allies must remain vigilant for the sake of everything they hold dear.\n<br><br>\n(Source: MAL Rewrite)\n<br><br>\n<i>Note: The series is streaming a week in advance on Netflix Japan starting with episode 2 released alongside episode 1.</i>",
     "episodes": 11,
     "duration": 24,
     "season": "SUMMER",
@@ -3521,9 +3534,9 @@
     ],
     "averageScore": 79,
     "meanScore": 79,
-    "popularity": 102397,
-    "trending": 5,
-    "favourites": 1789,
+    "popularity": 104211,
+    "trending": 1,
+    "favourites": 1811,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -3926,7 +3939,7 @@
         }
       ]
     },
-    "updatedAt": 1788670833,
+    "updatedAt": 1790899828,
     "idTmdb": 207332,
     "idImdb": "tt17069148",
     "idTvdb": 423732,
@@ -3979,9 +3992,9 @@
     ],
     "averageScore": 80,
     "meanScore": 80,
-    "popularity": 29013,
-    "trending": 1,
-    "favourites": 762,
+    "popularity": 29582,
+    "trending": 0,
+    "favourites": 773,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "OTHER",
@@ -4333,7 +4346,7 @@
         }
       ]
     },
-    "updatedAt": 1788667297,
+    "updatedAt": 1790899829,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4352,7 +4365,7 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "Chaos ensues overnight when mysterious tombs suddenly surface, filled with divine relics granting overwhelming power, triggering a global power struggle to claim them for dominion. Among the havoc, a raider, Jooheon Suh, is betrayed and left for dead until a second chance brings him back years before the relics. Fueled by fury and future knowledge, he sets out to raid each tomb before they arise.<br>\n<br>\n(Source: Crunchyroll)",
     "episodes": 12,
     "duration": 23,
@@ -4364,9 +4377,9 @@
       "day": 9
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 10,
+      "day": 1
     },
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184356-SlFIstXUXJYP.png",
@@ -4384,11 +4397,11 @@
       "Toukutsuou",
       "盗掘王"
     ],
-    "averageScore": 65,
-    "meanScore": 66,
-    "popularity": 33186,
-    "trending": 34,
-    "favourites": 452,
+    "averageScore": 67,
+    "meanScore": 67,
+    "popularity": 38117,
+    "trending": 114,
+    "favourites": 586,
     "isAdult": false,
     "countryOfOrigin": "KR",
     "source": "MANGA",
@@ -4425,11 +4438,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1788970500,
-      "timeUntilAiring": 298452,
-      "episode": 10
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -4477,12 +4486,6 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 281,
-        "name": "Surreal Comedy",
-        "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 15,
         "name": "Demons",
         "rank": 79,
@@ -4495,9 +4498,27 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 488,
+        "name": "Age Regression",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 604,
         "name": "Dungeon",
-        "rank": 60,
+        "rank": 73,
         "isMediaSpoiler": false
       },
       {
@@ -4507,33 +4528,27 @@
         "isMediaSpoiler": true
       },
       {
-        "id": 90,
-        "name": "CGI",
-        "rank": 26,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 321,
-        "name": "Urban Fantasy",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 595,
         "name": "Urban",
-        "rank": 20,
+        "rank": 50,
         "isMediaSpoiler": false
       },
       {
         "id": 109,
         "name": "Primarily Adult Cast",
-        "rank": 20,
+        "rank": 50,
         "isMediaSpoiler": false
       },
       {
         "id": 1310,
         "name": "Travel",
-        "rank": 20,
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 90,
+        "name": "CGI",
+        "rank": 26,
         "isMediaSpoiler": false
       }
     ],
@@ -4690,6 +4705,17 @@
         {
           "role": "SUPPORTING",
           "node": {
+            "id": 214286,
+            "name": {
+              "full": "Edward",
+              "native": "에드워드"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
             "id": 295963,
             "name": {
               "full": "Crow",
@@ -4762,29 +4788,10 @@
               }
             }
           ]
-        },
-        {
-          "role": "SUPPORTING",
-          "node": {
-            "id": 407265,
-            "name": {
-              "full": "Eomma",
-              "native": "엄마"
-            }
-          },
-          "voiceActors": [
-            {
-              "id": 365371,
-              "name": {
-                "full": "Shouko Arai",
-                "native": "新井笙子"
-              }
-            }
-          ]
         }
       ]
     },
-    "updatedAt": 1788670832,
+    "updatedAt": 1790899828,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4839,9 +4846,9 @@
     ],
     "averageScore": 70,
     "meanScore": 70,
-    "popularity": 61977,
-    "trending": 7,
-    "favourites": 1341,
+    "popularity": 63424,
+    "trending": 4,
+    "favourites": 1370,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -4927,7 +4934,7 @@
       {
         "id": 252,
         "name": "Revenge",
-        "rank": 88,
+        "rank": 89,
         "isMediaSpoiler": false
       },
       {
@@ -5311,7 +5318,7 @@
         }
       ]
     },
-    "updatedAt": 1788670811,
+    "updatedAt": 1790899828,
     "idTmdb": 278635,
     "idImdb": "tt36593026",
     "idTvdb": 456730,
@@ -5362,9 +5369,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 9525,
-    "trending": 1,
-    "favourites": 91,
+    "popularity": 9718,
+    "trending": 0,
+    "favourites": 96,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -5676,7 +5683,7 @@
         }
       ]
     },
-    "updatedAt": 1788649313,
+    "updatedAt": 1790897406,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -5730,9 +5737,9 @@
     ],
     "averageScore": 76,
     "meanScore": 76,
-    "popularity": 55065,
+    "popularity": 56173,
     "trending": 2,
-    "favourites": 1699,
+    "favourites": 1721,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -5847,13 +5854,13 @@
       {
         "id": 23,
         "name": "Female Harem",
-        "rank": 95,
+        "rank": 94,
         "isMediaSpoiler": false
       },
       {
         "id": 483,
         "name": "LGBTQ+ Themes",
-        "rank": 92,
+        "rank": 90,
         "isMediaSpoiler": false
       },
       {
@@ -5871,13 +5878,13 @@
       {
         "id": 139,
         "name": "Love Triangle",
-        "rank": 76,
+        "rank": 74,
         "isMediaSpoiler": true
       },
       {
         "id": 1459,
         "name": "Polyamorous",
-        "rank": 73,
+        "rank": 72,
         "isMediaSpoiler": true
       },
       {
@@ -5895,7 +5902,7 @@
       {
         "id": 100,
         "name": "Nudity",
-        "rank": 54,
+        "rank": 53,
         "isMediaSpoiler": false
       },
       {
@@ -5907,7 +5914,7 @@
       {
         "id": 308,
         "name": "Video Games",
-        "rank": 46,
+        "rank": 44,
         "isMediaSpoiler": true
       },
       {
@@ -6122,7 +6129,7 @@
         }
       ]
     },
-    "updatedAt": 1788653364,
+    "updatedAt": 1790899828,
     "idTmdb": 277513,
     "idImdb": "tt36592708",
     "idTvdb": 456835,
@@ -6356,9 +6363,9 @@
     ],
     "averageScore": null,
     "meanScore": 82,
-    "popularity": 321,
-    "trending": 1,
-    "favourites": 13,
+    "popularity": 338,
+    "trending": 0,
+    "favourites": 14,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "OTHER",
@@ -6439,7 +6446,7 @@
         }
       ]
     },
-    "updatedAt": 1788476551,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6453,7 +6460,7 @@
     "idMal": 60260,
     "title": {
       "romaji": "Hotel Inhumans",
-      "english": "Hotel Inhumans",
+      "english": "HOTEL INHUMANS",
       "native": "ホテル・インヒューマンズ"
     },
     "type": "ANIME",
@@ -6488,9 +6495,9 @@
     "synonyms": [],
     "averageScore": 64,
     "meanScore": 64,
-    "popularity": 11176,
-    "trending": 1,
-    "favourites": 105,
+    "popularity": 11470,
+    "trending": 2,
+    "favourites": 109,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -6579,14 +6586,14 @@
             "id": 199426,
             "title": {
               "romaji": "Hotel Inhumans 2nd Season",
-              "english": null
+              "english": "HOTEL INHUMANS Season 2"
             },
             "type": "ANIME",
             "status": "NOT_YET_RELEASED",
             "season": "FALL",
             "seasonYear": 2026,
             "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199426-nLcvtPfuWcms.jpg"
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199426-0nBgTV9BrcJn.jpg"
             }
           }
         }
@@ -6913,7 +6920,7 @@
         }
       ]
     },
-    "updatedAt": 1788584439,
+    "updatedAt": 1790899828,
     "idTmdb": 276288,
     "idImdb": "tt35995459",
     "idTvdb": 456463,
@@ -7541,9 +7548,9 @@
     ],
     "averageScore": 69,
     "meanScore": 70,
-    "popularity": 6136,
-    "trending": 1,
-    "favourites": 48,
+    "popularity": 6216,
+    "trending": 0,
+    "favourites": 47,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -7952,7 +7959,7 @@
         }
       ]
     },
-    "updatedAt": 1788670870,
+    "updatedAt": 1790899828,
     "idTmdb": 114478,
     "idImdb": "tt13622982",
     "idTvdb": 393190,
@@ -8450,8 +8457,8 @@
     ],
     "averageScore": 65,
     "meanScore": 65,
-    "popularity": 11995,
-    "trending": 1,
+    "popularity": 12110,
+    "trending": 0,
     "favourites": 132,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -8859,7 +8866,7 @@
         }
       ]
     },
-    "updatedAt": 1788649312,
+    "updatedAt": 1790899828,
     "idTmdb": 277581,
     "idImdb": "tt35995444",
     "idTvdb": 456740,
@@ -10116,7 +10123,7 @@
     "type": "ANIME",
     "format": "ONA",
     "status": "FINISHED",
-    "description": "A new adaption of the manga of the same name by Tsukasa Houjou. <br><br>\n<i>Cat’s Eye</i> is a secretive trio of art thieves relentlessly pursued by Detective Toshio. Unbeknownst to him, the middle sister of the elusive thieves is none other than his girlfriend, Hitomi.<br><br>\n(Source: Disney+)",
+    "description": "<i>Cat’s Eye</i> is a secretive trio of art thieves relentlessly pursued by Detective Toshio. Unbeknownst to him, the middle sister of the elusive thieves is none other than his girlfriend, Hitomi.<br><br>\n(Source: Disney+)",
     "episodes": 12,
     "duration": 24,
     "season": "FALL",
@@ -10155,9 +10162,9 @@
     ],
     "averageScore": 64,
     "meanScore": 65,
-    "popularity": 6669,
+    "popularity": 6725,
     "trending": 0,
-    "favourites": 81,
+    "favourites": 75,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -10450,7 +10457,7 @@
         }
       ]
     },
-    "updatedAt": 1788653364
+    "updatedAt": 1790899829
   },
   "184751": {
     "id": 184751,
@@ -11840,9 +11847,9 @@
     "synonyms": [],
     "averageScore": 71,
     "meanScore": 76,
-    "popularity": 1590,
-    "trending": 1,
-    "favourites": 81,
+    "popularity": 1629,
+    "trending": 0,
+    "favourites": 82,
     "isAdult": true,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -11980,7 +11987,7 @@
         }
       ]
     },
-    "updatedAt": 1788615648,
+    "updatedAt": 1790899829,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -13957,10 +13964,10 @@
     "genres": [],
     "synonyms": [],
     "averageScore": 64,
-    "meanScore": 74,
-    "popularity": 352,
+    "meanScore": 73,
+    "popularity": 356,
     "trending": 0,
-    "favourites": 4,
+    "favourites": 3,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -14020,19 +14027,19 @@
       {
         "id": 1047,
         "name": "VTuber",
-        "rank": 20,
+        "rank": 60,
         "isMediaSpoiler": false
       },
       {
         "id": 356,
         "name": "Gyaru",
-        "rank": 20,
+        "rank": 60,
         "isMediaSpoiler": false
       },
       {
         "id": 595,
         "name": "Urban",
-        "rank": 20,
+        "rank": 60,
         "isMediaSpoiler": false
       }
     ],
@@ -14062,7 +14069,7 @@
         }
       ]
     },
-    "updatedAt": 1788428088,
+    "updatedAt": 1790899828,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -16845,7 +16852,7 @@
     ],
     "synonyms": [],
     "averageScore": null,
-    "meanScore": 50,
+    "meanScore": 55,
     "popularity": 91,
     "trending": 0,
     "favourites": 0,
@@ -16870,7 +16877,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787736938,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

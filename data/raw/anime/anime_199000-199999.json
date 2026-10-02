@@ -40,9 +40,9 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 1698,
-    "trending": 2,
-    "favourites": 11,
+    "popularity": 2138,
+    "trending": 1,
+    "favourites": 12,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -234,7 +234,7 @@
         }
       ]
     },
-    "updatedAt": 1788670899,
+    "updatedAt": 1790897372,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -507,7 +507,7 @@
     "idMal": 62590,
     "title": {
       "romaji": "Hotel Inhumans 2nd Season",
-      "english": null,
+      "english": "HOTEL INHUMANS Season 2",
       "native": "ホテル・インヒューマンズ 第2期"
     },
     "type": "ANIME",
@@ -521,7 +521,7 @@
     "startDate": {
       "year": 2026,
       "month": 10,
-      "day": null
+      "day": 4
     },
     "endDate": {
       "year": null,
@@ -529,10 +529,10 @@
       "day": null
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199426-nLcvtPfuWcms.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199426-nLcvtPfuWcms.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199426-nLcvtPfuWcms.jpg",
-      "color": "#fe5078"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199426-0nBgTV9BrcJn.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199426-0nBgTV9BrcJn.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199426-0nBgTV9BrcJn.jpg",
+      "color": "#e45d78"
     },
     "bannerImage": null,
     "genres": [
@@ -542,9 +542,9 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 1895,
-    "trending": 0,
-    "favourites": 12,
+    "popularity": 2375,
+    "trending": 3,
+    "favourites": 20,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -559,10 +559,19 @@
         "url": "https://hotel-inhumans.com/",
         "site": "Official Site",
         "type": "INFO"
+      },
+      {
+        "url": "https://www.crunchyroll.com/series/GXJHM3G08/hotel-inhumans",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": null,
+    "nextAiringEpisode": {
+      "airingAt": 1791125100,
+      "timeUntilAiring": 224680,
+      "episode": 1
+    },
     "relations": {
       "edges": [
         {
@@ -571,7 +580,7 @@
             "id": 184034,
             "title": {
               "romaji": "Hotel Inhumans",
-              "english": "Hotel Inhumans"
+              "english": "HOTEL INHUMANS"
             },
             "type": "ANIME",
             "status": "FINISHED",
@@ -674,7 +683,7 @@
         }
       ]
     },
-    "updatedAt": 1788670907,
+    "updatedAt": 1790899858,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -693,8 +702,8 @@
     },
     "type": "ANIME",
     "format": "ONA",
-    "status": "RELEASING",
-    "description": "The sixth season of Wanmei Shijie. (Episode 235-286)",
+    "status": "FINISHED",
+    "description": "The sixth season of <i>Wanmei Shijie</i><br><br>\n<i>Note: Includes Episodes 235-286.</i>",
     "episodes": 52,
     "duration": 24,
     "season": null,
@@ -705,9 +714,9 @@
       "day": 3
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 9,
+      "day": 11
     },
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199363-1QGAMLROQIn0.png",
@@ -725,24 +734,34 @@
       "Perfect World 6"
     ],
     "averageScore": 67,
-    "meanScore": 84,
-    "popularity": 397,
+    "meanScore": 83,
+    "popularity": 401,
     "trending": 2,
-    "favourites": 30,
+    "favourites": 32,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "OTHER",
     "trailer": null,
     "externalLinks": [
       {
-        "url": "https://bangumi.tv/subject/577198",
-        "site": "Official Site",
-        "type": "INFO"
+        "url": "https://wetv.vip/en/album/oz5ppkfjx9niv57",
+        "site": "WeTV",
+        "type": "STREAMING"
       },
       {
         "url": "https://v.qq.com/x/cover/mcv8hkc8zk8lnov/i41019mib03.html",
         "site": "Tencent Video",
         "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLxOs22nkVmnKfl20-jrXc1pflxjHKFnRf",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://weibo.com/u/7453780346",
+        "site": "Weibo",
+        "type": "SOCIAL"
       }
     ],
     "streamingEpisodes": [],
@@ -763,6 +782,23 @@
             "seasonYear": null,
             "coverImage": {
               "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182562-qjNVhqM5hTuG.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 217628,
+            "title": {
+              "romaji": "Wanmei Shijie 7",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx217628-S1xDISniFmdM.jpg"
             }
           }
         }
@@ -809,7 +845,7 @@
         }
       ]
     },
-    "updatedAt": 1788649228,
+    "updatedAt": 1790899858,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -865,9 +901,9 @@
     ],
     "averageScore": 86,
     "meanScore": 87,
-    "popularity": 12473,
-    "trending": 2,
-    "favourites": 296,
+    "popularity": 13398,
+    "trending": 1,
+    "favourites": 324,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "OTHER",
@@ -925,19 +961,37 @@
       {
         "id": 694,
         "name": "Detective",
-        "rank": 75,
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 50,
+        "name": "Seinen",
+        "rank": 79,
         "isMediaSpoiler": false
       },
       {
         "id": 29,
         "name": "Magic",
-        "rank": 65,
+        "rank": 72,
         "isMediaSpoiler": false
+      },
+      {
+        "id": 586,
+        "name": "Cult",
+        "rank": 66,
+        "isMediaSpoiler": true
       },
       {
         "id": 95,
         "name": "Steampunk",
         "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 326,
+        "name": "Cultivation",
+        "rank": 60,
         "isMediaSpoiler": false
       },
       {
@@ -947,32 +1001,26 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 94,
         "name": "Gore",
         "rank": 50,
         "isMediaSpoiler": false
       },
       {
-        "id": 586,
-        "name": "Cult",
-        "rank": 50,
-        "isMediaSpoiler": true
-      },
-      {
-        "id": 326,
-        "name": "Cultivation",
-        "rank": 40,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 82,
-        "name": "Male Protagonist",
-        "rank": 30,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 639,
         "name": "Body Horror",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 456,
+        "name": "Conspiracy",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -1109,7 +1157,7 @@
         }
       ]
     },
-    "updatedAt": 1788649243,
+    "updatedAt": 1790899858,
     "idTmdb": 232230,
     "idImdb": "tt28618556",
     "idTvdb": 464419,
@@ -1160,10 +1208,10 @@
       "KanoKari 5"
     ],
     "averageScore": 62,
-    "meanScore": 62,
-    "popularity": 22131,
-    "trending": 1,
-    "favourites": 382,
+    "meanScore": 63,
+    "popularity": 22688,
+    "trending": 2,
+    "favourites": 393,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -1250,37 +1298,25 @@
       {
         "id": 1657,
         "name": "Fake Relationship",
-        "rank": 92,
+        "rank": 93,
         "isMediaSpoiler": false
       },
       {
         "id": 190,
         "name": "Prostitution",
-        "rank": 92,
+        "rank": 93,
         "isMediaSpoiler": false
-      },
-      {
-        "id": 280,
-        "name": "Netorase",
-        "rank": 88,
-        "isMediaSpoiler": true
       },
       {
         "id": 1045,
         "name": "Heterosexual",
-        "rank": 87,
+        "rank": 88,
         "isMediaSpoiler": false
       },
       {
         "id": 82,
         "name": "Male Protagonist",
-        "rank": 82,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 281,
-        "name": "Surreal Comedy",
-        "rank": 79,
+        "rank": 85,
         "isMediaSpoiler": false
       },
       {
@@ -1292,31 +1328,43 @@
       {
         "id": 109,
         "name": "Primarily Adult Cast",
+        "rank": 76,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 280,
+        "name": "Netorase",
+        "rank": 76,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 281,
+        "name": "Surreal Comedy",
         "rank": 75,
         "isMediaSpoiler": false
       },
       {
         "id": 1670,
         "name": "Psychosexual",
-        "rank": 72,
+        "rank": 73,
         "isMediaSpoiler": true
-      },
-      {
-        "id": 23,
-        "name": "Female Harem",
-        "rank": 68,
-        "isMediaSpoiler": false
       },
       {
         "id": 139,
         "name": "Love Triangle",
-        "rank": 65,
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 54,
         "isMediaSpoiler": false
       },
       {
         "id": 100,
         "name": "Nudity",
-        "rank": 40,
+        "rank": 30,
         "isMediaSpoiler": true
       }
     ],
@@ -1492,7 +1540,7 @@
         }
       ]
     },
-    "updatedAt": 1788670881,
+    "updatedAt": 1790895724,
     "idTmdb": 96316,
     "idImdb": "tt11448214",
     "idTvdb": 380654,
@@ -1512,7 +1560,7 @@
     "type": "ANIME",
     "format": "MOVIE",
     "status": "NOT_YET_RELEASED",
-    "description": "Theatrical follow-up to <i>Seishun Buta Yarou wa Santa Claus no Yume wo Minai</i>.<br><br>\n\n<i>\"Actually, I’m Touko Kirishima.\"</i>\n<br><br>\nThe audience erupted in excitement upon learning that the true identity of the mysterious, wildly popular internet singer was none other than the nation’s favorite actress, Mai Sakurajima. The scene was exactly the same as the dream Sakuta Azusagawa had seen on Christmas Eve.\n<br><br>\nStarting with Mai’s shocking confession on April 1, the impossible events that everyone once dreamed of keep happening one after another.\n\nThe social media hashtag \"#Yumemiru,\" where dreams come true, has vanished, and as Sakuta struggles with the disconnect between the reality before him and his own perception, he receives a message from a version of himself in an alternate reality.\n<br><br>\n<b>―Stop Touko Kirishima,\n<br>\n―Before reality is rewritten.</b>\n<br><br>\nTo restore the world to its original state, Sakuta sets out to find Touko Kirishima. This is a story about overcoming the \"Adolescent Syndrome\".<br><br>\n\n(Source: Crunchyroll News, edited)",
+    "description": "<i>\"Actually, I’m Touko Kirishima.\"</i>\n<br><br>\nThe audience erupted in excitement upon learning that the true identity of the mysterious, wildly popular internet singer was none other than the nation’s favorite actress, Mai Sakurajima. The scene was exactly the same as the dream Sakuta Azusagawa had seen on Christmas Eve.\n<br><br>\nStarting with Mai’s shocking confession on April 1, the impossible events that everyone once dreamed of keep happening one after another.\n\nThe social media hashtag \"#Yumemiru,\" where dreams come true, has vanished, and as Sakuta struggles with the disconnect between the reality before him and his own perception, he receives a message from a version of himself in an alternate reality.\n<br><br>\n<b>―Stop Touko Kirishima,\n<br>\n―Before reality is rewritten.</b>\n<br><br>\nTo restore the world to its original state, Sakuta sets out to find Touko Kirishima. This is a story about overcoming the \"Adolescent Syndrome\".<br><br>\n\n(Source: Crunchyroll News, edited)",
     "episodes": 1,
     "duration": null,
     "season": "FALL",
@@ -1547,9 +1595,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 27733,
-    "trending": 3,
-    "favourites": 330,
+    "popularity": 30668,
+    "trending": 11,
+    "favourites": 379,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -1593,7 +1641,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1792076400,
-      "timeUntilAiring": 3404207,
+      "timeUntilAiring": 1175980,
       "episode": 1
     },
     "relations": {
@@ -1919,7 +1967,7 @@
         }
       ]
     },
-    "updatedAt": 1788667250,
+    "updatedAt": 1790899858,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1939,7 +1987,7 @@
     "type": "ANIME",
     "format": "ONA",
     "status": "FINISHED",
-    "description": "The story of Saioshi no Gikei wo Mederu Tame, Nagaikishimasu! follows the struggle of a player to protect his favorite character, who gets reincarnated as his older brother-in-law in a simulation raising game - however, the player is reincarnated as the younger brother who was meant to die.\n<br><br>\n(Source: Anime News Network)",
+    "description": "The story of <i>Saioshi no Gikei wo Mederu Tame, Nagaikishimasu!</i> follows the struggle of a player to protect his favorite character, who gets reincarnated as his older brother-in-law in a simulation raising game - however, the player is reincarnated as the younger brother who was meant to die.\n<br><br>\n(Source: Anime News Network)",
     "episodes": 12,
     "duration": 4,
     "season": "WINTER",
@@ -1974,9 +2022,9 @@
     ],
     "averageScore": 51,
     "meanScore": 52,
-    "popularity": 2581,
-    "trending": 0,
-    "favourites": 35,
+    "popularity": 2645,
+    "trending": 1,
+    "favourites": 34,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "OTHER",
@@ -2032,7 +2080,7 @@
               "english": "Perfect Addiction"
             },
             "type": "ANIME",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "season": "SUMMER",
             "seasonYear": 2026,
             "coverImage": {
@@ -2121,14 +2169,14 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 244,
-        "name": "Isekai",
-        "rank": 50,
+        "id": 1102,
+        "name": "Inseki",
+        "rank": 60,
         "isMediaSpoiler": false
       },
       {
-        "id": 1102,
-        "name": "Inseki",
+        "id": 244,
+        "name": "Isekai",
         "rank": 50,
         "isMediaSpoiler": false
       },
@@ -2262,7 +2310,7 @@
         }
       ]
     },
-    "updatedAt": 1788588079,
+    "updatedAt": 1790895692,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2313,11 +2361,11 @@
       "オタギャル",
       "OtaGyaru"
     ],
-    "averageScore": 76,
+    "averageScore": 75,
     "meanScore": 76,
-    "popularity": 68774,
+    "popularity": 70787,
     "trending": 8,
-    "favourites": 1689,
+    "favourites": 1719,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -2392,85 +2440,85 @@
       {
         "id": 1045,
         "name": "Heterosexual",
-        "rank": 90,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 1228,
-        "name": "Primarily Teen Cast",
-        "rank": 88,
+        "rank": 91,
         "isMediaSpoiler": false
       },
       {
         "id": 1459,
         "name": "Polyamorous",
-        "rank": 88,
+        "rank": 90,
         "isMediaSpoiler": true
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 89,
+        "isMediaSpoiler": false
       },
       {
         "id": 82,
         "name": "Male Protagonist",
-        "rank": 87,
+        "rank": 88,
         "isMediaSpoiler": false
       },
       {
         "id": 139,
         "name": "Love Triangle",
-        "rank": 82,
+        "rank": 83,
         "isMediaSpoiler": true
-      },
-      {
-        "id": 81,
-        "name": "Iyashikei",
-        "rank": 79,
-        "isMediaSpoiler": false
       },
       {
         "id": 46,
         "name": "School",
-        "rank": 73,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 98,
-        "name": "Female Protagonist",
-        "rank": 61,
+        "rank": 75,
         "isMediaSpoiler": false
       },
       {
         "id": 86,
         "name": "Primarily Female Cast",
+        "rank": 68,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 81,
+        "name": "Iyashikei",
         "rank": 60,
         "isMediaSpoiler": false
       },
       {
         "id": 50,
         "name": "Seinen",
-        "rank": 55,
+        "rank": 52,
         "isMediaSpoiler": false
       },
       {
         "id": 308,
         "name": "Video Games",
-        "rank": 32,
+        "rank": 43,
         "isMediaSpoiler": false
       },
       {
         "id": 192,
         "name": "Basketball",
-        "rank": 28,
+        "rank": 37,
         "isMediaSpoiler": false
       },
       {
         "id": 149,
         "name": "Baseball",
-        "rank": 23,
+        "rank": 34,
         "isMediaSpoiler": false
       },
       {
         "id": 76,
         "name": "Yuri",
-        "rank": 23,
+        "rank": 22,
         "isMediaSpoiler": true
       },
       {
@@ -2662,7 +2710,7 @@
         }
       ]
     },
-    "updatedAt": 1788670810,
+    "updatedAt": 1790899861,
     "idTmdb": 309163,
     "idImdb": "tt39443176",
     "idTvdb": 468761,
@@ -2681,7 +2729,7 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "Elizabeth Leiston, daughter of the influential prime minister, is a picture-perfect lady on the path to becoming the future queen of the Kingdom of Haldoria. But her life takes a sudden turn for the worst when her fiancé makes a show of publicly calling off their engagement. Soon after, he throws her in jail and starts spreading nasty rumors about her. The encouragement Elizabeth receives from her loyal waiting maid, Mireille, and her inner fury are all she needs to reconsider her goals. Why should she continue devoting herself to a country that doesn’t respect her when she can trample over it instead? She will get even with those who wronged her and bring down the damned kingdom, even if it’s the last thing she does! Luckily, Elizabeth is no damsel in distress and has seven powerful magic grimoires she won’t hesitate to use. Get ready because this ruthless lady is out for blood!\n<br><br>\n(Source: J-Novel Club)",
     "episodes": 12,
     "duration": 24,
@@ -2693,9 +2741,9 @@
       "day": 6
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 9,
+      "day": 21
     },
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199408-ocRWG4pRWl8f.png",
@@ -2711,11 +2759,11 @@
     "synonyms": [
       "คู่มือชำระแค้นของท่านหญิง: วิธีถล่มบ้านเกิดด้วยคัมภีร์เวทมนตร์"
     ],
-    "averageScore": 67,
-    "meanScore": 68,
-    "popularity": 22780,
-    "trending": 17,
-    "favourites": 244,
+    "averageScore": 69,
+    "meanScore": 69,
+    "popularity": 26097,
+    "trending": 9,
+    "favourites": 346,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -2742,11 +2790,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1788787800,
-      "timeUntilAiring": 115715,
-      "episode": 10
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -2787,33 +2831,45 @@
     },
     "tags": [
       {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 94,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 857,
         "name": "Villainess",
-        "rank": 87,
+        "rank": 90,
         "isMediaSpoiler": false
       },
       {
         "id": 104,
         "name": "Anti-Hero",
-        "rank": 80,
+        "rank": 87,
         "isMediaSpoiler": true
-      },
-      {
-        "id": 98,
-        "name": "Female Protagonist",
-        "rank": 79,
-        "isMediaSpoiler": false
       },
       {
         "id": 252,
         "name": "Revenge",
-        "rank": 77,
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1870,
+        "name": "Exiled",
+        "rank": 79,
         "isMediaSpoiler": false
       },
       {
         "id": 94,
         "name": "Gore",
-        "rank": 76,
+        "rank": 77,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1327,
+        "name": "Royal Affairs",
+        "rank": 71,
         "isMediaSpoiler": false
       },
       {
@@ -2823,63 +2879,63 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 1327,
-        "name": "Royal Affairs",
-        "rank": 64,
+        "id": 248,
+        "name": "Economics",
+        "rank": 60,
         "isMediaSpoiler": false
+      },
+      {
+        "id": 111,
+        "name": "War",
+        "rank": 60,
+        "isMediaSpoiler": true
       },
       {
         "id": 56,
         "name": "Shounen",
-        "rank": 60,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 249,
-        "name": "Maids",
-        "rank": 60,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 139,
-        "name": "Love Triangle",
-        "rank": 60,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 614,
-        "name": "Nun",
-        "rank": 50,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 248,
-        "name": "Economics",
-        "rank": 46,
+        "rank": 45,
         "isMediaSpoiler": false
       },
       {
         "id": 113,
         "name": "Nekomimi",
-        "rank": 40,
+        "rank": 45,
         "isMediaSpoiler": false
       },
       {
         "id": 254,
         "name": "Kemonomimi",
+        "rank": 45,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 614,
+        "name": "Nun",
         "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 249,
+        "name": "Maids",
+        "rank": 33,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 139,
+        "name": "Love Triangle",
+        "rank": 33,
         "isMediaSpoiler": false
       },
       {
         "id": 25,
         "name": "Historical",
-        "rank": 40,
+        "rank": 26,
         "isMediaSpoiler": false
       },
       {
         "id": 247,
         "name": "Slavery",
-        "rank": 30,
+        "rank": 23,
         "isMediaSpoiler": false
       }
     ],
@@ -3158,7 +3214,7 @@
         }
       ]
     },
-    "updatedAt": 1788670814,
+    "updatedAt": 1790899858,
     "idTmdb": 298831,
     "idImdb": "tt39551287",
     "idTvdb": 467005,
@@ -3213,9 +3269,9 @@
     ],
     "averageScore": 76,
     "meanScore": 76,
-    "popularity": 89340,
-    "trending": 13,
-    "favourites": 1734,
+    "popularity": 92113,
+    "trending": 11,
+    "favourites": 1790,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -3259,6 +3315,11 @@
         "url": "https://www.iq.com/album/lobrkqtcd1",
         "site": "iQ",
         "type": "STREAMING"
+      },
+      {
+        "url": "https://www.tiktok.com/@marritoxi_pr",
+        "site": "TikTok",
+        "type": "SOCIAL"
       }
     ],
     "streamingEpisodes": [],
@@ -3295,7 +3356,7 @@
             "season": "WINTER",
             "seasonYear": 2027,
             "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213752-Xk0bI7fiMaKz.jpg"
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213752-UNsERPORVGfJ.jpg"
             }
           }
         }
@@ -3317,19 +3378,25 @@
       {
         "id": 648,
         "name": "Crime",
-        "rank": 90,
+        "rank": 89,
         "isMediaSpoiler": false
       },
       {
-        "id": 595,
-        "name": "Urban",
+        "id": 66,
+        "name": "Super Power",
         "rank": 86,
         "isMediaSpoiler": false
       },
       {
         "id": 109,
         "name": "Primarily Adult Cast",
-        "rank": 86,
+        "rank": 85,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 84,
         "isMediaSpoiler": false
       },
       {
@@ -3339,15 +3406,9 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 66,
-        "name": "Super Power",
-        "rank": 83,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 186,
         "name": "Crossdressing",
-        "rank": 82,
+        "rank": 81,
         "isMediaSpoiler": true
       },
       {
@@ -3365,7 +3426,7 @@
       {
         "id": 23,
         "name": "Female Harem",
-        "rank": 75,
+        "rank": 77,
         "isMediaSpoiler": true
       },
       {
@@ -3377,31 +3438,25 @@
       {
         "id": 82,
         "name": "Male Protagonist",
-        "rank": 70,
+        "rank": 74,
         "isMediaSpoiler": false
       },
       {
         "id": 483,
         "name": "LGBTQ+ Themes",
-        "rank": 69,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 1045,
-        "name": "Heterosexual",
-        "rank": 66,
+        "rank": 68,
         "isMediaSpoiler": false
       },
       {
         "id": 56,
         "name": "Shounen",
-        "rank": 60,
+        "rank": 65,
         "isMediaSpoiler": false
       },
       {
-        "id": 433,
-        "name": "Animals",
-        "rank": 60,
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 64,
         "isMediaSpoiler": false
       },
       {
@@ -3417,28 +3472,22 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 100,
-        "name": "Nudity",
-        "rank": 60,
+        "id": 104,
+        "name": "Anti-Hero",
+        "rank": 56,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 433,
+        "name": "Animals",
+        "rank": 55,
         "isMediaSpoiler": false
       },
       {
         "id": 157,
         "name": "Guns",
-        "rank": 56,
+        "rank": 54,
         "isMediaSpoiler": false
-      },
-      {
-        "id": 104,
-        "name": "Anti-Hero",
-        "rank": 53,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 774,
-        "name": "Chimera",
-        "rank": 52,
-        "isMediaSpoiler": true
       },
       {
         "id": 1361,
@@ -3447,9 +3496,21 @@
         "isMediaSpoiler": true
       },
       {
+        "id": 774,
+        "name": "Chimera",
+        "rank": 50,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 75,
         "name": "Boys' Love",
-        "rank": 42,
+        "rank": 46,
         "isMediaSpoiler": true
       },
       {
@@ -3462,6 +3523,12 @@
         "id": 76,
         "name": "Yuri",
         "rank": 34,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1624,
+        "name": "Matchmaking",
+        "rank": 20,
         "isMediaSpoiler": false
       }
     ],
@@ -3705,7 +3772,7 @@
         }
       ]
     },
-    "updatedAt": 1788653385,
+    "updatedAt": 1790899858,
     "idTmdb": 301944,
     "idImdb": "tt39122769",
     "idTvdb": 468734,
@@ -3759,9 +3826,9 @@
     ],
     "averageScore": 83,
     "meanScore": 83,
-    "popularity": 78674,
-    "trending": 8,
-    "favourites": 2176,
+    "popularity": 80875,
+    "trending": 16,
+    "favourites": 2244,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -3954,12 +4021,6 @@
         "name": "CGI",
         "rank": 20,
         "isMediaSpoiler": false
-      },
-      {
-        "id": 75,
-        "name": "Boys' Love",
-        "rank": 20,
-        "isMediaSpoiler": true
       }
     ],
     "studios": {
@@ -4202,7 +4263,7 @@
         }
       ]
     },
-    "updatedAt": 1788667264,
+    "updatedAt": 1790899858,
     "idTmdb": 86031,
     "idImdb": "tt9679542",
     "idTvdb": 355774,
@@ -4221,8 +4282,8 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "RELEASING",
-    "description": "The third season of <i>Grand Blue</i>.",
+    "status": "FINISHED",
+    "description": "Iori's college shenanigans head overseas! Just as he's finally starting to get the hang of university life, crashing at his uncle's dive shop while balancing the booze-fueled antics of his diving club, Iori's cousin enlists him to help run a new dive shop in Palau. Between crystal-clear dives and his diving group that can't resist partying it up and stripping down, Iori's in for a wild summer.\n<br><br>\n(Source: Crunchyroll)",
     "episodes": 12,
     "duration": 24,
     "season": "SUMMER",
@@ -4233,9 +4294,9 @@
       "day": 7
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 9,
+      "day": 22
     },
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199111-gBSuBG61ElcW.jpg",
@@ -4254,9 +4315,9 @@
     ],
     "averageScore": 82,
     "meanScore": 82,
-    "popularity": 39775,
-    "trending": 24,
-    "favourites": 681,
+    "popularity": 43048,
+    "trending": 21,
+    "favourites": 918,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -4288,11 +4349,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1788793200,
-      "timeUntilAiring": 121140,
-      "episode": 10
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -4328,6 +4385,23 @@
               "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx87395-axsA49kSZp72.jpg"
             }
           }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 217136,
+            "title": {
+              "romaji": "Grand Blue Season 4",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx217136-lBViwfZpOCLv.png"
+            }
+          }
         }
       ]
     },
@@ -4339,14 +4413,20 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 88,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 87,
         "name": "Family Life",
         "rank": 85,
         "isMediaSpoiler": false
       },
       {
-        "id": 100,
-        "name": "Nudity",
+        "id": 281,
+        "name": "Surreal Comedy",
         "rank": 80,
         "isMediaSpoiler": false
       },
@@ -4399,12 +4479,6 @@
         "isMediaSpoiler": true
       },
       {
-        "id": 281,
-        "name": "Surreal Comedy",
-        "rank": 75,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 50,
         "name": "Seinen",
         "rank": 75,
@@ -4419,7 +4493,13 @@
       {
         "id": 97,
         "name": "Otaku Culture",
-        "rank": 73,
+        "rank": 72,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1045,
+        "name": "Heterosexual",
+        "rank": 70,
         "isMediaSpoiler": false
       },
       {
@@ -4429,15 +4509,27 @@
         "isMediaSpoiler": true
       },
       {
-        "id": 1045,
-        "name": "Heterosexual",
-        "rank": 66,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 723,
         "name": "Sadism",
         "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 1564,
+        "name": "Estranged Family",
+        "rank": 60,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 55,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1146,
+        "name": "Femdom",
+        "rank": 55,
         "isMediaSpoiler": true
       },
       {
@@ -4447,15 +4539,9 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 1146,
-        "name": "Femdom",
-        "rank": 53,
-        "isMediaSpoiler": true
-      },
-      {
-        "id": 98,
-        "name": "Female Protagonist",
-        "rank": 40,
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 43,
         "isMediaSpoiler": false
       },
       {
@@ -4463,12 +4549,6 @@
         "name": "Female Harem",
         "rank": 40,
         "isMediaSpoiler": false
-      },
-      {
-        "id": 1564,
-        "name": "Estranged Family",
-        "rank": 40,
-        "isMediaSpoiler": true
       },
       {
         "id": 128,
@@ -4483,15 +4563,9 @@
         "isMediaSpoiler": true
       },
       {
-        "id": 483,
-        "name": "LGBTQ+ Themes",
-        "rank": 25,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 76,
-        "name": "Yuri",
-        "rank": 15,
+        "id": 75,
+        "name": "Boys' Love",
+        "rank": 20,
         "isMediaSpoiler": false
       }
     ],
@@ -4763,7 +4837,7 @@
         }
       ]
     },
-    "updatedAt": 1788670826,
+    "updatedAt": 1790899858,
     "idTmdb": 79166,
     "idImdb": "tt8086718",
     "idTvdb": 343913,
@@ -4782,7 +4856,7 @@
     },
     "type": "ANIME",
     "format": "ONA",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "Luck, an S-rank mage in the hero’s party, makes a last stand against the Demon King to save his companions. When he finally returns victorious, ten years have passed, and the world praises him as a legendary hero who died in battle. Unable to reclaim his former life, Luck conceals his identity and begins again as “Lock,” an F-rank adventurer forging a future in a world that moved on without him.<br><br>\n(Source: Crunchyroll)\n<br><br>\n\n<i>Note: Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita is streaming 3 days in advance of the TV broadcast on Prime Video beginning July 3rd, 2026. Regular broadcasting began on July 6th, 2026.</i>",
     "episodes": 12,
     "duration": 23,
@@ -4794,9 +4868,9 @@
       "day": 3
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 9,
+      "day": 18
     },
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199748-PAFk9pGSUmFL.png",
@@ -4814,11 +4888,11 @@
       "KokoOre",
       "ここ俺"
     ],
-    "averageScore": 63,
-    "meanScore": 63,
-    "popularity": 38390,
-    "trending": 53,
-    "favourites": 491,
+    "averageScore": 62,
+    "meanScore": 62,
+    "popularity": 42056,
+    "trending": 16,
+    "favourites": 575,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -4850,11 +4924,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1789133400,
-      "timeUntilAiring": 461190,
-      "episode": 11
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -4897,7 +4967,7 @@
       {
         "id": 488,
         "name": "Age Regression",
-        "rank": 83,
+        "rank": 85,
         "isMediaSpoiler": false
       },
       {
@@ -4915,13 +4985,13 @@
       {
         "id": 153,
         "name": "Time Skip",
-        "rank": 65,
+        "rank": 68,
         "isMediaSpoiler": false
       },
       {
         "id": 82,
         "name": "Male Protagonist",
-        "rank": 55,
+        "rank": 64,
         "isMediaSpoiler": false
       },
       {
@@ -4931,14 +5001,14 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 100,
-        "name": "Nudity",
-        "rank": 45,
+        "id": 23,
+        "name": "Female Harem",
+        "rank": 40,
         "isMediaSpoiler": false
       },
       {
-        "id": 23,
-        "name": "Female Harem",
+        "id": 100,
+        "name": "Nudity",
         "rank": 33,
         "isMediaSpoiler": false
       },
@@ -5193,7 +5263,7 @@
         }
       ]
     },
-    "updatedAt": 1788667209,
+    "updatedAt": 1790899861,
     "idTmdb": 302051,
     "idImdb": null,
     "idTvdb": null,
@@ -5246,9 +5316,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 15207,
-    "trending": 2,
-    "favourites": 160,
+    "popularity": 15948,
+    "trending": 0,
+    "favourites": 173,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -5380,7 +5450,7 @@
         }
       ]
     },
-    "updatedAt": 1788667279,
+    "updatedAt": 1790897406,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -5544,9 +5614,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 16380,
-    "trending": 0,
-    "favourites": 172,
+    "popularity": 16945,
+    "trending": 1,
+    "favourites": 183,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -5862,7 +5932,7 @@
         }
       ]
     },
-    "updatedAt": 1788667307,
+    "updatedAt": 1790899858,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6290,9 +6360,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 7879,
-    "trending": 1,
-    "favourites": 63,
+    "popularity": 8390,
+    "trending": 5,
+    "favourites": 68,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -6338,9 +6408,15 @@
     },
     "tags": [
       {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 322,
         "name": "Assassins",
-        "rank": 80,
+        "rank": 84,
         "isMediaSpoiler": false
       },
       {
@@ -6356,45 +6432,39 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 98,
-        "name": "Female Protagonist",
-        "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 1045,
         "name": "Heterosexual",
-        "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 139,
-        "name": "Love Triangle",
-        "rank": 70,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 648,
-        "name": "Crime",
-        "rank": 66,
+        "rank": 73,
         "isMediaSpoiler": false
       },
       {
         "id": 46,
         "name": "School",
-        "rank": 60,
+        "rank": 70,
         "isMediaSpoiler": false
       },
       {
         "id": 157,
         "name": "Guns",
-        "rank": 60,
+        "rank": 70,
         "isMediaSpoiler": false
       },
       {
         "id": 109,
         "name": "Primarily Adult Cast",
-        "rank": 60,
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 648,
+        "name": "Crime",
+        "rank": 65,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 139,
+        "name": "Love Triangle",
+        "rank": 53,
         "isMediaSpoiler": false
       }
     ],
@@ -6598,7 +6668,7 @@
         }
       ]
     },
-    "updatedAt": 1788670894,
+    "updatedAt": 1790895683,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6792,10 +6862,10 @@
       "WataNare"
     ],
     "averageScore": 79,
-    "meanScore": 80,
-    "popularity": 22780,
-    "trending": 1,
-    "favourites": 655,
+    "meanScore": 79,
+    "popularity": 23312,
+    "trending": 0,
+    "favourites": 668,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -7098,7 +7168,7 @@
         }
       ]
     },
-    "updatedAt": 1788670861,
+    "updatedAt": 1790899858,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7117,7 +7187,7 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "Once the Demon King, now a shut-in NEET—Ryuusei Narukami’s second life is anything but peaceful! When Meteor Hanaori, the Hero who once defeated him, suddenly returns as a normal high school girl, his world is thrown into chaos. Determined to change, Ryuusei reenters society as a teacher and ends up teaching at her school! Their explosive reunion reignites the past—and sparks an unexpected love!<br><br>\n(Source: Crunchyroll)",
     "episodes": 12,
     "duration": 24,
@@ -7149,11 +7219,11 @@
       "Hanaori-san Wants to Have A Fight Even If She Reincarnates",
       "คุณฮานาโอริ เกิดใหม่ครั้งนี้ก็ขอมีเรื่อง"
     ],
-    "averageScore": 69,
-    "meanScore": 70,
-    "popularity": 23348,
-    "trending": 108,
-    "favourites": 289,
+    "averageScore": 72,
+    "meanScore": 73,
+    "popularity": 27254,
+    "trending": 13,
+    "favourites": 444,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -7185,11 +7255,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1789232400,
-      "timeUntilAiring": 560315,
-      "episode": 10
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -7213,21 +7279,21 @@
     },
     "tags": [
       {
-        "id": 39,
-        "name": "Parody",
-        "rank": 100,
+        "id": 1907,
+        "name": "Reverse Isekai",
+        "rank": 92,
         "isMediaSpoiler": false
       },
       {
-        "id": 1907,
-        "name": "Reverse Isekai",
-        "rank": 93,
+        "id": 39,
+        "name": "Parody",
+        "rank": 86,
         "isMediaSpoiler": false
       },
       {
         "id": 1045,
         "name": "Heterosexual",
-        "rank": 82,
+        "rank": 84,
         "isMediaSpoiler": false
       },
       {
@@ -7249,16 +7315,34 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
         "id": 244,
         "name": "Isekai",
         "rank": 79,
         "isMediaSpoiler": false
       },
       {
+        "id": 139,
+        "name": "Love Triangle",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
         "id": 46,
         "name": "School",
-        "rank": 65,
+        "rank": 64,
         "isMediaSpoiler": false
+      },
+      {
+        "id": 146,
+        "name": "Alternate Universe",
+        "rank": 60,
+        "isMediaSpoiler": true
       },
       {
         "id": 193,
@@ -7273,10 +7357,22 @@
         "isMediaSpoiler": true
       },
       {
-        "id": 321,
-        "name": "Urban Fantasy",
+        "id": 483,
+        "name": "LGBTQ+ Themes",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 191,
+        "name": "Aliens",
         "rank": 30,
         "isMediaSpoiler": true
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 25,
+        "isMediaSpoiler": false
       },
       {
         "id": 50,
@@ -7285,34 +7381,34 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 191,
-        "name": "Aliens",
-        "rank": 20,
-        "isMediaSpoiler": true
-      },
-      {
-        "id": 146,
-        "name": "Alternate Universe",
-        "rank": 20,
-        "isMediaSpoiler": true
-      },
-      {
         "id": 99,
         "name": "Henshin",
         "rank": 20,
         "isMediaSpoiler": true
       },
       {
-        "id": 86,
-        "name": "Primarily Female Cast",
-        "rank": 13,
-        "isMediaSpoiler": false
+        "id": 85,
+        "name": "Tragedy",
+        "rank": 20,
+        "isMediaSpoiler": true
       },
       {
-        "id": 483,
-        "name": "LGBTQ+ Themes",
-        "rank": 10,
-        "isMediaSpoiler": false
+        "id": 158,
+        "name": "Crossover",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 857,
+        "name": "Villainess",
+        "rank": 20,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 100,
+        "name": "Nudity",
+        "rank": 20,
+        "isMediaSpoiler": true
       }
     ],
     "studios": {
@@ -7406,7 +7502,7 @@
           "node": {
             "id": 394828,
             "name": {
-              "full": "Marika Nagamori",
+              "full": "Matsurika Nagamori",
               "native": "永守茉莉花"
             }
           },
@@ -7482,7 +7578,7 @@
           "node": {
             "id": 394834,
             "name": {
-              "full": "Sakura Rokudo",
+              "full": "Sakura Rokudou",
               "native": "六道さくら"
             }
           },
@@ -7501,7 +7597,7 @@
           "node": {
             "id": 394836,
             "name": {
-              "full": "Ayahime Takanashi",
+              "full": "Ayame Takanashi",
               "native": "小鳥遊綾姫"
             }
           },
@@ -7555,7 +7651,7 @@
         }
       ]
     },
-    "updatedAt": 1788670812,
+    "updatedAt": 1790899858,
     "idTmdb": 312266,
     "idImdb": "tt41276828",
     "idTvdb": 468399,
@@ -7591,10 +7687,10 @@
       "day": null
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199594-bLaQPdkBLYjo.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199594-bLaQPdkBLYjo.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199594-bLaQPdkBLYjo.jpg",
-      "color": "#f1ae1a"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199594-O16SEeK1Bn7L.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199594-O16SEeK1Bn7L.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199594-O16SEeK1Bn7L.jpg",
+      "color": "#1a78d6"
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199594-iw8KRAiBp3sO.jpg",
     "genres": [
@@ -7605,9 +7701,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 1350,
-    "trending": 0,
-    "favourites": 5,
+    "popularity": 2313,
+    "trending": 3,
+    "favourites": 7,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -7636,7 +7732,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1791471600,
-      "timeUntilAiring": 2799731,
+      "timeUntilAiring": 571182,
       "episode": 1
     },
     "relations": {
@@ -7664,18 +7760,18 @@
       {
         "id": 122,
         "name": "Trains",
-        "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 98,
-        "name": "Female Protagonist",
-        "rank": 79,
+        "rank": 100,
         "isMediaSpoiler": false
       },
       {
         "id": 92,
         "name": "Cute Girls Doing Cute Things",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 98,
+        "name": "Female Protagonist",
         "rank": 79,
         "isMediaSpoiler": false
       },
@@ -7686,9 +7782,21 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 84,
+        "name": "School Club",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 86,
         "name": "Primarily Female Cast",
-        "rank": 20,
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 404,
+        "name": "College",
+        "rank": 60,
         "isMediaSpoiler": false
       }
     ],
@@ -7911,7 +8019,7 @@
         }
       ]
     },
-    "updatedAt": 1788670907,
+    "updatedAt": 1790899861,
     "idTmdb": 302020,
     "idImdb": null,
     "idTvdb": null,
@@ -7965,9 +8073,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 17817,
-    "trending": 0,
-    "favourites": 139,
+    "popularity": 18197,
+    "trending": 1,
+    "favourites": 137,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -8069,9 +8177,27 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 321,
+        "name": "Urban Fantasy",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 208,
+        "name": "Mythology",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1689,
+        "name": "Curses",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 75,
         "name": "Boys' Love",
-        "rank": 73,
+        "rank": 74,
         "isMediaSpoiler": false
       },
       {
@@ -8138,7 +8264,7 @@
         }
       ]
     },
-    "updatedAt": 1788606120,
+    "updatedAt": 1790899858,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -8152,13 +8278,13 @@
     "idMal": 62524,
     "title": {
       "romaji": "#Zombie Sagashitemasu",
-      "english": null,
+      "english": "#I'm Looking For a Zombie",
       "native": "#ゾンビさがしてます"
     },
     "type": "ANIME",
     "format": "TV",
     "status": "NOT_YET_RELEASED",
-    "description": "The manga is set in a world where 90 percent of humans on Earth have contracted and died from a deadly, virulent disease; only to then rise again as zombies who only attack people. 13 years after that \"Red Day\" of societal and civilizational collapse, the surviving humans survive away from the big cities, while still hoping to retake them someday. An entirely new generation of people who know nothing of the pre-Red Day world are now coming into their own. The story begins when Aki and her close friends Haru and Natsuki begin a journey to find Aki's missing father.\n<br><br>\n(Source: Anime News Network)",
+    "description": "It may be a ruined city ravaged by zombies, but to Aki and her friends, it’s amazing! Having grown up only hearing stories of the old world and the mysterious outbreak that wiped out humanity, she sets off with her childhood friends in search of her missing father. Things quickly become a fight for survival outside the safety of their small village, yet they’ve never felt more alive.\n<br><br>\n(Source: Cunchyroll)",
     "episodes": null,
     "duration": null,
     "season": "FALL",
@@ -8166,7 +8292,7 @@
     "startDate": {
       "year": 2026,
       "month": 10,
-      "day": null
+      "day": 3
     },
     "endDate": {
       "year": null,
@@ -8174,10 +8300,10 @@
       "day": null
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-VkhbbXfdugl8.png",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199007-VkhbbXfdugl8.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199007-VkhbbXfdugl8.png",
-      "color": "#5d93f1"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-qxUDe3KA6AGI.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199007-qxUDe3KA6AGI.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199007-qxUDe3KA6AGI.jpg",
+      "color": "#5d86f1"
     },
     "bannerImage": null,
     "genres": [
@@ -8188,20 +8314,21 @@
       "Supernatural"
     ],
     "synonyms": [
-      "#I'm Looking for Zombie"
+      "Zommasu",
+      "ゾンます"
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 2555,
-    "trending": 1,
-    "favourites": 18,
+    "popularity": 4815,
+    "trending": 5,
+    "favourites": 28,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "trailer": {
-      "id": "KbXVkk7UH9Q",
+      "id": "_0kVb8-uRSI",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/KbXVkk7UH9Q/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/_0kVb8-uRSI/hqdefault.jpg"
     },
     "externalLinks": [
       {
@@ -8213,10 +8340,19 @@
         "url": "https://zommasu.com/",
         "site": "Official Site",
         "type": "INFO"
+      },
+      {
+        "url": "https://www.crunchyroll.com",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": null,
+    "nextAiringEpisode": {
+      "airingAt": 1791037800,
+      "timeUntilAiring": 137382,
+      "episode": 1
+    },
     "relations": {
       "edges": [
         {
@@ -8240,33 +8376,33 @@
     },
     "tags": [
       {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 152,
         "name": "Zombie",
-        "rank": 66,
+        "rank": 76,
         "isMediaSpoiler": false
       },
       {
         "id": 93,
         "name": "Post-Apocalyptic",
-        "rank": 50,
+        "rank": 66,
         "isMediaSpoiler": false
       },
       {
         "id": 92,
         "name": "Cute Girls Doing Cute Things",
-        "rank": 50,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 98,
-        "name": "Female Protagonist",
-        "rank": 40,
+        "rank": 66,
         "isMediaSpoiler": false
       },
       {
         "id": 56,
         "name": "Shounen",
-        "rank": 20,
+        "rank": 60,
         "isMediaSpoiler": false
       }
     ],
@@ -8377,10 +8513,105 @@
               }
             }
           ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 408665,
+            "name": {
+              "full": "Mikazuki",
+              "native": "ミカヅキ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 102263,
+              "name": {
+                "full": "Youko Hikasa",
+                "native": "日笠陽子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 408666,
+            "name": {
+              "full": "Saigo",
+              "native": "サイゴ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 168957,
+              "name": {
+                "full": "Aino Shimada",
+                "native": "島田愛野"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 408667,
+            "name": {
+              "full": "Touka",
+              "native": "トウカ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 129325,
+              "name": {
+                "full": "Makoto Koichi",
+                "native": "小市眞琴"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 408668,
+            "name": {
+              "full": "Takamo",
+              "native": "タカモ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 122320,
+              "name": {
+                "full": "Tomoyo Takayanagi",
+                "native": "高柳知葉"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 408669,
+            "name": {
+              "full": "Aki no Chichi",
+              "native": "アキの父"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95097,
+              "name": {
+                "full": "Kousuke Toriumi",
+                "native": "鳥海浩輔"
+              }
+            }
+          ]
         }
       ]
     },
-    "updatedAt": 1788667207,
+    "updatedAt": 1790899858,
     "idTmdb": 301139,
     "idImdb": null,
     "idTvdb": null,
@@ -8845,9 +9076,9 @@
     ],
     "averageScore": 63,
     "meanScore": 70,
-    "popularity": 1479,
-    "trending": 1,
-    "favourites": 21,
+    "popularity": 1521,
+    "trending": 0,
+    "favourites": 22,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "MANGA",
@@ -8973,7 +9204,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788458568,
+    "updatedAt": 1790895761,
     "idTmdb": 280095,
     "idImdb": null,
     "idTvdb": 474763,
@@ -9024,9 +9255,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 703,
+    "popularity": 785,
     "trending": 0,
-    "favourites": 6,
+    "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "OTHER",
@@ -9099,7 +9330,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788602506,
+    "updatedAt": 1790899858,
     "idTmdb": 300837,
     "idImdb": null,
     "idTvdb": null,
@@ -9276,11 +9507,11 @@
     "synonyms": [
       "Above Ten Thousand People"
     ],
-    "averageScore": 60,
-    "meanScore": 69,
-    "popularity": 1809,
-    "trending": 1,
-    "favourites": 39,
+    "averageScore": 61,
+    "meanScore": 70,
+    "popularity": 1978,
+    "trending": 0,
+    "favourites": 43,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "OTHER",
@@ -9372,7 +9603,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788667297,
+    "updatedAt": 1790897406,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9747,21 +9978,21 @@
     "idMal": 62534,
     "title": {
       "romaji": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
-      "english": null,
+      "english": "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match",
       "native": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦"
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "NOT_YET_RELEASED",
-    "description": "Sequel to <i>Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL</i>.",
+    "status": "RELEASING",
+    "description": "Old rivalries reignite as Team Japan players face off to earn spots in the lineup for the World Cup final.\n<br><br>\n(Source: Crunchyroll News)",
     "episodes": null,
-    "duration": null,
+    "duration": 23,
     "season": "FALL",
     "seasonYear": 2026,
     "startDate": {
       "year": 2026,
-      "month": null,
-      "day": null
+      "month": 10,
+      "day": 1
     },
     "endDate": {
       "year": null,
@@ -9780,14 +10011,12 @@
       "Comedy",
       "Sports"
     ],
-    "synonyms": [
-      "The Prince of Tennis II U-17 WORLD CUP Final Member Selection Match "
-    ],
+    "synonyms": [],
     "averageScore": null,
-    "meanScore": null,
-    "popularity": 777,
-    "trending": 0,
-    "favourites": 5,
+    "meanScore": 72,
+    "popularity": 1053,
+    "trending": 4,
+    "favourites": 8,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -9803,7 +10032,7 @@
         "type": "SOCIAL"
       },
       {
-        "url": "http://tenipuri.jp/u17/",
+        "url": "http://tenipuri.jp/u17/selection-match/",
         "site": "Official Site",
         "type": "INFO"
       },
@@ -9811,10 +10040,19 @@
         "url": "https://www.youtube.com/@アニメ新テニスの王子様オフィシャ",
         "site": "YouTube",
         "type": "STREAMING"
+      },
+      {
+        "url": "https://www.crunchyroll.com/series/G65VP3106/the-prince-of-tennis-ii",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": null,
+    "nextAiringEpisode": {
+      "airingAt": 1791385200,
+      "timeUntilAiring": 484782,
+      "episode": 2
+    },
     "relations": {
       "edges": [
         {
@@ -9911,7 +10149,15 @@
               "native": "越前リョーマ"
             }
           },
-          "voiceActors": []
+          "voiceActors": [
+            {
+              "id": 95062,
+              "name": {
+                "full": "Junko Minagawa",
+                "native": "皆川純子"
+              }
+            }
+          ]
         },
         {
           "role": "MAIN",
@@ -9922,7 +10168,15 @@
               "native": "手塚国光"
             }
           },
-          "voiceActors": []
+          "voiceActors": [
+            {
+              "id": 95177,
+              "name": {
+                "full": "Ryoutarou Okiayu",
+                "native": "置鮎龍太郎"
+              }
+            }
+          ]
         },
         {
           "role": "MAIN",
@@ -9933,7 +10187,15 @@
               "native": "大石秀一郎"
             }
           },
-          "voiceActors": []
+          "voiceActors": [
+            {
+              "id": 95829,
+              "name": {
+                "full": "Takayuki Kondou",
+                "native": "近藤孝行"
+              }
+            }
+          ]
         },
         {
           "role": "MAIN",
@@ -9944,7 +10206,15 @@
               "native": "不二周助"
             }
           },
-          "voiceActors": []
+          "voiceActors": [
+            {
+              "id": 95688,
+              "name": {
+                "full": "Yuki Kaida",
+                "native": "甲斐田ゆき"
+              }
+            }
+          ]
         },
         {
           "role": "MAIN",
@@ -9955,7 +10225,15 @@
               "native": "跡部景吾"
             }
           },
-          "voiceActors": []
+          "voiceActors": [
+            {
+              "id": 95095,
+              "name": {
+                "full": "Junichi Suwabe",
+                "native": "諏訪部順一"
+              }
+            }
+          ]
         },
         {
           "role": "MAIN",
@@ -9966,7 +10244,15 @@
               "native": "忍足侑士"
             }
           },
-          "voiceActors": []
+          "voiceActors": [
+            {
+              "id": 95174,
+              "name": {
+                "full": "Hidenobu Kiuchi",
+                "native": "木内秀信"
+              }
+            }
+          ]
         },
         {
           "role": "SUPPORTING",
@@ -9989,7 +10275,7 @@
         }
       ]
     },
-    "updatedAt": 1788588079,
+    "updatedAt": 1790899858,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -10043,9 +10329,9 @@
     ],
     "averageScore": 72,
     "meanScore": 84,
-    "popularity": 2602,
-    "trending": 1,
-    "favourites": 27,
+    "popularity": 2620,
+    "trending": 0,
+    "favourites": 28,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -10292,7 +10578,7 @@
         }
       ]
     },
-    "updatedAt": 1788649294,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -10763,7 +11049,7 @@
   },
   "199353": {
     "id": 199353,
-    "idMal": null,
+    "idMal": 60597,
     "title": {
       "romaji": "Dawang Raoming 3",
       "english": null,
@@ -10773,14 +11059,14 @@
     "format": "ONA",
     "status": "NOT_YET_RELEASED",
     "description": "The third season of <i>Dawang Raoming</i>.",
-    "episodes": null,
+    "episodes": 12,
     "duration": null,
     "season": null,
     "seasonYear": null,
     "startDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 10,
+      "day": 3
     },
     "endDate": {
       "year": null,
@@ -10788,10 +11074,10 @@
       "day": null
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199353-eCkTDaP9V9vb.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199353-eCkTDaP9V9vb.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199353-eCkTDaP9V9vb.jpg",
-      "color": "#f1e4c9"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199353-S2jczHjCWHGL.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199353-S2jczHjCWHGL.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199353-S2jczHjCWHGL.png",
+      "color": "#e4a150"
     },
     "bannerImage": null,
     "genres": [
@@ -10804,13 +11090,17 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 1603,
-    "trending": 0,
+    "popularity": 1722,
+    "trending": 1,
     "favourites": 33,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "OTHER",
-    "trailer": null,
+    "trailer": {
+      "id": "xIa7dMUka-8",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/xIa7dMUka-8/hqdefault.jpg"
+    },
     "externalLinks": [
       {
         "url": "https://weibo.com/u/7485610158",
@@ -10824,7 +11114,11 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": null,
+    "nextAiringEpisode": {
+      "airingAt": 1790992800,
+      "timeUntilAiring": 92090,
+      "episode": 1
+    },
     "relations": {
       "edges": [
         {
@@ -10916,14 +11210,14 @@
         }
       ]
     },
-    "updatedAt": 1788566979,
+    "updatedAt": 1790895758,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
     "idTrakt": null,
     "traktSlug": null,
     "idSimkl": null,
-    "idShikimori": null
+    "idShikimori": 60597
   },
   "199366": {
     "id": 199366,
@@ -11224,11 +11518,11 @@
       "Ze Tian Ji 3D",
       "Fighter of the Destiny"
     ],
-    "averageScore": 69,
-    "meanScore": 79,
-    "popularity": 703,
+    "averageScore": 70,
+    "meanScore": 80,
+    "popularity": 740,
     "trending": 1,
-    "favourites": 34,
+    "favourites": 36,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "OTHER",
@@ -11315,7 +11609,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788670870,
+    "updatedAt": 1790897395,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -11774,10 +12068,10 @@
       "Eat For Leveling up"
     ],
     "averageScore": null,
-    "meanScore": 66,
-    "popularity": 120,
+    "meanScore": 68,
+    "popularity": 125,
     "trending": 0,
-    "favourites": 1,
+    "favourites": 3,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "OTHER",
@@ -11823,7 +12117,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787995196,
+    "updatedAt": 1790899858,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -12992,9 +13286,9 @@
     ],
     "averageScore": 60,
     "meanScore": 65,
-    "popularity": 911,
+    "popularity": 927,
     "trending": 0,
-    "favourites": 20,
+    "favourites": 19,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "MANGA",
@@ -13049,7 +13343,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788427083,
+    "updatedAt": 1790899858,
     "idTmdb": 239320,
     "idImdb": "tt39166658",
     "idTvdb": 469890,
@@ -17393,5 +17687,217 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 45181
+  },
+  "199495": {
+    "id": 199495,
+    "idMal": 39436,
+    "title": {
+      "romaji": "Uchi no 3 Shimai Movie",
+      "english": null,
+      "native": "えいが うちの3姉妹"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "\"An animated version of a super child-rearing essay blog. The cute three sisters Fuu, Suu, and Chii, along with their mom and dad, have a lot of interesting things going on in their \"happy-go-lucky\" daily lives.\"\n<br><br>\n(Source: Official Website)",
+    "episodes": 1,
+    "duration": 15,
+    "season": "SPRING",
+    "seasonYear": 2019,
+    "startDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 26
+    },
+    "endDate": {
+      "year": 2019,
+      "month": 4,
+      "day": 26
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b199495-Q2rTWyLxgMRU.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b199495-Q2rTWyLxgMRU.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b199495-Q2rTWyLxgMRU.png",
+      "color": "#5dc9e4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "synonyms": [
+      "Eiga Uchi no 3 Shimai"
+    ],
+    "averageScore": null,
+    "meanScore": 60,
+    "popularity": 33,
+    "trending": 0,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": null,
+    "trailer": null,
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PARENT",
+          "node": {
+            "id": 3975,
+            "title": {
+              "romaji": "Uchi no 3 Shimai",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2008,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b3975-qxG09nQwVawv.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 18,
+            "name": "Toei Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 11306,
+            "name": {
+              "full": "Fuu",
+              "native": "長女・フー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95128,
+              "name": {
+                "full": "Ikue Ootani",
+                "native": "大谷育江"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 11308,
+            "name": {
+              "full": "Suu",
+              "native": "次女・スー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95029,
+              "name": {
+                "full": "Mika Kanai",
+                "native": "かないみか"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 11312,
+            "name": {
+              "full": "Chii",
+              "native": "三女・チー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96410,
+              "name": {
+                "full": "Taeko Kawata",
+                "native": "川田妙子"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 11314,
+            "name": {
+              "full": "Okaa-san",
+              "native": "お母さん"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95913,
+              "name": {
+                "full": "Chika Fujimura",
+                "native": "藤村知可"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 11316,
+            "name": {
+              "full": "Otou-san",
+              "native": "お父さん"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 155546,
+              "name": {
+                "full": "Takahiro Miyake",
+                "native": "三宅貴大"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 11318,
+            "name": {
+              "full": "Mopsi",
+              "native": "モプシー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 96742,
+              "name": {
+                "full": "Chiyako Shibahara",
+                "native": "芝原チヤコ"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "updatedAt": 1790895761,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": 1052419,
+    "idShikimori": 39436
   }
 }

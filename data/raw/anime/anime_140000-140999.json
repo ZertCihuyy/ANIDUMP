@@ -43,11 +43,11 @@
       "Paraíso da Galáxia dos Sonhos",
       "ซอมบี้แลนด์ซากะ: ยูเมะกิงกะ พาราไดซ์"
     ],
-    "averageScore": 82,
-    "meanScore": 83,
-    "popularity": 18674,
-    "trending": 1,
-    "favourites": 251,
+    "averageScore": 81,
+    "meanScore": 82,
+    "popularity": 18925,
+    "trending": 2,
+    "favourites": 262,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -106,7 +106,7 @@
       {
         "id": 191,
         "name": "Aliens",
-        "rank": 96,
+        "rank": 97,
         "isMediaSpoiler": true
       },
       {
@@ -148,7 +148,7 @@
       {
         "id": 157,
         "name": "Guns",
-        "rank": 68,
+        "rank": 70,
         "isMediaSpoiler": true
       },
       {
@@ -158,27 +158,27 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 76,
-        "name": "Yuri",
-        "rank": 60,
-        "isMediaSpoiler": true
-      },
-      {
         "id": 240,
         "name": "Amnesia",
-        "rank": 55,
+        "rank": 60,
         "isMediaSpoiler": false
       },
       {
-        "id": 43,
-        "name": "Swordplay",
-        "rank": 50,
-        "isMediaSpoiler": true
+        "id": 83,
+        "name": "Slapstick",
+        "rank": 60,
+        "isMediaSpoiler": false
       },
       {
         "id": 93,
         "name": "Post-Apocalyptic",
-        "rank": 48,
+        "rank": 53,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 43,
+        "name": "Swordplay",
+        "rank": 52,
         "isMediaSpoiler": true
       },
       {
@@ -188,9 +188,15 @@
         "isMediaSpoiler": true
       },
       {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 40,
+        "isMediaSpoiler": true
+      },
+      {
         "id": 174,
         "name": "Tanks",
-        "rank": 36,
+        "rank": 33,
         "isMediaSpoiler": true
       }
     ],
@@ -348,7 +354,7 @@
           ]
         },
         {
-          "role": "SUPPORTING",
+          "role": "MAIN",
           "node": {
             "id": 127543,
             "name": {
@@ -369,25 +375,44 @@
         {
           "role": "SUPPORTING",
           "node": {
-            "id": 381739,
+            "id": 127649,
             "name": {
-              "full": "Naomasa Amabuki",
-              "native": "天吹直正"
+              "full": "Romero",
+              "native": "ロメロ"
             }
           },
           "voiceActors": [
             {
-              "id": 95212,
+              "id": 95752,
               "name": {
-                "full": "Daisuke Ono",
-                "native": "小野大輔"
+                "full": "Yasuhiro Takato",
+                "native": "高戸靖広"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 132105,
+            "name": {
+              "full": "Suenaga",
+              "native": "警察官A"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95283,
+              "name": {
+                "full": "Hiroyuki Yoshino",
+                "native": "吉野裕行"
               }
             }
           ]
         }
       ]
     },
-    "updatedAt": 1788670881,
+    "updatedAt": 1790899707,
     "idTmdb": 959646,
     "idImdb": "tt35658228",
     "idTvdb": null,
@@ -440,9 +465,9 @@
     ],
     "averageScore": 70,
     "meanScore": 70,
-    "popularity": 45598,
-    "trending": 0,
-    "favourites": 935,
+    "popularity": 45947,
+    "trending": 1,
+    "favourites": 937,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "VIDEO_GAME",
@@ -531,261 +556,6 @@
           }
         },
         {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 131969,
-            "title": {
-              "romaji": "Last Of Me",
-              "english": "Last Of Me"
-            },
-            "type": "ANIME",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx131969-tgSTQw0mLDE7.jpg"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 120267,
-            "title": {
-              "romaji": "Arknights Comic Anthology",
-              "english": null
-            },
-            "type": "MANGA",
-            "status": "RELEASING",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx120267-WHDUGyw2Puur.png"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 131967,
-            "title": {
-              "romaji": "End Like This",
-              "english": "End Like This"
-            },
-            "type": "ANIME",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx131967-HfSNyA0xnTf4.jpg"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 127957,
-            "title": {
-              "romaji": "Holy Knight Light",
-              "english": null
-            },
-            "type": "ANIME",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx127957-pO4WwM8WhgRQ.png"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 128850,
-            "title": {
-              "romaji": "Arknights: Operators!",
-              "english": null
-            },
-            "type": "MANGA",
-            "status": "RELEASING",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx128850-qw3j8dfX1Uej.jpg"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 138554,
-            "title": {
-              "romaji": "Closure no Kimitsu File",
-              "english": "Closure's Secret Files"
-            },
-            "type": "ANIME",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx138554-FwohPyhQRgKX.png"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 140665,
-            "title": {
-              "romaji": "Lee Shi Zhentan Shiwusuo",
-              "english": "Lee's Detective Agency"
-            },
-            "type": "ANIME",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140665-RgyxyauI22F1.jpg"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 145904,
-            "title": {
-              "romaji": "Untitled World",
-              "english": "Untitled World"
-            },
-            "type": "ANIME",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145904-sLmpZdsTHzim.jpg"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 147337,
-            "title": {
-              "romaji": "Ain't Seen Nothing Like This",
-              "english": "Ain't Seen Nothing Like This"
-            },
-            "type": "ANIME",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147337-TVxzrzzqbate.jpg"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 147471,
-            "title": {
-              "romaji": "Luode Dao Yuan Shi Jishi: Hei Gang",
-              "english": "Rhodes Island's Records of Originium - Blacksteel"
-            },
-            "type": "MANGA",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx147471-wuUZLTUi2Zu2.png"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 148314,
-            "title": {
-              "romaji": "A1 Xingdong Yubei Zu",
-              "english": "A1 Operations Preparation Detachment"
-            },
-            "type": "MANGA",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx148314-URWQ4kIbhfIO.jpg"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 149568,
-            "title": {
-              "romaji": "Luode Dao Yuan Shi Jishi: Lai Yin Shengming",
-              "english": "Rhodes Island's Records Of Originium - Rhine Lab"
-            },
-            "type": "MANGA",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx149568-iKlQnMEMVVNH.jpg"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 149800,
-            "title": {
-              "romaji": "Luode Chufang: Huigan",
-              "english": "Rhodes Kitchen - Tidbits"
-            },
-            "type": "MANGA",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx149800-JW2EmQq94ym1.jpg"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 152178,
-            "title": {
-              "romaji": "123 Luode Dao!?",
-              "english": null
-            },
-            "type": "MANGA",
-            "status": "RELEASING",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx152178-zh2zkyq6oWP7.jpg"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 156065,
-            "title": {
-              "romaji": "Running In The Dark",
-              "english": "Running In The Dark"
-            },
-            "type": "ANIME",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx156065-Vcd0qxSu7EqQ.png"
-            }
-          }
-        },
-        {
           "relationType": "SEQUEL",
           "node": {
             "id": 158895,
@@ -803,126 +573,109 @@
           }
         },
         {
-          "relationType": "CHARACTER",
+          "relationType": "OTHER",
           "node": {
-            "id": 162526,
+            "id": 131969,
             "title": {
-              "romaji": "Egao no Hanataba",
+              "romaji": "Last Of Me",
+              "english": "Last Of Me"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx131969-tgSTQw0mLDE7.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 131967,
+            "title": {
+              "romaji": "End Like This",
+              "english": "End Like This"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx131967-HfSNyA0xnTf4.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 145904,
+            "title": {
+              "romaji": "Untitled World",
+              "english": "Untitled World"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145904-sLmpZdsTHzim.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 128850,
+            "title": {
+              "romaji": "Arknights: Operators!",
               "english": null
             },
-            "type": "ANIME",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162526-WrLb3rrzg4dk.png"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 164205,
-            "title": {
-              "romaji": "Day By Day",
-              "english": "Day By Day"
-            },
-            "type": "ANIME",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx164205-TsvhLe8PhQr2.jpg"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 164810,
-            "title": {
-              "romaji": "Xinshi Angelina Manyou Shouji",
-              "english": "Angelina - Sketches of this Messenger's Journey"
-            },
             "type": "MANGA",
-            "status": "FINISHED",
+            "status": "RELEASING",
             "season": null,
             "seasonYear": null,
             "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx164810-rfsJo8i5QZbO.png"
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx128850-qw3j8dfX1Uej.jpg"
             }
           }
         },
         {
-          "relationType": "CHARACTER",
+          "relationType": "OTHER",
           "node": {
-            "id": 169932,
+            "id": 120267,
             "title": {
-              "romaji": "Xiaoke de Huatu Xie Hua",
-              "english": "Kay's Daily Doodles"
-            },
-            "type": "ANIME",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169932-7AObL3JrOUCW.jpg"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 170498,
-            "title": {
-              "romaji": "Ashen",
+              "romaji": "Arknights Comic Anthology",
               "english": null
             },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx120267-WHDUGyw2Puur.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 138554,
+            "title": {
+              "romaji": "Closure no Kimitsu File",
+              "english": "Closure's Secret Files"
+            },
             "type": "ANIME",
             "status": "FINISHED",
             "season": null,
             "seasonYear": null,
             "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170498-7McfKJZgHtGx.png"
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx138554-FwohPyhQRgKX.png"
             }
           }
         },
         {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 170749,
-            "title": {
-              "romaji": "Xuyan Zuqu: Wuju Zouyin",
-              "english": "Prelude Suite: Cadenza Virtuosa"
-            },
-            "type": "MANGA",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx170749-FHP1PnSdBLjB.jpg"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 173645,
-            "title": {
-              "romaji": "Xuyan Zuqu: Li Jian Yin Feng",
-              "english": "Prelude Suite: Keen-Edge, Silver Blade"
-            },
-            "type": "MANGA",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx173645-Dtg0eHRKTFH3.png"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
+          "relationType": "OTHER",
           "node": {
             "id": 174748,
             "title": {
@@ -939,24 +692,58 @@
           }
         },
         {
-          "relationType": "CHARACTER",
+          "relationType": "OTHER",
           "node": {
-            "id": 177124,
+            "id": 140665,
             "title": {
-              "romaji": "Arknights Xin​chun Hui: Lili Kurong",
-              "english": null
+              "romaji": "Lee Shi Zhentan Shiwusuo",
+              "english": "Lee's Detective Agency"
             },
             "type": "ANIME",
             "status": "FINISHED",
             "season": null,
             "seasonYear": null,
             "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177124-yZIms6VhVwbo.png"
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140665-RgyxyauI22F1.jpg"
             }
           }
         },
         {
-          "relationType": "CHARACTER",
+          "relationType": "OTHER",
+          "node": {
+            "id": 164205,
+            "title": {
+              "romaji": "Day By Day",
+              "english": "Day By Day"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx164205-TsvhLe8PhQr2.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 156065,
+            "title": {
+              "romaji": "Running In The Dark",
+              "english": "Running In The Dark"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx156065-Vcd0qxSu7EqQ.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
           "node": {
             "id": 177177,
             "title": {
@@ -973,75 +760,24 @@
           }
         },
         {
-          "relationType": "CHARACTER",
+          "relationType": "OTHER",
           "node": {
-            "id": 179715,
+            "id": 127957,
             "title": {
-              "romaji": "Shi Dao Zhe",
-              "english": "Arknights - The Daggers' Inheritors"
+              "romaji": "Holy Knight Light",
+              "english": null
             },
             "type": "ANIME",
             "status": "FINISHED",
             "season": null,
             "seasonYear": null,
             "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179715-UBb1JdeMUEN5.png"
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx127957-pO4WwM8WhgRQ.png"
             }
           }
         },
         {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 185233,
-            "title": {
-              "romaji": "Cecelia de An Hun Xun Lü",
-              "english": "Cecelia and the Sauin Pilgrimage"
-            },
-            "type": "MANGA",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx185233-3BXyQKRIqBWO.png"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 185778,
-            "title": {
-              "romaji": "Terra Live",
-              "english": "U Takes Terra"
-            },
-            "type": "ANIME",
-            "status": "FINISHED",
-            "season": "SPRING",
-            "seasonYear": 2025,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185778-Zl01zbfShlCc.jpg"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 185780,
-            "title": {
-              "romaji": "2024 Arknights Yinlu Lian Jue - Bumi Langchen Xiandao Yugao",
-              "english": "Ambience Synesthesia 2024 RES: Souvenance Preview Trailer"
-            },
-            "type": "ANIME",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185780-pafqPa8IefTK.png"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
+          "relationType": "OTHER",
           "node": {
             "id": 186845,
             "title": {
@@ -1058,7 +794,126 @@
           }
         },
         {
-          "relationType": "CHARACTER",
+          "relationType": "OTHER",
+          "node": {
+            "id": 170749,
+            "title": {
+              "romaji": "Xuyan Zuqu: Wuju Zouyin",
+              "english": "Prelude Suite: Cadenza Virtuosa"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx170749-FHP1PnSdBLjB.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 164810,
+            "title": {
+              "romaji": "Xinshi Angelina Manyou Shouji",
+              "english": "Angelina - Sketches of this Messenger's Journey"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx164810-rfsJo8i5QZbO.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 177124,
+            "title": {
+              "romaji": "Arknights Xin​chun Hui: Lili Kurong",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177124-yZIms6VhVwbo.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 149568,
+            "title": {
+              "romaji": "Luode Dao Yuan Shi Jishi: Lai Yin Shengming",
+              "english": "Rhodes Island's Records Of Originium - Rhine Lab"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx149568-iKlQnMEMVVNH.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 149800,
+            "title": {
+              "romaji": "Luode Chufang: Huigan",
+              "english": "Rhodes Kitchen - Tidbits"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx149800-JW2EmQq94ym1.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 152178,
+            "title": {
+              "romaji": "123 Luode Dao!?",
+              "english": null
+            },
+            "type": "MANGA",
+            "status": "RELEASING",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx152178-zh2zkyq6oWP7.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 147471,
+            "title": {
+              "romaji": "Luode Dao Yuan Shi Jishi: Hei Gang",
+              "english": "Rhodes Island's Records of Originium - Blacksteel"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx147471-wuUZLTUi2Zu2.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
           "node": {
             "id": 187591,
             "title": {
@@ -1075,58 +930,75 @@
           }
         },
         {
-          "relationType": "CHARACTER",
+          "relationType": "OTHER",
           "node": {
-            "id": 195038,
+            "id": 147337,
             "title": {
-              "romaji": "Musui Xiantan: Lai Paidian​ying Ma",
-              "english": "Sui's Daily Slices: Wanna Shoot a Picture?"
+              "romaji": "Ain't Seen Nothing Like This",
+              "english": "Ain't Seen Nothing Like This"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147337-TVxzrzzqbate.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 148314,
+            "title": {
+              "romaji": "A1 Xingdong Yubei Zu",
+              "english": "A1 Operations Preparation Detachment"
             },
             "type": "MANGA",
             "status": "FINISHED",
             "season": null,
             "seasonYear": null,
             "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx195038-eMjAHp2lhbqi.png"
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx148314-URWQ4kIbhfIO.jpg"
             }
           }
         },
         {
-          "relationType": "CHARACTER",
+          "relationType": "OTHER",
           "node": {
-            "id": 195039,
+            "id": 173645,
             "title": {
-              "romaji": "Xuyan Zuqu: Xinghong Xue Zuan",
-              "english": "Prelude Suite: Blood Diamond"
+              "romaji": "Xuyan Zuqu: Li Jian Yin Feng",
+              "english": "Prelude Suite: Keen-Edge, Silver Blade"
             },
             "type": "MANGA",
             "status": "FINISHED",
             "season": null,
             "seasonYear": null,
             "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx195039-borG4sh1GWkl.png"
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx173645-Dtg0eHRKTFH3.png"
             }
           }
         },
         {
-          "relationType": "CHARACTER",
+          "relationType": "OTHER",
           "node": {
-            "id": 204744,
+            "id": 162526,
             "title": {
-              "romaji": "Musui Xiantan: Zhei Shi Pingfang Rensheng",
-              "english": "Sui's Daily Slices: Mundane Mortal Life"
+              "romaji": "Egao no Hanataba",
+              "english": null
             },
-            "type": "MANGA",
+            "type": "ANIME",
             "status": "FINISHED",
             "season": null,
             "seasonYear": null,
             "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx204744-D5wglGaiNmNq.png"
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162526-WrLb3rrzg4dk.png"
             }
           }
         },
         {
-          "relationType": "CHARACTER",
+          "relationType": "OTHER",
           "node": {
             "id": 204746,
             "title": {
@@ -1143,41 +1015,7 @@
           }
         },
         {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 207928,
-            "title": {
-              "romaji": "Musui Xiantan: Zhengshi Tuanyuan Shifen",
-              "english": "Sui's Daily Slices: Time for Reunion"
-            },
-            "type": "MANGA",
-            "status": "FINISHED",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx207928-5i3IMdqCvvCO.jpg"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 211397,
-            "title": {
-              "romaji": "Xuntu Manlu: Wangquan Jinbi",
-              "english": null
-            },
-            "type": "MANGA",
-            "status": "RELEASING",
-            "season": null,
-            "seasonYear": null,
-            "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx211397-499HEXQFzI36.png"
-            }
-          }
-        },
-        {
-          "relationType": "CHARACTER",
+          "relationType": "OTHER",
           "node": {
             "id": 213810,
             "title": {
@@ -1190,6 +1028,142 @@
             "seasonYear": null,
             "coverImage": {
               "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx213810-xGGRLKqOA08a.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 179715,
+            "title": {
+              "romaji": "Shi Dao Zhe",
+              "english": "Arknights - The Daggers' Inheritors"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179715-UBb1JdeMUEN5.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 185233,
+            "title": {
+              "romaji": "Cecelia de An Hun Xun Lü",
+              "english": "Cecelia and the Sauin Pilgrimage"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx185233-3BXyQKRIqBWO.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 195039,
+            "title": {
+              "romaji": "Xuyan Zuqu: Xinghong Xue Zuan",
+              "english": "Prelude Suite: Blood Diamond"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx195039-borG4sh1GWkl.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 185780,
+            "title": {
+              "romaji": "2024 Arknights Yinlu Lian Jue - Bumi Langchen Xiandao Yugao",
+              "english": "Ambience Synesthesia 2024 RES: Souvenance Preview Trailer"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185780-pafqPa8IefTK.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 170498,
+            "title": {
+              "romaji": "Ashen",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170498-7McfKJZgHtGx.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 211397,
+            "title": {
+              "romaji": "Xuntu Manlu: Wangquan Jinbi",
+              "english": "Wandering Records: Gold Of Crowns"
+            },
+            "type": "MANGA",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx211397-499HEXQFzI36.png"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 169932,
+            "title": {
+              "romaji": "Xiaoke de Huatu Xie Hua",
+              "english": "Kay's Daily Doodles"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169932-7AObL3JrOUCW.jpg"
+            }
+          }
+        },
+        {
+          "relationType": "OTHER",
+          "node": {
+            "id": 185778,
+            "title": {
+              "romaji": "Terra Live",
+              "english": "U Takes Terra"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": "SPRING",
+            "seasonYear": 2025,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185778-Zl01zbfShlCc.jpg"
             }
           }
         }
@@ -1543,7 +1517,7 @@
         }
       ]
     },
-    "updatedAt": 1788645746,
+    "updatedAt": 1790899709,
     "idTmdb": 137065,
     "idImdb": "tt22443832",
     "idTvdb": 411800,
@@ -1592,9 +1566,9 @@
     "synonyms": [],
     "averageScore": 72,
     "meanScore": 72,
-    "popularity": 28479,
-    "trending": 1,
-    "favourites": 392,
+    "popularity": 28649,
+    "trending": 0,
+    "favourites": 391,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -1946,82 +1920,6 @@
         {
           "role": "SUPPORTING",
           "node": {
-            "id": 266336,
-            "name": {
-              "full": "Toworu Usuyama",
-              "native": "碓山トヲル"
-            }
-          },
-          "voiceActors": [
-            {
-              "id": 96489,
-              "name": {
-                "full": "Tomoaki Maeno",
-                "native": "前野智昭"
-              }
-            }
-          ]
-        },
-        {
-          "role": "SUPPORTING",
-          "node": {
-            "id": 262588,
-            "name": {
-              "full": "Yasuomi Ono",
-              "native": "大野安臣"
-            }
-          },
-          "voiceActors": [
-            {
-              "id": 96122,
-              "name": {
-                "full": "Takaya Kuroda",
-                "native": "黒田崇矢"
-              }
-            }
-          ]
-        },
-        {
-          "role": "SUPPORTING",
-          "node": {
-            "id": 269518,
-            "name": {
-              "full": "Kyouko Yata",
-              "native": "矢田鏡子"
-            }
-          },
-          "voiceActors": [
-            {
-              "id": 116543,
-              "name": {
-                "full": "Yumiri Hanamori",
-                "native": "花守ゆみり"
-              }
-            }
-          ]
-        },
-        {
-          "role": "SUPPORTING",
-          "node": {
-            "id": 263427,
-            "name": {
-              "full": "Daiki Oginome",
-              "native": "荻野目大樹"
-            }
-          },
-          "voiceActors": [
-            {
-              "id": 96154,
-              "name": {
-                "full": "Yuuki Ono",
-                "native": "小野友樹"
-              }
-            }
-          ]
-        },
-        {
-          "role": "SUPPORTING",
-          "node": {
             "id": 263428,
             "name": {
               "full": "Hayato Kirishima",
@@ -2037,10 +1935,86 @@
               }
             }
           ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 263429,
+            "name": {
+              "full": "Ayato Misora",
+              "native": "美空綾人"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 110919,
+              "name": {
+                "full": "Ayumu Murase",
+                "native": "村瀬歩"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 264663,
+            "name": {
+              "full": "Azuma Tachibana",
+              "native": "立花梓馬"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119833,
+              "name": {
+                "full": "Taku Yashiro",
+                "native": "八代拓"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 264664,
+            "name": {
+              "full": "Shiryuu Tonozaki",
+              "native": "外崎士龍"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 120263,
+              "name": {
+                "full": "Daiki Hamano",
+                "native": "濱野大輝"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 270187,
+            "name": {
+              "full": "Sentarou Ibuki",
+              "native": "伊吹泉太郎"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95177,
+              "name": {
+                "full": "Ryoutarou Okiayu",
+                "native": "置鮎龍太郎"
+              }
+            }
+          ]
         }
       ]
     },
-    "updatedAt": 1788606087,
+    "updatedAt": 1790899709,
     "idTmdb": 136841,
     "idImdb": "tt15744206",
     "idTvdb": 411665,
@@ -2093,9 +2067,9 @@
     ],
     "averageScore": 73,
     "meanScore": 73,
-    "popularity": 27970,
-    "trending": 0,
-    "favourites": 473,
+    "popularity": 28110,
+    "trending": 1,
+    "favourites": 471,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -2506,7 +2480,7 @@
         }
       ]
     },
-    "updatedAt": 1788670907,
+    "updatedAt": 1790897380,
     "idTmdb": 137390,
     "idImdb": "tt15789088",
     "idTvdb": 411914,
@@ -2562,7 +2536,7 @@
     ],
     "averageScore": 83,
     "meanScore": 83,
-    "popularity": 24904,
+    "popularity": 25174,
     "trending": 0,
     "favourites": 806,
     "isAdult": false,
@@ -2765,7 +2739,7 @@
         }
       ]
     },
-    "updatedAt": 1788653298,
+    "updatedAt": 1790895761,
     "idTmdb": 887870,
     "idImdb": "tt15737898",
     "idTvdb": null,
@@ -2785,7 +2759,7 @@
     "type": "ANIME",
     "format": "TV",
     "status": "FINISHED",
-    "description": "The fourth season of <i>Kingdom</i>.<br>\n<br>\nFollowing the conclusion of the large-scale coalition campaign, the entirety of China is in a state of economic recovery. The victor of the battle, the state of Qin, is no different. There, the political parties led by Ying Zheng and Buwei Lü continue their inner conflict. Having played the role of king in the coalition battle, Zheng has the trust of the people—but Lü is far from out of the fight. In 18 months, he plans to interrupt Zheng's coming-of-age ceremony.<br>\n<br>\nMeanwhile, a Zhao army numbering 20,000 troops has set out toward Qin. In the royal court, due to the lack of generals capable of responding to the incoming threat, Lü slyly suggests that Zheng take command. However, Cheng Jiao, Zheng's half-brother, volunteers instead. As they grew to trust each other during the coalition battle, Zheng now accepts Jiao as his replacement.<br>\n<br>\nHowever, the Zhao forces retreat a mere half-day after clashing with Jiao's army. With trouble quickly brewing in the shadows, the internal struggle of Qin is only complicated further. There are only two men Zheng feels he can rely on: Bi, a general who commands 30,000 men; and Xin, the leader of the Fei Xin force.<br>\n<br>\n(Source: MAL Rewrite)",
+    "description": "Following the conclusion of the large-scale coalition campaign, the entirety of China is in a state of economic recovery. The victor of the battle, the state of Qin, is no different. There, the political parties led by Ying Zheng and Buwei Lü continue their inner conflict. Having played the role of king in the coalition battle, Zheng has the trust of the people—but Lü is far from out of the fight. In 18 months, he plans to interrupt Zheng's coming-of-age ceremony.\n<br><br>\nMeanwhile, a Zhao army numbering 20,000 troops has set out toward Qin. In the royal court, due to the lack of generals capable of responding to the incoming threat, Lü slyly suggests that Zheng take command. However, Cheng Jiao, Zheng's half-brother, volunteers instead. As they grew to trust each other during the coalition battle, Zheng now accepts Jiao as his replacement.\n<br><br>\nHowever, the Zhao forces retreat a mere half-day after clashing with Jiao's army. With trouble quickly brewing in the shadows, the internal struggle of Qin is only complicated further. There are only two men Zheng feels he can rely on: Bi, a general who commands 30,000 men; and Xin, the leader of the Fei Xin force.\n<br><br>\n(Source: MAL Rewrite)",
     "episodes": 26,
     "duration": 25,
     "season": "SPRING",
@@ -2816,9 +2790,9 @@
     ],
     "averageScore": 85,
     "meanScore": 85,
-    "popularity": 19501,
-    "trending": 3,
-    "favourites": 570,
+    "popularity": 19748,
+    "trending": 0,
+    "favourites": 576,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -3271,7 +3245,7 @@
         }
       ]
     },
-    "updatedAt": 1788606044,
+    "updatedAt": 1790899707,
     "idTmdb": 46437,
     "idImdb": "tt2404499",
     "idTvdb": 259635,
@@ -3326,9 +3300,9 @@
     ],
     "averageScore": 55,
     "meanScore": 55,
-    "popularity": 66730,
+    "popularity": 67451,
     "trending": 3,
-    "favourites": 913,
+    "favourites": 907,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -3769,7 +3743,7 @@
         }
       ]
     },
-    "updatedAt": 1788653299,
+    "updatedAt": 1790899710,
     "idTmdb": 137391,
     "idImdb": "tt27391405",
     "idTvdb": 411893,
@@ -3789,7 +3763,7 @@
     "type": "ANIME",
     "format": "TV_SHORT",
     "status": "RELEASING",
-    "description": "The sometimes happy, sometimes sad, and a tad stressful daily life of \"some sort of small, cute creature\" known as Chiikawa. Chiikawa enjoys delicious food with bees and rabbits, toils hard every day for the rewards of work, and still maintains a smile.<br>\n<br>\n(Source: Anime News Network)\n",
+    "description": "Meet Chiikawa and best friends Hachiware and Usagi as they navigate the ups and downs of everyday life in a world that's cute, fantastical and full of surprises. Together they work hard, enjoy tasty treats, face unexpected challenges, and find joy in the little things.<br>\n<br>\n(Source: Chiikawa Official Youtube Channel)",
     "episodes": null,
     "duration": 2,
     "season": "SPRING",
@@ -3822,9 +3796,9 @@
     ],
     "averageScore": 84,
     "meanScore": 85,
-    "popularity": 11016,
-    "trending": 10,
-    "favourites": 1063,
+    "popularity": 11789,
+    "trending": 8,
+    "favourites": 1140,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -3861,11 +3835,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1788820800,
-      "timeUntilAiring": 148841,
-      "episode": 376
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -3925,7 +3895,7 @@
       {
         "id": 433,
         "name": "Animals",
-        "rank": 96,
+        "rank": 95,
         "isMediaSpoiler": false
       },
       {
@@ -3937,19 +3907,19 @@
       {
         "id": 446,
         "name": "Primarily Child Cast",
-        "rank": 90,
+        "rank": 91,
         "isMediaSpoiler": false
       },
       {
         "id": 81,
         "name": "Iyashikei",
-        "rank": 86,
+        "rank": 87,
         "isMediaSpoiler": false
       },
       {
         "id": 262,
         "name": "Outdoor Activities",
-        "rank": 83,
+        "rank": 85,
         "isMediaSpoiler": false
       },
       {
@@ -3971,9 +3941,27 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 636,
+        "name": "Cosmic Horror",
+        "rank": 79,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 324,
+        "name": "Chibi",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 28,
         "name": "Kids",
-        "rank": 77,
+        "rank": 78,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 217,
+        "name": "Dystopian",
+        "rank": 73,
         "isMediaSpoiler": false
       },
       {
@@ -3983,21 +3971,27 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 217,
-        "name": "Dystopian",
-        "rank": 71,
+        "id": 145,
+        "name": "Work",
+        "rank": 68,
         "isMediaSpoiler": false
       },
       {
-        "id": 145,
-        "name": "Work",
-        "rank": 70,
-        "isMediaSpoiler": false
+        "id": 391,
+        "name": "Philosophy",
+        "rank": 60,
+        "isMediaSpoiler": true
       },
       {
         "id": 774,
         "name": "Chimera",
         "rank": 50,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 146,
+        "name": "Alternate Universe",
+        "rank": 40,
         "isMediaSpoiler": true
       },
       {
@@ -4212,7 +4206,7 @@
         }
       ]
     },
-    "updatedAt": 1788670867,
+    "updatedAt": 1790899710,
     "idTmdb": 194916,
     "idImdb": "tt26997679",
     "idTvdb": 415509,
@@ -4232,7 +4226,7 @@
     "type": "ANIME",
     "format": "TV",
     "status": "FINISHED",
-    "description": "The third season of <i>Mob Psycho 100</i>. <br><br>\nThe appearance of a divine tree and new religion turns Mob and Reigen's city upside down!<br><br>\n(Source: Crunchyroll)\n",
+    "description": "The appearance of a divine tree and new religion turns Mob and Reigen's city upside down!\n<br><br>\n(Source: Crunchyroll)",
     "episodes": 12,
     "duration": 24,
     "season": "FALL",
@@ -4269,9 +4263,9 @@
     ],
     "averageScore": 87,
     "meanScore": 87,
-    "popularity": 263564,
-    "trending": 4,
-    "favourites": 12043,
+    "popularity": 266404,
+    "trending": 3,
+    "favourites": 12115,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -4771,7 +4765,7 @@
         }
       ]
     },
-    "updatedAt": 1788670886,
+    "updatedAt": 1790899709,
     "idTmdb": 67075,
     "idImdb": "tt5897304",
     "idTvdb": 307375,
@@ -4828,9 +4822,9 @@
     ],
     "averageScore": 69,
     "meanScore": 69,
-    "popularity": 109060,
-    "trending": 1,
-    "favourites": 1842,
+    "popularity": 110316,
+    "trending": 3,
+    "favourites": 1818,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -5323,7 +5317,7 @@
         }
       ]
     },
-    "updatedAt": 1788649316,
+    "updatedAt": 1790899709,
     "idTmdb": 136763,
     "idImdb": "tt15723722",
     "idTvdb": 411625,
@@ -5381,9 +5375,9 @@
     ],
     "averageScore": 83,
     "meanScore": 83,
-    "popularity": 568298,
-    "trending": 9,
-    "favourites": 26596,
+    "popularity": 573857,
+    "trending": 13,
+    "favourites": 26338,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -5777,14 +5771,14 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 39,
-        "name": "Parody",
-        "rank": 64,
+        "id": 193,
+        "name": "Episodic",
+        "rank": 65,
         "isMediaSpoiler": false
       },
       {
-        "id": 193,
-        "name": "Episodic",
+        "id": 39,
+        "name": "Parody",
         "rank": 64,
         "isMediaSpoiler": false
       },
@@ -6090,7 +6084,7 @@
         }
       ]
     },
-    "updatedAt": 1788670831,
+    "updatedAt": 1790899710,
     "idTmdb": 120089,
     "idImdb": "tt13706018",
     "idTvdb": 405920,
@@ -6467,9 +6461,9 @@
     ],
     "averageScore": 68,
     "meanScore": 68,
-    "popularity": 23401,
-    "trending": 2,
-    "favourites": 606,
+    "popularity": 23744,
+    "trending": 1,
+    "favourites": 610,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "VIDEO_GAME",
@@ -6573,13 +6567,13 @@
       {
         "id": 29,
         "name": "Magic",
-        "rank": 95,
+        "rank": 96,
         "isMediaSpoiler": false
       },
       {
         "id": 88,
         "name": "Primarily Male Cast",
-        "rank": 92,
+        "rank": 91,
         "isMediaSpoiler": false
       },
       {
@@ -6894,7 +6888,7 @@
         }
       ]
     },
-    "updatedAt": 1788670864,
+    "updatedAt": 1790899707,
     "idTmdb": 136342,
     "idImdb": "tt28306749",
     "idTvdb": 411393,
@@ -6914,7 +6908,7 @@
     "type": "ANIME",
     "format": "TV",
     "status": "FINISHED",
-    "description": "The second season of <i>Ijiranaide, Nagatoro-san</i>.<br><br>\nMiss Nagatoro is back for even more antics against Senpai in her next round of shenanigans! <br><br>\n(Source: Crunchyroll)",
+    "description": "Miss Nagatoro is back for even more antics against Senpai in her next round of shenanigans! <br><br>\n(Source: Crunchyroll)",
     "episodes": 12,
     "duration": 24,
     "season": "WINTER",
@@ -6948,9 +6942,9 @@
     ],
     "averageScore": 73,
     "meanScore": 73,
-    "popularity": 102257,
-    "trending": 3,
-    "favourites": 1716,
+    "popularity": 103208,
+    "trending": 4,
+    "favourites": 1703,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -7387,7 +7381,7 @@
         }
       ]
     },
-    "updatedAt": 1788670835,
+    "updatedAt": 1790899709,
     "idTmdb": 105556,
     "idImdb": "tt12635162",
     "idTvdb": 385278,
@@ -7437,10 +7431,10 @@
       "Лав Лайв! Суперзвезда!! 2"
     ],
     "averageScore": 75,
-    "meanScore": 76,
-    "popularity": 15662,
-    "trending": 0,
-    "favourites": 354,
+    "meanScore": 75,
+    "popularity": 15750,
+    "trending": 1,
+    "favourites": 352,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "OTHER",
@@ -7535,7 +7529,7 @@
               "english": null
             },
             "type": "MANGA",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "season": null,
             "seasonYear": null,
             "coverImage": {
@@ -7898,7 +7892,7 @@
         }
       ]
     },
-    "updatedAt": 1788613678,
+    "updatedAt": 1790895734,
     "idTmdb": 106055,
     "idImdb": "tt13840232",
     "idTvdb": 400512,
@@ -8427,9 +8421,9 @@
     ],
     "averageScore": 74,
     "meanScore": 78,
-    "popularity": 1323,
+    "popularity": 1341,
     "trending": 0,
-    "favourites": 43,
+    "favourites": 41,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "OTHER",
@@ -8664,7 +8658,7 @@
         }
       ]
     },
-    "updatedAt": 1788562939,
+    "updatedAt": 1790899709,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -8717,9 +8711,9 @@
     ],
     "averageScore": 61,
     "meanScore": 61,
-    "popularity": 62979,
-    "trending": 2,
-    "favourites": 1124,
+    "popularity": 63791,
+    "trending": 0,
+    "favourites": 1121,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -9171,7 +9165,7 @@
         }
       ]
     },
-    "updatedAt": 1788670877,
+    "updatedAt": 1790895761,
     "idTmdb": 136840,
     "idImdb": "tt15739134",
     "idTvdb": 412076,
@@ -9219,9 +9213,9 @@
     "synonyms": [],
     "averageScore": 67,
     "meanScore": 68,
-    "popularity": 3682,
+    "popularity": 3719,
     "trending": 0,
-    "favourites": 158,
+    "favourites": 156,
     "isAdult": true,
     "countryOfOrigin": "JP",
     "source": "VISUAL_NOVEL",
@@ -9464,7 +9458,7 @@
         }
       ]
     },
-    "updatedAt": 1788605023,
+    "updatedAt": 1790899708,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9514,9 +9508,9 @@
     ],
     "averageScore": 64,
     "meanScore": 65,
-    "popularity": 4416,
+    "popularity": 4466,
     "trending": 0,
-    "favourites": 275,
+    "favourites": 265,
     "isAdult": true,
     "countryOfOrigin": "JP",
     "source": "OTHER",
@@ -9709,7 +9703,7 @@
         }
       ]
     },
-    "updatedAt": 1788605023,
+    "updatedAt": 1790899708,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -10539,7 +10533,7 @@
     "type": "ANIME",
     "format": "MOVIE",
     "status": "FINISHED",
-    "description": "Theatrical follow-up to <i>Sword Art Online: Progressive - Hoshinaki Yoru no Aria</i>. <br><br>\nThis may be a game, but it's not something you play.\n<br><br>\nThe world's first VRMMORPG (Sword Art Online) became a game of death. Over a month has passed since 10,000 users were trapped inside the game world. Asuna, who cleared the first floor of the floating iron castle of Aincrad, joined up with Kirito and continued her journey to reach the top floor. With the support of female Information Broker Argo, clearing the floors seemed to be progressing smoothly, but…\n<br><br>\nConflict erupts between two major guilds who should be working together – the top player groups ALS (the Aincrad Liberation Squad) and DKB (the Dragon Knights Brigade). And meanwhile, behind the scenes exists a mysterious figure pulling the strings….\n<br><br>\nIn a dangerous battle of death, there is an assault that differs from the threat, and it will involve Asuna and Kirito…!<br><br>\n(Source: Aniplex)",
+    "description": "This may be a game, but it's not something you play.\n<br><br>\nThe world's first VRMMORPG (Sword Art Online) became a game of death. Over a month has passed since 10,000 users were trapped inside the game world. Asuna, who cleared the first floor of the floating iron castle of Aincrad, joined up with Kirito and continued her journey to reach the top floor. With the support of female Information Broker Argo, clearing the floors seemed to be progressing smoothly, but…\n<br><br>\nConflict erupts between two major guilds who should be working together – the top player groups ALS (the Aincrad Liberation Squad) and DKB (the Dragon Knights Brigade). And meanwhile, behind the scenes exists a mysterious figure pulling the strings….\n<br><br>\nIn a dangerous battle of death, there is an assault that differs from the threat, and it will involve Asuna and Kirito…!<br><br>\n(Source: Aniplex)",
     "episodes": 1,
     "duration": 100,
     "season": "FALL",
@@ -10577,9 +10571,9 @@
     ],
     "averageScore": 76,
     "meanScore": 77,
-    "popularity": 60940,
+    "popularity": 61465,
     "trending": 1,
-    "favourites": 1025,
+    "favourites": 1019,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -10963,7 +10957,7 @@
         }
       ]
     },
-    "updatedAt": 1788670821,
+    "updatedAt": 1790899710,
     "idTmdb": 893712,
     "idImdb": "tt15830702",
     "idTvdb": null,
@@ -14752,9 +14746,9 @@
     "synonyms": [],
     "averageScore": 72,
     "meanScore": 72,
-    "popularity": 11243,
+    "popularity": 11319,
     "trending": 0,
-    "favourites": 175,
+    "favourites": 171,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "OTHER",
@@ -15192,7 +15186,7 @@
         }
       ]
     },
-    "updatedAt": 1788604991,
+    "updatedAt": 1790895761,
     "idTmdb": 137194,
     "idImdb": "tt15783416",
     "idTvdb": 411850,
@@ -15796,7 +15790,7 @@
     "synonyms": [],
     "averageScore": 59,
     "meanScore": 61,
-    "popularity": 1927,
+    "popularity": 1937,
     "trending": 0,
     "favourites": 60,
     "isAdult": true,
@@ -16137,7 +16131,7 @@
         }
       ]
     },
-    "updatedAt": 1788605031,
+    "updatedAt": 1790899707,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -16877,7 +16871,7 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": 55,
-    "popularity": 93,
+    "popularity": 96,
     "trending": 0,
     "favourites": 0,
     "isAdult": false,
@@ -16900,6 +16894,12 @@
         "name": "Graduation Project",
         "rank": 20,
         "isMediaSpoiler": false
+      },
+      {
+        "id": 341,
+        "name": "No Dialogue",
+        "rank": 20,
+        "isMediaSpoiler": false
       }
     ],
     "studios": {
@@ -16916,7 +16916,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787655232,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -17626,7 +17626,7 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": 47,
-    "popularity": 71,
+    "popularity": 70,
     "trending": 0,
     "favourites": 0,
     "isAdult": false,
@@ -17674,7 +17674,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787568180,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -18312,9 +18312,9 @@
     ],
     "averageScore": 50,
     "meanScore": 56,
-    "popularity": 760,
+    "popularity": 766,
     "trending": 0,
-    "favourites": 20,
+    "favourites": 19,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "VIDEO_GAME",
@@ -18474,7 +18474,7 @@
         }
       ]
     },
-    "updatedAt": 1788605046,
+    "updatedAt": 1790899707,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -19688,7 +19688,7 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": 40,
-    "popularity": 54,
+    "popularity": 53,
     "trending": 0,
     "favourites": 0,
     "isAdult": false,
@@ -19720,7 +19720,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787568128,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -21565,7 +21565,7 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": 36,
-    "popularity": 54,
+    "popularity": 53,
     "trending": 0,
     "favourites": 0,
     "isAdult": false,
@@ -21597,7 +21597,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787655186,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -21643,7 +21643,7 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": 49,
-    "popularity": 63,
+    "popularity": 62,
     "trending": 0,
     "favourites": 1,
     "isAdult": false,
@@ -21682,7 +21682,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787655185,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -23562,7 +23562,7 @@
     ],
     "averageScore": null,
     "meanScore": 40,
-    "popularity": 53,
+    "popularity": 52,
     "trending": 0,
     "favourites": 0,
     "isAdult": false,
@@ -23601,7 +23601,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1787655185,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -25883,9 +25883,9 @@
     "synonyms": [],
     "averageScore": 60,
     "meanScore": 64,
-    "popularity": 806,
+    "popularity": 813,
     "trending": 0,
-    "favourites": 7,
+    "favourites": 8,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -25952,7 +25952,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788605042,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -27899,7 +27899,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788345554,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -28357,7 +28357,7 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": 43,
-    "popularity": 44,
+    "popularity": 43,
     "trending": 0,
     "favourites": 0,
     "isAdult": false,
@@ -28389,7 +28389,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788518904,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -28600,9 +28600,9 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": 56,
-    "popularity": 70,
+    "popularity": 69,
     "trending": 0,
-    "favourites": 1,
+    "favourites": 2,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -28638,7 +28638,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788518900,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -29940,7 +29940,7 @@
     "synonyms": [],
     "averageScore": 54,
     "meanScore": 63,
-    "popularity": 185,
+    "popularity": 183,
     "trending": 0,
     "favourites": 1,
     "isAdult": false,
@@ -29971,7 +29971,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788605027,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -30019,7 +30019,7 @@
     ],
     "averageScore": 63,
     "meanScore": 69,
-    "popularity": 399,
+    "popularity": 400,
     "trending": 0,
     "favourites": 7,
     "isAdult": false,
@@ -30078,7 +30078,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788605026,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -30314,5 +30314,452 @@
     "traktSlug": null,
     "idSimkl": null,
     "idShikimori": 43621
+  },
+  "140370": {
+    "id": 140370,
+    "idMal": null,
+    "title": {
+      "romaji": "Doggie Corgi 2",
+      "english": "Doggie Corgi 2",
+      "native": "도기코기 2"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "FINISHED",
+    "description": "Each 1-minute looping episode was uploaded simultaneously on the Doggie Corgi Instagram and YouTube channels.\n<br><br>\n<i>Notes:<br>\n• The episodes exist in 2 versions on YouTube, a \"Loop Ani\" version which includes music, and an \"ASMR Ani\" version which only contains ambient noise.<br>\n• Contains special episode \"Bomeun Eonjena Yeogie&#127800;\"<i>",
+    "episodes": 16,
+    "duration": 1,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 3
+    },
+    "endDate": {
+      "year": 2020,
+      "month": 7,
+      "day": 19
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140370-GXDO4jDnj7im.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b140370-GXDO4jDnj7im.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b140370-GXDO4jDnj7im.png",
+      "color": "#d6e45d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Slice of Life"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 61,
+    "popularity": 81,
+    "trending": 0,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "KR",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "uoe1hbgn4WU",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/uoe1hbgn4WU/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLlaihmZhWQiosSFSqPus0zhYi6Slhn8e1",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLlaihmZhWQiqcIE1RzuPBEsk5zIhoSibE",
+        "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.instagram.com/doggiecorgi/",
+        "site": "Instagram",
+        "type": "SOCIAL"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": [
+        {
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 140369,
+            "title": {
+              "romaji": "Doggie Corgi",
+              "english": "Doggy Corgi"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b140369-I5dw3B2w0Ozj.png"
+            }
+          }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 140371,
+            "title": {
+              "romaji": "Doggie Corgi 3",
+              "english": "Doggie Corgi 3"
+            },
+            "type": "ANIME",
+            "status": "FINISHED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b140371-Qm4xWsq62IPu.png"
+            }
+          }
+        }
+      ]
+    },
+    "tags": [
+      {
+        "id": 81,
+        "name": "Iyashikei",
+        "rank": 20,
+        "isMediaSpoiler": false
+      }
+    ],
+    "studios": {
+      "edges": [
+        {
+          "isMain": true,
+          "node": {
+            "id": 6358,
+            "name": "Studio Goindol"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": [
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 252387,
+            "name": {
+              "full": "Corgi",
+              "native": "코기"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 252389,
+            "name": {
+              "full": "Choo",
+              "native": "츄"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 252390,
+            "name": {
+              "full": "Apupu",
+              "native": "아푸푸"
+            }
+          },
+          "voiceActors": []
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 252391,
+            "name": {
+              "full": "Baba",
+              "native": "바바"
+            }
+          },
+          "voiceActors": []
+        }
+      ]
+    },
+    "updatedAt": 1790895761,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
+  },
+  "140575": {
+    "id": 140575,
+    "idMal": null,
+    "title": {
+      "romaji": "Ano Natsu ni Futari de Ita",
+      "english": "That summer there were two of us",
+      "native": "あの夏に二人でいた"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "Summer is coming to an end. A little girl on the beach remembers the days spent giggling and dancing with her friend. The goodbyes and memories intertwine in a mesh of sorrow and joy.\n<br><br>\nGraduate Work 2019, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n<br><br>\n(Source: Geidai Animation)",
+    "episodes": 1,
+    "duration": 5,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2019,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": 2019,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140575-E9S4Upw9Wq5h.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140575-E9S4Upw9Wq5h.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140575-E9S4Upw9Wq5h.png",
+      "color": "#43d6f1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140575-UBbinsAD8Zfk.jpg",
+    "genres": [
+      "Slice of Life"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 44,
+    "popularity": 74,
+    "trending": 0,
+    "favourites": 0,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "5v84pHLBQEQ",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/5v84pHLBQEQ/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://animation.geidai.ac.jp/?p=1928",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://vimeo.com/470477484/5e32bfeb1b",
+        "site": "Vimeo",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6405,
+            "name": "Geidai Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1790895761,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
+  },
+  "140598": {
+    "id": 140598,
+    "idMal": null,
+    "title": {
+      "romaji": "Sou Tennenshoku",
+      "english": "Kinemacolor",
+      "native": "総天然色"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "2019 Graduation work of Yutaro Sasaki at Tama Art University.",
+    "episodes": 1,
+    "duration": 5,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2019,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": 2019,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140598-8ilhi4PeSbLk.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140598-8ilhi4PeSbLk.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140598-8ilhi4PeSbLk.png",
+      "color": null
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140598-g6B7sDhAowOS.jpg",
+    "genres": [
+      "Action"
+    ],
+    "synonyms": [
+      "Total Natural Color"
+    ],
+    "averageScore": null,
+    "meanScore": 60,
+    "popularity": 78,
+    "trending": 0,
+    "favourites": 1,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "acKfvfsAKok",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/acKfvfsAKok/hqdefault.jpg"
+    },
+    "externalLinks": [],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6939,
+            "name": "Tama Art University"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1790895761,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
+  },
+  "140871": {
+    "id": 140871,
+    "idMal": null,
+    "title": {
+      "romaji": "A Pawn",
+      "english": "A Pawn",
+      "native": "A Pawn"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "FINISHED",
+    "description": "In a land where there are no enemies or allies is a lone soldier. He spends his days sculpting wood with his bayonet. And then one day, out of the blue, an enemy stands before him.\n<br><br>\nGraduate Work 2019, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n<br><br>\n(Source: Geidai Animation)",
+    "episodes": 1,
+    "duration": 4,
+    "season": null,
+    "seasonYear": null,
+    "startDate": {
+      "year": 2019,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": 2019,
+      "month": null,
+      "day": null
+    },
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140871-rCAUxMNHDOkk.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx140871-rCAUxMNHDOkk.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140871-rCAUxMNHDOkk.png",
+      "color": "#f18643"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140871-KcS8wvjgaNpL.jpg",
+    "genres": [
+      "Psychological"
+    ],
+    "synonyms": [],
+    "averageScore": null,
+    "meanScore": 50,
+    "popularity": 111,
+    "trending": 0,
+    "favourites": 2,
+    "isAdult": false,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "trailer": {
+      "id": "Y8vOpKR8xkI",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/Y8vOpKR8xkI/hqdefault.jpg"
+    },
+    "externalLinks": [
+      {
+        "url": "https://youtu.be/Y8vOpKR8xkI",
+        "site": "Official Site",
+        "type": "INFO"
+      },
+      {
+        "url": "https://vimeo.com/470477511",
+        "site": "Vimeo",
+        "type": "STREAMING"
+      }
+    ],
+    "streamingEpisodes": [],
+    "nextAiringEpisode": null,
+    "relations": {
+      "edges": []
+    },
+    "tags": [],
+    "studios": {
+      "edges": [
+        {
+          "isMain": false,
+          "node": {
+            "id": 6405,
+            "name": "Geidai Animation"
+          }
+        }
+      ]
+    },
+    "characters": {
+      "edges": []
+    },
+    "updatedAt": 1790895761,
+    "idTmdb": null,
+    "idImdb": null,
+    "idTvdb": null,
+    "idTrakt": null,
+    "traktSlug": null,
+    "idSimkl": null,
+    "idShikimori": null
   }
 }

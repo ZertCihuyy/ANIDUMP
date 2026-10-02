@@ -44,9 +44,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 8309,
-    "trending": 2,
-    "favourites": 82,
+    "popularity": 8618,
+    "trending": 0,
+    "favourites": 92,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -234,7 +234,7 @@
         }
       ]
     },
-    "updatedAt": 1788649247,
+    "updatedAt": 1790897406,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -247,14 +247,14 @@
     "id": 210482,
     "idMal": 61469,
     "title": {
-      "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE",
+      "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
       "english": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-      "native": "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd - 3rd STAGE"
+      "native": "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE"
     },
     "type": "ANIME",
     "format": "ONA",
-    "status": "NOT_YET_RELEASED",
-    "description": "The second race stage of <i>JoJo no Kimyou na Bouken: Steel Ball Run</i>.<br><br>\n\nIn the 2nd STAGE, a desert crossing spanning roughly 750 miles- the land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the \"Devil's Palm.\" In 1875, a threat lurking in said desert wiped out a cavalry of 26 people, eliciting fear from the local native people. As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition. The two press forward, where countless hidden motives collide. <br><br>\n\n(Source: Warner Bros. Japan Anime, Netflix Anime, edited)",
+    "status": "RELEASING",
+    "description": "The second and third race stage of <i>JoJo no Kimyou na Bouken: Steel Ball Run</i>.<br><br>\n\nIn the 2nd STAGE, a desert crossing spanning roughly 750 miles- the land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the \"Devil's Palm.\" In 1875, a threat lurking in said desert wiped out a cavalry of 26 people, eliciting fear from the local native people. As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition. The two press forward, where countless hidden motives collide.. <br><br>\n\n(Source: Warner Bros. Japan Anime, Netflix Anime, edited)",
     "episodes": 11,
     "duration": null,
     "season": "FALL",
@@ -275,7 +275,7 @@
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210482-P1VNKbqdJ6Zj.jpg",
       "color": "#f1ae50"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210482-pYAD0IbzNbgS.jpg",
     "genres": [
       "Action",
       "Adventure",
@@ -287,11 +287,11 @@
       "JoJo's Bizarre Adventure: Part 7–Steel Ball Run",
       "SBR"
     ],
-    "averageScore": null,
-    "meanScore": null,
-    "popularity": 22296,
-    "trending": 3,
-    "favourites": 303,
+    "averageScore": 85,
+    "meanScore": 86,
+    "popularity": 33637,
+    "trending": 30,
+    "favourites": 666,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -324,9 +324,9 @@
     ],
     "streamingEpisodes": [],
     "nextAiringEpisode": {
-      "airingAt": 1790262000,
-      "timeUntilAiring": 1590002,
-      "episode": 1
+      "airingAt": 1790928000,
+      "timeUntilAiring": 27584,
+      "episode": 2
     },
     "relations": {
       "edges": [
@@ -368,15 +368,15 @@
     },
     "tags": [
       {
-        "id": 1648,
-        "name": "Cowboys",
-        "rank": 92,
+        "id": 1453,
+        "name": "Desert",
+        "rank": 100,
         "isMediaSpoiler": false
       },
       {
-        "id": 198,
-        "name": "Foreign",
-        "rank": 85,
+        "id": 1648,
+        "name": "Cowboys",
+        "rank": 93,
         "isMediaSpoiler": false
       },
       {
@@ -388,13 +388,55 @@
       {
         "id": 1219,
         "name": "Disability",
+        "rank": 83,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 198,
+        "name": "Foreign",
         "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 75,
+        "name": "Boys' Love",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 88,
+        "name": "Primarily Male Cast",
+        "rank": 79,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1310,
+        "name": "Travel",
+        "rank": 75,
         "isMediaSpoiler": false
       },
       {
         "id": 109,
         "name": "Primarily Adult Cast",
-        "rank": 20,
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 648,
+        "name": "Crime",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 94,
+        "name": "Gore",
+        "rank": 40,
         "isMediaSpoiler": false
       }
     ],
@@ -516,6 +558,25 @@
         {
           "role": "SUPPORTING",
           "node": {
+            "id": 23651,
+            "name": {
+              "full": "Lucy Steel",
+              "native": "ルーシー・スティール"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119331,
+              "name": {
+                "full": "Rie Takahashi",
+                "native": "高橋李依"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
             "id": 23652,
             "name": {
               "full": "Steven Steel",
@@ -528,6 +589,44 @@
               "name": {
                 "full": "Kenta Miyake",
                 "native": "三宅健太"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 28967,
+            "name": {
+              "full": "Sandman",
+              "native": "サウンドマン "
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 126794,
+              "name": {
+                "full": "Masaaki Mizunaka",
+                "native": "水中雅章"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 28968,
+            "name": {
+              "full": "Pocoloco",
+              "native": "ポコロコ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 105273,
+              "name": {
+                "full": "Kenichirou Matsuda",
+                "native": "松田健一郎"
               }
             }
           ]
@@ -553,7 +652,7 @@
         }
       ]
     },
-    "updatedAt": 1788670852,
+    "updatedAt": 1790899876,
     "idTmdb": 45790,
     "idImdb": "tt2359704",
     "idTvdb": 262954,
@@ -576,11 +675,11 @@
     "description": "Nothing in this world is more dangerous than a witch. The epitome of fear and terror, they can summon floods on a whim, conjure balls of fire out of the air, or even destroy entire countries overnight. Incur their wrath, and no one is safe.<br>\n<br>\nAt least, that’s what everyone thinks, and it’s the very reason they all want Siasha dead. After yet another violent battle for her life, she teams up with Zig, a mercenary, and they depart for unknown lands to find somewhere she can live in peace. But is the pair any match for the lost magic and vicious monstrosities that lie ahead?<br>\n<br>\n(Source: Seven Seas Entertainment)",
     "episodes": null,
     "duration": null,
-    "season": null,
-    "seasonYear": null,
+    "season": "SPRING",
+    "seasonYear": 2027,
     "startDate": {
       "year": 2027,
-      "month": null,
+      "month": 4,
       "day": null
     },
     "endDate": {
@@ -604,16 +703,16 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 3362,
+    "popularity": 4079,
     "trending": 1,
-    "favourites": 35,
+    "favourites": 41,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
     "trailer": {
-      "id": "Ma6twUC12To",
+      "id": "Rn0HhyVi72Y",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/Ma6twUC12To/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Rn0HhyVi72Y/hqdefault.jpg"
     },
     "externalLinks": [
       {
@@ -758,10 +857,67 @@
               }
             }
           ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 337813,
+            "name": {
+              "full": "Alan Klaus",
+              "native": "アラン=クローズ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 161538,
+              "name": {
+                "full": "Hiromu Mineta",
+                "native": "峯田大夢"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 337814,
+            "name": {
+              "full": "Elicia Armet",
+              "native": "エルシア=アーメット"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 112629,
+              "name": {
+                "full": "Haruka Shiraishi",
+                "native": "白石晴香"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 337815,
+            "name": {
+              "full": "Isana Gihon",
+              "native": "イサナ=ゲイホーン"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 128658,
+              "name": {
+                "full": "Yuri Noguchi",
+                "native": "のぐちゆり"
+              }
+            }
+          ]
         }
       ]
     },
-    "updatedAt": 1788670854,
+    "updatedAt": 1790899877,
     "idTmdb": 285994,
     "idImdb": null,
     "idTvdb": null,
@@ -812,8 +968,8 @@
       "การย้อนเวลาของมหาปราชญ์ริดเดิล"
     ],
     "averageScore": 45,
-    "meanScore": 46,
-    "popularity": 4432,
+    "meanScore": 45,
+    "popularity": 4524,
     "trending": 0,
     "favourites": 68,
     "isAdult": false,
@@ -941,7 +1097,7 @@
         }
       ]
     },
-    "updatedAt": 1788588079,
+    "updatedAt": 1790899876,
     "idTmdb": 313395,
     "idImdb": null,
     "idTvdb": 473668,
@@ -1386,9 +1542,9 @@
       "day": 5
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 10,
+      "day": 4
     },
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
@@ -1406,11 +1562,11 @@
     "synonyms": [
       "ลุ้นรักฉบับคู่ต่างขั้ว ซีซัน 2"
     ],
-    "averageScore": 82,
-    "meanScore": 82,
-    "popularity": 57211,
-    "trending": 52,
-    "favourites": 1188,
+    "averageScore": 83,
+    "meanScore": 83,
+    "popularity": 63205,
+    "trending": 72,
+    "favourites": 1509,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -1443,9 +1599,9 @@
     ],
     "streamingEpisodes": [],
     "nextAiringEpisode": {
-      "airingAt": 1788681600,
-      "timeUntilAiring": 9508,
-      "episode": 10
+      "airingAt": 1791100800,
+      "timeUntilAiring": 200384,
+      "episode": 13
     },
     "relations": {
       "edges": [
@@ -1495,31 +1651,31 @@
       {
         "id": 105,
         "name": "Ensemble Cast",
-        "rank": 96,
+        "rank": 95,
         "isMediaSpoiler": false
       },
       {
         "id": 1228,
         "name": "Primarily Teen Cast",
-        "rank": 89,
+        "rank": 88,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 102,
+        "name": "Coming of Age",
+        "rank": 85,
         "isMediaSpoiler": false
       },
       {
         "id": 81,
         "name": "Iyashikei",
-        "rank": 83,
+        "rank": 84,
         "isMediaSpoiler": false
       },
       {
         "id": 46,
         "name": "School",
-        "rank": 75,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 98,
-        "name": "Female Protagonist",
-        "rank": 70,
+        "rank": 78,
         "isMediaSpoiler": false
       },
       {
@@ -1529,9 +1685,15 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 56,
         "name": "Shounen",
-        "rank": 52,
+        "rank": 53,
         "isMediaSpoiler": false
       }
     ],
@@ -1622,7 +1784,7 @@
           ]
         },
         {
-          "role": "SUPPORTING",
+          "role": "MAIN",
           "node": {
             "id": 302627,
             "name": {
@@ -1641,7 +1803,7 @@
           ]
         },
         {
-          "role": "SUPPORTING",
+          "role": "MAIN",
           "node": {
             "id": 302626,
             "name": {
@@ -1660,7 +1822,7 @@
           ]
         },
         {
-          "role": "SUPPORTING",
+          "role": "MAIN",
           "node": {
             "id": 302625,
             "name": {
@@ -1679,7 +1841,7 @@
           ]
         },
         {
-          "role": "SUPPORTING",
+          "role": "MAIN",
           "node": {
             "id": 302624,
             "name": {
@@ -1775,7 +1937,7 @@
         }
       ]
     },
-    "updatedAt": 1788670811,
+    "updatedAt": 1790899876,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2174,9 +2336,9 @@
     ],
     "averageScore": 73,
     "meanScore": 74,
-    "popularity": 7648,
+    "popularity": 8141,
     "trending": 2,
-    "favourites": 115,
+    "favourites": 121,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -2399,7 +2561,7 @@
         }
       ]
     },
-    "updatedAt": 1788667296,
+    "updatedAt": 1790899876,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2418,9 +2580,9 @@
     },
     "type": "ANIME",
     "format": "ONA",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "The fourth season of Re:Zero kara Hajimeru Kyuukei Jikan (Break Time).",
-    "episodes": null,
+    "episodes": 19,
     "duration": 3,
     "season": "SPRING",
     "seasonYear": 2026,
@@ -2430,9 +2592,9 @@
       "day": 8
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 9,
+      "day": 30
     },
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210687-H54G1bTwCBpV.jpg",
@@ -2449,11 +2611,11 @@
     "synonyms": [
       "Re:ZERO ~Starting Break Time From Zero~ Season 4"
     ],
-    "averageScore": 68,
-    "meanScore": 73,
-    "popularity": 2664,
-    "trending": 1,
-    "favourites": 26,
+    "averageScore": 71,
+    "meanScore": 75,
+    "popularity": 2917,
+    "trending": 5,
+    "favourites": 35,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -2466,11 +2628,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1788960600,
-      "timeUntilAiring": 288666,
-      "episode": 16
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -2499,7 +2657,7 @@
               "english": "Re:ZERO -Starting Life in Another World- Season 4"
             },
             "type": "ANIME",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "season": "SPRING",
             "seasonYear": 2026,
             "coverImage": {
@@ -2746,7 +2904,7 @@
         }
       ]
     },
-    "updatedAt": 1788670878,
+    "updatedAt": 1790897287,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2769,11 +2927,11 @@
     "description": "The second season of <i>The Fable</i>.",
     "episodes": null,
     "duration": null,
-    "season": null,
-    "seasonYear": null,
+    "season": "WINTER",
+    "seasonYear": 2027,
     "startDate": {
-      "year": null,
-      "month": null,
+      "year": 2027,
+      "month": 1,
       "day": null
     },
     "endDate": {
@@ -2800,9 +2958,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 3589,
-    "trending": 0,
-    "favourites": 48,
+    "popularity": 4011,
+    "trending": 2,
+    "favourites": 55,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -2954,7 +3112,7 @@
         }
       ]
     },
-    "updatedAt": 1788613678,
+    "updatedAt": 1790899876,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

@@ -39,10 +39,10 @@
     ],
     "synonyms": [],
     "averageScore": 76,
-    "meanScore": 78,
-    "popularity": 8432,
+    "meanScore": 77,
+    "popularity": 8844,
     "trending": 1,
-    "favourites": 70,
+    "favourites": 72,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -179,6 +179,13 @@
             "id": 415,
             "name": "Warner Bros. Japan"
           }
+        },
+        {
+          "isMain": false,
+          "node": {
+            "id": 4,
+            "name": "bones"
+          }
         }
       ]
     },
@@ -262,7 +269,7 @@
         }
       ]
     },
-    "updatedAt": 1788670858,
+    "updatedAt": 1790895677,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -493,14 +500,18 @@
     ],
     "synonyms": [],
     "averageScore": null,
-    "meanScore": 26,
-    "popularity": 401,
-    "trending": 1,
-    "favourites": 4,
+    "meanScore": 61,
+    "popularity": 1061,
+    "trending": 2,
+    "favourites": 14,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
-    "trailer": null,
+    "trailer": {
+      "id": "n0na0hTpl1E",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/n0na0hTpl1E/hqdefault.jpg"
+    },
     "externalLinks": [
       {
         "url": "https://x.com/cfvanguard_PR",
@@ -511,10 +522,19 @@
         "url": "https://cf-vanguard.com/anime-ghost_meets_gal/",
         "site": "Official Site",
         "type": "INFO"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLMeyOW8qY3fA",
+        "site": "YouTube",
+        "type": "STREAMING"
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": null,
+    "nextAiringEpisode": {
+      "airingAt": 1790982000,
+      "timeUntilAiring": 81277,
+      "episode": 5
+    },
     "relations": {
       "edges": [
         {
@@ -557,19 +577,25 @@
       {
         "id": 356,
         "name": "Gyaru",
-        "rank": 50,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 115,
-        "name": "Idol",
-        "rank": 20,
+        "rank": 60,
         "isMediaSpoiler": false
       },
       {
         "id": 220,
         "name": "Ghost",
-        "rank": 20,
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 86,
+        "name": "Primarily Female Cast",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 115,
+        "name": "Idol",
+        "rank": 50,
         "isMediaSpoiler": false
       }
     ],
@@ -626,7 +652,7 @@
         }
       ]
     },
-    "updatedAt": 1788602486
+    "updatedAt": 1790895744
   },
   "214969": {
     "id": 214969,
@@ -670,7 +696,7 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 658,
+    "popularity": 758,
     "trending": 1,
     "favourites": 2,
     "isAdult": false,
@@ -795,7 +821,7 @@
         }
       ]
     },
-    "updatedAt": 1788649322,
+    "updatedAt": 1790895714,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1516,9 +1542,9 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 5505,
-    "trending": 1,
-    "favourites": 64,
+    "popularity": 5977,
+    "trending": 0,
+    "favourites": 69,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -1583,7 +1609,7 @@
       {
         "id": 23,
         "name": "Female Harem",
-        "rank": 79,
+        "rank": 100,
         "isMediaSpoiler": false
       },
       {
@@ -1674,7 +1700,7 @@
         }
       ]
     },
-    "updatedAt": 1788653424,
+    "updatedAt": 1790899883,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1729,9 +1755,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 2634,
+    "popularity": 2913,
     "trending": 1,
-    "favourites": 54,
+    "favourites": 59,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "OTHER",
@@ -1816,7 +1842,7 @@
         }
       ]
     },
-    "updatedAt": 1788670879,
+    "updatedAt": 1790899883,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1868,9 +1894,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 1944,
-    "trending": 1,
-    "favourites": 11,
+    "popularity": 2205,
+    "trending": 0,
+    "favourites": 13,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -1948,7 +1974,7 @@
         }
       ]
     },
-    "updatedAt": 1788458536,
+    "updatedAt": 1790897406,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -1997,9 +2023,9 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 1979,
+    "popularity": 2205,
     "trending": 0,
-    "favourites": 14,
+    "favourites": 15,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -2114,7 +2140,7 @@
         }
       ]
     },
-    "updatedAt": 1788649340,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2165,9 +2191,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 3962,
+    "popularity": 4415,
     "trending": 0,
-    "favourites": 39,
+    "favourites": 40,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -2222,6 +2248,12 @@
         "id": 1045,
         "name": "Heterosexual",
         "rank": 30,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1228,
+        "name": "Primarily Teen Cast",
+        "rank": 20,
         "isMediaSpoiler": false
       }
     ],
@@ -2303,7 +2335,7 @@
         }
       ]
     },
-    "updatedAt": 1788653423,
+    "updatedAt": 1790899883,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -2848,11 +2880,11 @@
       "Fantasy"
     ],
     "synonyms": [],
-    "averageScore": 62,
+    "averageScore": 63,
     "meanScore": 66,
-    "popularity": 1533,
+    "popularity": 1632,
     "trending": 1,
-    "favourites": 17,
+    "favourites": 19,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -3087,7 +3119,7 @@
         }
       ]
     },
-    "updatedAt": 1788613633,
+    "updatedAt": 1790899883,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3123,10 +3155,10 @@
       "day": null
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214443-tKRdnNVFhIGY.png",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214443-tKRdnNVFhIGY.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214443-tKRdnNVFhIGY.png",
-      "color": "#e493ae"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214443-0xrurj3XnjFD.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214443-0xrurj3XnjFD.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214443-0xrurj3XnjFD.png",
+      "color": "#e4aec9"
     },
     "bannerImage": null,
     "genres": [
@@ -3135,8 +3167,8 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 67,
-    "trending": 1,
+    "popularity": 130,
+    "trending": 0,
     "favourites": 1,
     "isAdult": true,
     "countryOfOrigin": "JP",
@@ -3146,7 +3178,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1793286000,
-      "timeUntilAiring": 4631515,
+      "timeUntilAiring": 2385290,
       "episode": 1
     },
     "relations": {
@@ -3167,7 +3199,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788649238,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3853,8 +3885,8 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 2041,
-    "trending": 1,
+    "popularity": 2195,
+    "trending": 0,
     "favourites": 31,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -3971,7 +4003,7 @@
         }
       ]
     },
-    "updatedAt": 1788670872,
+    "updatedAt": 1790897406,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4904,11 +4936,11 @@
       "東京リベンジャーズ×ダイドーブレンド コラボ記念",
       "Tokyo Revengers x DyDo Blend Collab Kinen"
     ],
-    "averageScore": null,
-    "meanScore": 53,
-    "popularity": 364,
+    "averageScore": 48,
+    "meanScore": 55,
+    "popularity": 392,
     "trending": 1,
-    "favourites": 6,
+    "favourites": 5,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -5082,7 +5114,7 @@
         }
       ]
     },
-    "updatedAt": 1788534176,
+    "updatedAt": 1790895721,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -5507,9 +5539,9 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 202,
+    "popularity": 347,
     "trending": 1,
-    "favourites": 3,
+    "favourites": 4,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -5533,7 +5565,7 @@
     "streamingEpisodes": [],
     "nextAiringEpisode": {
       "airingAt": 1794061800,
-      "timeUntilAiring": 5455657,
+      "timeUntilAiring": 3161207,
       "episode": 1
     },
     "relations": {
@@ -5670,7 +5702,7 @@
         }
       ]
     },
-    "updatedAt": 1788606117,
+    "updatedAt": 1790897395,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6010,7 +6042,7 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 351,
+    "popularity": 394,
     "trending": 1,
     "favourites": 3,
     "isAdult": false,
@@ -6081,7 +6113,7 @@
         }
       ]
     },
-    "updatedAt": 1788555796,
+    "updatedAt": 1790895719,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6940,9 +6972,9 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 649,
-    "trending": 0,
-    "favourites": 8,
+    "popularity": 996,
+    "trending": 2,
+    "favourites": 9,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -7045,7 +7077,7 @@
         }
       ]
     },
-    "updatedAt": 1788670907,
+    "updatedAt": 1790899883,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -8788,16 +8820,16 @@
     },
     "type": "ANIME",
     "format": "ONA",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "Ten years ago, after three consecutive days of blood moon, ghosts, gods, heterochromatic eyes, and strange tales arrived one after another. Mystery and enigma descended upon the human world. Terror and despair roamed the earth. As humans, should we kneel in submission, weep bitterly, or draw our swords? This is a new era, and this era—belongs to the extraordinary! Pushing open the door to the extraordinary, Su Bai encountered a new world…\n<br><br>\n(Source: Tencent, translated)",
-    "episodes": null,
+    "episodes": 59,
     "duration": null,
     "season": null,
     "seasonYear": null,
     "startDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 9,
+      "day": 30
     },
     "endDate": {
       "year": null,
@@ -8805,20 +8837,20 @@
       "day": null
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214974-ImSZ1B4KLaaN.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214974-ImSZ1B4KLaaN.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214974-ImSZ1B4KLaaN.jpg",
-      "color": "#50c9e4"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214974-fM9q0ki7fCVl.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx214974-fM9q0ki7fCVl.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214974-fM9q0ki7fCVl.jpg",
+      "color": "#e40d28"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/214974-jMZ2CpV2lKip.jpg",
     "genres": [
       "Action",
       "Fantasy"
     ],
     "synonyms": [],
     "averageScore": null,
-    "meanScore": null,
-    "popularity": 19,
+    "meanScore": 10,
+    "popularity": 30,
     "trending": 0,
     "favourites": 2,
     "isAdult": false,
@@ -8833,7 +8865,11 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": null,
+    "nextAiringEpisode": {
+      "airingAt": 1791338400,
+      "timeUntilAiring": 437690,
+      "episode": 4
+    },
     "relations": {
       "edges": []
     },
@@ -8859,7 +8895,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788023089,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -9193,8 +9229,8 @@
       "Shinbi's Haunted House: The Dimension Ghost and the Seven Worlds"
     ],
     "averageScore": null,
-    "meanScore": 55,
-    "popularity": 20,
+    "meanScore": 65,
+    "popularity": 25,
     "trending": 0,
     "favourites": 1,
     "isAdult": false,
@@ -9265,7 +9301,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788253304,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

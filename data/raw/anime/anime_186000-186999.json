@@ -42,8 +42,8 @@
     ],
     "averageScore": 66,
     "meanScore": 66,
-    "popularity": 11876,
-    "trending": 1,
+    "popularity": 11996,
+    "trending": 0,
     "favourites": 127,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -350,7 +350,7 @@
         }
       ]
     },
-    "updatedAt": 1788670892,
+    "updatedAt": 1790897406,
     "idTmdb": 283935,
     "idImdb": "tt35955429",
     "idTvdb": 460608,
@@ -404,9 +404,9 @@
     ],
     "averageScore": 69,
     "meanScore": 69,
-    "popularity": 14232,
+    "popularity": 14440,
     "trending": 0,
-    "favourites": 221,
+    "favourites": 225,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -861,7 +861,7 @@
         }
       ]
     },
-    "updatedAt": 1788670907,
+    "updatedAt": 1790897406,
     "idTmdb": 289217,
     "idImdb": "tt37532849",
     "idTvdb": 459058,
@@ -914,9 +914,9 @@
     ],
     "averageScore": 69,
     "meanScore": 70,
-    "popularity": 17093,
-    "trending": 0,
-    "favourites": 266,
+    "popularity": 17609,
+    "trending": 2,
+    "favourites": 277,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -972,7 +972,7 @@
               "english": "Even a Replica Can Fall in Love"
             },
             "type": "MANGA",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "season": null,
             "seasonYear": null,
             "coverImage": {
@@ -1299,7 +1299,7 @@
         }
       ]
     },
-    "updatedAt": 1788670907,
+    "updatedAt": 1790897352,
     "idTmdb": 284568,
     "idImdb": "tt40546998",
     "idTvdb": 460313,
@@ -1814,9 +1814,9 @@
     ],
     "averageScore": 53,
     "meanScore": 53,
-    "popularity": 9506,
+    "popularity": 9705,
     "trending": 0,
-    "favourites": 144,
+    "favourites": 143,
     "isAdult": true,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -2242,7 +2242,7 @@
         }
       ]
     },
-    "updatedAt": 1788653368,
+    "updatedAt": 1790895761,
     "idTmdb": 283884,
     "idImdb": "tt37419888",
     "idTvdb": 460340,
@@ -2256,7 +2256,7 @@
     "idMal": 61014,
     "title": {
       "romaji": "Toaru Anbu no ITEM",
-      "english": null,
+      "english": "A Certain Dark Item",
       "native": "とある暗部の少女共棲"
     },
     "type": "ANIME",
@@ -2270,7 +2270,7 @@
     "startDate": {
       "year": 2026,
       "month": 10,
-      "day": 10
+      "day": 9
     },
     "endDate": {
       "year": null,
@@ -2278,10 +2278,10 @@
       "day": null
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-Q9IOgWxAxfSR.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-Q9IOgWxAxfSR.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186742-Q9IOgWxAxfSR.jpg",
-      "color": "#e49350"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186742-v7yfbefc8fuO.png",
+      "color": "#35f1a1"
     },
     "bannerImage": null,
     "genres": [
@@ -2293,9 +2293,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 4709,
-    "trending": 1,
-    "favourites": 36,
+    "popularity": 7253,
+    "trending": 5,
+    "favourites": 54,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -2314,12 +2314,17 @@
         "url": "https://toaru-project.com/item/",
         "site": "Official Site",
         "type": "INFO"
+      },
+      {
+        "url": "https://www.crunchyroll.com/",
+        "site": "Crunchyroll",
+        "type": "STREAMING"
       }
     ],
     "streamingEpisodes": [],
     "nextAiringEpisode": {
-      "airingAt": 1791559800,
-      "timeUntilAiring": 2905390,
+      "airingAt": 1791552600,
+      "timeUntilAiring": 652177,
       "episode": 1
     },
     "relations": {
@@ -2381,25 +2386,25 @@
       {
         "id": 86,
         "name": "Primarily Female Cast",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 595,
-        "name": "Urban",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 66,
-        "name": "Super Power",
-        "rank": 20,
+        "rank": 60,
         "isMediaSpoiler": false
       },
       {
         "id": 321,
         "name": "Urban Fantasy",
-        "rank": 20,
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 595,
+        "name": "Urban",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 66,
+        "name": "Super Power",
+        "rank": 50,
         "isMediaSpoiler": false
       }
     ],
@@ -2513,7 +2518,7 @@
         }
       ]
     },
-    "updatedAt": 1788649289,
+    "updatedAt": 1790899838,
     "idTmdb": 284580,
     "idImdb": null,
     "idTvdb": null,
@@ -2567,9 +2572,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 19538,
-    "trending": 6,
-    "favourites": 335,
+    "popularity": 22184,
+    "trending": 11,
+    "favourites": 363,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -2752,7 +2757,7 @@
         }
       ]
     },
-    "updatedAt": 1788670817,
+    "updatedAt": 1790899838,
     "idTmdb": 284751,
     "idImdb": "tt37421046",
     "idTvdb": 460416,
@@ -3211,9 +3216,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 39680,
-    "trending": 1,
-    "favourites": 472,
+    "popularity": 40733,
+    "trending": 0,
+    "favourites": 480,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -3330,7 +3335,7 @@
       {
         "id": 92,
         "name": "Cute Girls Doing Cute Things",
-        "rank": 85,
+        "rank": 86,
         "isMediaSpoiler": false
       },
       {
@@ -3425,7 +3430,7 @@
         }
       ]
     },
-    "updatedAt": 1788667286,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -3479,9 +3484,9 @@
     ],
     "averageScore": 66,
     "meanScore": 66,
-    "popularity": 83539,
-    "trending": 3,
-    "favourites": 1450,
+    "popularity": 84974,
+    "trending": 2,
+    "favourites": 1454,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -3956,7 +3961,7 @@
         }
       ]
     },
-    "updatedAt": 1788670881,
+    "updatedAt": 1790899838,
     "idTmdb": 284644,
     "idImdb": "tt36230718",
     "idTvdb": 460341,
@@ -3976,7 +3981,7 @@
     "type": "ANIME",
     "format": "ONA",
     "status": "FINISHED",
-    "description": "Hero Toto possesses great skills, but his extreme shyness has left him unable to form a party, causing him to remain stuck in the town where his journey began.\n<br><br>\nOne day, he is suddenly invited to join a party by three beautiful women—Ciel, Anemone, and Gore. Overjoyed at finally setting off on an adventure, Toto is filled with excitement... but little does he know, these women are dead set on killing him!\n<br><br>\nA deathly harem romcom unfolds as the socially anxious hero, who faints from mere flustered excitement around women, finds himself the target of three deadly companions, each with their own reasons for wanting him gone!\n<br><br>\n<i>Note: Each episode streamed 1 week early on ABEMA. The original TV broadcast started on July 12th 2025.<i>",
+    "description": "Hero Toto possesses great skills, but his extreme shyness has left him unable to form a party, causing him to remain stuck in the town where his journey began.\n<br><br>\nOne day, he is suddenly invited to join a party by three beautiful women—Ciel, Anemone, and Gore. Overjoyed at finally setting off on an adventure, Toto is filled with excitement... but little does he know, these women are dead set on killing him!\n<br><br>\nA deathly harem romcom unfolds as the socially anxious hero, who faints from mere flustered excitement around women, finds himself the target of three deadly companions, each with their own reasons for wanting him gone!\n<br><br>\n<i>Note: Each episode streamed 1 week early on ABEMA. The original TV broadcast started on July 12th, 2025.<i>",
     "episodes": 12,
     "duration": 24,
     "season": "SUMMER",
@@ -4008,9 +4013,9 @@
     ],
     "averageScore": 64,
     "meanScore": 64,
-    "popularity": 23672,
-    "trending": 1,
-    "favourites": 307,
+    "popularity": 24013,
+    "trending": 0,
+    "favourites": 312,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -4318,7 +4323,7 @@
         }
       ]
     },
-    "updatedAt": 1788667302,
+    "updatedAt": 1790895761,
     "idTmdb": 283705,
     "idImdb": "tt35677101",
     "idTvdb": 459970,
@@ -4374,9 +4379,9 @@
     ],
     "averageScore": 83,
     "meanScore": 84,
-    "popularity": 5678,
-    "trending": 1,
-    "favourites": 239,
+    "popularity": 5835,
+    "trending": 0,
+    "favourites": 244,
     "isAdult": false,
     "countryOfOrigin": "CN",
     "source": "ORIGINAL",
@@ -4576,7 +4581,7 @@
         }
       ]
     },
-    "updatedAt": 1788606047,
+    "updatedAt": 1790899838,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -4630,9 +4635,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 4141,
+    "popularity": 5301,
     "trending": 0,
-    "favourites": 43,
+    "favourites": 56,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -4767,7 +4772,7 @@
         }
       ]
     },
-    "updatedAt": 1788670907,
+    "updatedAt": 1790897406,
     "idTmdb": 284563,
     "idImdb": null,
     "idTvdb": null,
@@ -4786,7 +4791,7 @@
     },
     "type": "ANIME",
     "format": "ONA",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "The story follows a fire-breathing, human-hating dragon raised by a mother cat in a forest. The dragon, known affectionately as \"Uncle Wing,\" watches over the many curious cats — such as one that goes on an adventure with a human prince, and another that lives in the city and people-watches as a hobby — and gradually warms up to humans along the way.<br><br>\n\n(Source: Crunchyroll News)<br><br>\n<i>Note: Each episode streamed 1 week early on ABEMA and dAnimeStore. The original TV broadcast started on July 4, 2026.</i>",
     "episodes": 12,
     "duration": 24,
@@ -4814,11 +4819,11 @@
       "Fantasy"
     ],
     "synonyms": [],
-    "averageScore": 77,
-    "meanScore": 78,
-    "popularity": 23005,
-    "trending": 66,
-    "favourites": 391,
+    "averageScore": 78,
+    "meanScore": 79,
+    "popularity": 25391,
+    "trending": 2,
+    "favourites": 591,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -4855,11 +4860,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1789214400,
-      "timeUntilAiring": 542308,
-      "episode": 12
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -4895,6 +4896,23 @@
               "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx125875-tYR2UYiTPML9.jpg"
             }
           }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 217011,
+            "title": {
+              "romaji": "Neko to Ryuu 2nd Season",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx217011-6mO4XKPf42rM.jpg"
+            }
+          }
         }
       ]
     },
@@ -4902,61 +4920,79 @@
       {
         "id": 1277,
         "name": "Found Family",
-        "rank": 93,
+        "rank": 96,
         "isMediaSpoiler": false
       },
       {
         "id": 433,
         "name": "Animals",
-        "rank": 91,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 224,
-        "name": "Dragons",
-        "rank": 90,
+        "rank": 94,
         "isMediaSpoiler": false
       },
       {
         "id": 1601,
         "name": "Primarily Animal Cast",
-        "rank": 80,
+        "rank": 88,
         "isMediaSpoiler": false
       },
       {
-        "id": 1752,
-        "name": "Medieval",
-        "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 153,
-        "name": "Time Skip",
-        "rank": 73,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 81,
-        "name": "Iyashikei",
-        "rank": 73,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 193,
-        "name": "Episodic",
-        "rank": 73,
+        "id": 224,
+        "name": "Dragons",
+        "rank": 87,
         "isMediaSpoiler": false
       },
       {
         "id": 29,
         "name": "Magic",
-        "rank": 72,
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 193,
+        "name": "Episodic",
+        "rank": 80,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 81,
+        "name": "Iyashikei",
+        "rank": 76,
         "isMediaSpoiler": false
       },
       {
         "id": 1304,
         "name": "Anthropomorphism",
-        "rank": 65,
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1645,
+        "name": "Parenthood",
+        "rank": 73,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 153,
+        "name": "Time Skip",
+        "rank": 71,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1752,
+        "name": "Medieval",
+        "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1760,
+        "name": "Wilderness",
+        "rank": 63,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 87,
+        "name": "Family Life",
+        "rank": 62,
         "isMediaSpoiler": false
       },
       {
@@ -4966,63 +5002,45 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 1645,
-        "name": "Parenthood",
-        "rank": 60,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 87,
-        "name": "Family Life",
-        "rank": 60,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 1760,
-        "name": "Wilderness",
-        "rank": 60,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 1327,
-        "name": "Royal Affairs",
-        "rank": 50,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 772,
-        "name": "Shapeshifting",
-        "rank": 46,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 105,
         "name": "Ensemble Cast",
-        "rank": 40,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 1382,
-        "name": "Orphan",
-        "rank": 40,
+        "rank": 60,
         "isMediaSpoiler": false
       },
       {
         "id": 143,
         "name": "Survival",
-        "rank": 30,
+        "rank": 36,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 772,
+        "name": "Shapeshifting",
+        "rank": 33,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1382,
+        "name": "Orphan",
+        "rank": 33,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1327,
+        "name": "Royal Affairs",
+        "rank": 32,
         "isMediaSpoiler": false
       },
       {
         "id": 179,
         "name": "Witch",
-        "rank": 26,
+        "rank": 23,
         "isMediaSpoiler": false
       },
       {
         "id": 46,
         "name": "School",
-        "rank": 20,
+        "rank": 10,
         "isMediaSpoiler": false
       }
     ],
@@ -5308,7 +5326,7 @@
         }
       ]
     },
-    "updatedAt": 1788670810,
+    "updatedAt": 1790897339,
     "idTmdb": 284029,
     "idImdb": "tt41278620",
     "idTvdb": 460501,
@@ -5358,9 +5376,9 @@
     "synonyms": [],
     "averageScore": 69,
     "meanScore": 70,
-    "popularity": 15654,
-    "trending": 0,
-    "favourites": 306,
+    "popularity": 15885,
+    "trending": 1,
+    "favourites": 316,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -5733,7 +5751,7 @@
         }
       ]
     },
-    "updatedAt": 1788670907,
+    "updatedAt": 1790895739,
     "idTmdb": 282662,
     "idImdb": "tt36221414",
     "idTvdb": 458960,
@@ -6184,10 +6202,10 @@
     ],
     "synonyms": [],
     "averageScore": 71,
-    "meanScore": 75,
-    "popularity": 1815,
+    "meanScore": 76,
+    "popularity": 1847,
     "trending": 0,
-    "favourites": 98,
+    "favourites": 99,
     "isAdult": true,
     "countryOfOrigin": "JP",
     "source": "OTHER",
@@ -6337,7 +6355,7 @@
         }
       ]
     },
-    "updatedAt": 1788653368,
+    "updatedAt": 1790899838,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -6389,9 +6407,9 @@
     ],
     "averageScore": 68,
     "meanScore": 68,
-    "popularity": 19551,
-    "trending": 2,
-    "favourites": 283,
+    "popularity": 19869,
+    "trending": 3,
+    "favourites": 284,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -6800,7 +6818,7 @@
         }
       ]
     },
-    "updatedAt": 1788649259,
+    "updatedAt": 1790897381,
     "idTmdb": 283689,
     "idImdb": "tt38412257",
     "idTvdb": 466129,
@@ -6852,9 +6870,9 @@
     ],
     "averageScore": 65,
     "meanScore": 65,
-    "popularity": 36438,
-    "trending": 3,
-    "favourites": 484,
+    "popularity": 37125,
+    "trending": 1,
+    "favourites": 474,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -7271,7 +7289,7 @@
         }
       ]
     },
-    "updatedAt": 1788649258,
+    "updatedAt": 1790895720,
     "idTmdb": 282946,
     "idImdb": "tt38646949",
     "idTvdb": 459339,
@@ -7321,9 +7339,9 @@
     "synonyms": [],
     "averageScore": 70,
     "meanScore": 70,
-    "popularity": 93458,
-    "trending": 2,
-    "favourites": 1870,
+    "popularity": 95404,
+    "trending": 5,
+    "favourites": 1891,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -7412,7 +7430,7 @@
             "id": 142688,
             "title": {
               "romaji": "Mizu Zokusei no Mahou Tsukai Dai Ichi-bu: Chuuou Shokoku-hen",
-              "english": "The Water Magician"
+              "english": "The Water Magician: The Central Provinces Arc"
             },
             "type": "MANGA",
             "status": "FINISHED",
@@ -7826,7 +7844,7 @@
         }
       ]
     },
-    "updatedAt": 1788670839,
+    "updatedAt": 1790899833,
     "idTmdb": 281615,
     "idImdb": "tt36592736",
     "idTvdb": 456435,
@@ -7881,9 +7899,9 @@
     ],
     "averageScore": 83,
     "meanScore": 83,
-    "popularity": 75978,
-    "trending": 14,
-    "favourites": 3099,
+    "popularity": 80585,
+    "trending": 49,
+    "favourites": 3406,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -7956,7 +7974,7 @@
               "english": "The Ramparts of Ice Season 2"
             },
             "type": "ANIME",
-            "status": "NOT_YET_RELEASED",
+            "status": "RELEASING",
             "season": "FALL",
             "seasonYear": 2026,
             "coverImage": {
@@ -7976,19 +7994,25 @@
       {
         "id": 1228,
         "name": "Primarily Teen Cast",
-        "rank": 91,
+        "rank": 92,
         "isMediaSpoiler": false
       },
       {
         "id": 98,
         "name": "Female Protagonist",
-        "rank": 91,
+        "rank": 90,
         "isMediaSpoiler": false
       },
       {
         "id": 105,
         "name": "Ensemble Cast",
-        "rank": 86,
+        "rank": 83,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 53,
+        "name": "Shoujo",
+        "rank": 83,
         "isMediaSpoiler": false
       },
       {
@@ -8000,13 +8024,7 @@
       {
         "id": 46,
         "name": "School",
-        "rank": 80,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 53,
-        "name": "Shoujo",
-        "rank": 76,
+        "rank": 81,
         "isMediaSpoiler": false
       },
       {
@@ -8018,43 +8036,37 @@
       {
         "id": 102,
         "name": "Coming of Age",
-        "rank": 70,
+        "rank": 69,
         "isMediaSpoiler": false
       },
       {
         "id": 139,
         "name": "Love Triangle",
-        "rank": 66,
+        "rank": 65,
         "isMediaSpoiler": true
       },
       {
         "id": 171,
         "name": "Bullying",
-        "rank": 61,
+        "rank": 64,
         "isMediaSpoiler": false
       },
       {
         "id": 324,
         "name": "Chibi",
-        "rank": 58,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 84,
-        "name": "School Club",
-        "rank": 37,
+        "rank": 61,
         "isMediaSpoiler": false
       },
       {
         "id": 1382,
         "name": "Orphan",
-        "rank": 33,
+        "rank": 45,
         "isMediaSpoiler": true
       },
       {
-        "id": 76,
-        "name": "Yuri",
-        "rank": 28,
+        "id": 84,
+        "name": "School Club",
+        "rank": 34,
         "isMediaSpoiler": false
       }
     ],
@@ -8268,7 +8280,7 @@
         }
       ]
     },
-    "updatedAt": 1788670807,
+    "updatedAt": 1790899837,
     "idTmdb": 283428,
     "idImdb": "tt39123061",
     "idTvdb": 459627,
@@ -8887,7 +8899,7 @@
     "title": {
       "romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
       "english": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
-      "native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい"
+      "native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい"
     },
     "type": "ANIME",
     "format": "TV",
@@ -8900,7 +8912,7 @@
     "startDate": {
       "year": 2026,
       "month": 10,
-      "day": null
+      "day": 4
     },
     "endDate": {
       "year": null,
@@ -8908,10 +8920,10 @@
       "day": null
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-IEzaavXvkJAc.png",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186541-IEzaavXvkJAc.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186541-IEzaavXvkJAc.png",
-      "color": "#50a1e4"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186541-caYpLsLmbCh7.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186541-caYpLsLmbCh7.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186541-caYpLsLmbCh7.jpg",
+      "color": "#d6bb78"
     },
     "bannerImage": null,
     "genres": [
@@ -8928,16 +8940,16 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 5834,
-    "trending": 1,
-    "favourites": 87,
+    "popularity": 9178,
+    "trending": 4,
+    "favourites": 118,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
     "trailer": {
-      "id": "tiXRpYimOsQ",
+      "id": "Z9ofT53sz2U",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/tiXRpYimOsQ/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Z9ofT53sz2U/hqdefault.jpg"
     },
     "externalLinks": [
       {
@@ -8957,7 +8969,11 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": null,
+    "nextAiringEpisode": {
+      "airingAt": 1791117000,
+      "timeUntilAiring": 216575,
+      "episode": 1
+    },
     "relations": {
       "edges": [
         {
@@ -9036,6 +9052,12 @@
       {
         "id": 50,
         "name": "Seinen",
+        "rank": 20,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 157,
+        "name": "Guns",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -9142,10 +9164,48 @@
               }
             }
           ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 409271,
+            "name": {
+              "full": "May",
+              "native": "メイ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 114884,
+              "name": {
+                "full": "Saori Oonishi",
+                "native": "大西沙織"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 409272,
+            "name": {
+              "full": "Shoko",
+              "native": "ショーコ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95116,
+              "name": {
+                "full": "Kana Ueda",
+                "native": "植田佳奈"
+              }
+            }
+          ]
         }
       ]
     },
-    "updatedAt": 1788670876,
+    "updatedAt": 1790899837,
     "idTmdb": 283692,
     "idImdb": "tt41298100",
     "idTvdb": 459942,
@@ -9315,8 +9375,8 @@
     ],
     "averageScore": 68,
     "meanScore": 69,
-    "popularity": 10308,
-    "trending": 1,
+    "popularity": 10424,
+    "trending": 0,
     "favourites": 150,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -9340,6 +9400,11 @@
       {
         "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjJXnFpYs7h4bERNq1zV3zZ",
         "site": "YouTube",
+        "type": "STREAMING"
+      },
+      {
+        "url": "https://www.netflix.com/title/82082002",
+        "site": "Netflix",
         "type": "STREAMING"
       }
     ],
@@ -9641,7 +9706,7 @@
         }
       ]
     },
-    "updatedAt": 1788667236,
+    "updatedAt": 1790897406,
     "idTmdb": 283704,
     "idImdb": "tt36131958",
     "idTvdb": 458232,
@@ -9687,9 +9752,9 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 8597,
-    "trending": 0,
-    "favourites": 95,
+    "popularity": 8727,
+    "trending": 2,
+    "favourites": 94,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -9881,7 +9946,7 @@
         }
       ]
     },
-    "updatedAt": 1788670907,
+    "updatedAt": 1790899838,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -11354,8 +11419,8 @@
     ],
     "averageScore": 67,
     "meanScore": 71,
-    "popularity": 2485,
-    "trending": 0,
+    "popularity": 2572,
+    "trending": 1,
     "favourites": 38,
     "isAdult": false,
     "countryOfOrigin": "JP",
@@ -11545,7 +11610,7 @@
         }
       ]
     },
-    "updatedAt": 1788613678,
+    "updatedAt": 1790897367,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -11594,11 +11659,11 @@
     "synonyms": [
       "เจา คนเล็กผจญเงือกใหญ่"
     ],
-    "averageScore": 68,
+    "averageScore": 69,
     "meanScore": 72,
-    "popularity": 3293,
+    "popularity": 3357,
     "trending": 0,
-    "favourites": 19,
+    "favourites": 18,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -11912,7 +11977,7 @@
         }
       ]
     },
-    "updatedAt": 1788584484,
+    "updatedAt": 1790895761,
     "idTmdb": 1419053,
     "idImdb": "tt36592916",
     "idTvdb": null,
@@ -13006,9 +13071,9 @@
     ],
     "averageScore": 75,
     "meanScore": 77,
-    "popularity": 2483,
+    "popularity": 2521,
     "trending": 0,
-    "favourites": 37,
+    "favourites": 38,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "VIDEO_GAME",
@@ -13286,7 +13351,7 @@
         }
       ]
     },
-    "updatedAt": 1788467263,
+    "updatedAt": 1790897406,
     "idTmdb": 1430394,
     "idImdb": "tt35966163",
     "idTvdb": null,
@@ -14991,7 +15056,7 @@
     ],
     "averageScore": 60,
     "meanScore": 64,
-    "popularity": 3824,
+    "popularity": 3854,
     "trending": 0,
     "favourites": 19,
     "isAdult": false,
@@ -15299,7 +15364,7 @@
         }
       ]
     },
-    "updatedAt": 1788670907,
+    "updatedAt": 1790895761,
     "idTmdb": 1418665,
     "idImdb": "tt35487769",
     "idTvdb": null,
@@ -15353,9 +15418,9 @@
     ],
     "averageScore": 75,
     "meanScore": 82,
-    "popularity": 4826,
-    "trending": 1,
-    "favourites": 45,
+    "popularity": 4882,
+    "trending": 0,
+    "favourites": 46,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -15448,14 +15513,20 @@
       {
         "id": 76,
         "name": "Yuri",
-        "rank": 79,
+        "rank": 70,
         "isMediaSpoiler": true
       },
       {
         "id": 483,
         "name": "LGBTQ+ Themes",
-        "rank": 66,
+        "rank": 60,
         "isMediaSpoiler": true
+      },
+      {
+        "id": 89,
+        "name": "Full CGI",
+        "rank": 60,
+        "isMediaSpoiler": false
       },
       {
         "id": 85,
@@ -15466,12 +15537,6 @@
       {
         "id": 102,
         "name": "Coming of Age",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 89,
-        "name": "Full CGI",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -15641,7 +15706,7 @@
         }
       ]
     },
-    "updatedAt": 1788445086,
+    "updatedAt": 1790895761,
     "idTmdb": 1431083,
     "idImdb": "tt38590089",
     "idTvdb": null,
@@ -15694,8 +15759,8 @@
       "Amen I'm Going Somewhere Special Dance Video"
     ],
     "averageScore": 67,
-    "meanScore": 73,
-    "popularity": 743,
+    "meanScore": 72,
+    "popularity": 765,
     "trending": 0,
     "favourites": 4,
     "isAdult": false,
@@ -15822,7 +15887,7 @@
         }
       ]
     },
-    "updatedAt": 1788255365,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

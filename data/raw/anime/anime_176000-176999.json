@@ -201,9 +201,9 @@
     "synonyms": [],
     "averageScore": 61,
     "meanScore": 66,
-    "popularity": 1107,
+    "popularity": 1115,
     "trending": 0,
-    "favourites": 53,
+    "favourites": 51,
     "isAdult": true,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -242,7 +242,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788613678,
+    "updatedAt": 1790899811,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -294,7 +294,7 @@
     ],
     "averageScore": 73,
     "meanScore": 73,
-    "popularity": 73094,
+    "popularity": 74001,
     "trending": 1,
     "favourites": 1641,
     "isAdult": false,
@@ -865,7 +865,7 @@
         }
       ]
     },
-    "updatedAt": 1788670891,
+    "updatedAt": 1790897359,
     "idTmdb": 249882,
     "idImdb": "tt31863730",
     "idTvdb": 447955,
@@ -917,9 +917,9 @@
     ],
     "averageScore": 60,
     "meanScore": 60,
-    "popularity": 40296,
-    "trending": 3,
-    "favourites": 587,
+    "popularity": 40959,
+    "trending": 2,
+    "favourites": 589,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -1451,7 +1451,7 @@
         }
       ]
     },
-    "updatedAt": 1788670852,
+    "updatedAt": 1790899809,
     "idTmdb": 261301,
     "idImdb": "tt32524468",
     "idTvdb": 447573,
@@ -1479,7 +1479,7 @@
     "startDate": {
       "year": 2026,
       "month": 10,
-      "day": null
+      "day": 7
     },
     "endDate": {
       "year": null,
@@ -1487,12 +1487,12 @@
       "day": null
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-ny8mNZ7Vq9tm.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-ny8mNZ7Vq9tm.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176314-ny8mNZ7Vq9tm.jpg",
-      "color": "#e49350"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-lpvca6vjmkeO.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-lpvca6vjmkeO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176314-lpvca6vjmkeO.jpg",
+      "color": "#1a78d6"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176314-nj2hmqbGQ9HJ.jpg",
     "genres": [
       "Comedy",
       "Fantasy",
@@ -1506,16 +1506,16 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 8566,
-    "trending": 1,
-    "favourites": 83,
+    "popularity": 10050,
+    "trending": 4,
+    "favourites": 97,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
     "trailer": {
-      "id": "oR4Luug1NRc",
+      "id": "gY0hpk9E7p8",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/oR4Luug1NRc/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/gY0hpk9E7p8/hqdefault.jpg"
     },
     "externalLinks": [
       {
@@ -1535,7 +1535,11 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": null,
+    "nextAiringEpisode": {
+      "airingAt": 1791381600,
+      "timeUntilAiring": 481168,
+      "episode": 1
+    },
     "relations": {
       "edges": [
         {
@@ -1640,25 +1644,6 @@
         {
           "role": "MAIN",
           "node": {
-            "id": 283233,
-            "name": {
-              "full": "Piercarlo",
-              "native": "ピエルカルロ"
-            }
-          },
-          "voiceActors": [
-            {
-              "id": 101686,
-              "name": {
-                "full": "Aoi Yuuki",
-                "native": "悠木碧"
-              }
-            }
-          ]
-        },
-        {
-          "role": "MAIN",
-          "node": {
             "id": 283234,
             "name": {
               "full": "Sasaki",
@@ -1671,6 +1656,25 @@
               "name": {
                 "full": "Tomokazu Sugita",
                 "native": "杉田智和"
+              }
+            }
+          ]
+        },
+        {
+          "role": "MAIN",
+          "node": {
+            "id": 283233,
+            "name": {
+              "full": "Piercarlo",
+              "native": "ピエルカルロ"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 101686,
+              "name": {
+                "full": "Aoi Yuuki",
+                "native": "悠木碧"
               }
             }
           ]
@@ -1690,82 +1694,6 @@
               "name": {
                 "full": "Akari Kitou",
                 "native": "鬼頭明里"
-              }
-            }
-          ]
-        },
-        {
-          "role": "SUPPORTING",
-          "node": {
-            "id": 288294,
-            "name": {
-              "full": "Müller",
-              "native": "ミュラー"
-            }
-          },
-          "voiceActors": [
-            {
-              "id": 95025,
-              "name": {
-                "full": "Hiroki Yasumoto",
-                "native": "安元洋貴"
-              }
-            }
-          ]
-        },
-        {
-          "role": "SUPPORTING",
-          "node": {
-            "id": 288295,
-            "name": {
-              "full": "Elsa Müller",
-              "native": "エルザ・ミュラー"
-            }
-          },
-          "voiceActors": [
-            {
-              "id": 119518,
-              "name": {
-                "full": "Miyu Tomita",
-                "native": "富田美憂"
-              }
-            }
-          ]
-        },
-        {
-          "role": "SUPPORTING",
-          "node": {
-            "id": 288296,
-            "name": {
-              "full": "Adonis",
-              "native": "アドニス"
-            }
-          },
-          "voiceActors": [
-            {
-              "id": 95086,
-              "name": {
-                "full": "Jun Fukuyama",
-                "native": "福山潤"
-              }
-            }
-          ]
-        },
-        {
-          "role": "SUPPORTING",
-          "node": {
-            "id": 288298,
-            "name": {
-              "full": "French",
-              "native": "フレンチ"
-            }
-          },
-          "voiceActors": [
-            {
-              "id": 95087,
-              "name": {
-                "full": "Daisuke Namikawa",
-                "native": "浪川大輔"
               }
             }
           ]
@@ -1811,6 +1739,25 @@
         {
           "role": "SUPPORTING",
           "node": {
+            "id": 288295,
+            "name": {
+              "full": "Elsa Müller",
+              "native": "エルザ・ミュラー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 119518,
+              "name": {
+                "full": "Miyu Tomita",
+                "native": "富田美憂"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
             "id": 288302,
             "name": {
               "full": "Magical Pink",
@@ -1826,10 +1773,67 @@
               }
             }
           ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 288303,
+            "name": {
+              "full": "Akutsu",
+              "native": "阿久津"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95177,
+              "name": {
+                "full": "Ryoutarou Okiayu",
+                "native": "置鮎龍太郎"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 288294,
+            "name": {
+              "full": "Müller",
+              "native": "ミュラー"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95025,
+              "name": {
+                "full": "Hiroki Yasumoto",
+                "native": "安元洋貴"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 288296,
+            "name": {
+              "full": "Adonis",
+              "native": "アドニス"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 95086,
+              "name": {
+                "full": "Jun Fukuyama",
+                "native": "福山潤"
+              }
+            }
+          ]
         }
       ]
     },
-    "updatedAt": 1788588039,
+    "updatedAt": 1790899810,
     "idTmdb": 206630,
     "idImdb": "tt27524116",
     "idTvdb": 422728,
@@ -2165,7 +2169,7 @@
     "type": "ANIME",
     "format": "TV",
     "status": "FINISHED",
-    "description": "The second season of <i>Solo Leveling</i>.<br><br>\nMastering his new abilities in secret, Jin-U must battle humanity's toughest foes to save his mother.<br><br>\n\n(Source: Crunchyroll News)",
+    "description": "Mastering his new abilities in secret, Jin-U must battle humanity's toughest foes to save his mother.<br><br>\n\n(Source: Crunchyroll News)",
     "episodes": 13,
     "duration": 24,
     "season": "WINTER",
@@ -2202,9 +2206,9 @@
     ],
     "averageScore": 84,
     "meanScore": 84,
-    "popularity": 307336,
-    "trending": 14,
-    "favourites": 14073,
+    "popularity": 312785,
+    "trending": 17,
+    "favourites": 14116,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "OTHER",
@@ -2793,7 +2797,7 @@
         }
       ]
     },
-    "updatedAt": 1788670827,
+    "updatedAt": 1790899811,
     "idTmdb": 127532,
     "idImdb": "tt21209876",
     "idTvdb": 389597,
@@ -2852,9 +2856,9 @@
     ],
     "averageScore": 74,
     "meanScore": 74,
-    "popularity": 51432,
-    "trending": 4,
-    "favourites": 1228,
+    "popularity": 52937,
+    "trending": 7,
+    "favourites": 1241,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -3288,7 +3292,7 @@
         }
       ]
     },
-    "updatedAt": 1788670869,
+    "updatedAt": 1790899809,
     "idTmdb": 139060,
     "idImdb": "tt16156736",
     "idTvdb": 412656,
@@ -3344,9 +3348,9 @@
     ],
     "averageScore": 88,
     "meanScore": 88,
-    "popularity": 202420,
-    "trending": 17,
-    "favourites": 10516,
+    "popularity": 207304,
+    "trending": 47,
+    "favourites": 10785,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -3773,7 +3777,7 @@
       {
         "id": 483,
         "name": "LGBTQ+ Themes",
-        "rank": 40,
+        "rank": 38,
         "isMediaSpoiler": true
       },
       {
@@ -4062,7 +4066,7 @@
         }
       ]
     },
-    "updatedAt": 1788670842,
+    "updatedAt": 1790899810,
     "idTmdb": 220542,
     "idImdb": "tt26743760",
     "idTvdb": 431162,
@@ -4082,7 +4086,7 @@
     "type": "ANIME",
     "format": "TV",
     "status": "FINISHED",
-    "description": "The second season of <i>Shangri-La Frontier</i>.<br><br>\n\nRakuro Hizutome only cares about one thing: beating crappy VR games. He devotes his entire life to these buggy games and could clear them all in his sleep. One day, he decides to challenge himself and play a popular god-tier game called Shangri-La Frontier. But he quickly learns just how difficult it is. Will his expert skills be enough to uncover its hidden secrets?<br><br>\n\n(Source: Crunchyroll)",
+    "description": "Rakuro Hizutome only cares about one thing: beating crappy VR games. He devotes his entire life to these buggy games and could clear them all in his sleep. One day, he decides to challenge himself and play a popular god-tier game called Shangri-La Frontier. But he quickly learns just how difficult it is. Will his expert skills be enough to uncover its hidden secrets?<br><br>\n\n(Source: Crunchyroll)",
     "episodes": 25,
     "duration": 24,
     "season": "FALL",
@@ -4120,9 +4124,9 @@
     ],
     "averageScore": 82,
     "meanScore": 82,
-    "popularity": 112570,
-    "trending": 8,
-    "favourites": 3079,
+    "popularity": 114693,
+    "trending": 6,
+    "favourites": 3114,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -4380,7 +4384,7 @@
             "season": "WINTER",
             "seasonYear": 2027,
             "coverImage": {
-              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189323-IhAaW5hGdGGT.jpg"
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189323-gHXhqIOBUY8F.jpg"
             }
           }
         }
@@ -4454,10 +4458,22 @@
         "isMediaSpoiler": true
       },
       {
+        "id": 282,
+        "name": "Hikikomori",
+        "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 433,
         "name": "Animals",
         "rank": 57,
         "isMediaSpoiler": true
+      },
+      {
+        "id": 1310,
+        "name": "Travel",
+        "rank": 57,
+        "isMediaSpoiler": false
       },
       {
         "id": 201,
@@ -4470,18 +4486,6 @@
         "name": "Superhero",
         "rank": 56,
         "isMediaSpoiler": true
-      },
-      {
-        "id": 282,
-        "name": "Hikikomori",
-        "rank": 53,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 1310,
-        "name": "Travel",
-        "rank": 52,
-        "isMediaSpoiler": false
       },
       {
         "id": 1689,
@@ -4774,7 +4778,7 @@
         }
       ]
     },
-    "updatedAt": 1788670829,
+    "updatedAt": 1790899811,
     "idTmdb": 205050,
     "idImdb": "tt28776190",
     "idTvdb": 421855,
@@ -4831,9 +4835,9 @@
     ],
     "averageScore": 56,
     "meanScore": 56,
-    "popularity": 34241,
-    "trending": 2,
-    "favourites": 541,
+    "popularity": 34712,
+    "trending": 1,
+    "favourites": 539,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -5330,7 +5334,7 @@
         }
       ]
     },
-    "updatedAt": 1788615559,
+    "updatedAt": 1790899809,
     "idTmdb": 249545,
     "idImdb": "tt32856718",
     "idTvdb": 447749,
@@ -5614,9 +5618,9 @@
     ],
     "averageScore": 69,
     "meanScore": 69,
-    "popularity": 41002,
-    "trending": 1,
-    "favourites": 543,
+    "popularity": 41388,
+    "trending": 0,
+    "favourites": 540,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "OTHER",
@@ -6069,7 +6073,7 @@
         }
       ]
     },
-    "updatedAt": 1788670852,
+    "updatedAt": 1790899811,
     "idTmdb": 250994,
     "idImdb": "tt33384314",
     "idTvdb": 448477,
@@ -6089,7 +6093,7 @@
     "type": "ANIME",
     "format": "TV",
     "status": "FINISHED",
-    "description": "The second season of <i>Kekkon Yubiwa Monogatari.</i> <br><br>\n\nSato and his party are back, but will they finally manage to defeat the Abyss King and gain peace?\n\n<br><br>(Source: Crunchyroll News)",
+    "description": "Sato and his party are back, but will they finally manage to defeat the Abyss King and gain peace?\n\n<br><br>(Source: Crunchyroll News)",
     "episodes": 13,
     "duration": 24,
     "season": "FALL",
@@ -6125,9 +6129,9 @@
     ],
     "averageScore": 64,
     "meanScore": 64,
-    "popularity": 21242,
-    "trending": 2,
-    "favourites": 303,
+    "popularity": 21632,
+    "trending": 0,
+    "favourites": 304,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -6576,7 +6580,7 @@
         }
       ]
     },
-    "updatedAt": 1788649258,
+    "updatedAt": 1790895761,
     "idTmdb": 218493,
     "idImdb": "tt30488398",
     "idTvdb": 429825,
@@ -6628,9 +6632,9 @@
     ],
     "averageScore": 75,
     "meanScore": 75,
-    "popularity": 15805,
-    "trending": 3,
-    "favourites": 231,
+    "popularity": 16289,
+    "trending": 2,
+    "favourites": 229,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -7003,7 +7007,7 @@
         }
       ]
     },
-    "updatedAt": 1788670842,
+    "updatedAt": 1790899811,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -7959,9 +7963,9 @@
     ],
     "averageScore": 76,
     "meanScore": 76,
-    "popularity": 27041,
-    "trending": 2,
-    "favourites": 653,
+    "popularity": 27331,
+    "trending": 1,
+    "favourites": 660,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -8458,7 +8462,7 @@
         }
       ]
     },
-    "updatedAt": 1788670828,
+    "updatedAt": 1790897388,
     "idTmdb": 249854,
     "idImdb": "tt35436997",
     "idTvdb": 447925,
@@ -8508,9 +8512,9 @@
     "synonyms": [],
     "averageScore": 70,
     "meanScore": 71,
-    "popularity": 18229,
-    "trending": 0,
-    "favourites": 289,
+    "popularity": 18468,
+    "trending": 2,
+    "favourites": 293,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -8951,7 +8955,7 @@
         }
       ]
     },
-    "updatedAt": 1788667307,
+    "updatedAt": 1790897367,
     "idTmdb": 220286,
     "idImdb": "tt26713948",
     "idTvdb": 431014,
@@ -9001,9 +9005,9 @@
     "synonyms": [],
     "averageScore": 62,
     "meanScore": 62,
-    "popularity": 38138,
+    "popularity": 38715,
     "trending": 2,
-    "favourites": 548,
+    "favourites": 546,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -9497,7 +9501,7 @@
         }
       ]
     },
-    "updatedAt": 1788649298,
+    "updatedAt": 1790899809,
     "idTmdb": 259786,
     "idImdb": "tt32832435",
     "idTvdb": 447609,
@@ -9548,7 +9552,7 @@
     ],
     "averageScore": 73,
     "meanScore": 75,
-    "popularity": 2662,
+    "popularity": 2717,
     "trending": 0,
     "favourites": 37,
     "isAdult": false,
@@ -9843,7 +9847,7 @@
         }
       ]
     },
-    "updatedAt": 1788649340,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -10038,9 +10042,9 @@
     ],
     "averageScore": 62,
     "meanScore": 65,
-    "popularity": 1274,
-    "trending": 1,
-    "favourites": 42,
+    "popularity": 1297,
+    "trending": 0,
+    "favourites": 43,
     "isAdult": true,
     "countryOfOrigin": "JP",
     "source": "OTHER",
@@ -10091,7 +10095,7 @@
     "characters": {
       "edges": []
     },
-    "updatedAt": 1788467231,
+    "updatedAt": 1790899810,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -10146,9 +10150,9 @@
     ],
     "averageScore": 65,
     "meanScore": 65,
-    "popularity": 15521,
-    "trending": 1,
-    "favourites": 185,
+    "popularity": 15719,
+    "trending": 0,
+    "favourites": 183,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": null,
@@ -10506,7 +10510,7 @@
         }
       ]
     },
-    "updatedAt": 1788670853,
+    "updatedAt": 1790899809,
     "idTmdb": 1263421,
     "idImdb": "tt31869664",
     "idTvdb": null,
@@ -10558,9 +10562,9 @@
     ],
     "averageScore": 74,
     "meanScore": 74,
-    "popularity": 17749,
-    "trending": 2,
-    "favourites": 270,
+    "popularity": 18081,
+    "trending": 1,
+    "favourites": 273,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -10979,7 +10983,7 @@
         }
       ]
     },
-    "updatedAt": 1788606046,
+    "updatedAt": 1790899809,
     "idTmdb": 218843,
     "idImdb": "tt20228550",
     "idTvdb": 420018,
@@ -11617,9 +11621,9 @@
     ],
     "averageScore": 79,
     "meanScore": 79,
-    "popularity": 9839,
+    "popularity": 10119,
     "trending": 1,
-    "favourites": 177,
+    "favourites": 184,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "VIDEO_GAME",
@@ -11714,7 +11718,7 @@
       {
         "id": 536,
         "name": "Dissociative Identities",
-        "rank": 60,
+        "rank": 66,
         "isMediaSpoiler": true
       },
       {
@@ -11935,7 +11939,7 @@
         }
       ]
     },
-    "updatedAt": 1788653350,
+    "updatedAt": 1790895702,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -11988,9 +11992,9 @@
     ],
     "averageScore": 76,
     "meanScore": 77,
-    "popularity": 13065,
-    "trending": 1,
-    "favourites": 254,
+    "popularity": 13272,
+    "trending": 0,
+    "favourites": 256,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -12412,7 +12416,7 @@
         }
       ]
     },
-    "updatedAt": 1788649318,
+    "updatedAt": 1790899810,
     "idTmdb": 229443,
     "idImdb": "tt30643998",
     "idTvdb": 436603,
@@ -12788,9 +12792,9 @@
     ],
     "averageScore": 67,
     "meanScore": 67,
-    "popularity": 17344,
+    "popularity": 17531,
     "trending": 0,
-    "favourites": 259,
+    "favourites": 260,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -13254,7 +13258,7 @@
         }
       ]
     },
-    "updatedAt": 1788649340,
+    "updatedAt": 1790895761,
     "idTmdb": 256109,
     "idImdb": "tt32514593",
     "idTvdb": 448537,
@@ -13765,9 +13769,9 @@
     "synonyms": [],
     "averageScore": 76,
     "meanScore": 81,
-    "popularity": 964,
+    "popularity": 972,
     "trending": 0,
-    "favourites": 32,
+    "favourites": 31,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -13878,7 +13882,7 @@
         }
       ]
     },
-    "updatedAt": 1788428719,
+    "updatedAt": 1790899811,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,

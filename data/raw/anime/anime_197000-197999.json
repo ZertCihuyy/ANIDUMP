@@ -26,10 +26,10 @@
       "day": null
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197095-qBAQhGwXWu4q.jpg",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197095-qBAQhGwXWu4q.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197095-qBAQhGwXWu4q.jpg",
-      "color": "#50bbe4"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197095-NultpVkKUJWz.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197095-NultpVkKUJWz.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197095-NultpVkKUJWz.jpg",
+      "color": null
     },
     "bannerImage": null,
     "genres": [
@@ -45,9 +45,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 1546,
-    "trending": 0,
-    "favourites": 8,
+    "popularity": 2164,
+    "trending": 1,
+    "favourites": 15,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -174,7 +174,7 @@
         }
       ]
     },
-    "updatedAt": 1788653379,
+    "updatedAt": 1790895731,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -194,7 +194,7 @@
     "type": "ANIME",
     "format": "SPECIAL",
     "status": "FINISHED",
-    "description": "Based on the novel series <i>ONE PIECE novel HEROINES</i>, one chapter, “episode : NAMI” is getting an anime adaptation. \n<br><br>\nAfter buying a pair of shoes that end up hurting her feet, Nami returns to the shop feeling dissatisfied.\nThere, she meets Lebno, the designer, who tells her, “I’ll make you a brand-new pair from scratch—but only if you’ll be my model.”\nThe shoes are crafted by the artisan Miucha, leading to an unexpected and stylish encounter.\n<br><br>\n(Source: Toei Animation)",
+    "description": "After buying a pair of shoes that end up hurting her feet, Nami returns to the shop feeling dissatisfied.\nThere, she meets Lebno, the designer, who tells her, “I’ll make you a brand-new pair from scratch—but only if you’ll be my model.”\nThe shoes are crafted by the artisan Miucha, leading to an unexpected and stylish encounter.\n<br><br>\n(Source: Toei Animation)\n<br><br>\n<i>Note: Adaptation of the \"episode : NAMI\" chapter from the \"ONE PIECE novel HEROINES\" light novel.</i>",
     "episodes": 1,
     "duration": 23,
     "season": "SUMMER",
@@ -227,9 +227,9 @@
     ],
     "averageScore": 77,
     "meanScore": 78,
-    "popularity": 15444,
+    "popularity": 15986,
     "trending": 0,
-    "favourites": 216,
+    "favourites": 234,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -321,31 +321,31 @@
       {
         "id": 98,
         "name": "Female Protagonist",
-        "rank": 91,
+        "rank": 92,
         "isMediaSpoiler": false
       },
       {
         "id": 201,
         "name": "Pirates",
-        "rank": 80,
+        "rank": 82,
         "isMediaSpoiler": false
       },
       {
         "id": 410,
         "name": "Fashion",
-        "rank": 80,
+        "rank": 81,
         "isMediaSpoiler": false
       },
       {
         "id": 648,
         "name": "Crime",
-        "rank": 64,
+        "rank": 70,
         "isMediaSpoiler": false
       },
       {
         "id": 109,
         "name": "Primarily Adult Cast",
-        "rank": 53,
+        "rank": 65,
         "isMediaSpoiler": false
       }
     ],
@@ -516,7 +516,7 @@
         }
       ]
     },
-    "updatedAt": 1788670907,
+    "updatedAt": 1790899855,
     "idTmdb": 1659389,
     "idImdb": null,
     "idTvdb": null,
@@ -569,9 +569,9 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 2684,
-    "trending": 1,
-    "favourites": 18,
+    "popularity": 3236,
+    "trending": 0,
+    "favourites": 20,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "OTHER",
@@ -603,7 +603,11 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": null,
+    "nextAiringEpisode": {
+      "airingAt": 1792076400,
+      "timeUntilAiring": 1175812,
+      "episode": 1
+    },
     "relations": {
       "edges": [
         {
@@ -633,21 +637,21 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 98,
+        "name": "Female Protagonist",
+        "rank": 100,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 86,
         "name": "Primarily Female Cast",
         "rank": 100,
         "isMediaSpoiler": false
       },
       {
-        "id": 98,
-        "name": "Female Protagonist",
-        "rank": 86,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 1674,
         "name": "Rock Music",
-        "rank": 79,
+        "rank": 95,
         "isMediaSpoiler": false
       },
       {
@@ -657,21 +661,15 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 76,
-        "name": "Yuri",
-        "rank": 70,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 483,
-        "name": "LGBTQ+ Themes",
-        "rank": 70,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 1675,
         "name": "Metal Music",
-        "rank": 66,
+        "rank": 75,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 76,
+        "name": "Yuri",
+        "rank": 73,
         "isMediaSpoiler": false
       }
     ],
@@ -820,7 +818,7 @@
         }
       ]
     },
-    "updatedAt": 1788615574,
+    "updatedAt": 1790897406,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
@@ -841,13 +839,13 @@
     "format": "TV",
     "status": "NOT_YET_RELEASED",
     "description": "The time is Sengoku.<br>\n<br>\nJapan is fractured into many independent nations entangled in ceaseless war. At the center lies Ashina, a land of sacred earth and ancient mystery. Two decades after Sword Saint Isshin Ashina reclaimed the region in a brutal coup, a new threat emerges from within: The Interior Ministry. Desperate to protect his homeland, Isshin's grandson Genichiro turns to forbidden powers. The only hope lies in a kidnapped boy — the Divine Heir — and his silent protector: a loyal shinobi known only as Sekiro.<br>\n<br>\nThis is the story of a lord and his retainer — and their quest to restore balance to a nation on the edge.<br>\n<br>\n(Source: Crunchyroll)",
-    "episodes": null,
+    "episodes": 8,
     "duration": null,
-    "season": null,
-    "seasonYear": null,
+    "season": "WINTER",
+    "seasonYear": 2027,
     "startDate": {
-      "year": 2026,
-      "month": null,
+      "year": 2027,
+      "month": 1,
       "day": null
     },
     "endDate": {
@@ -856,10 +854,10 @@
       "day": null
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197620-L0qFQZzbmj5z.png",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197620-L0qFQZzbmj5z.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197620-L0qFQZzbmj5z.png",
-      "color": "#d6431a"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197620-COEsbB1otIdR.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197620-COEsbB1otIdR.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197620-COEsbB1otIdR.png",
+      "color": "#e42893"
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197620-G1ENu89amdst.jpg",
     "genres": [
@@ -871,9 +869,9 @@
     "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 15491,
-    "trending": 1,
-    "favourites": 133,
+    "popularity": 16896,
+    "trending": 10,
+    "favourites": 145,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "VIDEO_GAME",
@@ -926,43 +924,37 @@
       {
         "id": 43,
         "name": "Swordplay",
-        "rank": 95,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 291,
-        "name": "Samurai",
-        "rank": 88,
+        "rank": 96,
         "isMediaSpoiler": false
       },
       {
         "id": 255,
         "name": "Ninja",
-        "rank": 79,
+        "rank": 90,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 291,
+        "name": "Samurai",
+        "rank": 86,
         "isMediaSpoiler": false
       },
       {
         "id": 111,
         "name": "War",
-        "rank": 79,
+        "rank": 85,
         "isMediaSpoiler": false
       },
       {
         "id": 25,
         "name": "Historical",
-        "rank": 79,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 233,
-        "name": "Youkai",
-        "rank": 60,
+        "rank": 73,
         "isMediaSpoiler": false
       },
       {
         "id": 82,
         "name": "Male Protagonist",
-        "rank": 60,
+        "rank": 66,
         "isMediaSpoiler": false
       },
       {
@@ -975,6 +967,12 @@
         "id": 109,
         "name": "Primarily Adult Cast",
         "rank": 60,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 233,
+        "name": "Youkai",
+        "rank": 55,
         "isMediaSpoiler": false
       },
       {
@@ -1154,10 +1152,29 @@
               }
             }
           ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 409056,
+            "name": {
+              "full": "Ochi no Miko",
+              "native": "変若の御子"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 107282,
+              "name": {
+                "full": "Risa Shimizu",
+                "native": "清水理沙"
+              }
+            }
+          ]
         }
       ]
     },
-    "updatedAt": 1788649281,
+    "updatedAt": 1790897290,
     "idTmdb": 298754,
     "idImdb": "tt37968925",
     "idTvdb": 466791,
@@ -1176,7 +1193,7 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "Wishing she would live up to the ideal, Kanzaki Nao's father named her thusly for “honesty”. Nao has more than lived up to her father's wishes--even exceeding them and earning the label of \"a foolishly honest girl\". This makes Nao the least qualified candidate for the high stakes 'Liar Game', where winning requires deceiving the opponent out of their money and losing means receiving massive debt. However, that doesn't stop a box containing a hundred million yen in cash and a card informing her of her participation in the game from arriving at her doorstep, nor does it stop her from being promptly tricked out of the entire sum of money. Upon hearing that a genius swindler, responsible for the bankruptcy of a major corporation, is being released from jail, Nao goes to the swindler, Shinichi Akiyama, to enlist his help. With that, the two are drawn into the dark, greed-filled, and deceptive world of the Liar Game.",
     "episodes": 26,
     "duration": 24,
@@ -1207,11 +1224,11 @@
       " ライアーゲーム",
       "Игра лжецов"
     ],
-    "averageScore": 62,
-    "meanScore": 62,
-    "popularity": 42189,
-    "trending": 15,
-    "favourites": 486,
+    "averageScore": 64,
+    "meanScore": 65,
+    "popularity": 44095,
+    "trending": 29,
+    "favourites": 544,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -1248,11 +1265,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1788793200,
-      "timeUntilAiring": 121158,
-      "episode": 23
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -1271,6 +1284,23 @@
               "medium": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/small/bx31649-zKUMKIrXO8u5.jpg"
             }
           }
+        },
+        {
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 217460,
+            "title": {
+              "romaji": "LIAR GAME 2nd Season",
+              "english": null
+            },
+            "type": "ANIME",
+            "status": "NOT_YET_RELEASED",
+            "season": null,
+            "seasonYear": null,
+            "coverImage": {
+              "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx217460-gM4hkk1jV5ER.jpg"
+            }
+          }
         }
       ]
     },
@@ -1284,13 +1314,7 @@
       {
         "id": 98,
         "name": "Female Protagonist",
-        "rank": 85,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 82,
-        "name": "Male Protagonist",
-        "rank": 80,
+        "rank": 84,
         "isMediaSpoiler": false
       },
       {
@@ -1300,51 +1324,57 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 72,
+        "isMediaSpoiler": false
+      },
+      {
         "id": 50,
         "name": "Seinen",
-        "rank": 72,
+        "rank": 70,
         "isMediaSpoiler": false
       },
       {
         "id": 102,
         "name": "Coming of Age",
-        "rank": 64,
+        "rank": 66,
         "isMediaSpoiler": false
       },
       {
         "id": 456,
         "name": "Conspiracy",
-        "rank": 60,
+        "rank": 65,
         "isMediaSpoiler": false
       },
       {
         "id": 105,
         "name": "Ensemble Cast",
-        "rank": 56,
+        "rank": 60,
         "isMediaSpoiler": false
       },
       {
         "id": 1165,
         "name": "Transgender",
-        "rank": 55,
+        "rank": 56,
         "isMediaSpoiler": true
       },
       {
         "id": 615,
         "name": "Death Game",
-        "rank": 54,
+        "rank": 55,
         "isMediaSpoiler": false
       },
       {
         "id": 171,
         "name": "Bullying",
-        "rank": 35,
+        "rank": 43,
         "isMediaSpoiler": true
       },
       {
         "id": 586,
         "name": "Cult",
-        "rank": 33,
+        "rank": 30,
         "isMediaSpoiler": true
       }
     ],
@@ -1407,7 +1437,7 @@
           ]
         },
         {
-          "role": "SUPPORTING",
+          "role": "MAIN",
           "node": {
             "id": 16877,
             "name": {
@@ -1560,7 +1590,7 @@
         }
       ]
     },
-    "updatedAt": 1788670835,
+    "updatedAt": 1790899855,
     "idTmdb": 300126,
     "idImdb": "tt39229633",
     "idTvdb": 467209,
@@ -1579,7 +1609,7 @@
     },
     "type": "ANIME",
     "format": "ONA",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "In Earthclear, everyone is born into a fixed role, and villagers are the weakest of all. Most never rise above Level 5—except Kouji Kagami, who is Level…999?! On a monster hunt, he meets Alice, the Demon King’s daughter, and discovers they share an impossible dream: coexistence between humans and demons. In a world destined for conflict, they charge into battle to defy fate and shatter the rules.\n<br><br>\n(Source: Crunchyroll)",
     "episodes": 12,
     "duration": 24,
@@ -1591,9 +1621,9 @@
       "day": 2
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 9,
+      "day": 10
     },
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197715-KLFLxU24U1uL.png",
@@ -1609,11 +1639,11 @@
       "Fantasy"
     ],
     "synonyms": [],
-    "averageScore": 60,
+    "averageScore": 61,
     "meanScore": 61,
-    "popularity": 36244,
-    "trending": 21,
-    "favourites": 473,
+    "popularity": 39194,
+    "trending": 10,
+    "favourites": 545,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -1640,11 +1670,7 @@
       }
     ],
     "streamingEpisodes": [],
-    "nextAiringEpisode": {
-      "airingAt": 1788966000,
-      "timeUntilAiring": 293915,
-      "episode": 12
-    },
+    "nextAiringEpisode": null,
     "relations": {
       "edges": [
         {
@@ -1687,6 +1713,12 @@
       {
         "id": 29,
         "name": "Magic",
+        "rank": 83,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 15,
+        "name": "Demons",
         "rank": 80,
         "isMediaSpoiler": false
       },
@@ -1703,15 +1735,9 @@
         "isMediaSpoiler": true
       },
       {
-        "id": 15,
-        "name": "Demons",
-        "rank": 73,
-        "isMediaSpoiler": false
-      },
-      {
         "id": 39,
         "name": "Parody",
-        "rank": 71,
+        "rank": 75,
         "isMediaSpoiler": false
       },
       {
@@ -1739,9 +1765,21 @@
         "isMediaSpoiler": false
       },
       {
+        "id": 144,
+        "name": "Meta",
+        "rank": 50,
+        "isMediaSpoiler": true
+      },
+      {
+        "id": 391,
+        "name": "Philosophy",
+        "rank": 50,
+        "isMediaSpoiler": true
+      },
+      {
         "id": 43,
         "name": "Swordplay",
-        "rank": 40,
+        "rank": 46,
         "isMediaSpoiler": false
       },
       {
@@ -1757,22 +1795,16 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 144,
-        "name": "Meta",
-        "rank": 20,
-        "isMediaSpoiler": true
-      },
-      {
-        "id": 391,
-        "name": "Philosophy",
-        "rank": 20,
-        "isMediaSpoiler": true
-      },
-      {
         "id": 143,
         "name": "Survival",
         "rank": 20,
         "isMediaSpoiler": false
+      },
+      {
+        "id": 153,
+        "name": "Time Skip",
+        "rank": 20,
+        "isMediaSpoiler": true
       }
     ],
     "studios": {
@@ -2029,7 +2061,7 @@
         }
       ]
     },
-    "updatedAt": 1788670812,
+    "updatedAt": 1790897298,
     "idTmdb": 298994,
     "idImdb": "tt38262097",
     "idTvdb": 467127,
@@ -2078,9 +2110,9 @@
     "synonyms": [],
     "averageScore": 73,
     "meanScore": 73,
-    "popularity": 51499,
-    "trending": 6,
-    "favourites": 1140,
+    "popularity": 52790,
+    "trending": 4,
+    "favourites": 1154,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -2562,7 +2594,7 @@
         }
       ]
     },
-    "updatedAt": 1788670846,
+    "updatedAt": 1790897390,
     "idTmdb": 196285,
     "idImdb": "tt19223420",
     "idTvdb": 418367,
@@ -3047,9 +3079,9 @@
     ],
     "averageScore": 67,
     "meanScore": 68,
-    "popularity": 11633,
-    "trending": 0,
-    "favourites": 171,
+    "popularity": 11829,
+    "trending": 1,
+    "favourites": 173,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -3422,7 +3454,7 @@
         }
       ]
     },
-    "updatedAt": 1788653380,
+    "updatedAt": 1790899855,
     "idTmdb": 299134,
     "idImdb": "tt38040630",
     "idTvdb": 467292,
@@ -3436,7 +3468,7 @@
     "idMal": 62311,
     "title": {
       "romaji": "Kekkaishi no Ichirinka",
-      "english": null,
+      "english": "Bride of the Barrier Master",
       "native": "結界師の一輪華"
     },
     "type": "ANIME",
@@ -3458,10 +3490,10 @@
       "day": null
     },
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197619-O2aYsJGAy6a6.png",
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197619-O2aYsJGAy6a6.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197619-O2aYsJGAy6a6.png",
-      "color": "#f1865d"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197619-dxMkg18OwS7r.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197619-dxMkg18OwS7r.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197619-dxMkg18OwS7r.png",
+      "color": null
     },
     "bannerImage": null,
     "genres": [
@@ -3469,21 +3501,19 @@
       "Fantasy",
       "Romance"
     ],
-    "synonyms": [
-      "Bride of the Barrier Master"
-    ],
+    "synonyms": [],
     "averageScore": null,
     "meanScore": null,
-    "popularity": 3088,
-    "trending": 2,
-    "favourites": 23,
+    "popularity": 4431,
+    "trending": 1,
+    "favourites": 33,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "OTHER",
     "trailer": {
-      "id": "UddBplRM1cY",
+      "id": "QCC-PqpQCCo",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/UddBplRM1cY/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/QCC-PqpQCCo/hqdefault.jpg"
     },
     "externalLinks": [
       {
@@ -3495,6 +3525,11 @@
         "url": "https://kekkaishi-ichirinka-anime.com/",
         "site": "Official Site",
         "type": "INFO"
+      },
+      {
+        "url": "https://www.netflix.com/title/82036677",
+        "site": "Netflix",
+        "type": "STREAMING"
       }
     ],
     "streamingEpisodes": [],
@@ -3597,10 +3632,105 @@
               }
             }
           ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 372987,
+            "name": {
+              "full": "Hazuki Ichise",
+              "native": "一瀬葉月"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 132283,
+              "name": {
+                "full": "Kanon Takao",
+                "native": "高尾奏音"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 409266,
+            "name": {
+              "full": "Nozomu Ichinomiya",
+              "native": "一ノ宮望"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 374889,
+              "name": {
+                "full": "Hiroto Shimizu",
+                "native": "清水大登"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 409267,
+            "name": {
+              "full": "Miyabi",
+              "native": "雅"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 118510,
+              "name": {
+                "full": "Mao Ichimichi",
+                "native": "市道真央"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 409268,
+            "name": {
+              "full": "Aoi",
+              "native": "葵"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 335875,
+              "name": {
+                "full": "Taihi Kimura",
+                "native": "木村太飛"
+              }
+            }
+          ]
+        },
+        {
+          "role": "SUPPORTING",
+          "node": {
+            "id": 409269,
+            "name": {
+              "full": "Azuha",
+              "native": "あずは"
+            }
+          },
+          "voiceActors": [
+            {
+              "id": 409270,
+              "name": {
+                "full": "Yuzuki Tamukai",
+                "native": "田向結月"
+              }
+            }
+          ]
         }
       ]
     },
-    "updatedAt": 1788653380,
+    "updatedAt": 1790899855,
     "idTmdb": 298802,
     "idImdb": null,
     "idTvdb": null,
@@ -3652,10 +3782,10 @@
       "Gintama Movie 3: Yoshiwara in Flames"
     ],
     "averageScore": 87,
-    "meanScore": 90,
-    "popularity": 5845,
-    "trending": 1,
-    "favourites": 142,
+    "meanScore": 89,
+    "popularity": 6517,
+    "trending": 0,
+    "favourites": 164,
     "isAdult": false,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -3733,14 +3863,20 @@
     },
     "tags": [
       {
-        "id": 1277,
-        "name": "Found Family",
-        "rank": 79,
+        "id": 593,
+        "name": "Oiran",
+        "rank": 95,
         "isMediaSpoiler": false
       },
       {
-        "id": 593,
-        "name": "Oiran",
+        "id": 291,
+        "name": "Samurai",
+        "rank": 82,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1277,
+        "name": "Found Family",
         "rank": 79,
         "isMediaSpoiler": false
       },
@@ -3751,21 +3887,33 @@
         "isMediaSpoiler": true
       },
       {
-        "id": 291,
-        "name": "Samurai",
+        "id": 144,
+        "name": "Meta",
         "rank": 70,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 43,
+        "name": "Swordplay",
+        "rank": 66,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 82,
+        "name": "Male Protagonist",
+        "rank": 66,
         "isMediaSpoiler": false
       },
       {
         "id": 56,
         "name": "Shounen",
-        "rank": 66,
+        "rank": 65,
         "isMediaSpoiler": false
       },
       {
         "id": 94,
         "name": "Gore",
-        "rank": 64,
+        "rank": 63,
         "isMediaSpoiler": false
       },
       {
@@ -3775,26 +3923,26 @@
         "isMediaSpoiler": false
       },
       {
-        "id": 43,
-        "name": "Swordplay",
-        "rank": 60,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 82,
-        "name": "Male Protagonist",
-        "rank": 60,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 144,
-        "name": "Meta",
+        "id": 25,
+        "name": "Historical",
         "rank": 60,
         "isMediaSpoiler": false
       },
       {
         "id": 191,
         "name": "Aliens",
+        "rank": 53,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1382,
+        "name": "Orphan",
+        "rank": 50,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 186,
+        "name": "Crossdressing",
         "rank": 50,
         "isMediaSpoiler": false
       },
@@ -3807,6 +3955,12 @@
       {
         "id": 90,
         "name": "CGI",
+        "rank": 40,
+        "isMediaSpoiler": false
+      },
+      {
+        "id": 1379,
+        "name": "Homeless",
         "rank": 40,
         "isMediaSpoiler": false
       },
@@ -3825,18 +3979,6 @@
       {
         "id": 489,
         "name": "Drugs",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 1379,
-        "name": "Homeless",
-        "rank": 20,
-        "isMediaSpoiler": false
-      },
-      {
-        "id": 1382,
-        "name": "Orphan",
         "rank": 20,
         "isMediaSpoiler": false
       }
@@ -4053,7 +4195,7 @@
         }
       ]
     },
-    "updatedAt": 1788653379,
+    "updatedAt": 1790895761,
     "idTmdb": 1530941,
     "idImdb": "tt37931873",
     "idTvdb": null,
@@ -5696,7 +5838,7 @@
     ],
     "averageScore": null,
     "meanScore": 52,
-    "popularity": 72,
+    "popularity": 74,
     "trending": 0,
     "favourites": 0,
     "isAdult": false,
@@ -5868,7 +6010,7 @@
         }
       ]
     },
-    "updatedAt": 1787476799,
+    "updatedAt": 1790895761,
     "idTmdb": null,
     "idImdb": null,
     "idTvdb": null,
